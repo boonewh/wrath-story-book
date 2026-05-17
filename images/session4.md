@@ -1,0 +1,42 @@
+Image Generation Prompt: "The Smith Made of Light"
+
+The chapter's biggest beat — the moment Korroc's Life Oracle gift answers for the first time, his body becoming a being of pure life-energy as Caleth lies bleeding-out at his feet on the floor of the ruined Blackwing Library.
+
+📜 Main Prompt
+
+A cinematic dark fantasy combat scene set in the ruined western wing of an ancient library — the only portion of the once-grand building still standing. Tall pale-stone pillars rise toward a ceiling half fallen-in, opening to a wrong-colored sky above where scorched clouds drift over the broken roof. Toppled bookshelves lie scattered across cracked flagstones. Stacks of leather-bound books have been arranged into pyre-like heaps around four bound figures — librarians in dusty scholar's robes, partially loose from their ropes now, watching the foreground in stunned silence. Drifts of book-ash and torn manuscript pages hang in the air, catching the light.
+
+In the center of the composition, a stout dwarven paladin kneels over the body of a fallen half-elf. The dwarf has transformed — his body is no longer flesh but a being of pure golden-white fire, the silhouette of his iron-banded braided beard and dented full-plate armor still visible within the blaze, his heavy enameled hammer-and-anvil shield of Torag ghosted at his back. Flames the color of a forge at its cleanest pour off his arms and shoulders in slow drifting tendrils. Both of his burning hands are pressed flat to the chest of the unconscious half-elf, and life is visibly flowing — golden-white ribbons of light moving from the dwarf's fire-form into the half-elf's body, where the bleeding wounds at the shoulder are visibly knitting closed. His warhammer lies on the flagstones beside his knee, still solid steel.
+
+The fallen half-elf lies on his back on the bloody flagstones: long dark hair tied back, pointed ears, fine half-elven features, green eyes still closed but flickering as breath returns. He wears **simple sturdy traveling clothes beneath a crusader's tabard** (no armor, no displayed holy symbols). A polished glaive of pale wood with a silver leaf-blade has fallen on the stones beside him, a small spellbook at his hip. His mouth is just beginning to open as life flows back into him. A cracked rib at his side is visibly mending under the golden-white wash.
+
+Standing over both of them, mid-swing, looms a tall human knight in soot-streaked plate armor, beard streaked with grey, his face contorted in something between rage and dawning fear. He grips a heavy mace in both hands and brings it down toward the kneeling fire-form of the dwarf in a brutal overhead arc. The mace's head is mid-descent — frozen in the instant before impact. His expression registers shock at the impossible thing he is striking at: a smith made of forge-light kneeling over the man he had just put down.
+
+Behind the central tableau, in the middle distance, a second stout dwarf in a worn chain shirt over leather — twin daggers in his hands, a shorter unornamented beard, sharp watchful eyes, weathered face — is locked mid-pivot against the second of two slim tiefling cultists (red-tinged skin, small horns, dark leather armor, curved blades). The first tiefling is already crumpled at his feet. His right-hand dagger — his mother's blade, leading — is just finding the meat under the second tiefling's ribs; his left dagger is reversed in his off-hand for parries.
+
+Further back, framed in the broken archway that was the library's western door, a human woman with a tough-featured face leans on a cave-pine crutch with a shortbow drawn, an arrow nocked, her face pale and watchful, her splinted leg held off the ground. Behind her, an older bandaged elf scholar — half-blind, his face wrapped in linen, his good eye wide — stands with one hand braced on the broken stone of a fallen griffin statue. His attention is not on the fight but on a white-bearded older librarian among the bound, the two old men's gazes locked in a moment of quiet mutual recognition that no one else in the scene yet understands.
+
+Atmosphere: holy fury meeting cultist cruelty, with an impossible mythic transformation at its center. Dramatic chiaroscuro lighting dominated by the golden-white blaze of Korroc's fire-form, casting long warm light across the bodies of the fallen tiefling, the parchment of scattered books, and the upturned faces of the bound librarians. Cooler natural light spills from the broken ceiling above. Volumetric dust and book-ash hanging in the air, catching the fire-light. Blood pooled at Caleth's shoulder contrasts with the warmth pouring into him from above. Faint Abyssal-tinged red smoke from braziers the cultists set at the back of the hall. Burned pages drifting on disturbed air currents.
+
+Painterly cinematic quality, reminiscent of Donato Giancola meets Magali Villeneuve meets Frank Frazetta. Rich color palette of golden-white celestial fire, deep oxidized greens of the patinated copper roof-fragments, parchment-yellows of fallen book-pages, blood crimson, and the cooler pale stone of the ruined library. Highly detailed, atmospheric, professional fantasy book cover quality. Composition framed like a key climactic page from an illustrated mythic-fantasy novel — the impossible moment captured at peak narrative weight. 8k resolution.
+
+🎚️ Style Tags
+
+For Midjourney:
+--ar 16:9 --style raw --stylize 750 --v 6.1
+
+For DALL-E 3 / ChatGPT, paste the prompt as written — it handles long descriptive prompts well.
+
+For Stable Diffusion / Leonardo, add a negative prompt:
+
+Negative prompt: cartoon, anime, low quality, blurry, deformed hands, extra limbs, modern clothing, generic fantasy, plastic textures, cheerful lighting, displayed religious sigils on the half-elf
+
+🎯 Variations to Try
+
+**Portrait-orientation tighter focus — Korroc and Caleth only:** Crop to a vertical 9:16 composition centered on the kneeling fire-form dwarf and the unconscious half-elf at his knees. Drop the knight to a looming silhouette in the upper third of the frame. Drop Thane and the tieflings entirely. Lean fully into the mythic-tableau quality of the central image — *a smith made of light, mending a fallen brother as the next blow descends.*
+
+**Alt scene — The Sarenrae Knights in the Plaza:** "A cinematic dark fantasy scene in a small ruined plaza fronting a cracked Sarenrae shrine, three corrupted paladins of the Dawnflower in soot-streaked golden-sunburst tabards facing the party. In the foreground, a small brown-haired girl — perhaps six or seven years old — has just been bull-rushed free of the female knight who had been holding a longsword to her throat; she runs toward a half-elf paladin in crusader tabard who is materializing from a dimension-step with one hand outstretched to catch her. Behind her, a stout dwarven paladin in plate has driven his shield into the female knight's chest, pushing her ten feet back, his expression iron-set with grief. The other two knights array against a second dwarf with twin daggers and the half-elf with his glaive. The Sarenrae sunburst on the knights' tabards is the worst irony in the frame. Bone-pale light from a wrong-colored sun. The quiet horror of paladins-against-paladins."
+
+**Alt scene — Emergence into Ruined Kenabres:** "A wide cinematic establishing shot of a dwarven paladin in dented plate climbing out of a broken sewer grate into the morning of a devastated city. He stands shield-up at the lip of the wreckage, frozen in the act of recognition. Behind him, his companions are emerging — a half-elf paladin-wizard in crusader tabard, a stocky dwarf-rogue, an aasimar monk with bronze skin and a subtle golden aura, a tough-faced woman on a cave-pine crutch, an older bandaged scholar, a heavyset noble in ruined silks. Above them, the broken skyline of Kenabres: the great cathedral fallen, the western wardstone fortress (the Kite) gone entirely, columns of dark smoke rising into a wrong-colored sky. Fat black demonic carrion birds wheeling. The Worldwound's borders visibly enveloping the eastern horizon. Dramatic light, grief and resolve in equal measure on the dwarf's face."
+
+Let me know if any of these need retuning — generators sometimes flatten the fire-elemental form into 'glowing armor' rather than the *body-replaced-by-fire* effect we want. If that happens, emphasize "Korroc's body has BECOME living golden-white flame; the armor is a ghostly outline within the blaze, not a solid object" in a second pass.

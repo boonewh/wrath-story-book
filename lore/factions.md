@@ -153,8 +153,10 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 **Plot relevance for the campaign:**
 - **Caleth's biological parents were Riftwardens** who vanished into the Worldwound on an unexplained mission less than a month after Caleth's birth.
 - **Caleth carries the Seeker's Spiral on his shoulder blade** — a birthmark since the day he was born, marking him as a Riftwarden's child. His campaign trait is **Riftwarden Orphan.**
-- **None of the party knows.** Caleth has not told them and may never volunteer the truth.
-- Somewhere within the Worldwound lies the truth of his parents' fate. Possibly alive. Possibly ended by something or someone who still walks. This is one of Caleth's primary drivers, beneath the Shelynian surface.
+- **Aravashniel is a Riftwarden elder.** He recognized Caleth's lineage from the day they met in the underdark. The whispered conversation at Gwerm Manor in Chapter 4 was where Aravashniel revealed his identity to Caleth. *(See characters/npcs.md.)*
+- **Blackwing Library was a Riftwarden stronghold** — the order's working library, holding the most extensive writings on demons in Golarion. **Destroyed before the party reached it in Chapter 4.** Aravashniel's grief at finding it in ruins is for the order's loss, not only the books.
+- **Most of the party still does not know about the Riftwardens.** As of Chapter 4, Caleth has learned that Aravashniel is one — that secret is now shared between them, kept from Korroc, Thane, Nageru, Anevia, Horgus, and Klareth.
+- Somewhere within the Worldwound lies the truth of Caleth's parents' fate. Possibly alive. Possibly ended by something or someone who still walks. This is one of Caleth's primary drivers, beneath the Shelynian surface.
 
 **Status:** Active but invisible. The party may encounter Riftwardens (or those who recognize the Spiral) once they reach the surface, or in the deeper Worldwound campaigns.
 

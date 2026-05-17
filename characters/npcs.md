@@ -26,21 +26,29 @@
 ---
 
 ### Aravashniel
-**Status:** Living, partially blinded. Currently in the rat-room.
+**Status:** Living, partially blinded. With the party.
 
-**Role:** Elder wizard. Likely an elf or half-elf of significant age. Possibly affiliated with an arcane order whose nature has not yet been revealed.
+**Role:** Elder wizard. **Riftwarden elder** — same secret order as Caleth's biological parents. *(See "Riftwarden Identity — SECRET" below.)*
 
 **Appearance:** Older man. Face was burned and eyes ruined in the fall; partially restored by the restoration potion Caleth gave him. Still half-blind but can read his spellbook with effort.
 
 **Voice:** Dry. Scholarly. Speaks like pages rustling.
 
 **Key moments:**
-- Caleth chose to give him the precious restoration potion based on his potential value
+- Caleth chose to give him the precious restoration potion based on his potential value (in retrospect, this was the first quiet acknowledgment of a Riftwarden elder by a Riftwarden's child)
 - Identified the carved crusader statues as portraits of the touched of the First Crusade
 - Guided the structural engineering of the boulder-lifting at the collapsed tower
 - Began regaining his vision in stages
+- **Chapter 4:** Took Caleth aside at Gwerm Manor and revealed himself as a Riftwarden elder, asking the party to visit the Blackwing Library. Was devastated to find it destroyed. Survived the library fight; one or more of the four rescued librarians may also have been Riftwardens.
 
-**Relationship anchor:** A mentor-figure to Caleth, though they barely know each other yet. Possibly a key source of lore as the campaign progresses.
+**Relationship anchor:** A mentor-figure to Caleth — and now, as of Chapter 4, an acknowledged fellow Riftwarden. *(See Riftwarden note below.)*
+
+**Riftwarden Identity — SECRET:**
+- Aravashniel is a **Riftwarden elder** — the same secret order as Caleth's biological parents.
+- He **recognized Caleth's lineage from the moment they met** in the underdark. What looked like a scholar's gratitude for the restoration potion was actually a Riftwarden elder quietly acknowledging a Riftwarden's child.
+- **Blackwing Library was a Riftwarden stronghold** — the order's working library, holding the most extensive writings on demons in Golarion. Its destruction is for Aravashniel a loss of *the order*, not only of the books.
+- **Caleth now knows** (revealed in a whispered conversation at Gwerm Manor in Chapter 4).
+- **Korroc, Thane, Nageru, Anevia, Horgus, Klareth do NOT know.** The party's awareness of Aravashniel's true role must remain hidden in prose — show conversations between him and Caleth from outside; never narrate his Riftwarden identity from a non-Caleth POV.
 
 ---
 
