@@ -4,11 +4,24 @@ The city at the heart of the campaign. A frontier crusader city on the eastern e
 
 ---
 
-## Status (as of Session 3, end)
+## Status (as of Session 4, end)
 
-**The party hasn't reached the surface yet.** What follows is what they know or remember of Kenabres from before the wardstone fell, plus what they've learned secondhand in the underdark.
+**The party has reached the surface.** Kenabres is **devastated.** What they walked out into:
 
-The current state of the surface is **unknown to the party.** They have only Lann's worried words about the earthquake's damage, and the smell of woodsmoke and city-stone coming down the old sewer line. Whether Kenabres still stands, whether Lord Hulrun lives, whether the Storm King's attack continued after the wardstone fell — none of this has been confirmed.
+- **The Worldwound has expanded its borders** — the wound now envelops Kenabres itself. The air carries the abyssal sweet-sick smell beneath the smoke. Fat black demonic carrion-birds wheel overhead. Clouds the wrong shape. Light the wrong color.
+- **The Cathedral of Saint Clydwell is destroyed** — only a column of smoke marks where it stood.
+- **The Kite is gone** — the wardstone fortress reduced to a jagged absence in the western skyline.
+- **Population devastated** — from approximately 12,330 pre-rift to perhaps 3,400 survivors. Fled, taken, or dead. The streets are emptier than streets have any right to be.
+- **Demonic incursions ongoing** throughout the city — lesser demons crawling walls, quasits controlling tormented innocents at barricades, large demons leaving paths of destruction the size of barns.
+- **Refugees barricaded** in scattered groups, exhausted, desperate, vulnerable to quasit-control.
+- **Crusader madness** beginning to set in — corrupted Sarenrae knights attempting child-sacrifice for the demon-slayer-blade folk-legend. Whether this is isolated or a pattern is not yet known.
+- **The Templars' Nyserian Manor safe house was destroyed by a demon's path** — confirmed in Chapter 4. One of three safe houses off the list.
+- **The Blackwing Library was destroyed** — Aravashniel grieved deeply (and for more reasons than the books; see characters/npcs.md Aravashniel SECRET note).
+- **Irabeth is alive** — Watch leader (and Anevia's wife) left a note at home: *"Meet at the Defender's Heart."* The party's next destination.
+
+The party has taken shelter at **Gwerm Manor** (south of the cathedral; Horgus's intact home). With them: **Klarah** (orphaned child rescued from the corrupted Sarenrae knights), four rescued librarians from the Blackwing fight (at least one of them a fellow Riftwarden, recognized quietly by Aravashniel), plus Anevia, Aravashniel, and Horgus.
+
+**Lord Hulrun's fate is still unknown.**
 
 ---
 

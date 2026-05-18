@@ -59,9 +59,9 @@ He didn't know it. He nodded anyway, because a dwarf-paladin in plate did not st
 
 Caleth's face had gone still. The half-elf was cataloguing — Korroc had come to recognize that small narrowing of the eyes — every detail of what was in front of him, the way Caleth catalogued everything, and storing it for later. His mouth was a thin line.
 
-Thane was already moving. He had unslung his bow and was up on a piece of broken wall, low and quiet, scanning the streets. Watcher's work. The work that came easier than the looking. Korroc was grateful for it.
+Thane was already moving. He had unslung his bow and was up on a piece of broken wall, low and quiet, scanning the streets. A scout's work. The work that came easier than the looking. Korroc was grateful for it.
 
-Anevia was looking at the same skyline Korroc was. Her face had gone the color of bone. She was a Watch woman. She had walked these streets longer than Korroc had worked his forge. He saw her see what he had seen, and he saw her not say it.
+Anevia was looking at the same skyline Korroc was. Her face had gone the color of bone. She had walked these streets longer than Korroc had worked his forge. He saw her see what he had seen, and he saw her not say it.
 
 Nageru had not turned to look at anything in particular. The aasimar stood with his head bowed, his bare feet planted on the broken stone of the courtyard, his hands open at his sides. He was breathing slowly. His eyes were almost closed. Korroc, watching him, had the sudden unsettling sense that Nageru was *listening* to something — not with his ears, but with whatever it was in him that was older than him. Whatever the gold in his blood had inherited.
 
@@ -79,7 +79,7 @@ Korroc raised his shield.
 
 The thing came over the rubble in one long fluid leap.
 
-It was the size of a hunting dog and shaped like one, four-legged, low-bellied, with a long jaw and a longer tongue — but its hide was a dull boiled-leather hide that was not the hide of any dog Korroc had ever seen, and bone-colored quills ran in a stiff brittle mane from the crown of its skull down its neck and along its spine to the base of its tail. Its eyes were red. Its mouth was full.
+It was huge, like a massive hunting dog and shaped like one, four-legged, low-bellied, with a long jaw and a longer tongue — but its hide was a dull boiled-leather hide that was not the hide of any dog Korroc had ever seen, and black quills ran in a stiff brittle mane from the crown of its skull down its neck and along its spine to the base of its tail. Its eyes were red. Its mouth was full.
 
 It went for Horgus.
 
@@ -93,7 +93,7 @@ The thing lurched off the merchant.
 
 Thane's dagger was already in the air. The dwarf-rogue had jumped from his wall the instant the creature had moved, and the blade hit the thing's flank as it lurched — sank, twisted, came back red. The creature roared. It turned toward Thane.
 
-Caleth came around Korroc's other shoulder, his hand already shaping a cantrip, and the snowball formed in his palm and flew —
+Caleth came around Korroc's other shoulder, his hand already shaping a spell, and the snowball formed in his palm and flew —
 
 — and missed. Skittered off the broken stone behind the creature with a sharp hiss of vapor.
 
@@ -171,7 +171,7 @@ There were sounds. Now and then. A scream, somewhere far off — quick and terri
 
 But the human sounds were gone.
 
-Three thousand people, Korroc thought, looking down a street that should have held two hundred and held none. Maybe less. Maybe none at all. Where did three thousand people go in four days?
+Twelve thousand people, Korroc thought, looking down a street that should have held two hundred and held none. Maybe less. Maybe none at all. Where did twelve thousand people go in four days?
 
 He did not let himself answer.
 
@@ -369,25 +369,25 @@ Caleth's expression broke. For one heartbeat Korroc saw the Spireborn discipline
 
 A long pause.
 
-"Klareth."
+"Klarah."
 
-"Klareth. I am Caleth. This is Korroc. This is Thane. This is Anevia. This is Aravashniel. This is Horgus. And the tall one behind you is Nageru. We're going to take you somewhere safe. Will you tell me where your parents are?"
+"Klarah. I am Caleth. This is Korroc. This is Thane. This is Anevia. This is Aravashniel. This is Horgus. And the tall one behind you is Nageru. We're going to take you somewhere safe. Will you tell me where your parents are?"
 
 A longer pause.
 
-Klareth did not answer. She turned and pointed down a side street.
+Klarah did not answer. She turned and pointed down a side street.
 
 They walked her there.
 
 The house had been a small one. The roof had gone through the upstairs floor. There were two bodies in the rubble of what had been the kitchen — a man, a woman, both of them still in their nightshirts. They had been sleeping when the roof came down. They had not woken.
 
-Klareth said, in her small small voice: "They've been sleeping. They won't wake up."
+Klarah said, in her small small voice: "They've been sleeping. They won't wake up."
 
 Korroc could not make himself speak.
 
 It was Caleth who knelt beside her, and Caleth who said, with great patience, "They aren't going to wake up, sweetheart. I'm so sorry. They aren't going to wake up. I'm so sorry."
 
-Klareth cried.
+Klarah cried.
 
 She cried into Caleth's shoulder for a long time. Korroc stood at the door of the ruined house with his shield on his back and his hammer at his hip and did not say anything. Nageru stood beside him. Anevia stood on his other side. They did not say anything either.
 
@@ -405,21 +405,21 @@ Thane looked up at him. The dwarf-rogue's face was a hard quiet shape. "I know w
 
 "Aye, cousin. I'm good with it."
 
-Thane swore in Dwarven once, softly, and then he walked over to Klareth, knelt to her eye level the way Caleth had, and held out one weathered dwarven hand.
+Thane swore in Dwarven once, softly, and then he walked over to Klarah, knelt to her eye level the way Caleth had, and held out one weathered dwarven hand.
 
-"Klareth," he said. "I'm Thane. I'm going to help carry you when you get tired. That's my job. Will you let me carry you when you get tired?"
+"Klarah," he said. "I'm Thane. I'm going to help carry you when you get tired. That's my job. Will you let me carry you when you get tired?"
 
 She nodded, very small.
 
 "Good." Thane stood. "Come along, then. We've a long walk yet."
 
-Anevia scooped the child up. Klareth let herself be lifted, her face in Anevia's shoulder, her small fingers tight in the lapel of the Watch woman's coat.
+Anevia scooped the child up. Klarah let herself be lifted, her face in Anevia's shoulder, her small fingers tight in the lapel of the woman's coat.
 
 They walked on.
 
 ---
 
-The walk to Anevia's home took the better part of an hour, and they did not speak more than a dozen words the whole way. Korroc did not have words. He kept seeing the Sarenrae woman's face at the end. He kept seeing Klareth's parents in the rubble. He kept seeing the column of smoke where the cathedral had been.
+The walk to Anevia's home took the better part of an hour, and they did not speak more than a dozen words the whole way. Korroc did not have words. He kept seeing the Sarenrae woman's face at the end. He kept seeing Klarah's parents in the rubble. He kept seeing the column of smoke where the cathedral had been.
 
 He prayed, silently, as they walked. He prayed to Torag in the small steady way a smith prays at the bellows. He prayed for the dead. He prayed for the city. He prayed for himself, briefly — the prayer of a tool asking the Smith to keep its edge through what was still coming — and then he stopped praying for himself, because that was always the prayer that ran the well dry the fastest.
 
@@ -459,7 +459,7 @@ Caleth was looking at Anevia with the small still face that meant the half-elf h
 
 No answer. The little house was quiet.
 
-She moved through it, calling. Korroc and Caleth and Thane went in after her. Aravashniel and Horgus and Nageru held the door — Nageru still carrying Klareth now, the child wrapped against his shoulder and quiet in a way Korroc could not read.
+She moved through it, calling. Korroc and Caleth and Thane went in after her. Aravashniel and Horgus and Nageru held the door — Nageru carrying Klarah now, the child wrapped against his shoulder and quiet in a way Korroc could not read.
 
 They went through the front room and into the small kitchen. They went through the kitchen and to the inner door.
 
@@ -505,7 +505,7 @@ One took Korroc in the chest-plate. One took Caleth in the shoulder. One took Th
 
 Magic missile.
 
-A real caster. *A real caster in plate.* Korroc's stomach turned. The half-orc was not a thug who had been sent to ambush them. The half-orc was a trained operative.
+A real caster. Korroc's stomach turned. The half-orc was not a thug who had been sent to ambush them. The half-orc was a trained operative.
 
 Korroc slapped his palm against his sternum and let healing roll out in a wave around the four of them. The dart-burns eased. Anevia gasped — Korroc saw the ranseur-wound at her side begin to knit — but the wound was deep, and he did not have the grace today to close it fully. He closed what he could.
 
@@ -557,7 +557,7 @@ Caleth, leaning on his glaive, was looking at the smear on the floor with a care
 
 "Was that the —"
 
-"The Stonelord. Aye. First time it's — first time it answered like that."
+"The Stonelord's strike. Aye. First time it's — first time it answered like that."
 
 Caleth let out a breath that was nearly a laugh. "Saint's *mercy.*"
 
@@ -663,7 +663,7 @@ Caleth bowed to him. It was a small bow, but it was the bow the Spire taught for
 
 They closed the shutters. They lit no fire — Caleth set out one cantrip-flame in a copper dish on the kitchen table — and they sat at that long pale table and ate whatever Horgus brought from the cellar. Hard bread. Aged cheese. Cured sausage. A jar of pickled cave-mushroom that Korroc thought he recognized as Sull's people's work — Horgus had been buying from the underdark trade routes for years without knowing it.
 
-Korroc made a slow round of the company. He laid healing on Anevia's ranseur-wound until it knit fully. He laid healing on the burn on Caleth's shoulder, and on the small cuts along Thane's arms, and on the deeper wound under his own armpit that he had been ignoring since the morning. Klareth he did not touch directly — she was not hurt, only stunned — but he laid the smallest possible hand on her brow and let a thread of grace pass through, just enough to ease the breathing. She did not flinch. She did not look up. She was sitting in Nageru's lap, with the aasimar's arm around her shoulders, and she was sucking the corner of a piece of bread.
+Korroc made a slow round of the company. He laid healing on Anevia's ranseur-wound until it knit fully. He laid healing on the burn on Caleth's shoulder, and on the small cuts along Thane's arms, and on the deeper wound under his own armpit that he had been ignoring since the morning. Klarah he did not touch directly — she was not hurt, only stunned — but he laid the smallest possible hand on her brow and let a thread of grace pass through, just enough to ease the breathing. She did not flinch. She did not look up. She was sitting in Nageru's lap, with the aasimar's arm around her shoulders, and she was sucking the corner of a piece of bread.
 
 Nageru had been silent through the whole meal.
 
@@ -673,11 +673,11 @@ When Korroc passed close to him, the aasimar caught his eye. He inclined his hea
 
 Korroc sat.
 
-The aasimar looked down at Klareth. Klareth was almost asleep against him. Her bread was forgotten in her hand.
+The aasimar looked down at Klarah. Klarah was almost asleep against him. Her bread was forgotten in her hand.
 
 "She will need a name," Nageru said.
 
-"She has one. Klareth."
+"She has one. Klarah."
 
 "She will need another. A name we use for her. A small name, kind." A pause. "A name a parent uses."
 
@@ -711,7 +711,7 @@ Korroc nodded slowly. He did not entirely understand it. He understood enough.
 
 "Then thank you."
 
-Nageru bowed his head. Klareth, asleep against him, did not stir.
+Nageru bowed his head. Klarah, asleep against him, did not stir.
 
 Korroc stood and went to take first watch.
 
@@ -741,7 +741,7 @@ A long quiet between them. Then Caleth turned and walked toward the doorway wher
 
 Korroc met him there.
 
-"Cousin," Caleth said. The half-elf's face was composed but very still. "We have another stop to make."
+"Korroc," Caleth said. The half-elf's face was composed but very still. "We have another stop to make."
 
 Korroc looked at him.
 
@@ -765,7 +765,7 @@ He turned and went to get the others ready.
 
 ---
 
-The three of them left the manor in the second hour after dawn. Korroc, Thane, Caleth. Horgus stayed with Klareth in the great hall — Horgus had said, gruffly, that someone had to make sure the child ate, and Korroc had heard the small embarrassed kindness under the bluster and had thanked him for it. Aravashniel stayed too, for this first errand — the recon was light, the company small, the elder wizard's strength still half-restored. Anevia held the back door with her bow across her knees.
+The three of them left the manor in the second hour after dawn. Korroc, Thane, Caleth. Horgus stayed with Klarah in the great hall — Horgus had said, gruffly, that someone had to make sure the child ate, and Korroc had heard the small embarrassed kindness under the bluster and had thanked him for it. Aravashniel stayed too, for this first errand — the recon was light, the company small, the elder wizard's strength still half-restored. Anevia held the back door with her bow across her knees.
 
 Nageru stayed.
 
@@ -799,7 +799,7 @@ They turned back for Gwerm Manor.
 
 It was Aravashniel who spoke when they returned.
 
-The elder wizard was sitting at the kitchen table with Klareth opposite him, drawing slow patterns on the wood with a finger. He looked up when they came in. He looked at Caleth. He looked at Korroc.
+The elder wizard was sitting at the kitchen table with Klarah opposite him, drawing slow patterns on the wood with a finger. He looked up when they came in. He looked at Caleth. He looked at Korroc.
 
 "And?"
 
@@ -945,19 +945,13 @@ Aravashniel sank to his knees on the cobblestones.
 
 Caleth knelt with him.
 
-Korroc looked away. He looked at Thane. Thane's face was very still. Korroc looked at Anevia. Anevia was looking at the ruined library with the careful watch of a Watch agent, but her eyes flicked to Aravashniel and softened, and then flicked back.
+Korroc looked away. He looked at Thane. Thane's face was very still. Korroc looked at Anevia. Anevia was looking at the ruined library with the careful watch of an agent, but her eyes flicked to Aravashniel and softened, and then flicked back.
 
-Korroc walked to the steps. He had a job. He had to do the job.
+Korroc watched asThane slowly moved to the steps. He had to do the job.
 
-He climbed the broad shallow steps. He stopped at the threshold. The one standing hall opened off to the west, and from inside that hall, faintly, he could hear voices.
+He climbed the broad shallow steps. He stopped at the threshold. The one standing hall opened off to the west, and from inside that hall, faintly, voices could be heard, even from where Korroc stood.
 
 Voices and the small sound of books being moved.
-
-He turned and signed to Thane. *Inside. Multiple.*
-
-Thane came up the steps without a sound.
-
-"Take a look, cousin," Korroc murmured.
 
 Thane ghosted through what had been the doorway. He was gone for perhaps a minute. He came back and his face was a tight grim shape.
 
@@ -1053,7 +1047,7 @@ He was a dwarf in plate again, kneeling on the flagstones, with the dent in his 
 
 The knight raised the mace again.
 
-Caleth's glaive came up *over* Korroc's shoulder and the leaf-blade took the knight in the chest. Caleth's hand on the back of the haft was glowing — the small specific glow of his smite-and-shocking-grasp signature — and the air around the knight flashed white and the knight's plate seared and the knight rocked backward.
+Caleth's hand came up *over* Korroc's shoulder and he touched the knight's chest. Caleth's hand was glowing — the small specific glow of his smite-and-shocking-grasp signature — and the air around the knight flashed white and the knight's plate seared and the knight rocked backward.
 
 He did not fall.
 
@@ -1115,72 +1109,30 @@ He turned and walked, slowly, to a fallen bookshelf and sat down on it.
 
 He did not stand up again for a while.
 
----
+He looked at his hands.
 
-The walk back to Gwerm Manor was long.
+He turned them over, slow. He half-expected them still to be light. They were hands. Smith's hands, callused and dust-bloody, the small puckered burn-scar on his right wrist where he had been splattered with hot pig-iron at sixteen and still bore the mark.
 
-The four librarians came with them — there was nowhere else for them to go, and the Defender's Heart was the agreed destination for the next day, and one more night under Horgus's roof was the smaller hardship than the streets after dark. Aravashniel walked with the white-bearded one, the two of them shoulder to shoulder, speaking quietly. Korroc did not eavesdrop. The slight grey-robed librarian walked with Caleth and asked him soft questions about the fight and Caleth answered her with the patient kindness Korroc had come to know.
+Just hands.
 
-Korroc walked at the back, with Thane.
+The fire was gone. Whatever had answered him had gone back to wherever it lived, and it had left him standing in his own plate again in a ruined library on a ruined day.
 
-The two cousins did not speak much. They did not have to. They had walked back together from too many fights, in too many years, for words to be necessary at the end of one. Korroc's side ached. The dent in his cuirass would need a forge to be put right. His shoulder where the mace had landed in the fire-form was sore in a way that was not entirely physical — as if the place the form had collapsed had taken something with it that had not yet been replaced.
+Outside, somewhere in the broken city, a building came down with a long slow grinding sound that ended in a soft cough of dust. Inside the standing hall, the dust from the fight had not finished settling. It drifted slowly through the shaft of wrong-colored light from the broken ceiling, falling on the dead, on the scattered books, on the four librarians who had not yet moved from where they had stood up out of their ropes.
 
-Thane caught him looking at his own hand once, halfway through the walk.
+Aravashniel and the white-bearded librarian still stood together. They had not spoken yet. They might not, for a long time.
 
-"You all right, cousin?"
+Caleth came over without saying anything and sat down on the flagstone beside Korroc. The half-elf's hand came across and laid itself on Korroc's pauldron — gentle, brief — and then withdrew. Caleth set his glaive across his knees and looked at nothing.
 
-"Aye. I think. I — Thane, I —"
+Thane finished his sweep of the hall and came back. He did not say anything either. He sat down on a fallen stone block and began, with great care, to wipe each of his daggers — the right blade first, the left blade after — on a strip of cloth he had cut from a dead tiefling's cloak. *No Stonevein had ever sheathed a wet blade*, and no Stonevein ever would.
 
-"I saw it."
+No one spoke.
 
-"Did I look like — ?"
+Anevia held the doorway with her bow still nocked, her face turned out toward the broken square they would have to cross to get back to anywhere, watching the wrong-colored sky.
 
-"You looked like a smith made of light, cousin." Thane's voice was low and steady and Korroc had not heard it ever sound that way before. "You looked like a man Torag made on his good day."
+Korroc looked down at his hands again. He laid them, slowly, palms down on his knees. He felt the stone of the flagstone through the leather of his greaves. He felt the deep stone of Kenabres under the flagstone. He did not reach for it. He did not have anything to ask of it yet.
 
-Korroc did not have a response to that. He walked the rest of the way in silence.
+The dust kept settling.
 
----
-
-The manor was quiet when they came up to the front door.
-
-Nageru opened the door before Korroc raised a hand to knock.
-
-The aasimar took one long look at the company — at Caleth's torn shoulder, at Korroc's dented cuirass, at the four librarians behind them, at Aravashniel walking with the white-bearded old man as if he had walked with him for fifty years — and his face did something very small that Korroc would not have called a smile.
-
-"Brothers," he said. "Come in. There is broth."
-
-There was broth.
-
-Horgus had been keeping it warm in the kitchen for hours, the merchant said gruffly, because he had not known when they would come back and he had not been about to let them come back to a cold pot. He ladled it himself, with the care of a man who had not ladled anything for anyone in years. Klareth was awake; she watched the new librarians wide-eyed from the corner where she had been sleeping, and did not approach, and accepted a bowl of broth without speaking. Nageru sat down beside her with his own bowl. He did not say anything.
-
-The four librarians ate quietly. The white-bearded one and Aravashniel ate together, at a corner of the table, their voices low. Korroc let them be.
-
-He sat on a bench against the wall and accepted a bowl of broth from Horgus of all people, and he looked around the room.
-
-His company.
-
-The half-elf paladin-wizard who had walked beside him through every dark of the last four days. The dwarf-rogue cousin who had stood at his back since before either of them had been smiths. The aasimar monk whose fists were sometimes the only thing standing between a friend and a thing that should not have been. The Watch woman whose wife was alive. The merchant who had ladled broth. The elder wizard with his head bent close to a stranger's. The four new friends. The small child, fed.
-
-He looked last at Nageru.
-
-The aasimar was sitting on the bench across from Aravashniel and the white-bearded librarian. He was not speaking. He was not eating. His hand had come, very gently, to rest on the old wizard's shoulder while the two old men spoke. He was simply there. He was holding the moment.
-
-His quiet had lifted, Korroc thought. Whatever had been pressing on him in the morning had moved aside, at least for now. The aasimar was back.
-
-Outside, somewhere over the broken city, the wrong-colored sun was setting toward what passed for evening.
-
-Tomorrow, the Defender's Heart. Tomorrow, Anevia's wife. Tomorrow, the surface command, the surface church, the surface war that would have to be told what they had found and what they had brought back with them. The S. V. letter. The unholy symbols. Radiance, still wrapped at Thane's hip. The story of the underdark and the maze and the dretches and the corrupted Sarenrae knights and the small child whose parents had not woken.
-
-The story they were going to have to tell.
-
-Korroc finished his broth. He set the bowl down. He let his head tip back against the wall and closed his eyes for a moment.
-
-The stone of the wall was cool against the back of his skull. He could feel it. He could feel the stone of the wall, and the stone of the floor, and the stone of the city, and somewhere deeper than that — deeper than he had known went deep — the stone of the world.
-
-It was waiting on him.
-
-He opened his eyes.
-
-"Right, then," he said quietly, to the room and to himself and to Torag and to the stone. "First light, we walk."
+Outside, the city was burning still.
 
 *[To be continued.]*

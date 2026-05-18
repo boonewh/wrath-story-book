@@ -111,17 +111,21 @@ He has not told the others any of this.
 - The scale is warm. It is always warm. It speaks to him faintly — *get them out, get them out.*
 
 ## Current State (End of Session 3)
-- Took a glaive wound to the ribs from a Templar
-- Spent multiple lay-on-hands on Thane and Nageru
-- Spell reserves low but not depleted
+- Took a glaive wound to the ribs from a Templar (Ch 3) and a mace-strike to the shoulder from the library knight (Ch 4) that briefly knocked him unconscious
+- Spent multiple lay-on-hands on Thane and Nageru in the maze; spent more on himself and others through Chapter 4
+- Spell reserves recovered after the night at Gwerm Manor
 - Has the unholy symbol of Baphomet wrapped in cloth (taken from the first Templar wizard)
 - Helped recover Yaniel's sword Radiance — **Thane is carrying it for now**
 - Carrying the moral weight of having read the S. V. letter
+- **NEW: privately knows Aravashniel is a Riftwarden elder** — revealed in the whispered Gwerm Manor conversation in Chapter 4. Has not told the others. May not. See Faith section and Things Known (Privately) below.
+- Carrying the orphan Klarah's name and care alongside Thane, Nageru, and the others
+- At Gwerm Manor with the company; tomorrow they walk to the Defender's Heart
 
 ## Established Moments
 - **Chapter 1:** Saw Terendelev's transformation. Was recognized by her. Picked up the silver scale and felt the gift. Survived the fall. Cast light spell that first revealed the underdark cavern to survivors.
 - **Chapter 2:** Bowed properly to Chief Sull. Dreamed of Terendelev on the cliff. Made peace with the mongrelfolk of Nathholm. Recognized the carved crusader statues as portraits of the touched.
 - **Chapter 3:** Identified the dretches as demons. Performed his signature smite-shocking-grasp on Hosilla's Templar. Healed Thane after Hosilla impaled him. Helped recover **Radiance** (Thane is carrying it).
+- **Chapter 4:** Emerged with the party into the ruined city. Catalogued the devastation with his observer's eye. Dimension-stepped to catch the orphaned child Klarah after Korroc bull-rushed her free of the Sarenrae knights; comforted her with the patience of a Shelyn paladin; broke briefly when she asked *"Are you going to kill me too?"* Stabbed the second Sarenrae knight. Cast snowball, scorching ray, and his signature smite-shocking-grasp through the day's fights. Wounded by the half-orc Templar in Irabeth's house. **Privately revealed-to: Aravashniel is a Riftwarden elder** — whispered conversation at Gwerm Manor; Aravashniel had recognized Caleth's lineage from their first meeting in the underdark. The Blackwing Library was a Riftwarden stronghold. Caleth now carries that secret. Scouted ruined Nyserian Manor with Korroc and Thane. Recognized the bound librarians at the Blackwing as scholars worth saving; **was knocked unconscious by the library knight's mace and brought back by Korroc's first-ever fire-elemental Life Oracle transformation.** Finished the fight with his glaive in the knight's chest.
 
 ## Relationships
 - **Korroc:** Two paladins finding mutual respect. Caleth admires Korroc's foundational faith; Korroc admires Caleth's quick mind.
@@ -136,3 +140,14 @@ He has not told the others any of this.
 - The full reason Terendelev recognized him.
 - What he is meant to use his silver scale for.
 - The identity of **S. V.** — though he suspects it is someone he may eventually have to look in the face. *(He also does not yet know whether S. V. is the shadow-without-a-shadow from the Lantern Seer's vision.)*
+- Whether Aravashniel knows more about Caleth's parents than he has yet said (likely; they were the same order).
+- Whether any of the four Blackwing Library librarians the party rescued are also Riftwardens. (Aravashniel recognized at least the white-bearded older one; Caleth saw the recognition but didn't get the conversation.)
+
+## Things Caleth Knows (Privately)
+*Secrets Caleth carries, kept from the rest of the party. He may share with strong reason, but won't volunteer.*
+
+- **Aravashniel is a Riftwarden elder** — same order as Caleth's biological parents. Revealed in the whispered conversation at Gwerm Manor in Chapter 4. The elder wizard had recognized Caleth's lineage from the day they met in the underdark; the restoration potion Caleth gave him was, in retrospect, a first quiet acknowledgment passed between them.
+- **The Blackwing Library was a Riftwarden stronghold** — the order's working library of demon-lore in Golarion. Aravashniel's grief at finding it ruined was for the order's loss, not only the books.
+- **Terendelev's recognition of him at Armasse** — see The Dragon's Secret. Still untold.
+- **The Seeker's Spiral on his shoulder blade** — Riftwarden Orphan campaign trait. Still untold.
+- **The three Lantern Seer visions** — city burning, blade in radiance, shadow-without-a-shadow. Still untold; partly being lived through.

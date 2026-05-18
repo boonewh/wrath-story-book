@@ -72,6 +72,27 @@
 
 ---
 
+### Klarah
+**Status:** Living. With the party as of Chapter 4. Currently sheltering at Gwerm Manor.
+
+**Role:** Orphaned child, perhaps six or seven years old. Rescued by the party in Chapter 4 from three corrupted Sarenrae knights who had taken her for the demon-slayer-blade folk-legend ritual (sheath a holy sword in the body of a virgin). Her parents were found dead in their nightshirts in the rubble of the family home — they had been asleep when the roof came down. She is now traveling with the company.
+
+**Appearance:** Small. Brown-haired. Voice still small and dry from the long crying she had already done when the party found her.
+
+**Voice:** Quiet, plain, a child's economy of words. Her first sentences to the party included *"Are you going to kill me too?"* and *"They've been sleeping. They won't wake up."*
+
+**Key moments (Chapter 4):**
+- Held against her will by three Sarenrae knights at a market shrine in the Gate district
+- Bull-rushed free of the lead knight by Korroc; ran to Caleth, who dimension-stepped to catch her
+- Watched Korroc give last rites over the bodies of her would-be killers
+- Led the party to her family home; her parents were dead in the rubble
+- Took Caleth's offered hand. Took Thane's promise to carry her when she got tired. Slept against Nageru's shoulder at Gwerm Manor with bread forgotten in her hand
+- Nageru observed that **she will need a name a parent uses** — a small kind name — when the company is ready to find one for her
+
+**Relationship anchor:** Klarah is the small living anchor of *why this whole thing matters.* The party has not had a child to protect before. Now they do. Her care quietly reorganizes everyone — Thane volunteers to carry her, Caleth uses *sweetheart*, Nageru holds her in his lap, Horgus stays back at the manor to "make sure the child eats." She is not a sidekick; she is **what they are fighting for**, in miniature.
+
+---
+
 ## Allies in Nathholm (Mongrelfolk Village)
 
 ### Lann
@@ -221,11 +242,13 @@
 ---
 
 ### Irabeth
-**Status:** Living (presumed). On the surface.
+**Status:** Living. On the surface. Left a note at her home in Chapter 4 reading *"Meet at the Defender's Heart."*
 
-**Role:** Mentioned by Anevia in Chapter 2 as the surface contact they need to reach with information about the Templars.
+**Role:** Watch leader. **Anevia's wife** — confirmed in Chapter 4 when Anevia called her name into the broken home (*"Irabeth! Irabeth, where are you?"*) in a way that was not the way one calls a comrade. Anevia confirmed it aloud to Korroc moments later: *"She's my wife. I should have told you."*
 
-**Plot significance:** Likely a major early-campaign NPC ally — possibly Eagle Watch leadership or a senior crusader. The party's first surface goal is finding her.
+**Plot significance:** A major early-campaign NPC ally — Watch leadership at minimum, possibly the Eagle Watch's surface contact for the Templar contract Anevia and Thane have been working. The party's next destination is the Defender's Heart, to reach her.
+
+**Relationship anchor:** Anevia's grief and Anevia's stubborn determination over the last four days both make new sense in retrospect. Treat their reunion (when it comes) with the appropriate weight.
 
 ---
 

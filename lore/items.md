@@ -153,11 +153,25 @@ Items of importance to the campaign — magical, plot-relevant, or symbolic. Upd
 
 ---
 
-## The Three Safe Houses (Not Yet Visited)
+## Irabeth's Stash
+
+**Origin:** Recovered from a small alcove behind a row of clay jars in Anevia and Irabeth's home in Chapter 4. Irabeth left it for Anevia along with the note (*"Meet at the Defender's Heart."*).
+
+**Contents:**
+- Two **healing potions**
+- One **unidentified potion** (Caleth tested by resonance — *"good, I'm not sure what."* Worth a careful identification when there is time)
+
+**Status:** Carried by Caleth. Held in reserve.
+
+**Plot use:** Material reserve for the long walk to Defender's Heart and whatever fights wait between. The unidentified potion is a small ticking question — *what did Irabeth leave for her wife, specifically?*
+
+---
+
+## The Three Safe Houses (One Down)
 
 **Locations in Kenabres:**
 
-1. **Nyserian Manor** — Property of an unknown noble family. Possibly Hosilla's own residence or her cover identity.
+1. **Nyserian Manor** — ~~Property of an unknown noble family. Possibly Hosilla's own residence or her cover identity.~~ **DESTROYED (Chapter 4).** A demon's path ran straight through the property. The manor is unsalvageable. Whatever it held was lost in the collapse — the demon's tracks did not preserve anything. **Off the list.**
 2. **Topaz Solutions** — A merchant front. Likely an actual operating business that the Templars use as a cover.
 3. **The Tower of Estrod** — Reference unclear; could be a defensive structure, a noble's residence, or a scholarly building.
 

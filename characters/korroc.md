@@ -51,6 +51,8 @@ Do not replace the forge — **layer the stone underneath.**
 - Will heal someone next to him while another enemy's weapon is inches from his own face. Selfless to a fault.
 - **Vulnerable to cold** (Oracle Curse: Elemental Imbalance: Fire). Frost-attacks bite him harder than they should. A cold demon, a winter wight, a freezing spell — these are the threats his plate doesn't quite protect him from. When prose calls for a moment of Korroc *failing* to weather a blow, cold is the kind that does it.
 - **Fire-channeling** — the inverse face of his curse. He can call up a small jet of flame from his fingertips when a hammer is the wrong tool. Used sparingly. Best for creatures whose hides shrug off blunt steel — oozes, slimes, the wrong kind of mold. He used it in Chapter 3 to incinerate the trash-ooze ("Squishy").
+- **Stonelord stone-strike** — surfaced for the first time in Chapter 4 (against the half-orc Templar's summoned dretch at Irabeth's house). He pressed his free hand to the floor, reached *through* the wood to the stone beneath, and channeled the weight of Kenabres's deep stone through the next hammer-strike. The dretch caved. The hammer wedged in the floor. He had not known he could do it until it answered. **Costly; reserve for the moment that truly needs it.**
+- **Life Oracle fire-elemental form** — surfaced for the first time in Chapter 4 (in the Blackwing Library, with Caleth dead at his feet). His body becomes a being of **golden-white fire**, "the fire of a forge at its cleanest, the fire of the moment a blade comes out true." His armor ghosts within the blaze; his outline blurs; he can still wield his hammer. The form does not burn him or his gear. It **pours life into anyone he touches** — Caleth came back from death under his burning hands. The form **collapses if struck hard** (one critical blow ended it in the library). This is mythic-foreshadowing territory; treat any future use with the appropriate weight. He did not know he could do it until it answered.
 
 ## Faith
 - Paladin of Torag (**Stonelord** + **Oath of the Mendevian Crusade**).
@@ -65,17 +67,20 @@ Do not replace the forge — **layer the stone underneath.**
 - Spent once already in Chapter 1 (descended gently from the ledge).
 - The scale regenerates its charge? Or each scale has only one use? *(GM clarification needed — currently functioning as reusable.)*  *Rules Clarification: the scales can be used three times per day.*
 
-## Current State (End of Session 3)
-- **Completely out of spells** — said so aloud in the archway at chapter's end (*"I'm out of spells"*). His well of grace ran dry keeping Thane and Nageru on their feet.
-- Wound at the armpit from a Vescavor glaive (second barricade fight) — bleeding only stopped because he spent the last of his grace on it, not because it healed
-- Additional armor-seam wound from Hosilla in the ritual chamber
-- Tired but unbroken. The party is sheltering in the rat-room before going back down.
-- Has just decided with the party to go back down rather than surface — to finish the Vescavor and Templars before bringing word up
+## Current State (End of Session 4)
+- **Rested at Gwerm Manor.** Grace has refilled. Hammer arm is sore but functional.
+- **Cuirass dented** at the chest from the library knight's mace — will need a forge to put right
+- **Deep stab in the gap below the shoulder** from a tiefling at the library — closed but tender
+- **Pauldron dented** at the shoulder from the mace (the strike that collapsed his fire-form)
+- The new Life Oracle fire-elemental form left a *non-physical* soreness in the place where it collapsed — as if something had been spent there that has not yet been replaced
+- **At Gwerm Manor** with the company, four rescued librarians, and Klarah the orphan child
+- **Tomorrow:** the long walk to the Defender's Heart to meet Irabeth (Anevia's wife)
 
 ## Established Moments
 - **Chapter 1:** Saw Terendelev fall. Survived the rift. Found and consecrated the shrine of Torag in the underdark. Felt Torag bless the company after the ritual.
 - **Chapter 2:** Climbed badly. Fell off a wall. Climbed again, complaining. Helped dig out Crel from the collapsed tower. Killed a wizard mid-air with an overhead hammer strike. 
 - **Chapter 3:** Led the charge through the first Vescavor barricade — the hammer that opened the position was his. Crushed the giant cave-lizard's skull when it had clamped onto Thane's thigh. **Used a jet of fire from his fingertips** to incinerate the trash-ooze "Squishy." Took an armpit wound from a Vescavor in the second barricade fight. Spent grace freely on Nageru and Thane against the dretches; nearly went dry. **Hammered Hosilla off Thane's body in a single roaring strike** after her spin-impalement, then twice more to make sure of her. Spent the last of his grace pulling Thane back from a through-and-through wound. **By the end of the chapter he was completely out of spells.**
+- **Chapter 4 (POV):** Emerged with the party into a devastated Kenabres he could not at first recognize. Shielded Horgus from a quill-hound's first leap and healed him to his feet. **Confronted three corrupted Sarenrae knights** trying to sacrifice the orphaned child Klarah — bull-rushed the lead knight ten feet back to free the child, eventually put her down, and **gave last rites** over all three of the dead in old Dwarven and Common. Identified Klarah's dead parents in the family home rubble and accepted her into the company. **First Stonelord stone-strike** — channeled the deep stone of Kenabres through his hammer to cave the half-orc's summoned dretch at Irabeth's house. **Witnessed the Irabeth-is-Anevia's-wife reveal** when Anevia called her name into the broken home. Walked the broken city aware of its stone as *his* stone for the first time. Saw Aravashniel pull Caleth aside at Gwerm Manor in a whispered conversation he did not overhear and did not ask about. Recon'd the destroyed Nyserian Manor (one Templar safe house off the list). Fought through controlled-innocents at a quasit barricade. Reached the Blackwing Library in ruins, where Aravashniel collapsed in grief. **In the library fight, with Caleth dead at his feet, transformed for the first time into a Life Oracle fire-elemental form** — golden-white fire — and brought Caleth back from death under his burning hands. Took the knight's critical mace-strike in the form, which collapsed the transformation, and finished the fight as himself. Returned to Gwerm Manor with the four rescued librarians (one of them an old friend Aravashniel quietly recognized). Accepted a bowl of broth from Horgus of all people.
 
 ## Relationships
 - **Thane:** Cousin. Brothers in everything but mother. **Their fathers fell in the same crusade — likely fighting together — and both fathers dreamed of Khar-Zadûn.** The cousin-bond is not just blood; it is shared inheritance of the same broken oath. Banter is constant; loyalty is bone-deep. The shared grief is rarely spoken aloud and never lightly.

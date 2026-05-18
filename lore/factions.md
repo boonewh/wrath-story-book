@@ -60,7 +60,7 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 - Several unnamed Templars killed in the underdark — the wizard at the campfire, the two at the spore cougher, the two in the ritual chamber
 
 **Known safe houses in Kenabres:**
-- **Nyserian Manor**
+- **Nyserian Manor** — *DESTROYED (Chapter 4).* A demon's path ran straight through the property; the manor is unsalvageable. One safe house off the list without the party having to fight for it.
 - **Topaz Solutions**
 - **The Tower of Estrod**
 
