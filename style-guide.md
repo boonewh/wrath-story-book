@@ -18,6 +18,26 @@ The prose blends:
 - The POV character's training, fears, hopes, and history shape what they notice and how they describe it. Korroc notices construction quality. Caleth notices people's body language and the iconography on their armor. Thane notices exits, weapons, and patterns of wear on a floor. Nageru notices breathing and stillness.
 - The POV character does NOT know things they couldn't know. No omniscient cheats. If Caleth doesn't know what S. V. stands for, neither does the narration.
 
+## POV Voice Calibration
+
+**Establish the voice early — then trust it.**
+
+A character's interior register (Nageru's stillness, Thane's tactical reads, Korroc's forge-and-stone imagery) should be planted clearly in the chapter's opening pages. Once it's established, it becomes an *undercurrent*, not a drumbeat. The reader now knows whose head they're in. Stop proving it.
+
+Think of it like grain in wood: the grain gives the piece its character and is genuinely present throughout — but you're not supposed to stop and notice it on every plank. When the craftsman overworks it, the reader starts watching the technique instead of experiencing the story.
+
+**Signs you've gone too far:**
+
+- The POV character's signature trait (Nageru's breath-rhythm, Thane's sign-reading, Korroc's stone-sense) appears in more than one out of every three or four paragraphs.
+- The chapter's prose *pace* is being controlled by the character's quirk rather than the scene's action. (Nageru's stillness making entire pages feel still, rather than *flavoring* pages that themselves have momentum.)
+- A reader could point to a specific paragraph and say "there's the Nageru thing again" — meaning the trait has become predictable rather than natural.
+
+**The corrective:** once you've established the voice, let scenes be scenes. A tense fight is a tense fight — Nageru's stillness shows in *how he enters* the fight, not in every sentence of it. Thane notices exits and tells-of-wear *when that noticing matters to the scene*, not in every room he steps into. Let the character's nature shape their *decisions and reactions*, not every line of prose description.
+
+**What worked:** Korroc's chapters land because the dwarven imagery appears when the *moment calls for it* and then gets out of the way. The story moves, the voice flavors it, the reader never feels managed.
+
+---
+
 ## Combat Writing Rules
 
 - **Do not gloss combat.** Even small skirmishes get full cinematic treatment.
@@ -57,6 +77,7 @@ The prose blends:
 - **Modern phrasing in dialogue.** No "okay," no "yeah" (Korroc gets "aye"; others avoid it entirely), no "guys," no contemporary slang.
 - **Telling the reader how characters feel.** Show it through action, dialogue, and the texture of the interior monologue.
 - **Repetition of established traits.** Don't remind us every chapter that Korroc wears plate. We know. New chapters add new dimensions to existing characters, not restatements.
+- **Overworking the POV voice.** A character's signature register (Nageru's stillness, Thane's tactical reads) should flavor the prose, not dominate every paragraph. Establish it early, then let it become an undercurrent. See *POV Voice Calibration* above.
 - **Backstory dumps.** Backstory enters through specific in-the-moment triggers — a sight, a smell, a phrase — not block infodumps.
 
 ## Specific Tonal Notes

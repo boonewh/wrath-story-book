@@ -119,7 +119,7 @@ He has not told the others any of this.
 - Carrying the moral weight of having read the S. V. letter
 - **NEW: privately knows Aravashniel is a Riftwarden elder** — revealed in the whispered Gwerm Manor conversation in Chapter 4. Has not told the others. May not. See Faith section and Things Known (Privately) below.
 - Carrying the orphan Klarah's name and care alongside Thane, Nageru, and the others
-- At Gwerm Manor with the company; tomorrow they walk to the Defender's Heart
+- **Still in the Blackwing Library** with the strike team after the fight — sitting on the flagstones beside Korroc, glaive across his knees. Aravashniel is standing silent with the white-bearded Riftwarden librarian a few feet away. **Party is split:** Horgus, Klarah, and Nageru are still at Gwerm Manor. Reunion and the walk to the Defender's Heart are Session 5.
 
 ## Established Moments
 - **Chapter 1:** Saw Terendelev's transformation. Was recognized by her. Picked up the silver scale and felt the gift. Survived the fall. Cast light spell that first revealed the underdark cavern to survivors.

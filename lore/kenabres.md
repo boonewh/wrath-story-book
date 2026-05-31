@@ -19,7 +19,7 @@ The city at the heart of the campaign. A frontier crusader city on the eastern e
 - **The Blackwing Library was destroyed** — Aravashniel grieved deeply (and for more reasons than the books; see characters/npcs.md Aravashniel SECRET note).
 - **Irabeth is alive** — Watch leader (and Anevia's wife) left a note at home: *"Meet at the Defender's Heart."* The party's next destination.
 
-The party has taken shelter at **Gwerm Manor** (south of the cathedral; Horgus's intact home). With them: **Klarah** (orphaned child rescued from the corrupted Sarenrae knights), four rescued librarians from the Blackwing fight (at least one of them a fellow Riftwarden, recognized quietly by Aravashniel), plus Anevia, Aravashniel, and Horgus.
+**The party is currently split.** The strike team (Korroc, Thane, Caleth, Anevia, Aravashniel) and the four rescued librarians (at least one of them a fellow Riftwarden, recognized quietly by Aravashniel) are still in the standing hall of the destroyed Blackwing Library after the fight that nearly killed Caleth. The non-combat group (Horgus, Klarah the orphan child, Nageru) is back at **Gwerm Manor** (south of the cathedral; Horgus's intact home). The two groups have not yet reunited — that reconnection is a Session 5 beat.
 
 **Lord Hulrun's fate is still unknown.**
 
