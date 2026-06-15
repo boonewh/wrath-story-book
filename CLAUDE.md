@@ -79,8 +79,11 @@ Established POVs so far:
 - Chapter 2: **Caleth**
 - Chapter 3: **Thane**
 - Chapter 4: **Korroc** (his first true mythic awakening — the Life Oracle fire-elemental form)
+- Chapter 5: **Nageru** (*The Patient Thunder / The Open Fist* — his first POV, the Gwerm Manor defense / reunion)
+- Chapter 6: **Caleth** (*The Blade That Chooses* — Radiance chooses him)
+- Chapter 7: **Thane** (*The Threshold and the Bar / No Honest Tenants* — the Gray Garrison breach)
 
-**Nageru still has no POV chapter.** His first one should land when his major arc moment does. Until then, his POV stays held in reserve.
+**Nageru has had his first POV (Chapter 5).** POV remains a stakes decision, not a rotation — choose whoever has the most at stake in a given session.
 
 ### Secrets Matrix
 
@@ -156,7 +159,7 @@ Past canon corrections worth knowing:
 When spawning sub-agents, give each a clear role and full briefing. Suggested roles for this project:
 
 - **chapter-writer (Opus)** — given session notes + POV character + style guide + recent chapter for voice + relevant canon, writes the full chapter in one sustained session. **Do NOT split a chapter across multiple agents — voice fractures.** One Opus per chapter.
-- **song-writer (Opus)** — given the chapter, writes a Suno song. Lessons learned: lyrics-box content under ~4,500 chars; style-box under ~800 chars; for character-focused songs, single-register hymn beats four-stage build (Suno can't handle genre transitions cleanly).
+- **song-writer (Opus)** — given the chapter, writes a Suno song. **HARD LIMITS: Suno lyrics box = 1,000 characters MAX, spaces included. Style box = ~800 chars.** Section tags ([Verse 1], [Refrain], etc.) count toward the 1,000 — keep tags SHORT (just the name, no inline descriptions). All instrumentation and voice details go in the style box only. Single-register hymn beats four-stage build (Suno can't handle genre transitions). Target runtime under 2:30; explicit duration note in style box. No instrumental padding between sections.
 - **image-prompt-writer (Opus)** — given the chapter, writes a cinematic image generation prompt. Follow the format set by `images/session3.md` and `images/session4.md`.
 - **web-updater (Opus)** — given the chapter, updates the `wrath/page.tsx` Campaign Arc Status section + writes `website/updateN.md`. Follow `memory/webpage-session-section.md`.
 - **canon-keeper (Sonnet)** — after a chapter lands, updates affected character files, lore files, and `npcs.md` with new canon. Targeted Edits; no creative prose.

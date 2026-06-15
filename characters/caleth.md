@@ -19,6 +19,16 @@ Slim half-elven build. Long dark hair tied back. Wears **simple, sturdy travelin
 - When frustrated: "Saint's *mercy*."
 - Calls Thane "Stonevein" when serious, "dwarf" affectionately when not
 
+## Signature Introduction — Caleth's Boast
+
+As of Session 7, Caleth has adopted a formal self-introduction — his **boast**, spoken when he chooses to announce himself in full:
+
+> *"I am Caleth Aranor, of burned Kenabres. Glaive of the Mendevian oath. Chosen of Terendelev. Bearer of Yaniel's Radiance. Bane of the things that wear dead men's skins. I have sworn to see the Worldwound closed. Stand with me, or stand aside."*
+
+**What it spends and what it keeps.** Most of the boast is public and earned — burned Kenabres, the Mendevian oath, his bearing of Radiance (Yaniel's blade, his since Chapter 6), the demons that wear dead men's skins (the vermlek- and Abrikandilu-skinsuits put down in Sessions 6–7), and the oath to close the Worldwound. It reveals **none** of his deepest secrets: not the Riftwarden blood, not the Spireborn lineage, not the Seeker's Spiral.
+
+**"Chosen of Terendelev" — handle with care.** This is the one clause that edges toward private ground. The party can hear it as a reference to the silver scale the dying dragon gave each of the four, so it need not burn the secret outright — but Caleth singling *himself* out as Chosen may draw questions, and that is the intended tease. The **full Dragon's Secret stays private**: Terendelev's eye-contact recognition of him at Armasse, his belief the scale was given to *him* for something specific, the cliff-dream, and the *"be the kind one… even when the others choose the hammer"* charge. The boast names the bond; it does not spend those cards. (See *The Dragon's Secret* below.)
+
 ## Interior Voice for POV Chapters
 When Caleth is POV, the prose should think in **artistic-observational terms** layered with **cold strategic calculation.** He genuinely *sees beauty* — even in broken or grotesque things — because his Shelynian oath demands it. But underneath the painter's eye runs a second register: a constant, quiet running of probabilities, threat-assessments, and resource allocations. He notices iconography, body language, the craft of objects, the lines of a face — *and* he notices where the exits are, who is bleeding fastest, which of the company can absorb one more loss. **Where others charge, he positions. Where others rage, he decides.**
 
@@ -110,22 +120,24 @@ He has not told the others any of this.
 - Charge: **Unspent.** He is holding it for something.
 - The scale is warm. It is always warm. It speaks to him faintly — *get them out, get them out.*
 
-## Current State (End of Session 3)
-- Took a glaive wound to the ribs from a Templar (Ch 3) and a mace-strike to the shoulder from the library knight (Ch 4) that briefly knocked him unconscious
-- Spent multiple lay-on-hands on Thane and Nageru in the maze; spent more on himself and others through Chapter 4
-- Spell reserves recovered after the night at Gwerm Manor
-- Has the unholy symbol of Baphomet wrapped in cloth (taken from the first Templar wizard)
-- Helped recover Yaniel's sword Radiance — **Thane is carrying it for now**
-- Carrying the moral weight of having read the S. V. letter
-- **NEW: privately knows Aravashniel is a Riftwarden elder** — revealed in the whispered Gwerm Manor conversation in Chapter 4. Has not told the others. May not. See Faith section and Things Known (Privately) below.
-- Carrying the orphan Klarah's name and care alongside Thane, Nageru, and the others
-- **Still in the Blackwing Library** with the strike team after the fight — sitting on the flagstones beside Korroc, glaive across his knees. Aravashniel is standing silent with the white-bearded Riftwarden librarian a few feet away. **Party is split:** Horgus, Klarah, and Nageru are still at Gwerm Manor. Reunion and the walk to the Defender's Heart are Session 5.
+## Current State (End of Session 7)
+- With the strike team inside the **Gray Garrison**, upper hallway, ground and second floors taken. The wardstone fragment is still unfound above them.
+- **Bears Radiance, Yaniel's holy blade** — it chose him in Chapter 6 and reshapes into a **glaive** in his hands. (It no longer rests with Thane.) His signature white-blazing holy smite runs through it.
+- Carries the **rod of cancellation** from Quednys — still unspent, kept for the wardstone fragment.
+- Took the recovered **Othirubo sword** (once Irabeth's) into his keeping, case and letter both read.
+- Still holds his **unspent silver scale**, warm, kept for its specific purpose.
+- Still carries the unholy symbol of Baphomet (wrapped) and Irabeth's reserve potions; spell reserves spent down hard over a long fight (create water, dimensional slides, smite-shocking-grasp, the harder-to-hit grace, healing waves).
+- **Privately knows Aravashniel is a Riftwarden elder** (Ch 4) and that the Blackwing was a Riftwarden stronghold — untold to the others.
+- Klarah is safe with the non-combatants at the Defender's Heart; her care remains his (and the company's) quiet anchor.
 
 ## Established Moments
 - **Chapter 1:** Saw Terendelev's transformation. Was recognized by her. Picked up the silver scale and felt the gift. Survived the fall. Cast light spell that first revealed the underdark cavern to survivors.
 - **Chapter 2:** Bowed properly to Chief Sull. Dreamed of Terendelev on the cliff. Made peace with the mongrelfolk of Nathholm. Recognized the carved crusader statues as portraits of the touched.
 - **Chapter 3:** Identified the dretches as demons. Performed his signature smite-shocking-grasp on Hosilla's Templar. Healed Thane after Hosilla impaled him. Helped recover **Radiance** (Thane is carrying it).
 - **Chapter 4:** Emerged with the party into the ruined city. Catalogued the devastation with his observer's eye. Dimension-stepped to catch the orphaned child Klarah after Korroc bull-rushed her free of the Sarenrae knights; comforted her with the patience of a Shelyn paladin; broke briefly when she asked *"Are you going to kill me too?"* Stabbed the second Sarenrae knight. Cast snowball, scorching ray, and his signature smite-shocking-grasp through the day's fights. Wounded by the half-orc Templar in Irabeth's house. **Privately revealed-to: Aravashniel is a Riftwarden elder** — whispered conversation at Gwerm Manor; Aravashniel had recognized Caleth's lineage from their first meeting in the underdark. The Blackwing Library was a Riftwarden stronghold. Caleth now carries that secret. Scouted ruined Nyserian Manor with Korroc and Thane. Recognized the bound librarians at the Blackwing as scholars worth saving; **was knocked unconscious by the library knight's mace and brought back by Korroc's first-ever fire-elemental Life Oracle transformation.** Finished the fight with his glaive in the knight's chest.
+- **Chapter 5:** At the Blackwing reunion, pressed the librarians on **the worm that walks (Xanthir Vang)** and what he had torn from the tower. At **Topaz Solutions**, fought at glaive-reach, struck the bark-child, and spent a lesser restoration on the root-drained Nageru. At the **Tower of Estrod**, **shrugged off the tiefling-leader's fire again and again** (his fire-resistance turning the spells aside like a curtain), then ended him with the **signature smite-shocking-grasp** — holy light and blue lightning meeting along Radiance's edge. **Read the Minagho letter aloud** — Vorlesh gone to the Abyss to secure a Nahyndrian crystal and turn the wardstones to the enemy's use.
+- **Chapter 6 (POV):** *The Vision Made Flesh / The Blade That Chooses.* **Radiance woke as a glaive in his hand** at the Defender's Heart and would not change back for him; Korroc gave it to him with the plainest reasoning in the world. Received the **rod of cancellation** from Quednys (who already knew the Blackwing was a Riftwarden stronghold) and Aravashniel's **hidden cache** location. Crossed the **empty square where Terendelev fell** — her body gone, her grave a swept patch of stone — and said nothing aloud. The only one who understood the Abyssal the mirror-breaker spoke (*"more pretties to eat"*), and what he answered. Discerned the strong evil radiating off the two skin-clad door-guards; fought the bookshop Abrikandilu and the vermlek skinsuit-demons wearing Nyserian and Hulrun; ended the chapter at the shut doors of the Gray Garrison, rod in his pack and the blade chosen.
+- **Chapter 7:** **Cleaned the fouled shrine to Iomedae** and, kneeling in acknowledgement, found he could suddenly **read the desecration-hidden Celestial** — then called Nageru to the prayer-bench to read the passphrase aloud (*"Let us inherit thine arms, Iomedae"*). Later **spoke that passphrase to open the temple armory's hidden vault**, recovering an Iomedaen war-store for the bleeding city. **Conjured water** to put out his burning companions — Thane, then Korroc — more than once against the displacement-bomber tiefling. Took the Othirubo sword-case into his keeping. On the second floor, **dimensional-slid from seam to seam of the air** through a cultist crossfire, smote a tiefling through the chest with Radiance lit white, and — when a cultist ran Nageru through — **reached the man and killed him with a shocking-grasp smite** (*the smell of baking flesh*). Spent freely keeping the company alive: the harder-to-hit grace on Nageru, two healing waves at the end. **Privately clocked the name "Lord Staunton"** in Othirubo's letter — and what it might mean, set against the shadow-without-a-shadow of his own visions.
 
 ## Relationships
 - **Korroc:** Two paladins finding mutual respect. Caleth admires Korroc's foundational faith; Korroc admires Caleth's quick mind.
@@ -142,6 +154,7 @@ He has not told the others any of this.
 - The identity of **S. V.** — though he suspects it is someone he may eventually have to look in the face. *(He also does not yet know whether S. V. is the shadow-without-a-shadow from the Lantern Seer's vision.)*
 - Whether Aravashniel knows more about Caleth's parents than he has yet said (likely; they were the same order).
 - Whether any of the four Blackwing Library librarians the party rescued are also Riftwardens. (Aravashniel recognized at least the white-bearded older one; Caleth saw the recognition but didn't get the conversation.)
+- **Whether "Lord Staunton" (named in the Othirubo letter, Ch 7) is S. V.** — the name surfaced in the Gray Garrison, bound for Drezen, with a brother set to inherit a blade. The resonance with the S. V. letter (*"I shall assume command of Drezen"*) and with the shadow-vision is strong, but Caleth has **not** confirmed it. A thread he has filed, not pulled. **(DELIBERATE delayed reveal — neither characters nor players have connected it; the GM is holding it for a future reckoning. Do NOT connect it early. See memory: *Staunton = S. V. delayed reveal.*)**
 
 ## Things Caleth Knows (Privately)
 *Secrets Caleth carries, kept from the rest of the party. He may share with strong reason, but won't volunteer.*

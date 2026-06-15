@@ -95,6 +95,26 @@ Think of it like grain in wood: the grain gives the piece its character and is g
 - Don't pad. Don't truncate. Let the session's content dictate length.
 - If you hit an output limit before finishing, stop at a logical scene break and signal "continue" to the user.
 
+## Song Writing Rules (Suno)
+
+These constraints apply every time an Opus sub-agent writes a Suno song.
+
+**HARD CHARACTER LIMITS:**
+- **Lyrics box: 1,000 characters maximum, spaces included.** This is firm — Suno will cut anything over.
+- **Style box: ~800 characters.** Keep it tight.
+
+**Section tag discipline:** Tags like `[Verse 1]`, `[Refrain]`, `[Bridge]`, `[Outro]`, `[Spoken]` count toward the 1,000. Keep them short — just the label. No inline descriptions inside the lyrics box (e.g., NOT `[Verse 1 - quiet baritone, close-mic'd, cello underneath]`). All instrumentation details, tempo, voice type, and register instructions belong in the **style box only**.
+
+**Single register.** Suno cannot handle four-stage builds or genre transitions. Pick one register and stay in it start to finish.
+
+**Target runtime: under 2 minutes 30 seconds.** State this explicitly at the top of the style box: *"Target: under 2 minutes 30 seconds total. No instrumental padding between sections."*
+
+**No story recap in lyrics.** Lyrics are interior state, not plot summary. If a line could appear in a chapter summary instead of a song, cut it.
+
+**Structure that fits within 1,000 chars:** Three short verses (4 lines each ≈ 30 chars/line), one refrain (4 lines), and a brief spoken closer — all section tags included — comes to roughly 700–800 characters. Leave headroom. When in doubt, cut a verse.
+
+---
+
 ## Final Test
 
 Before submitting a chapter, ask:

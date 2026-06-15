@@ -196,14 +196,86 @@
 
 **Plot significance:** The first major recurring antagonist of the campaign. Will likely be unmasked in mid-campaign and become a personal nemesis, especially for Thane (whose contract this is) and possibly Caleth (who may know the person from before).
 
+**Chapter 7 development:** A second letter surfaced in the Gray Garrison — from a servant named **Othirubo** to a **"Lord Staunton"** — bound for **Drezen**, naming a **brother** as the intended heir of a recovered sword. Staunton's Drezen connection **strongly echoes S. V.** (*"I shall assume command of Drezen"*). The party has **filed the Staunton / S. V. resonance without confirming it** — Thane explicitly refused to close the circuit on a name that merely starts with S, and Caleth privately noted the same. (See **Lord Staunton**, **Othirubo** below.)
+
 ---
 
-### Vorlesh
-**Status:** Unknown.
+### Areelu Vorlesh
+**Status:** Living, active. Gone to the Abyss (Ch 5–6) to secure a Nahyndrian crystal; bound for Kenabres. (Full name **Areelu Vorlesh** established in Irabeth's Ch 6 briefing; earlier letters call her "Vorlesh.")
 
-**Role:** Named in the S. V. letter as the agent who "finished with the wardstone." This is the operative who actually carried out the wardstone destruction.
+**Role:** The witch **who opened the Worldwound** a century ago — and the operative who destroyed/"finished with" the Kenabres wardstone. Per the Minagho letter (Ch 5) and Irabeth's briefing (Ch 6), she has **gone to the Abyss to secure a Nahyndrian crystal** of the proper purity from "our Lord's daughter," and will then **come to Kenabres to turn the wardstone fully to the enemy's use** — reversing the border field into a weapon against the crusade.
 
-**Plot significance:** Major target. Will be central to the wardstone-investigation arc.
+**Plot significance:** The central antagonist of the wardstone arc, and the reason the party must reach and break the wardstone fragment in the Gray Garrison *before she arrives.* The hand that first cut the Worldwound still walks.
+
+---
+
+### Minagho
+**Status:** Living. In the Worldwound — **holds the broken city of Raliscradin.**
+
+**Role:** A demon of rank, not a foot-soldier. Wrote the letter recovered beneath the Tower of Estrod (Ch 5), gloating over Kenabres's coming death and recalling her "**Red Morning Massacre.**" Serves Lord Baphomet; coordinates the Kenabres operation and elevated Faxon to command the local Templars.
+
+**Key facts (from her letter to Faxon):** Vorlesh has left for the Abyss to secure a **Nahyndrian crystal** from "our Lord's daughter," then will come to Kenabres to "turn the wardstones fully to our use." Minagho regrets she cannot be present for the city's murder.
+
+**Plot significance:** A named, ranked demonic antagonist tied directly to the wardstone plot and the fall of Kenabres. Raliscradin (her seat) is a potential later target.
+
+---
+
+### Faxon
+**Status:** Living (presumed). Recipient of Minagho's letter (Ch 5).
+
+**Role:** The **new commander of the Kenabres Templars**, elevated after he "report[ed] your superior's mishandling of funds" — i.e., he informed on his own superior to climb. (The superior is unnamed in the letter; plausibly **Hosilla**, the prior Kenabres Templar contact, now dead.) Minagho tells him he "need not command for long, for the city is about to die."
+
+**Plot significance:** The current local head of the Templar cell in Kenabres — a concrete antagonist the party may meet as they press toward the Gray Garrison.
+
+---
+
+### Xanthir Vang — "The Worm That Walks"
+**Status:** Active. Came to the Blackwing, did his work, and left.
+
+**Role:** A **worm that walks** — Xanthir Vang. He **brought down the upper floors of the Blackwing tower**, took something from the order, and departed. The librarians do not know what he took.
+
+**Plot significance:** Tied to the destruction of the Blackwing Library — which was a **Riftwarden stronghold** (secret; Caleth/Aravashniel know — see Aravashniel's entry). Open thread: *what did he take from the order, and why?*
+
+---
+
+### Staunton Vhane
+**Status:** Living, at large. Named by Irabeth in Chapter 5.
+
+**Role:** A model crusader and secret traitor — leader of a group called the **Hammers of Heaven**, held up to younger soldiers as what they should aspire to be. He was the enemy's the whole time. Irabeth caught him, and he **slipped her hand** (escaped).
+
+**GM canon (do NOT surface in-story — see flag):** Staunton Vhane **is** S. V. (the letter-writer bound to "assume command of Drezen") and the **"Lord Staunton"** of the Othirubo letter (Ch 7).
+**⚠️ The players and characters have NOT connected Staunton Vhane ↔ S. V. ↔ Lord Staunton — DELIBERATELY.** The GM is holding it for a future "I can't believe I missed that" reckoning. Do NOT connect them in prose or "correct" the chapters. See memory: *Staunton = S. V. delayed reveal*, and the **S. V.** and **Lord Staunton** entries.
+
+**Plot significance:** Almost certainly the campaign's recurring nemesis, soon seated at Drezen — a personal target for Thane especially.
+
+---
+
+### Lord Staunton (Unconfirmed — possibly S. V.)
+**Status:** Living. Named in the Othirubo letter (Chapter 7).
+
+**Role:** A lord of the enemy, bound for or commanding at **Drezen**, with authority over the Gray Garrison operation. Has a **brother** for whom a recovered sword was intended.
+
+**Open thread:** His Drezen command echoes **S. V.** strongly enough that he may *be* S. V. (or a close associate), but **the party has not confirmed it.** Keep the connection suggestive, not stated, until canon or the GM confirms.
+
+**⚠️ DM intent — DELIBERATE delayed reveal:** Neither the players nor their characters have made the S. V. ↔ Staunton Vhane connection, even though Irabeth named Staunton Vhane back in Ch 5 and the initials are obvious. That gap is **intentional** — the GM is saving it for a future "I can't believe I missed that" moment. Do NOT connect them in prose or canon, and do NOT "correct" Chapter 7's cold-filing of the name. See memory: *Staunton = S. V. delayed reveal.*
+
+---
+
+### Othirubo
+**Status:** Living (presumed). Writer of the Chapter 7 letter to Lord Staunton.
+
+**Role:** A servant of Lord Staunton's — gloating, cruel, comfortable arranging demonic "creativity" (he had Kandro Nyserian skinned and worn by a vermlek as punishment for delivering a sword late).
+
+**Plot use:** A named, hateable hand of the enemy. Could surface as a mid-tier antagonist or a voice in further correspondence.
+
+---
+
+### Kandro Nyserian
+**Status:** Dead — skinned, his hide worn by a **vermlek** demon (Othirubo's punishment). That skinsuit-demon was **killed by the party at the Gray Garrison doors in Chapter 6.**
+
+**Role:** Owner of Nyserian Manor (a Templar safe house, since destroyed). Per the Othirubo letter, he came to the garrison begging an escort north to Drezen to deliver Irabeth's old sword to Lord Staunton, and was punished for revealing the sword late.
+
+**Significance:** The Othirubo letter names him and explains the Chapter 6 skinsuit-demon — the bloated horror at the doors was a vermlek wearing Kandro Nyserian's skin.
 
 ---
 
@@ -232,12 +304,31 @@
 
 ---
 
+### Quednys Orlun
+**Status:** Living. At the Defender's Heart.
+
+**Full name:** **Quednys Orlun** (canonical). Note: Chapter 5 prose originally misspelled the given name as "Quedys" — corrected to "Quednys." Chapter 6 uses "Quednys" (correct given name; surname not yet stated in prose).
+
+**Role:** Head librarian of the Blackwing Library. One of the primary survivor-leaders of Kenabres — a lynchpin in the organization of survivors, one of the main reasons the city didn't dissolve into chaos after the wardstone fell.
+
+**Key facts:**
+- **Knows the Blackwing Library served as a Riftwarden stronghold** — this is part of his position as head librarian, not something he learned from the party.
+- Was at the Defender's Heart rather than the library when it came under attack; carries guilt about it.
+- Gripped Caleth's shoulder and thanked him for being there when he wasn't. Promised to send soldiers back to the Blackwing and bring the librarians to safety.
+- **Gave Caleth the rod of cancellation** — salvaged from a collapsed wizard's shop — for use against the wardstone fragment in the Gray Garrison.
+
+**Relationship anchor:** Caleth knows Quednys knows more about the library than a casual administrator would. The thread was not pulled — Caleth filed it and moved on. Future interaction may deepen this.
+
+---
+
 ### Lord Hulrun
-**Status:** Unknown — was on the cathedral stage at the moment of the attack.
+**Status:** Dead (Chapter 6). Confirmed — a demon was wearing his skin at the Gray Garrison doors.
 
 **Role:** Aged inquisitor, ruler of Kenabres before the attack.
 
-**Plot significance:** May or may not have survived. The party will find out when they reach the surface.
+**Fate:** A demon was literally wearing his skin as a disguise when the party reached the Gray Garrison. Korroc identified it: *"No skeleton. No flesh. Demons literally wearing their skins."* When it was killed, the demon shed the skin-suit and revealed its true form. Hulrun was gone long before — only the costume remained.
+
+**Plot significance:** A grim confirmation of how thoroughly the enemy had infiltrated Kenabres. Lord Hulrun, a righteous man by all accounts, was taken and hollowed. His death was before the campaign's events; his costume died at the garrison doors.
 
 ---
 

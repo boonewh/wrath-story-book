@@ -195,13 +195,13 @@ A long while later Aravashniel turned to the rest of them.
 
 He paused. A look crossed his face — quick, sharp, as if a thought had reached him from a long way off. He turned back to the librarians.
 
-"Where is Quedys?"
+"Where is Quednys?"
 
 They looked at each other. They shrugged, all four of them, the small helpless shrug of men whose roll-call no longer made sense.
 
 Aravashniel's mouth tightened. He turned to the party.
 
-"Please, when you get to the inn," he said. "Most of what is left of the order — of any order — will be there. Ask after a man named Quedys. If you find him, send him back to us. If you find anyone willing to help guard this place, send them as well. By then I may have an accounting."
+"Please, when you get to the inn," he said. "Most of what is left of the order — of any order — will be there. Ask after a man named Quednys. If you find him, send him back to us. If you find anyone willing to help guard this place, send them as well. By then I may have an accounting."
 
 Korroc nodded. Thane nodded. Nageru inclined his head.
 

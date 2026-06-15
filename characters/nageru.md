@@ -95,19 +95,24 @@ His blood manifests in:
 
 ## Silver Scale
 - Charge: **Divine Smite empowerment for one fight** — for a duration, his unarmed strikes count as good-aligned, magic, and overcome demonic resistances.
-- Used once in Chapter 3 against the dretches.
+- Used in Chapter 3 against the dretches, and again in Chapter 7 to unmake more of them.
 
-## Current State (End of Session 3)
-- Wounds from the dretches mostly closed by Korroc/Caleth healing
-- Took a glaive cut along the chest from a Templar; healed but tunic ruined
-- Standing watch in the rat-room while others sleep
-- Has not yet had a POV chapter — his is the **most enigmatic** of the four
+## Current State (End of Session 7)
+- With the strike team inside the **Gray Garrison**, upper hallway, both floors taken.
+- **He has had his POV chapter now — Chapter 5, *The Patient Thunder / The Open Fist*.** (Still the most reserved of the four; the POV landed hard, as designed.)
+- **Nearly killed in Chapter 7** — a cultist's glaive went clean through his chest and he collapsed onto the stone; revived by Korroc's healing. Whole again, but the wound is remembered.
+- Carries recovered **cache javelins** for ranged work.
+- The silver scale's charge was spent again in Chapter 7 (holy fists, against the dretches).
+- Took the worst of nearly every fight in the garrison, as is his way — first through the doors, last to make a sound about a wound.
 
 ## Established Moments
 - **Chapter 1:** Picked his silver scale. Killed cockroaches with bare hands. Caught the carrion fly and broke it. Brought the maggot-popping-from-floor moment to a definitive end with both fists down at once.
 - **Chapter 2:** Saved Horgus at the chasm with a one-handed catch. Quietly convinced Horgus to help dig out Crel by appealing to decency. Walked close to the spore cougher to check if it was dead.
 - **Chapter 3:** Took the brunt of the dretch fight after activating his silver scale. Nearly went down twice. Fists flared with celestial fire as he ended each demon. Healed himself with lay on hands when nearly dead.
 - **Chapter 4 (subtle presence; player out for the session):** Emerged with the party into the wound-city and grew quiet — his Lawbringer celestial-sense registered the scale of threshold-violation in Kenabres and overwhelmed him. Stood prayer-still during Korroc's last rites for the Sarenrae knights, holding the moment from the outside. Carried Klarah on the walk to Anevia's home. Observed quietly that **she will need a name a parent uses** — *"a small name, kind."* Took first watch at Gwerm Manor; was found later in the half-dark with Klarah asleep against him. Told Korroc, quietly, what had been pressing on him: *"There has been a great breaking of order here. Doors that should not have been opened. Walls that should not have come down. The thresholds of this city have been violated past counting. My blood — my blood feels each one."* Stayed at Gwerm Manor for both outings (Nyserian recon and the Blackwing / Defender's Heart run) to guard Horgus, Klarah, and the manor itself. **The chapter ends with the strike team still in the library and Nageru still at the manor — they have not yet reunited.** His quiet has not lifted. The reunion is a Session 5 beat.
+- **Chapter 5 (POV):** *The Patient Thunder / The Open Fist.* Meditating at Gwerm Manor, **felt the demon-swarm coming with his Archon blood** — a tide fleeing something worse — and **carried Klarah out at a run**, leading the manor group (Anevia, Horgus, the child) through the broken city to the Blackwing and the reunion with the strike team. At the Defender's Heart, gave the gate-password (*"Silver Strong"*) and watched the **Anevia–Irabeth reunion** with quiet awe (*love survives the apocalypse; it is one of the things we are for*). **Told the whole story to Irabeth** — more words than he had spoken in any day of his life, and did not stumble. At **Topaz Solutions** took three arrows without a sound; against the root-draining bark-child he was latched and drained gray, then **tore the roots out of his own thigh** and rose. At the **Tower of Estrod**, javelined the last fleeing cultist (*"Evil must die"*), then in the Baphomet chapel below **tore down the minotaur head, broke the ritual knives, and put his fists through the green lanterns one by one** — *restoration, not rage.* Heard the **Minagho letter** read and let two new evils settle in his blood: *These also.*
+- **Chapter 6:** Held Radiance — it became a **longsword** — and handed it back without ceremony (*"I am not a weapon user"*). In the bookshop, **flanked the Abrikandilu alongside Caleth** and put a thrown javelin into the shop; took claws and a bite and did not fall. At the Gray Garrison doors, **drove a single fist into the thing wearing Lord Hulrun's skin as it erupted from its hide** and ended it before it finished standing. Barefoot at the shut doors with the rest of them.
+- **Chapter 7:** First through every door, as ever. In the museum, **ended an Abrikandilu with a single spinning kick that flung it the length of the room into a wall**; put a thrown javelin across the same room into the second. **Kicked the barred inner door off its brackets** when Thane reached for the chime — patience spent, the door simply ceased. **Lit his fists with the silver scale's holy fire to unmake the dretches** that turned honest steel. Against the displacement-bomber tiefling, when sight failed in the smoke he **went still, listened the enemy out of the dark, and dropped him by sound alone**. Took a cultist's bite, claws, and bolts up the stair without a sound — until, on the second floor, **a cultist drove a glaive clean through his chest, a critical strike, and Nageru folded and went down** onto the bloodied stone. Korroc reached him and brought him back; **he rose.** The still water, driven deep and risen again.
 
 ## Relationships
 - **Korroc:** Brotherly affection. Two faiths recognizing each other. Korroc spent his last reserves keeping Nageru on his feet in Chapter 3 — Nageru has not forgotten.
