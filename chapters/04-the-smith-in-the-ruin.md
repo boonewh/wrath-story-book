@@ -49,7 +49,7 @@ The Worldwound. The Worldwound was *here*. The Worldwound had come *in*.
 
 A small dry voice spoke at his elbow.
 
-"Southeastern Gate district," Aravashniel said. The old wizard's half-restored eyes squinted at the skyline. "We came up well east of the cathedral. The Gate is — was — two streets that way."
+"Southeastern Gate district," Aravashniel said. The wizard's half-restored eyes squinted at the skyline. "We came up well east of the cathedral. The Gate is — was — two streets that way."
 
 Korroc could not have placed it. He had not recognized a single building. Without Aravashniel's careful pages-rustling voice he would have stood in his own city like a stranger for an hour.
 
@@ -821,7 +821,7 @@ Caleth nodded once.
 
 Korroc, watching, did not understand the weight in the elder's voice. The Blackwing Library was a library. He knew it from passing — a long low building down toward the river, with bronze doors and an ill-tempered keeper who had not let dwarves past the threshold without three forms of identification. He had no love for the place. He understood that scholars loved it. He understood that Aravashniel, a scholar, would grieve to see it harmed.
 
-He did not understand the weight he saw on the old man's face.
+He did not understand the weight he saw on the elf's face.
 
 He filed it.
 

@@ -99,19 +99,19 @@ Think of it like grain in wood: the grain gives the piece its character and is g
 
 These constraints apply every time an Opus sub-agent writes a Suno song.
 
-**HARD CHARACTER LIMITS:**
-- **Lyrics box: 1,000 characters maximum, spaces included.** This is firm — Suno will cut anything over.
-- **Style box: ~800 characters.** Keep it tight.
+**THE ONE HARD CHARACTER LIMIT — the STYLE box:**
+- **Style box: ~1,000 characters maximum, spaces included.** This is the real, firm limit — Suno rejects anything over (tested: 1,054 was over the line). Count it and keep it at or under 1,000.
+- **Lyrics box: NOT capped at 1,000.** The old "1,000 hard cap" was wrong. Suno's lyrics box accepts full-length songs (3,000+ characters confirmed in testing — a song pasted three times went through fine). **Write the song to its proper length. Do not truncate to a number that does not exist.** Many older files in `songs/` still note an obsolete "under the 1,000 hard cap" — ignore that framing going forward.
 
-**Section tag discipline:** Tags like `[Verse 1]`, `[Refrain]`, `[Bridge]`, `[Outro]`, `[Spoken]` count toward the 1,000. Keep them short — just the label. No inline descriptions inside the lyrics box (e.g., NOT `[Verse 1 - quiet baritone, close-mic'd, cello underneath]`). All instrumentation details, tempo, voice type, and register instructions belong in the **style box only**.
+**Section tag discipline:** Keep tags like `[Verse 1]`, `[Refrain]`, `[Bridge]`, `[Outro]`, `[Spoken]` short — usually just the label, with instrumentation, tempo, voice type, and register instructions living in the **style box only** (NOT `[Verse 1 - quiet baritone, close-mic'd, cello underneath]`). Exception: a *short* performance cue inside a tag (e.g. `[Verse - double time]`) is allowed when it's needed to force a specific delivery Suno keeps missing.
 
 **Single register.** Suno cannot handle four-stage builds or genre transitions. Pick one register and stay in it start to finish.
 
-**Target runtime: under 2 minutes 30 seconds.** State this explicitly at the top of the style box: *"Target: under 2 minutes 30 seconds total. No instrumental padding between sections."*
+**No hard runtime cap.** The old "under 2:30" rule is lifted — let the song run its natural length. Only ask for "no instrumental padding between sections" when you actually want a tight, lean track.
 
 **No story recap in lyrics.** Lyrics are interior state, not plot summary. If a line could appear in a chapter summary instead of a song, cut it.
 
-**Structure that fits within 1,000 chars:** Three short verses (4 lines each ≈ 30 chars/line), one refrain (4 lines), and a brief spoken closer — all section tags included — comes to roughly 700–800 characters. Leave headroom. When in doubt, cut a verse.
+**Structure:** Build the structure the song needs — full verses, a recurring hook/refrain, a bridge, intro/outro — rather than squeezing to a character count. The only number to watch is the **style box** staying at or under ~1,000.
 
 ---
 

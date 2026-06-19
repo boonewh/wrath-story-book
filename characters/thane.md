@@ -6,6 +6,8 @@ Dwarf Rogue (**Knife Master** archetype) / Inquisitor. The investigator-blade. K
 ## Appearance
 Stocky dwarf in a worn chain shirt over leather. Twin daggers at his belt — the right blade his mother's, the left blade his father's wedding-knife, reversed in his off-hand for parries. Carries a shortbow. Wrist-sheath for a third blade (his own habit, not his mother's teaching). Beard shorter and less ornamented than Korroc's. Weathered face. Sharp watchful eyes that catalogue exits and weapons the way Caleth's catalogue iconography.
 
+**Age — IMPORTANT:** Thane is **young for a dwarf** — the same generation as his cousin Korroc (who is 51), in his prime, **not old.** Do NOT write him as aged. His "weathered" look comes from hard living — the Mendev camps, the Kenabres gutters — not from years, and his banked grief comes from losing his father young, not from age.
+
 ## Voice
 - Drier than Korroc, more guarded
 - Shorter sentences when on edge
@@ -58,7 +60,7 @@ Thane has never consciously named this as religious. It is simply *what his moth
 
 He was trained from boyhood as both a blade and a watcher.
 
-**The doubled grief.** Thane's father did not fall alone. **Korroc's father fell in the same crusade — almost certainly fighting alongside Thorek.** The two were kin and shared the same dream of Khar-Zadûn. Thane and Korroc are not just cousins; they are **the surviving sons of a doubled grief**, heirs of the same shattered oath. The shared loss is rarely spoken aloud and never lightly.
+**The doubled grief.** Thane's father did not fall alone. **Korroc's father fell in the same crusade, fighting alongside Thorek.** The two were **brothers of the Stonevein line** and shared the same dream of Khar-Zadûn. Thane and Korroc are not just cousins; they are **the surviving sons of a doubled grief**, heirs of the same shattered oath — and **both carry the Stonevein name** (resolved as canon in the post–Chapter 8 downtime interlude). The shared loss is rarely spoken aloud and never lightly.
 
 ## The Eagle Watch Contract
 **Critical:** Thane is **NOT a member of the Eagle Watch.** He was **hired** by them, on contract, three months before the campaign opened, to:

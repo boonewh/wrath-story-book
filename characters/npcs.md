@@ -30,7 +30,7 @@
 
 **Role:** Elder wizard. **Riftwarden elder** — same secret order as Caleth's biological parents. *(See "Riftwarden Identity — SECRET" below.)*
 
-**Appearance:** Older man. Face was burned and eyes ruined in the fall; partially restored by the restoration potion Caleth gave him. Still half-blind but can read his spellbook with effort.
+**Appearance:** An **elf** — long-lived but **not elderly**; he reads as mature and weathered, not aged. He is a Riftwarden *elder* by **rank and seniority in the order, not by age** — do NOT write him as an "old man." Face was burned and eyes ruined in the fall; partially restored by the restoration potion Caleth gave him. Still half-blind but can read his spellbook with effort.
 
 **Voice:** Dry. Scholarly. Speaks like pages rustling.
 

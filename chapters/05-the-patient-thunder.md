@@ -117,7 +117,7 @@ Then Thane saw what he was looking at.
 
 Then Thane lowered his hand.
 
-Then Aravashniel stepped out behind him, the old wizard's blind-clouded eyes finding nothing in particular and his face finding everything anyway.
+Then Aravashniel stepped out behind him, the wizard's blind-clouded eyes finding nothing in particular and his face finding everything anyway.
 
 "You came," Aravashniel said.
 
@@ -149,7 +149,7 @@ The head librarian — older, with a long gray beard and the kind of stoop that 
 
 A silence.
 
-Nageru watched Aravashniel's face. He saw the old wizard absorb the words the way a body absorbed a blow that had been expected for years. There was no surprise in him. There was only a closing.
+Nageru watched Aravashniel's face. He saw the wizard absorb the words the way a body absorbed a blow that had been expected for years. There was no surprise in him. There was only a closing.
 
 "What took the tower?" Aravashniel asked, very quietly.
 

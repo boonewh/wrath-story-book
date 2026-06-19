@@ -1,4 +1,4 @@
-# Korroc
+# Korroc Stonevein
 
 ## Class & Build
 Dwarf Paladin (**Stonelord** + **Oath of the Mendevian Crusade**) / Life Oracle. Warrior-healer hybrid. The Stonelord's bond to the bones of the world is not metaphor for Korroc — **stone literally runs in his veins.** His earth-magic, stone-flesh resilience, and ancestor-deep connection to the clanhold lineage are part of his body, not just his oath. The Oath of the Mendevian Crusade is his second, sworn vow: to do all in his power to find a way to close the Worldwound.
@@ -6,7 +6,9 @@ Dwarf Paladin (**Stonelord** + **Oath of the Mendevian Crusade**) / Life Oracle.
 **Oracle Curse:** *Elemental Imbalance: Fire.* His connection to flame runs hot — and the inverse follows. **He is vulnerable to cold.** Frost bites him harder than it bites his companions. Cold spells, freezing breath, the bone-deep chill of certain undead — all hit him for more than they ought to.
 
 ## Appearance
-Stout dwarf in dented full plate armor. Iron-banded braided beard. Heavy enameled shield bearing the hammer-and-anvil sigil of Torag. Warhammer at his hip. Beard streaked with soot from the forge, even in the underdark. Carries his armor with the unconscious ease of a man who has worn it for decades.
+Stout dwarf in dented full plate armor. Iron-banded braided beard. Heavy enameled shield bearing the hammer-and-anvil sigil of Torag. Warhammer at his hip. Beard streaked with soot from the forge, even in the underdark. Carries his armor with the unconscious ease of a man who has worn it for years.
+
+**Age — IMPORTANT:** Korroc is **51 — young for a dwarf**, squarely in his prime (dwarves live 350+ years; 51 is a vigorous young adult, NOT old). **Do NOT write him as an old man.** His weariness, gravitas, and "old smith" steadiness come from war, grief, and years at the forge — **not** from age. Where prose wants the weight of years, lean on the *work* and the *loss*, never on him being "old." *(Chapter 8 used "a man past fifty" / "old dwarf" framing — a human-scale read of his age. Correct going forward; see the planned Ch 8 light-touch fix.)*
 
 ## Voice
 - Blunt, warm, dwarven cadence
@@ -38,7 +40,7 @@ Do not replace the forge — **layer the stone underneath.**
 - Smith by trade. Works at a forge in Kenabres alongside Thane.
 - Devoted to Torag. Family faith going back generations.
 - **His parents fought in a previous Mendevian Crusade.** His father dreamed of regaining the lost Dwarven Sky City of **Khar-Zadûn** — the same dream that animated Thorek Stonevein, Thane's father.
-- **His father fell in the Fourth Crusade.** Almost certainly fighting alongside Thorek; the two were kin, and they shared the same dream. The Fourth was the disaster that broke a generation of dwarven crusaders. Korroc and Thane are not just cousins — they are **the surviving sons of a doubled grief.**
+- **His father fell in the Fourth Crusade.** Fighting alongside Thorek Stonevein — **the two were brothers of the Stonevein line**, and they shared the same dream. The Fourth was the disaster that broke a generation of dwarven crusaders. Korroc and Thane are not just cousins — they are **the surviving sons of a doubled grief**, and **both carry the Stonevein name** (resolved as canon in the post–Chapter 8 downtime interlude; their fathers were brothers).
 - **Demon-hatred from childhood.** He grew up never understanding why anyone would worship such a foul creature. The question was not moral or theological for him — it was *baffled.* Demons stole. Demons defiled. Demons killed his father. The men who served them were broken in a way Korroc cannot conceive of choosing.
 - **Has taken the Oath of the Mendevian Crusade.** A sworn paladin's vow: to do all in his power to find a way to **close the Worldwound.** This is not metaphor and not aspiration — it is an oath, and Korroc keeps his oaths.
 - Has consecrated at least one underground shrine of Torag and felt it answer (Chapter 1).
@@ -85,7 +87,7 @@ Do not replace the forge — **layer the stone underneath.**
 - **Chapter 7:** Cut down flanking tieflings at the garrison breach; turned a knife on his shield without looking and called *"Nice throw"* at Thane's fumbled fire. **Knelt in the filth to clean a fouled shrine to Iomedae** — a goddess not his own — because a desecrated holy place is a desecrated workshop, and a dwarf of the Father cannot walk past one. In the wrecked museum, **took up a defiled adamantine warhammer of the First Crusade** as his own: named the metal at a touch, felt the enchantment in it, gave thanks to **both Torag and Iomedae**, and wiped it clean. **An Abrikandilu's bite carried a demonic foulness into him that broke on his faith** (*"No," he said, almost conversational, the way a smith says it to a weld that won't take*). Lifted a magic **Iomedae sunburst shield** from the temple armory and took it up borrowed — *"I'll bring Iomedae with us… until I can ask the gods' leave to put her sunburst on alongside Torag's hammer and anvil."* Held the wall **back-to-back with Nageru** through a crossbow crossfire on the second floor; when Nageru was run through and fell, **ground down the hall through cultists to reach him and would not let him stay down** — wand and healing waves pulled him back. The conscience and the anvil of the company, again.
 
 ## Relationships
-- **Thane:** Cousin. Brothers in everything but mother. **Their fathers fell in the same crusade — likely fighting together — and both fathers dreamed of Khar-Zadûn.** The cousin-bond is not just blood; it is shared inheritance of the same broken oath. Banter is constant; loyalty is bone-deep. The shared grief is rarely spoken aloud and never lightly.
+- **Thane:** Cousin — **both Stoneveins; their fathers were brothers of the Stonevein line.** Brothers in everything but mother. **Their fathers fell in the same crusade — fighting together — and both fathers dreamed of Khar-Zadûn.** The cousin-bond is not just blood; it is shared inheritance of the same broken oath. Banter is constant; loyalty is bone-deep. The shared grief is rarely spoken aloud and never lightly.
 - **Caleth:** Growing respect. Two paladins of different traditions finding common ground.
 - **Nageru:** Brotherly affection. Two faiths recognizing each other.
 - **Anevia:** Treats her with the rough courtesy of an older dwarf to a partner-in-arms.

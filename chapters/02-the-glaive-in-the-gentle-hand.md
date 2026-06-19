@@ -55,7 +55,7 @@ Each one had been carved by someone who had loved the original. Caleth could see
 
 Not stone. Flesh, once, he thought. Flesh that became this.
 
-Aravashniel, beside him, was leaning on a staff Caleth had cut for him from an old crusader's spear and breathing through his teeth. The half-restored eyes squinted, drank, drank again. The old wizard had been silent most of the morning. Now he spoke for the first time, his voice the dry rustle of pages.
+Aravashniel, beside him, was leaning on a staff Caleth had cut for him from an old crusader's spear and breathing through his teeth. The half-restored eyes squinted, drank, drank again. The wizard had been silent most of the morning. Now he spoke for the first time, his voice the dry rustle of pages.
 
 "Caleth. Look at the workmanship."
 
@@ -161,7 +161,7 @@ The crusaders looked back.
 
 Aravashniel found his voice again, after a moment. He did not raise it. He did not need to. The cavern carried it.
 
-"They came down here," the old wizard said softly, looking around at the carved company, "because they could not bear to be looked at any longer. And they raised children. And the children were what the touch had made them. And the children raised children. And no one ever came down to find them."
+"They came down here," the wizard said softly, looking around at the carved company, "because they could not bear to be looked at any longer. And they raised children. And the children were what the touch had made them. And the children raised children. And no one ever came down to find them."
 
 Caleth said nothing for a long moment. He bent and retrieved his glaive from where it had fallen and wiped it carefully on the hem of his cloak.
 
@@ -411,7 +411,7 @@ Aravashniel limped over and laid his hands on it. He frowned, his half-restored 
 
 "Can you get it?" Caleth asked quietly.
 
-The old wizard shook his head. "Not by myself. Not in this state. But with all of us, and a lever, and perhaps — perhaps a levitate spell to take half the weight while you all push…"
+The wizard shook his head. "Not by myself. Not in this state. But with all of us, and a lever, and perhaps — perhaps a levitate spell to take half the weight while you all push…"
 
 "Show us."
 

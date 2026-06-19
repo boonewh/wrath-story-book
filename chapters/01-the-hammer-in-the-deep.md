@@ -628,7 +628,7 @@ Thane nodded too. "Aye."
 
 Nageru said nothing, but his expression said yes.
 
-Caleth took the potion to the elf. He explained. Aravashniel's mouth worked silently for a moment, and then the old wizard reached up with a shaking hand and took the half-elf's wrist, and bowed his head once, and accepted the vial. He drank.
+Caleth took the potion to the elf. He explained. Aravashniel's mouth worked silently for a moment, and then the wizard reached up with a shaking hand and took the half-elf's wrist, and bowed his head once, and accepted the vial. He drank.
 
 The air in the chapel hummed for an instant, the way it does when a spell takes hold. Aravashniel made a small sound, a hurt sound, and his hands went up to his eyes—and when they came away, the eyes were not quite ruined. Not whole. But eyes. Hazed, dim, half-blind, but eyes that turned toward Caleth and saw him.
 

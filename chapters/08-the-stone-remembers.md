@@ -77,7 +77,7 @@ The thread in Korroc's chest gave a flicker — Thane, a graze somewhere, nothin
 
 "It ate the heart," Thane said, looking down at the corpse the thing had robbed and the corpse the thing had become. He sounded almost philosophical about it. "Out of a dead man. In the middle of a fight."
 
-"Aye," Korroc said. "There's no understanding them. There never has been." It was an old refrain of his, that, worn smooth as a river-stone from a lifetime of turning it over. He had grown up baffled by the men who served such things and he was old now and still baffled. Demons stole. Demons defiled. Demons ate the hearts of the dead in the middle of trying to kill you. There was no door in him through which a man could walk to *choosing* that. He had given up looking for it years ago and only the grief of the looking remained.
+"Aye," Korroc said. "There's no understanding them. There never has been." It was an old refrain of his, that, worn smooth as a river-stone from a lifetime of turning it over. He had grown up baffled by the men who served such things and now that he was older he was still baffled. Demons stole. Demons defiled. Demons ate the hearts of the dead in the middle of trying to kill you. There was no door in him through which a man could walk to *choosing* that. He had given up looking for it years ago and only the grief of the looking remained.
 
 ---
 
@@ -445,7 +445,7 @@ In its place, worked into the face of the steel in a craftsman's hand finer than
 
 His god's mark. His own. Given to him in the night by the lady of the dawn, because a son of the Father should not carry a daughter's sun — and because she had wanted him to keep the shield, and had found the one way to give it that would let him bear it without a borrower's guilt the rest of his days.
 
-Korroc went down on both knees on the cold floor of the inn, and he set the shield before him, and he bowed his iron-banded head over the hammer and anvil that had not been there the night before, and he gave thanks. To Torag, for the work and the making and the keeping of his word. And to Iomedae, careful and full, the second prayer braided to the first the way he had watched Caleth braid his at the wardstone — thanks to a daughter-goddess at the end of her reach, who had taken a moment she did not have many of left to spend, and spent it being *kind* to a stubborn old dwarf and his shield.
+Korroc went down on both knees on the cold floor of the inn, and he set the shield before him, and he bowed his iron-banded head over the hammer and anvil that had not been there the night before, and he gave thanks. To Torag, for the work and the making and the keeping of his word. And to Iomedae, careful and full, the second prayer braided to the first the way he had watched Caleth braid his at the wardstone — thanks to a daughter-goddess at the end of her reach, who had taken a moment she did not have many of left to spend, and spent it being *kind* to a stubborn dwarf and his shield.
 
 His eyes were wet again. He let them be. There was no shame in a man weeping over a gift in an empty room before the others woke.
 
