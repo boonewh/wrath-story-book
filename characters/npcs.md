@@ -67,6 +67,7 @@
 - Slipped at the chasm and was saved by Nageru's one-handed catch
 - Said "Thank you" — possibly his first genuine word in the underdark — to Nageru
 - Refused to come on the Vescavor mission; stayed with Anevia and Aravashniel
+- Gave his old prayer-beads to Nageru during the breathing space (Interlude, Ch 8.5) — a quiet, significant act of trust
 
 **Relationship anchor:** Horgus is the **redeemable bigot.** He has been wrong about many things and may be wrong about more. But he is *being changed,* very slowly, by the company keeping. Treat him with the patience the company shows him. Do not make him purely villainous.
 

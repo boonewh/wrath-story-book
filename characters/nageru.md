@@ -18,7 +18,7 @@
 
 **No facial scars** — a testament to his disciplined parrying. Hands strong, with the slight calluses of countless hours of practice. He carries himself with **almost preternatural grace** — fluid, economical, never wasted motion.
 
-**Clothing:** simple white monastic wraps — weatherworn, blood-stained more often than not by this point. **Barefoot.** Carries a few javelins for ranged work; otherwise his only weapons are his fists.
+**Clothing:** simple white monastic wraps — weatherworn, blood-stained more often than not by this point. **Barefoot.** Wears Horgus's old prayer-beads at his wrist (given during the Interlude, Ch 8.5). Carries a few javelins for ranged work; otherwise his only weapons are his fists.
 
 ## Voice
 - Quiet, formal, occasionally cryptic
