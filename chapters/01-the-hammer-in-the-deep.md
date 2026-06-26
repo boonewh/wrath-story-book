@@ -120,9 +120,9 @@ Thane's head snapped around. Korroc had never seen his cousin move so fast on st
 
 Anevia bit down on a sound that wanted to be a scream and turned it into a curse instead. Thane huffed something that was almost a laugh.
 
-The half-elf had already moved on. He was bent over another fallen figure, an older elf man whose robes marked him a scholar, perhaps a wizard, and the half-elf's voice had gone tight with a fear he was not bothering to hide. "Aravashniel, are you—"
+The half-elf had already moved on. He was bent over another fallen figure, an older elf man whose robes marked him a scholar, perhaps a wizard, and the half-elf's voice had gone tight with a fear he was not bothering to hide. "Aravashnial, are you—"
 
-The older man turned his face toward the voice. The half-elf flinched before he could stop himself, and Korroc saw why. The right side of Aravashniel's face was a mask of burns and gashes, and where his eyes had been there was only ruin. The man was blind. Not gone-blind, not failing-blind. Wrecked.
+The older man turned his face toward the voice. The half-elf flinched before he could stop himself, and Korroc saw why. The right side of Aravashnial's face was a mask of burns and gashes, and where his eyes had been there was only ruin. The man was blind. Not gone-blind, not failing-blind. Wrecked.
 
 "Is there a healer?" the half-elf cried out, his voice ringing off the stone. "We need a healer!"
 
@@ -130,11 +130,11 @@ Korroc stepped forward, hammer still in his hand. He hung it at his belt as he c
 
 "Aye," he said, the word rolling out of his beard. "I'm Korroc. What do you need?"
 
-He bent over Aravashniel and laid his palm against the ruined brow, calling up the soft, golden warmth of Torag's mercy. He felt the wound. He felt it, the way a smith feels a flaw in a blade by running his thumb along the edge—and his face fell. He closed his eyes and shook his head once.
+He bent over Aravashnial and laid his palm against the ruined brow, calling up the soft, golden warmth of Torag's mercy. He felt the wound. He felt it, the way a smith feels a flaw in a blade by running his thumb along the edge—and his face fell. He closed his eyes and shook his head once.
 
 "I can't heal this," he said quietly. "Not here. Not with what I've got. It needs more than I can give."
 
-The half-elf's jaw clenched, but he nodded once and laid his hand on Aravashniel's shoulder.
+The half-elf's jaw clenched, but he nodded once and laid his hand on Aravashnial's shoulder.
 
 "My thanks for the trying," he said. "I am Caleth."
 
@@ -158,7 +158,7 @@ Horgus did not appear to notice the irony.
 
 The light spell, it turned out, had been Caleth's. He was paladin and something more—a wizard, by the careful way his fingers shaped the cantrip, by the spellbook Korroc glimpsed slung at his hip beneath the half-elf's traveling cloak. An odd combination. A useful one, Korroc thought.
 
-They took stock. Five able bodies: Korroc, Thane, Caleth, Nageru, and Horgus, who counted only by the most generous reckoning, and two wounded, Anevia with her broken leg and Aravashniel with his ruined eyes. The dead they left where they had fallen, after Korroc spoke a brief blessing over each, his fingers brushing closed eyes that had not been closed before. There would be time for proper rites later, if any of them lived to make later happen.
+They took stock. Five able bodies: Korroc, Thane, Caleth, Nageru, and Horgus, who counted only by the most generous reckoning, and two wounded, Anevia with her broken leg and Aravashnial with his ruined eyes. The dead they left where they had fallen, after Korroc spoke a brief blessing over each, his fingers brushing closed eyes that had not been closed before. There would be time for proper rites later, if any of them lived to make later happen.
 
 The cavern's only exit was a passage at its far end, narrow and dark, slanting downward.
 
@@ -280,7 +280,7 @@ Korroc and Nageru stood breathing hard in the lantern of Caleth's light.
 
 "Yes," said Nageru gravely. "I was just thinking that."
 
-Getting the rest of them down was a matter of rope and patience. Anevia could not put weight on her leg; Aravashniel could not see the floor. Korroc and Nageru took the weight of each in turn, the dwarf bracing at the bottom, the aasimar holding the rope above, and one by one the company came down into the old crusader's camp. Horgus complained the whole way and let go of the rope a foot too soon and landed on his backside in the dust, which improved Korroc's mood considerably.
+Getting the rest of them down was a matter of rope and patience. Anevia could not put weight on her leg; Aravashnial could not see the floor. Korroc and Nageru took the weight of each in turn, the dwarf bracing at the bottom, the aasimar holding the rope above, and one by one the company came down into the old crusader's camp. Horgus complained the whole way and let go of the rope a foot too soon and landed on his backside in the dust, which improved Korroc's mood considerably.
 
 They searched the camp. Most of it was useless—rotted leather, rusted iron, a journal whose pages crumbled at a touch. But in a corroded tin box at the bottom of the bedroll, Caleth's careful fingers turned up something that gleamed.
 
@@ -306,7 +306,7 @@ Korroc grunted. "I'll catch them at the top."
 
 He went first. Nageru cupped his hands and Korroc set his boot in them and the aasimar lifted, a clean, unhurried motion that sent four hundred pounds of dwarf and plate and warhammer rising into the air as smoothly as if Korroc had been a child. The rope went taut in Korroc's grip. He climbed hand over hand, the muscles in his shoulders singing the old, familiar song of every smith who had ever bent steel, and hauled himself over the lip.
 
-Then they passed the others up. Horgus first. He protested but did not refuse, which Korroc had half expected him to. Then Caleth, who climbed lightly and on his own. Then Aravashniel, whom they had to hoist between them, the blind man trembling but silent. Then Anevia, whose broken leg hung slack and whose teeth were clenched white against the pain. Korroc set his shoulder beneath her and pushed her gently up to where Thane reached down and caught her wrists.
+Then they passed the others up. Horgus first. He protested but did not refuse, which Korroc had half expected him to. Then Caleth, who climbed lightly and on his own. Then Aravashnial, whom they had to hoist between them, the blind man trembling but silent. Then Anevia, whose broken leg hung slack and whose teeth were clenched white against the pain. Korroc set his shoulder beneath her and pushed her gently up to where Thane reached down and caught her wrists.
 
 Nageru came up last, on the rope, hand over hand, like a thing of light and wind.
 
@@ -344,7 +344,7 @@ Korroc grunted. "Aye. Lucky bastard."
 
 "Lucky," Nageru agreed, "and bastard. Both."
 
-They cleared the rocky path together, hauling the worst of the rubble aside so Anevia could be carried through and Aravashniel could be guided. Beyond the rubble, the passage narrowed again and then opened, and as it opened Korroc stopped walking.
+They cleared the rocky path together, hauling the worst of the rubble aside so Anevia could be carried through and Aravashnial could be guided. Beyond the rubble, the passage narrowed again and then opened, and as it opened Korroc stopped walking.
 
 He stopped walking because he had gone, in an instant, somewhere holy.
 
@@ -360,7 +360,7 @@ Korroc heard himself say the name like a prayer. "Torag."
 
 He stepped down into the cavern, his plate clanking, his beard trembling.
 
-Caleth's voice came from behind him, gentle. "Wait, Korroc—let us check it first. Stay back, Anevia. Aravashniel, my hand. We'll go ahead a little. Just a little."
+Caleth's voice came from behind him, gentle. "Wait, Korroc—let us check it first. Stay back, Anevia. Aravashnial, my hand. We'll go ahead a little. Just a little."
 
 Korroc barely heard. He was already moving toward the shrine, drawn the way iron is drawn to a lodestone, but he had enough wit left in him to angle wide and cautious. Nageru ghosted to his left. They had not taken six steps when Korroc became aware of a sound.
 
@@ -614,13 +614,13 @@ They did the work.
 
 Caleth, going through the backpack one more time as they prepared to settle, found something he had nearly missed—the second potion. He held it up to the light, frowning, mouthing the resonance, and his eyes widened.
 
-"Restoration." He looked across the chamber to the bench where Aravashniel sat, the elf's ruined eyes turned vaguely toward the sound of voices.
+"Restoration." He looked across the chamber to the bench where Aravashnial sat, the elf's ruined eyes turned vaguely toward the sound of voices.
 
 Caleth lowered his voice and brought the others into a small council near the door. "It's only one dose. Only one. I can't make it stretch. It would set his eyes—" He hesitated. "Well, it would set some of his sight back, if cast soon. He's a mage. A real mage, not a hedge-conjurer. If we get him out of here whole, he could be—he could mean a great deal, in what comes."
 
 He looked at each of them in turn, the question plain.
 
-Korroc looked at Anevia, whose broken leg had been bound and splinted and could heal, given time and care and a proper bone-set. He looked at Aravashniel, whose eyes could not.
+Korroc looked at Anevia, whose broken leg had been bound and splinted and could heal, given time and care and a proper bone-set. He looked at Aravashnial, whose eyes could not.
 
 He nodded once. "Give it to him."
 
@@ -628,9 +628,9 @@ Thane nodded too. "Aye."
 
 Nageru said nothing, but his expression said yes.
 
-Caleth took the potion to the elf. He explained. Aravashniel's mouth worked silently for a moment, and then the wizard reached up with a shaking hand and took the half-elf's wrist, and bowed his head once, and accepted the vial. He drank.
+Caleth took the potion to the elf. He explained. Aravashnial's mouth worked silently for a moment, and then the wizard reached up with a shaking hand and took the half-elf's wrist, and bowed his head once, and accepted the vial. He drank.
 
-The air in the chapel hummed for an instant, the way it does when a spell takes hold. Aravashniel made a small sound, a hurt sound, and his hands went up to his eyes—and when they came away, the eyes were not quite ruined. Not whole. But eyes. Hazed, dim, half-blind, but eyes that turned toward Caleth and saw him.
+The air in the chapel hummed for an instant, the way it does when a spell takes hold. Aravashnial made a small sound, a hurt sound, and his hands went up to his eyes—and when they came away, the eyes were not quite ruined. Not whole. But eyes. Hazed, dim, half-blind, but eyes that turned toward Caleth and saw him.
 
 "Boy," the wizard whispered. "Boy."
 
@@ -660,11 +660,11 @@ By the eighth hour his voice was a dry husk and his knees ached and his eyelids 
 
 He did not wake until the others let him.
 
-When he opened his eyes the chapel was lit in the soft blue-gold of Caleth's dimmed cantrip, and Thane was sitting against the opposite wall keeping watch, and Anevia was asleep against Thane's shoulder, and Aravashniel was sitting up with his half-eyes turned toward a spellbook he could very nearly read again, and Nageru was in some meditation Korroc did not interrupt. Even Horgus was asleep, snoring sourly into his beard. Korroc rolled to his knees, put his palms together, and began the morning prayers of his order.
+When he opened his eyes the chapel was lit in the soft blue-gold of Caleth's dimmed cantrip, and Thane was sitting against the opposite wall keeping watch, and Anevia was asleep against Thane's shoulder, and Aravashnial was sitting up with his half-eyes turned toward a spellbook he could very nearly read again, and Nageru was in some meditation Korroc did not interrupt. Even Horgus was asleep, snoring sourly into his beard. Korroc rolled to his knees, put his palms together, and began the morning prayers of his order.
 
 He had not finished the first verse before he felt it.
 
-A wave of warmth rolled through the chapel, soft as a hand laid on the back of a tired child's neck. Every sleeper stirred. Caleth's eyes opened. Nageru's head came up. Anevia gasped softly, and Korroc saw the lines of pain on her face ease, just slightly, and the swelling under her splint go down a little. Thane's grip on his daggers loosened. Aravashniel lifted his face toward a light no one else could see and smiled, and the smile was the smile of a man who has remembered, after a long time of forgetting, that he is loved.
+A wave of warmth rolled through the chapel, soft as a hand laid on the back of a tired child's neck. Every sleeper stirred. Caleth's eyes opened. Nageru's head came up. Anevia gasped softly, and Korroc saw the lines of pain on her face ease, just slightly, and the swelling under her splint go down a little. Thane's grip on his daggers loosened. Aravashnial lifted his face toward a light no one else could see and smiled, and the smile was the smile of a man who has remembered, after a long time of forgetting, that he is loved.
 
 Korroc bowed his head until his forehead touched the cold stone.
 
@@ -680,7 +680,7 @@ He wiped his beard with the back of his hand and squared his shoulders inside hi
 
 "Right, then," Korroc said. "Up. All of you. Eat. Drink. Pray, if you've a prayer in you. We've a way out of here to find, and a world to find waiting on the other side—and if I know anything about this city, that world isn't going to be the one we left."
 
-He looked at each of them in turn—Caleth's grim half-smile, Nageru's calm bow of the head, Thane's nod, Anevia's jaw setting in spite of her splint, Aravashniel's half-restored eyes burning faintly with the will of a man who had something to do at last.
+He looked at each of them in turn—Caleth's grim half-smile, Nageru's calm bow of the head, Thane's nod, Anevia's jaw setting in spite of her splint, Aravashnial's half-restored eyes burning faintly with the will of a man who had something to do at last.
 
 And Horgus, scowling, dusting off his sleeves, but standing.
 

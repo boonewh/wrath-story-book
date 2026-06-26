@@ -31,7 +31,7 @@ He understood it now.
 
 He fell in behind Korroc as the dwarf-paladin began to walk, his shield catching what little light Caleth's cantrip threw. Thane's hand drifted, without thought, to the daggers at his belt — the right-hand blade, the one his mother had pressed into his palm the day she had finally stopped trying to make him a different sort of dwarf. If you're going to be a knife, son, be a true one. The weight of it was a comfort he had grown so used to he no longer noticed it, the way a man stops noticing his own breath until he is robbed of it.
 
-Behind him, Caleth and Nageru and Anevia followed. Behind them, Aravashniel and Horgus brought up the rear, with Aravashniel leaning on his improvised staff and Horgus muttering complaints into his beard.
+Behind him, Caleth and Nageru and Anevia followed. Behind them, Aravashnial and Horgus brought up the rear, with Aravashnial leaning on his improvised staff and Horgus muttering complaints into his beard.
 
 Anevia was walking on her own, now. The mongrel village's healers had done what they could — set the bone proper, packed it with poultices Thane did not know the names of, fitted her a real crutch carved from cave-pine — and Anevia, being Anevia, had insisted on testing the leg every chance she got. She caught him glancing back at her. Her mouth quirked.
 
@@ -797,7 +797,7 @@ He was looking at the sealed hole as he said it, not at any of the others. He sa
 
 Korroc grunted. "And there's whoever ran out the back door earlier. They're warning someone. The longer we leave it, the worse the welcome behind that locked door is going to be."
 
-Thane looked across the dim chamber at the others. He realized, with a small clean surprise, that none of them were looking at him for the call. They were just talking it through, the four of them and Anevia listening and Aravashniel with his half-restored eyes half-open, and the answer was assembling itself in the room without anyone having to argue for it.
+Thane looked across the dim chamber at the others. He realized, with a small clean surprise, that none of them were looking at him for the call. They were just talking it through, the four of them and Anevia listening and Aravashnial with his half-restored eyes half-open, and the answer was assembling itself in the room without anyone having to argue for it.
 
 The answer was that they were not going home after rest.
 
@@ -811,7 +811,7 @@ The answer was that they were going back down.
 
 Nageru nodded once. "As you say."
 
-Anevia, from her wall, said: "I'm staying with Horgus and Aravashniel. The four of you can move faster without us, and someone needs to watch this room."
+Anevia, from her wall, said: "I'm staying with Horgus and Aravashnial. The four of you can move faster without us, and someone needs to watch this room."
 
 "Are you sure?"
 

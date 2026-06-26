@@ -11,7 +11,7 @@ Kenabres.
 
 His city.
 
-He kept walking. Behind him, the others followed in the order they had walked all morning — Caleth at his shoulder with his glaive at low ready, Thane a half-step behind that with one dagger out and the other in its sheath because Thane was always halfway to a fight even when there wasn't one, Anevia limping but upright on her cave-pine crutch, Aravashniel with his bandaged half-eyes fixed on the light ahead, Horgus muttering. Nageru brought up the rear.
+He kept walking. Behind him, the others followed in the order they had walked all morning — Caleth at his shoulder with his glaive at low ready, Thane a half-step behind that with one dagger out and the other in its sheath because Thane was always halfway to a fight even when there wasn't one, Anevia limping but upright on her cave-pine crutch, Aravashnial with his bandaged half-eyes fixed on the light ahead, Horgus muttering. Nageru brought up the rear.
 
 The aasimar had been very quiet for the last hour.
 
@@ -49,9 +49,9 @@ The Worldwound. The Worldwound was *here*. The Worldwound had come *in*.
 
 A small dry voice spoke at his elbow.
 
-"Southeastern Gate district," Aravashniel said. The wizard's half-restored eyes squinted at the skyline. "We came up well east of the cathedral. The Gate is — was — two streets that way."
+"Southeastern Gate district," Aravashnial said. The wizard's half-restored eyes squinted at the skyline. "We came up well east of the cathedral. The Gate is — was — two streets that way."
 
-Korroc could not have placed it. He had not recognized a single building. Without Aravashniel's careful pages-rustling voice he would have stood in his own city like a stranger for an hour.
+Korroc could not have placed it. He had not recognized a single building. Without Aravashnial's careful pages-rustling voice he would have stood in his own city like a stranger for an hour.
 
 "Aye," he managed. "Aye. The Gate. I know it."
 
@@ -371,7 +371,7 @@ A long pause.
 
 "Klarah."
 
-"Klarah. I am Caleth. This is Korroc. This is Thane. This is Anevia. This is Aravashniel. This is Horgus. And the tall one behind you is Nageru. We're going to take you somewhere safe. Will you tell me where your parents are?"
+"Klarah. I am Caleth. This is Korroc. This is Thane. This is Anevia. This is Aravashnial. This is Horgus. And the tall one behind you is Nageru. We're going to take you somewhere safe. Will you tell me where your parents are?"
 
 A longer pause.
 
@@ -459,7 +459,7 @@ Caleth was looking at Anevia with the small still face that meant the half-elf h
 
 No answer. The little house was quiet.
 
-She moved through it, calling. Korroc and Caleth and Thane went in after her. Aravashniel and Horgus and Nageru held the door — Nageru carrying Klarah now, the child wrapped against his shoulder and quiet in a way Korroc could not read.
+She moved through it, calling. Korroc and Caleth and Thane went in after her. Aravashnial and Horgus and Nageru held the door — Nageru carrying Klarah now, the child wrapped against his shoulder and quiet in a way Korroc could not read.
 
 They went through the front room and into the small kitchen. They went through the kitchen and to the inner door.
 
@@ -725,9 +725,9 @@ Then he turned and went to wake the others.
 
 He stopped in the doorway of the great hall.
 
-Aravashniel and Caleth were already up.
+Aravashnial and Caleth were already up.
 
-They were standing at the far end of the hall, by the cold hearth. Aravashniel had his bandaged hand on Caleth's sleeve. The two of them stood close, the way two men stand who are saying something that no one else is meant to hear, and their faces were tilted slightly toward each other and their voices were low enough that Korroc, twenty feet away, could not catch a single word.
+They were standing at the far end of the hall, by the cold hearth. Aravashnial had his bandaged hand on Caleth's sleeve. The two of them stood close, the way two men stand who are saying something that no one else is meant to hear, and their faces were tilted slightly toward each other and their voices were low enough that Korroc, twenty feet away, could not catch a single word.
 
 He stopped.
 
@@ -735,7 +735,7 @@ He had walked in on a private moment.
 
 He stepped back into the hallway and waited. He waited the way a man waits at the door of a forge when another smith is doing something delicate that should not be interrupted.
 
-He could see them, dimly, through the doorway. Aravashniel's bandaged hand was on Caleth's sleeve. Caleth was listening. Caleth was very still. Aravashniel said something short. Caleth nodded, once. Aravashniel said something else. Caleth nodded again. Then Caleth said something quietly back, and Aravashniel — Aravashniel laid his other hand on Caleth's shoulder, briefly, and there was a thing in the gesture Korroc would not have a name for.
+He could see them, dimly, through the doorway. Aravashnial's bandaged hand was on Caleth's sleeve. Caleth was listening. Caleth was very still. Aravashnial said something short. Caleth nodded, once. Aravashnial said something else. Caleth nodded again. Then Caleth said something quietly back, and Aravashnial — Aravashnial laid his other hand on Caleth's shoulder, briefly, and there was a thing in the gesture Korroc would not have a name for.
 
 A long quiet between them. Then Caleth turned and walked toward the doorway where Korroc stood waiting.
 
@@ -745,7 +745,7 @@ Korroc met him there.
 
 Korroc looked at him.
 
-He looked past him at Aravashniel, who was standing alone by the cold hearth, his half-eyes closed.
+He looked past him at Aravashnial, who was standing alone by the cold hearth, his half-eyes closed.
 
 He looked back at Caleth.
 
@@ -765,7 +765,7 @@ He turned and went to get the others ready.
 
 ---
 
-The three of them left the manor in the second hour after dawn. Korroc, Thane, Caleth. Horgus stayed with Klarah in the great hall — Horgus had said, gruffly, that someone had to make sure the child ate, and Korroc had heard the small embarrassed kindness under the bluster and had thanked him for it. Aravashniel stayed too, for this first errand — the recon was light, the company small, the elder wizard's strength still half-restored. Anevia held the back door with her bow across her knees.
+The three of them left the manor in the second hour after dawn. Korroc, Thane, Caleth. Horgus stayed with Klarah in the great hall — Horgus had said, gruffly, that someone had to make sure the child ate, and Korroc had heard the small embarrassed kindness under the bluster and had thanked him for it. Aravashnial stayed too, for this first errand — the recon was light, the company small, the elder wizard's strength still half-restored. Anevia held the back door with her bow across her knees.
 
 Nageru stayed.
 
@@ -797,7 +797,7 @@ They turned back for Gwerm Manor.
 
 ---
 
-It was Aravashniel who spoke when they returned.
+It was Aravashnial who spoke when they returned.
 
 The elder wizard was sitting at the kitchen table with Klarah opposite him, drawing slow patterns on the wood with a finger. He looked up when they came in. He looked at Caleth. He looked at Korroc.
 
@@ -809,23 +809,23 @@ The elder wizard was sitting at the kitchen table with Klarah opposite him, draw
 
 It was Caleth who answered, after a small pause. "Still ahead. We're going to make for the inn directly — by way of the library, since it's on the road."
 
-Aravashniel's face went very still.
+Aravashnial's face went very still.
 
 "The Blackwing."
 
 "Aye."
 
-"It is —" Aravashniel's voice caught. He recovered it. "It is good of you. Thank you."
+"It is —" Aravashnial's voice caught. He recovered it. "It is good of you. Thank you."
 
 Caleth nodded once.
 
-Korroc, watching, did not understand the weight in the elder's voice. The Blackwing Library was a library. He knew it from passing — a long low building down toward the river, with bronze doors and an ill-tempered keeper who had not let dwarves past the threshold without three forms of identification. He had no love for the place. He understood that scholars loved it. He understood that Aravashniel, a scholar, would grieve to see it harmed.
+Korroc, watching, did not understand the weight in the elder's voice. The Blackwing Library was a library. He knew it from passing — a long low building down toward the river, with bronze doors and an ill-tempered keeper who had not let dwarves past the threshold without three forms of identification. He had no love for the place. He understood that scholars loved it. He understood that Aravashnial, a scholar, would grieve to see it harmed.
 
 He did not understand the weight he saw on the elf's face.
 
 He filed it.
 
-They ate again. They prepared. Korroc topped up every healing he had on every wound he could find — none of them were truly hurt now, but he wanted every reserve full. Anevia tightened the strap of her splint and slung her bow. Aravashniel stood up with the small straight-backed pride of a man who had decided to walk to a thing he loved and not be carried there.
+They ate again. They prepared. Korroc topped up every healing he had on every wound he could find — none of them were truly hurt now, but he wanted every reserve full. Anevia tightened the strap of her splint and slung her bow. Aravashnial stood up with the small straight-backed pride of a man who had decided to walk to a thing he loved and not be carried there.
 
 Horgus came out to the front steps as they left.
 
@@ -851,7 +851,7 @@ The aasimar bowed his head. Korroc went out.
 
 The streets were busier than they had been at dawn.
 
-Not with people, mostly — with things. Lesser demons crawling along walls in places they should not have been, easily avoided if you saw them in time. A pack of fiendish rats that scattered into a sewer grating at Thane's whistle. A long-fingered thing perched on a chimney that watched them pass without coming down. Caleth had been mapping the route they would take with Aravashniel's quiet guidance, and the route they took was a route that bent and zagged through alleys to avoid the open boulevards where the larger things were known to walk.
+Not with people, mostly — with things. Lesser demons crawling along walls in places they should not have been, easily avoided if you saw them in time. A pack of fiendish rats that scattered into a sewer grating at Thane's whistle. A long-fingered thing perched on a chimney that watched them pass without coming down. Caleth had been mapping the route they would take with Aravashnial's quiet guidance, and the route they took was a route that bent and zagged through alleys to avoid the open boulevards where the larger things were known to walk.
 
 They were perhaps half the way to the library when they came on the barricade.
 
@@ -931,21 +931,21 @@ They came up to it through what had been a small square that fronted the river.
 
 The doors were gone. The roof was gone. Half of the long pale building was gone. One hall stood — the western wing, by Korroc's reckoning — and that was all. The rest had been opened to the sky in a way that suggested something very large had walked across the top of it and let it fall in. One of the stone griffins lay broken at the foot of the steps. The other was gone entirely.
 
-Aravashniel made a sound.
+Aravashnial made a sound.
 
-It was a small sound — not a cry, not a word — but it was the sound of a man whose chest had just been split open without warning, and Korroc turned at it. Aravashniel had stopped at the edge of the square. His half-eyes were fixed on the ruin. His bandaged hand had come up to his mouth. His legs were giving.
+It was a small sound — not a cry, not a word — but it was the sound of a man whose chest had just been split open without warning, and Korroc turned at it. Aravashnial had stopped at the edge of the square. His half-eyes were fixed on the ruin. His bandaged hand had come up to his mouth. His legs were giving.
 
 Caleth caught him.
 
-The half-elf was beside the elder wizard before Korroc could move, one arm under Aravashniel's shoulder, holding him upright with the easy competent strength of a man who had been waiting to do exactly this since the morning. Aravashniel sagged against him. He did not weep. His face did something worse — it went flat, became the face of a man who could not hold his face — and his free hand came up and gripped Caleth's sleeve very tightly.
+The half-elf was beside the elder wizard before Korroc could move, one arm under Aravashnial's shoulder, holding him upright with the easy competent strength of a man who had been waiting to do exactly this since the morning. Aravashnial sagged against him. He did not weep. His face did something worse — it went flat, became the face of a man who could not hold his face — and his free hand came up and gripped Caleth's sleeve very tightly.
 
 He said something Korroc did not catch. Caleth bent his head close. Caleth said something back, quietly.
 
-Aravashniel sank to his knees on the cobblestones.
+Aravashnial sank to his knees on the cobblestones.
 
 Caleth knelt with him.
 
-Korroc looked away. He looked at Thane. Thane's face was very still. Korroc looked at Anevia. Anevia was looking at the ruined library with the careful watch of an agent, but her eyes flicked to Aravashniel and softened, and then flicked back.
+Korroc looked away. He looked at Thane. Thane's face was very still. Korroc looked at Anevia. Anevia was looking at the ruined library with the careful watch of an agent, but her eyes flicked to Aravashnial and softened, and then flicked back.
 
 Korroc watched asThane slowly moved to the steps. He had to do the job.
 
@@ -961,7 +961,7 @@ Thane ghosted through what had been the doorway. He was gone for perhaps a minut
 
 "Aye." Thane's mouth was a hard line. "Stacking. Like — like a bonfire."
 
-Korroc looked back at Caleth, who was still kneeling with Aravashniel at the base of the steps. Caleth's eyes met his. The half-elf understood without needing to be told. Caleth helped Aravashniel to a sitting position against the broken griffin and stood, glaive in hand, and came up the steps.
+Korroc looked back at Caleth, who was still kneeling with Aravashnial at the base of the steps. Caleth's eyes met his. The half-elf understood without needing to be told. Caleth helped Aravashnial to a sitting position against the broken griffin and stood, glaive in hand, and came up the steps.
 
 Anevia followed, bow nocked.
 
@@ -1087,7 +1087,7 @@ Korroc stood, breathing hard. Caleth stood beside him, breathing harder. Thane w
 
 The four librarians stood in a small huddled knot in the center of the hall, surrounded by the books they had been stacked among. The slight grey-robed one was crying, very quietly. The white-bearded older one was straightening his robes. He looked old, but his back was very straight.
 
-Aravashniel had come up the steps without anyone noticing. He stood now in the doorway of the hall, leaning heavily on Anevia, his half-eyes wide and wet.
+Aravashnial had come up the steps without anyone noticing. He stood now in the doorway of the hall, leaning heavily on Anevia, his half-eyes wide and wet.
 
 He looked at the white-bearded librarian.
 
@@ -1095,9 +1095,9 @@ The white-bearded librarian looked at him.
 
 Something passed between them. Korroc, watching from across the hall through the haze of pain and adrenaline and the small distant noticing that he had just transformed into a being of pure life-energy for the first time in his life, did not catch what passed between them. He saw the recognition. He saw both old men's faces change, very briefly, in a way Korroc could not read.
 
-Then Aravashniel walked into the hall, slow, leaning on Anevia, and laid a hand on the white-bearded man's shoulder.
+Then Aravashnial walked into the hall, slow, leaning on Anevia, and laid a hand on the white-bearded man's shoulder.
 
-The white-bearded man laid his hand over Aravashniel's.
+The white-bearded man laid his hand over Aravashnial's.
 
 They did not speak. They stood there a moment.
 
@@ -1119,7 +1119,7 @@ The fire was gone. Whatever had answered him had gone back to wherever it lived,
 
 Outside, somewhere in the broken city, a building came down with a long slow grinding sound that ended in a soft cough of dust. Inside the standing hall, the dust from the fight had not finished settling. It drifted slowly through the shaft of wrong-colored light from the broken ceiling, falling on the dead, on the scattered books, on the four librarians who had not yet moved from where they had stood up out of their ropes.
 
-Aravashniel and the white-bearded librarian still stood together. They had not spoken yet. They might not, for a long time.
+Aravashnial and the white-bearded librarian still stood together. They had not spoken yet. They might not, for a long time.
 
 Caleth came over without saying anything and sat down on the flagstone beside Korroc. The half-elf's hand came across and laid itself on Korroc's pauldron — gentle, brief — and then withdrew. Caleth set his glaive across his knees and looked at nothing.
 

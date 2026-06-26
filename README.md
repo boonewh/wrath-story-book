@@ -84,7 +84,7 @@ These are non-negotiable established facts. Treat them as canon:
 - **The S. V. letter** is in Thane's chain shirt, naming three Templar safe houses (Nyserian Manor, Topaz Solutions, Tower of Estrod) with passphrase ("I've new material for the archives") and naming Drezen as the Templar destination. This is plot-critical evidence.
 - **Hosilla** is the Templar contact in Kenabres they killed. **S. V.** is her superior, not yet identified. **Vorlesh** is named in the letter as the one who "finished with the wardstone."
 - **Chief Sull and Nathholm** are allies. The party promised to harry Vescavor where found and carry word to the surface.
-- **Aravashniel** is a half-blind wizard saved with a restoration potion. He's an ally; his vision is partially restored.
+- **Aravashnial** is a half-blind wizard saved with a restoration potion. He's an ally; his vision is partially restored.
 - **Horgus Gwerm** is a noble; difficult, snobbish, occasionally redeemable. Saved at the chasm by Nageru.
 
 ## Tone Guidance

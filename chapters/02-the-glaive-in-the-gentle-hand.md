@@ -37,7 +37,7 @@ In this one she had had three minutes to live.
 
 He had not told the others. There had been no moment for it, between the rift opening at his feet and the dust still settling on the dead in the first cavern. And he was not sure he would tell them now. It felt, somehow, too private. Like a letter someone had pressed into his hand on a battlefield and asked him to carry. The scale at his belt was not just a scale. It was a correspondence. And Caleth, who had been trained for half his life to hold his own counsel, knew how to carry a letter without opening it in front of strangers.
 
-But he could feel her. As they marched out from the consecrated shrine in the morning-that-was-not-a-morning, with Anevia limping on Thane's arm and Aravashniel's restored half-vision fixed on the back of Caleth's cloak like a man following a guide-rope through fog — he could feel her, faintly, in the silver at his hip. Pressing. Patient.
+But he could feel her. As they marched out from the consecrated shrine in the morning-that-was-not-a-morning, with Anevia limping on Thane's arm and Aravashnial's restored half-vision fixed on the back of Caleth's cloak like a man following a guide-rope through fog — he could feel her, faintly, in the silver at his hip. Pressing. Patient.
 
 Get them out, Spireborn. Get them out.
 
@@ -55,19 +55,19 @@ Each one had been carved by someone who had loved the original. Caleth could see
 
 Not stone. Flesh, once, he thought. Flesh that became this.
 
-Aravashniel, beside him, was leaning on a staff Caleth had cut for him from an old crusader's spear and breathing through his teeth. The half-restored eyes squinted, drank, drank again. The wizard had been silent most of the morning. Now he spoke for the first time, his voice the dry rustle of pages.
+Aravashnial, beside him, was leaning on a staff Caleth had cut for him from an old crusader's spear and breathing through his teeth. The half-restored eyes squinted, drank, drank again. The wizard had been silent most of the morning. Now he spoke for the first time, his voice the dry rustle of pages.
 
 "Caleth. Look at the workmanship."
 
 "I see it."
 
-"No. Look." Aravashniel raised a trembling finger and pointed at a knight whose hand was reaching forward as if to bless something — or to ward something off, Caleth could not tell which. "These are not statues that were carved. These are statues that were grown. These men and women were the carvers' families. The carvers were —"
+"No. Look." Aravashnial raised a trembling finger and pointed at a knight whose hand was reaching forward as if to bless something — or to ward something off, Caleth could not tell which. "These are not statues that were carved. These are statues that were grown. These men and women were the carvers' families. The carvers were —"
 
 He did not finish. He did not have to.
 
 "The First Crusade," Caleth murmured. "The ones who were taken."
 
-"The ones who were touched. The ones who could not go home." Aravashniel's voice was a thin thread. "Some of them came down here. To live out their lives in the dark, away from the eyes of the surface. And to raise their children. And their children…"
+"The ones who were touched. The ones who could not go home." Aravashnial's voice was a thin thread. "Some of them came down here. To live out their lives in the dark, away from the eyes of the surface. And to raise their children. And their children…"
 
 He trailed off again.
 
@@ -121,7 +121,7 @@ Caleth heard himself make a sound that was not a word.
 
 His ribs creaked. His vision flowered black at the edges. He had time, in the long slow second before unconsciousness, to think I have not even told them about her yet, and then he was aware of the world only in pieces.
 
-A flash of green-acid from Aravashniel's hand, missing.
+A flash of green-acid from Aravashnial's hand, missing.
 
 The wet crunch of Korroc's hammer caving in the creature on Thane.
 
@@ -151,7 +151,7 @@ Silence.
 
 The kind of silence that comes after sudden violence in a cavern, where the echo of your own breathing seems an obscenity.
 
-Caleth wiped foul ichor from his face with the back of his sleeve. He looked across the cavern at Korroc, who was already moving toward Thane to check him, and at Nageru, who was standing with his hands open and his head bowed in some brief private prayer of thanks, and at Aravashniel, who was leaning hard on his staff and breathing as if breathing hurt.
+Caleth wiped foul ichor from his face with the back of his sleeve. He looked across the cavern at Korroc, who was already moving toward Thane to check him, and at Nageru, who was standing with his hands open and his head bowed in some brief private prayer of thanks, and at Aravashnial, who was leaning hard on his staff and breathing as if breathing hurt.
 
 He looked at the statues.
 
@@ -159,7 +159,7 @@ The crusaders looked back.
 
 "My thanks," Caleth said quietly, and was not entirely sure who he was speaking to.
 
-Aravashniel found his voice again, after a moment. He did not raise it. He did not need to. The cavern carried it.
+Aravashnial found his voice again, after a moment. He did not raise it. He did not need to. The cavern carried it.
 
 "They came down here," the wizard said softly, looking around at the carved company, "because they could not bear to be looked at any longer. And they raised children. And the children were what the touch had made them. And the children raised children. And no one ever came down to find them."
 
@@ -211,7 +211,7 @@ Caleth slung his glaive across his back in a single motion. Wrong tool for this.
 
 — and struck.
 
-A flesh-shot, not a kill, but the dwarf jerked in mid-hover. Caleth heard him swear in Dwarven. Behind Caleth, Anevia had unslung her own shortbow despite her broken leg, her face white with the pain of standing on it, and her arrow followed Caleth's a half-second later and also struck. Aravashniel's hand moved in the small precise gestures of an acid dart and a hissing droplet of green crossed the air and bit the floating dwarf in the shoulder.
+A flesh-shot, not a kill, but the dwarf jerked in mid-hover. Caleth heard him swear in Dwarven. Behind Caleth, Anevia had unslung her own shortbow despite her broken leg, her face white with the pain of standing on it, and her arrow followed Caleth's a half-second later and also struck. Aravashnial's hand moved in the small precise gestures of an acid dart and a hissing droplet of green crossed the air and bit the floating dwarf in the shoulder.
 
 The mage was bleeding, now, in three places. He hovered, snarling, recalculating.
 
@@ -343,7 +343,7 @@ Beautiful and terrible in one face.
 
 Mongrelfolk, Caleth thought, and for a moment the word — which he had heard all his life used as casually as farmer or fisherman or thief — sat on his tongue as a lie. That is not a mongrel. That is a man whose grandparents were the carved statues we just walked past. That is what the touch did to the children of the touched. That is —
 
-Aravashniel's words from an hour before came back to him: no one ever came down to find them.
+Aravashnial's words from an hour before came back to him: no one ever came down to find them.
 
 Caleth swallowed.
 
@@ -381,7 +381,7 @@ He turned and went to help with the rubble.
 
 It took hours.
 
-Caleth catalogued the work even as he did it. We have eight able bodies if you count Aravashniel and Anevia, neither of whom should be lifting. Six, then. Two are dwarves built for stone-work. One is an aasimar with the strength of two ordinary men. One is a Spireborn paladin whose chief contribution is going to be steady patience. One is a noble whose chief contribution is going to be supervising. One is —
+Caleth catalogued the work even as he did it. We have eight able bodies if you count Aravashnial and Anevia, neither of whom should be lifting. Six, then. Two are dwarves built for stone-work. One is an aasimar with the strength of two ordinary men. One is a Spireborn paladin whose chief contribution is going to be steady patience. One is a noble whose chief contribution is going to be supervising. One is —
 
 He looked at Lann, who was straining alongside Thane at a stone the size of a sheep, his half-elven half-saurian arms corded with effort, his beautiful ruined face streaked with sweat.
 
@@ -389,7 +389,7 @@ One is a man who is afraid for his friend.
 
 He stepped in beside Lann and put his shoulder to the same stone. They moved it together.
 
-For a long time they worked in silence, broken only by grunts and the scrape of stone and Anevia's quiet, patient voice from the side calling out warnings about loose pieces. Aravashniel sat by, unable to lift, but his half-restored eyes scanned the rubble with the trained focus of a structural engineer — every now and then he would call out, "Not that one yet, take the wedge first," or "That stone is bracing the next, leave it a moment," and the work would adjust around his guidance.
+For a long time they worked in silence, broken only by grunts and the scrape of stone and Anevia's quiet, patient voice from the side calling out warnings about loose pieces. Aravashnial sat by, unable to lift, but his half-restored eyes scanned the rubble with the trained focus of a structural engineer — every now and then he would call out, "Not that one yet, take the wedge first," or "That stone is bracing the next, leave it a moment," and the work would adjust around his guidance.
 
 At some point in the second hour, Caleth realized that Nageru had drifted away from the heavy work and was talking quietly with Horgus at the cavern's edge.
 
@@ -407,7 +407,7 @@ It was not nothing. Caleth filed that, too.
 
 After a while the work narrowed to a single great problem: a boulder, half the height of a man, that lay across the chest of the trapped figure. They had cleared everything else. The boulder was the wall between life and death.
 
-Aravashniel limped over and laid his hands on it. He frowned, his half-restored eyes squinting.
+Aravashnial limped over and laid his hands on it. He frowned, his half-restored eyes squinting.
 
 "Can you get it?" Caleth asked quietly.
 
@@ -415,7 +415,7 @@ The wizard shook his head. "Not by myself. Not in this state. But with all of us
 
 "Show us."
 
-Aravashniel showed them. It took another hour to construct the lever from a fallen rafter and the proper fulcrum from a smaller stone. It took more time for Aravashniel to gather enough focus to pull the levitate spell out of his half-blind memory. But when at last they were ready — Korroc and Nageru and Lann at the lever, Caleth and Thane and Dyra at the boulder's far side, Horgus and Anevia coordinating from the corners and even Aravashniel adding his small wizardly weight — the boulder moved.
+Aravashnial showed them. It took another hour to construct the lever from a fallen rafter and the proper fulcrum from a smaller stone. It took more time for Aravashnial to gather enough focus to pull the levitate spell out of his half-blind memory. But when at last they were ready — Korroc and Nageru and Lann at the lever, Caleth and Thane and Dyra at the boulder's far side, Horgus and Anevia coordinating from the corners and even Aravashnial adding his small wizardly weight — the boulder moved.
 
 Six inches. Then a foot. Then enough.
 
@@ -473,7 +473,7 @@ The aasimar cleared the chasm with two feet to spare and landed in a soft crouch
 
 One by one the company crossed.
 
-Korroc, complaining bitterly, dragged himself across hand over hand and arrived on the far side with his face the color of old wine. Thane and Anevia crossed together, Anevia clinging to Thane's back, the dwarf moving with the steady careful confidence of a dwarf who had crossed worse on rooftop work. Aravashniel, frail as he was, made it across by the slow patient method of looping his belt around the upper rope and shuffling along it inches at a time, his half-eyes squinted shut.
+Korroc, complaining bitterly, dragged himself across hand over hand and arrived on the far side with his face the color of old wine. Thane and Anevia crossed together, Anevia clinging to Thane's back, the dwarf moving with the steady careful confidence of a dwarf who had crossed worse on rooftop work. Aravashnial, frail as he was, made it across by the slow patient method of looping his belt around the upper rope and shuffling along it inches at a time, his half-eyes squinted shut.
 
 Horgus —
 
@@ -705,7 +705,7 @@ Caleth took the tray with both hands and bowed again.
 
 That night Caleth did not sleep at first.
 
-The mongrelfolk had given them a long stone-walled room with woven-reed mats on the floor and small clay lamps in the wall-niches, and the others had eaten their fill of fish-stew and dark cave-mushroom bread and had fallen asleep one by one. Korroc was snoring within minutes. Thane lay curled near Anevia, who had taken the longest to settle, her broken leg propped on a folded blanket. Aravashniel slept sitting up against the wall as old men do. Nageru had folded himself into a meditative pose in the corner that Caleth could not quite tell was sleep or not. Horgus, after some grumbling about the bedding, had also gone under.
+The mongrelfolk had given them a long stone-walled room with woven-reed mats on the floor and small clay lamps in the wall-niches, and the others had eaten their fill of fish-stew and dark cave-mushroom bread and had fallen asleep one by one. Korroc was snoring within minutes. Thane lay curled near Anevia, who had taken the longest to settle, her broken leg propped on a folded blanket. Aravashnial slept sitting up against the wall as old men do. Nageru had folded himself into a meditative pose in the corner that Caleth could not quite tell was sleep or not. Horgus, after some grumbling about the bedding, had also gone under.
 
 Caleth sat near the lamp by the door with his journal open on his knee and the silver dragon-scale in his hand.
 

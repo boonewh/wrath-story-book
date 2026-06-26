@@ -19,7 +19,7 @@ The door did not move. Not stuck — *held.* A weight behind it. Something laid 
 
 Korroc shifted his grip on his hammer. "Then they know we're coming."
 
-"They suspect." Thane was already reaching into the satchel of things from the old cache, the one Aravashniel had sent them to before the square. His fingers found the small cold shape he wanted — a chime, plain silver, heavier than it looked. He didn't know half of what had been waiting in that cache and didn't much care. It had given him fire and arrows and this. That was enough to be going on with.
+"They suspect." Thane was already reaching into the satchel of things from the old cache, the one Aravashnial had sent them to before the square. His fingers found the small cold shape he wanted — a chime, plain silver, heavier than it looked. He didn't know half of what had been waiting in that cache and didn't much care. It had given him fire and arrows and this. That was enough to be going on with.
 
 "Stand off the frame," he said, and they did, the three of them peeling to either side, Caleth's glaive a low band of light against the dark stone, Nageru barefoot and still as standing water.
 

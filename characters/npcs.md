@@ -3,15 +3,17 @@
 ## Allies in the Underdark Escape
 
 ### Anevia Tirabade
-**Status:** Living. Currently in the rat-room with Horgus and Aravashniel.
+**Status:** Living. Marching with the company toward Drezen as scout.
 
-**Role:** Eagle Watch contract agent. Thane's **partner-in-work** — NOT romantic. They have a genuine professional friendship.
+**Role:** Eagle Watch contract agent and spymaster. Thane's **partner-in-work** — NOT romantic. They have a genuine professional friendship. Irabeth's wife.
 
-**Appearance:** Human woman. Hair color/style not yet specified. Tough-faced. Carries a shortbow. Currently using a crutch carved from cave-pine for her broken leg (slowly healing).
+**Appearance:** Human woman. Hair color/style not yet specified. Tough-faced. Carries a shortbow.
 
-**Voice:** Sharp, direct, unsentimental. Doesn't suffer fools. Affectionate but never sappy. Uses dwarven-style cursing freely.
+**Voice:** Sharp, direct, unsentimental. Doesn't suffer fools. Affectionate but never sappy. Uses dwarven-style cursing freely. Honest when needed, but as a spymaster she keeps secrets that are not hers to share.
 
 **Background:** Hired by the Eagle Watch on the same contract as Thane, working a different angle (soldiery and marketplaces; Thane works the gutters). Has a thieves' kit hidden in her belt. Veteran professional.
+
+**GM personality notes (Book 2):** No secrets of her own — she let those go when she chose Irabeth. Like Thane, she is honest when needed, but her spymaster role means she holds other people's secrets. She knows things about Horgus and Aravashnial that others don't, but finds it not her place to say.
 
 **Key moments:**
 - Broken leg from the fall at Clydwell Plaza
@@ -20,19 +22,23 @@
 - Shot the final mongrel guard in Chapter 3
 - Lent Thane her better thieves' tools when his pick snapped
 - Stayed back in the rat-room when the four-man strike team went to finish the Vescavor
+- Signed on for the Drezen march without being asked — "Then so did I, an hour before you asked"
+- Signaled the army to halt at Keeper's Canyon with her mirror
 
-**Relationship anchor:** When she says "Thane," it is the call of a partner, not a lover. Maintain this consistently.
+**Relationship anchor:** When she says "Thane," it is the call of a partner, not a lover. Maintain this consistently. She knows more than she lets on about the company's allies — play this as quiet competence, not scheming.
 
 ---
 
-### Aravashniel
-**Status:** Living, partially blinded. With the party.
+### Aravashnial
+**Status:** Living. Eyesight fully restored (Ch 9 — Queen's cleric cast Regenerate). Marching with the company toward Drezen.
 
 **Role:** Elder wizard. **Riftwarden elder** — same secret order as Caleth's biological parents. *(See "Riftwarden Identity — SECRET" below.)*
 
-**Appearance:** An **elf** — long-lived but **not elderly**; he reads as mature and weathered, not aged. He is a Riftwarden *elder* by **rank and seniority in the order, not by age** — do NOT write him as an "old man." Face was burned and eyes ruined in the fall; partially restored by the restoration potion Caleth gave him. Still half-blind but can read his spellbook with effort.
+**Appearance:** An **elf** — long-lived but **not elderly**; he reads as mature and weathered, not aged. He is a Riftwarden *elder* by **rank and seniority in the order, not by age** — do NOT write him as an "old man." It is easy to determine he is older than the Worldwound itself — he remembers a time before the crusades. Face was burned in the fall; eye fully regenerated in Ch 9.
 
-**Voice:** Dry. Scholarly. Speaks like pages rustling.
+**Voice:** Dry. Scholarly. Speaks like pages rustling. Since regaining his sight, there is a brightness and zeal to him that was absent before.
+
+**GM personality notes (Book 2):** He is so grateful to regain his sight that he throws himself into supporting the PCs and the Knights with great zeal. His advice on handling enemy spellcasters and his knowledge of demons and the past is a great asset. He has the courage to step in if he sees an ally in danger. He knows something about Caleth's past and keeps that secret close — when Caleth has pressed, the door shuts.
 
 **Key moments:**
 - Caleth chose to give him the precious restoration potion based on his potential value (in retrospect, this was the first quiet acknowledgment of a Riftwarden elder by a Riftwarden's child)
@@ -40,36 +46,43 @@
 - Guided the structural engineering of the boulder-lifting at the collapsed tower
 - Began regaining his vision in stages
 - **Chapter 4:** Took Caleth aside at Gwerm Manor and revealed himself as a Riftwarden elder, asking the party to visit the Blackwing Library. Was devastated to find it destroyed. Survived the library fight; one or more of the four rescued librarians may also have been Riftwardens.
+- **Chapter 9:** Eyesight fully restored by a cleric of Iomedae (Nageru asked the Queen). Wept when he could see again. Found Keeper's Canyon on the map first. Grew somber looking west at the Worldwound: "I remember when that land was lush and green." Volunteered to write the pigeon message to the Queen.
 
-**Relationship anchor:** A mentor-figure to Caleth — and now, as of Chapter 4, an acknowledged fellow Riftwarden. *(See Riftwarden note below.)*
+**Relationship anchor:** A mentor-figure to Caleth — and now, as of Chapter 4, an acknowledged fellow Riftwarden. He knows something about Caleth's past that he will not share. When Caleth has let something slip and pressed carefully, the door shuts every time. *(See Riftwarden note below.)*
 
 **Riftwarden Identity — SECRET:**
-- Aravashniel is a **Riftwarden elder** — the same secret order as Caleth's biological parents.
+- Aravashnial is a **Riftwarden elder** — the same secret order as Caleth's biological parents.
 - He **recognized Caleth's lineage from the moment they met** in the underdark. What looked like a scholar's gratitude for the restoration potion was actually a Riftwarden elder quietly acknowledging a Riftwarden's child.
-- **Blackwing Library was a Riftwarden stronghold** — the order's working library, holding the most extensive writings on demons in Golarion. Its destruction is for Aravashniel a loss of *the order*, not only of the books.
+- **Blackwing Library was a Riftwarden stronghold** — the order's working library, holding the most extensive writings on demons in Golarion. Its destruction is for Aravashnial a loss of *the order*, not only of the books.
 - **Caleth now knows** (revealed in a whispered conversation at Gwerm Manor in Chapter 4).
-- **Korroc, Thane, Nageru, Anevia, Horgus, Klareth do NOT know.** The party's awareness of Aravashniel's true role must remain hidden in prose — show conversations between him and Caleth from outside; never narrate his Riftwarden identity from a non-Caleth POV.
+- **Korroc, Thane, Nageru, Anevia, Horgus, Klarah do NOT know.** The party's awareness of Aravashnial's true role must remain hidden in prose — show conversations between him and Caleth from outside; never narrate his Riftwarden identity from a non-Caleth POV.
+- **He knows something about Caleth's past** — likely his parentage or their fate — and keeps it locked. This is an active thread: Caleth presses, Aravashnial closes the door.
 
 ---
 
 ### Horgus Gwerm
-**Status:** Living, slowly being humanized. Currently in the rat-room.
+**Status:** Living. Marching with the company toward Drezen as quartermaster/logistician.
 
-**Role:** Wealthy Kenabres noble. Owns warehouses south of the cathedral and is rumored to own the magistrates as well.
+**Role:** Wealthy Kenabres noble. Owns warehouses south of the cathedral and is rumored to own the magistrates as well. Now serves as the company's supply-master.
 
-**Appearance:** Heavyset human in once-fine silks (now ruined from days in the underdark). Heavy gold chain. Several rings. Sour expression as default.
+**Appearance:** Heavyset human. Heavy gold chain. Several rings. Sour expression as default — but the sourness has softened.
 
-**Voice:** Snobbish, complains constantly. Uses class-marked diction. Capable of genuine moments when pushed.
+**Voice:** Arrogant, acerbic, with an inflated sense of his own importance. Genuinely shocked and offended if others don't recognize his status. His speech is infrequently buffered by tact. Capable of genuine moments when pushed.
+
+**GM personality notes (Book 2):** His one redeeming quality may be his ruthless honesty — he is known for speaking the truth. He keeps his promises and never reneges on a deal. Businessmen in Kenabres go to him only when they have a desperate need and a rock-solid business plan that can stand up to the closest scrutiny. He doesn't mind lending money for a good cause but is keenly intelligent and requires a great deal of factual evidence before he closes a deal.
+
+**SECRET:** Horgus has a secret. His statement to Nageru — *"But I understand better than most what it means to lose everything to demons"* — carries more weight than it appears. The nature of this secret is not yet revealed. **Do not invent what the secret is; wait for the GM.**
 
 **Key moments:**
 - Demanded the company leave Anevia behind in Chapter 1 — got a verbal beating from her
 - Argued against helping the mongrelfolk dig out Crel — Nageru changed his mind
 - Slipped at the chasm and was saved by Nageru's one-handed catch
 - Said "Thank you" — possibly his first genuine word in the underdark — to Nageru
-- Refused to come on the Vescavor mission; stayed with Anevia and Aravashniel
+- Refused to come on the Vescavor mission; stayed with Anevia and Aravashnial
 - Gave his old prayer-beads to Nageru during the breathing space (Interlude, Ch 8.5) — a quiet, significant act of trust
+- **Chapter 9:** "I have nothing left here. Are you sure you want me with you?" — and looked grateful when Nageru said yes. Had the supply-train organized by end of day. Brought the messenger pigeons nobody else thought to bring.
 
-**Relationship anchor:** Horgus is the **redeemable bigot.** He has been wrong about many things and may be wrong about more. But he is *being changed,* very slowly, by the company keeping. Treat him with the patience the company shows him. Do not make him purely villainous.
+**Relationship anchor:** Horgus is the **redeemable bigot** being slowly changed by the company. His ruthless honesty and business acumen are genuine virtues. He carries a secret about demons and loss that has not yet surfaced. Treat him with the patience the company shows him.
 
 ---
 
@@ -91,6 +104,56 @@
 - Nageru observed that **she will need a name a parent uses** — a small kind name — when the company is ready to find one for her
 
 **Relationship anchor:** Klarah is the small living anchor of *why this whole thing matters.* The party has not had a child to protect before. Now they do. Her care quietly reorganizes everyone — Thane volunteers to carry her, Caleth uses *sweetheart*, Nageru holds her in his lap, Horgus stays back at the manor to "make sure the child eats." She is not a sidekick; she is **what they are fighting for**, in miniature.
+
+---
+
+## Allies on the March to Drezen (Book 2)
+
+### Queen Galfrey
+**Status:** Living. Remained at Kenabres to refortify and manage the southern border.
+
+**Role:** Queen of Mendev. Commander of the Fifth Crusade's main army. Knighted the party and assigned them the Drezen mission.
+
+**Appearance:** Full plate. Not young, not old. A face carved down to essentials by decades of command — nothing soft, nothing wasted. Rode at the head of her army.
+
+**Voice:** Measured, precise. Asks the one question that matters. Hides a smile well.
+
+**Key moments (Ch 9):** Arrived with the army at Kenabres. Heard Nageru's account of the wardstone. Revealed the wardstones are all gone and the party are their replacement. Assigned the Drezen mission. Knighted all four PCs and Irabeth. Awarded the Righteous Medals. Provided a cleric to regenerate Aravashnial's eye. Gave the company two hundred soldiers, three advisors, and the road.
+
+---
+
+### Aron Kir
+**Status:** Living. Marching with the company as tactics advisor.
+
+**Role:** Tactics advisor assigned by the Queen. A survivor.
+
+**Appearance:** Lean, plain. A face that has lost too much and stopped expecting anything good.
+
+**Voice:** Flat. Says only what needs saying. The feeling was spent years ago; only the facts remain.
+
+**Key moments (Ch 9):** Scouted Vilareth Ford with Thane and Anevia. Devised the strategy for Keeper's Canyon — split the army, use bait, pin the incubus. Was right about everything: take the leader, the rest leave.
+
+---
+
+### Sosiel Vaenic
+**Status:** Living. Marching with the company as morale officer and healer.
+
+**Role:** Cleric of Shelyn. Assigned by the Queen to tend to the soldiers' spirits and wounds.
+
+**Appearance:** Young. Open-faced in a way the others are not — a man who has decided not to let the war hollow him.
+
+**Note:** Caleth recognized Shelyn's symbol immediately and went very still. The connection between Caleth and this faith is private and unspoken. Do not narrate what it means from a non-Caleth POV — only note that the reaction happened.
+
+---
+
+### Nurah Dendiwhar
+**Status:** Living. Marching with the company as historian/chronicler.
+
+**Role:** Halfling historian and chronicler of the Worldwound. Knows the land between Kenabres and Drezen better than anyone living who is not currently a demon.
+
+**Appearance:** Small, unassuming, easy to overlook — which may be the point.
+
+**Voice:** Quick bright nod. Not yet heard enough to characterize further.
 
 ---
 
@@ -235,7 +298,7 @@
 
 **Role:** A **worm that walks** — Xanthir Vang. He **brought down the upper floors of the Blackwing tower**, took something from the order, and departed. The librarians do not know what he took.
 
-**Plot significance:** Tied to the destruction of the Blackwing Library — which was a **Riftwarden stronghold** (secret; Caleth/Aravashniel know — see Aravashniel's entry). Open thread: *what did he take from the order, and why?*
+**Plot significance:** Tied to the destruction of the Blackwing Library — which was a **Riftwarden stronghold** (secret; Caleth/Aravashnial know — see Aravashnial's entry). Open thread: *what did he take from the order, and why?*
 
 ---
 
@@ -244,8 +307,7 @@
 
 **Role:** A model crusader and secret traitor — leader of a group called the **Hammers of Heaven**, held up to younger soldiers as what they should aspire to be. He was the enemy's the whole time. Irabeth caught him, and he **slipped her hand** (escaped).
 
-**GM canon (do NOT surface in-story — see flag):** Staunton Vhane **is** S. V. (the letter-writer bound to "assume command of Drezen") and the **"Lord Staunton"** of the Othirubo letter (Ch 7).
-**⚠️ The players and characters have NOT connected Staunton Vhane ↔ S. V. ↔ Lord Staunton — DELIBERATELY.** The GM is holding it for a future "I can't believe I missed that" reckoning. Do NOT connect them in prose or "correct" the chapters. See memory: *Staunton = S. V. delayed reveal*, and the **S. V.** and **Lord Staunton** entries.
+**REVEALED (Ch 8 wardstone visions):** Staunton Vhane **is** S. V. and **Lord Staunton**. All four PCs now know. Korroc and Thane also saw him at their fathers' table in a private vision — he was a family man who betrayed them. See memory: *staunton-sv-delayed-reveal.md*.
 
 **Plot significance:** Almost certainly the campaign's recurring nemesis, soon seated at Drezen — a personal target for Thane especially.
 
@@ -256,9 +318,7 @@
 
 **Role:** A lord of the enemy, bound for or commanding at **Drezen**, with authority over the Gray Garrison operation. Has a **brother** for whom a recovered sword was intended.
 
-**Open thread:** His Drezen command echoes **S. V.** strongly enough that he may *be* S. V. (or a close associate), but **the party has not confirmed it.** Keep the connection suggestive, not stated, until canon or the GM confirms.
-
-**⚠️ DM intent — DELIBERATE delayed reveal:** Neither the players nor their characters have made the S. V. ↔ Staunton Vhane connection, even though Irabeth named Staunton Vhane back in Ch 5 and the initials are obvious. That gap is **intentional** — the GM is saving it for a future "I can't believe I missed that" moment. Do NOT connect them in prose or canon, and do NOT "correct" Chapter 7's cold-filing of the name. See memory: *Staunton = S. V. delayed reveal.*
+**RESOLVED:** Lord Staunton = Staunton Vhane = S. V. — confirmed via Ch 8 wardstone visions. All four PCs know. This entry is now redundant with the Staunton Vhane entry above.
 
 ---
 
@@ -333,14 +393,23 @@
 
 ---
 
-### Irabeth
-**Status:** Living. On the surface. Left a note at her home in Chapter 4 reading *"Meet at the Defender's Heart."*
+### Irabeth Tirabade
+**Status:** Living. Commanding the company on the march to Drezen. Knighted by Queen Galfrey (Ch 9).
 
-**Role:** Watch leader. **Anevia's wife** — confirmed in Chapter 4 when Anevia called her name into the broken home (*"Irabeth! Irabeth, where are you?"*) in a way that was not the way one calls a comrade. Anevia confirmed it aloud to Korroc moments later: *"She's my wife. I should have told you."*
+**Role:** Commander of the Drezen expedition. **Anevia's wife.** Knight of the Fifth Crusade.
 
-**Plot significance:** A major early-campaign NPC ally — Watch leadership at minimum, possibly the Eagle Watch's surface contact for the Templar contract Anevia and Thane have been working. The party's next destination is the Defender's Heart, to reach her.
+**Appearance:** Half-orc. Strong, tall. Carries herself like a soldier who has earned every scar.
 
-**Relationship anchor:** Anevia's grief and Anevia's stubborn determination over the last four days both make new sense in retrospect. Treat their reunion (when it comes) with the appropriate weight.
+**GM personality notes (Book 2):** No secrets — she is blunt and honest. She is the true example of a Paladin of Iomedae; her loyalty is solid to both her allies and her goddess. She has a high respect for Korroc — for his worth as a paladin and his respect of other deities' holy sites. She has noticed the shield of Iomedae he carried from the Garrison has now changed to bear Torag's mark.
+
+**Key moments:**
+- Left a note at her home: "Meet at the Defender's Heart"
+- Marriage to Anevia confirmed in Ch 4
+- Knighted by Queen Galfrey alongside the party (Ch 9) — a flinch of disbelief, quickly mastered
+- Reluctantly accepted command of the two hundred soldiers after Nageru persuaded her
+- Reported nine lost at Keeper's Canyon with grim satisfaction
+
+**Relationship anchor:** The company's field commander. Her bluntness and Korroc's stoicism form a natural mutual respect. She leads by being where the worst of it is.
 
 ---
 

@@ -16,10 +16,10 @@ The city at the heart of the campaign. A frontier crusader city on the eastern e
 - **Refugees barricaded** in scattered groups, exhausted, desperate, vulnerable to quasit-control.
 - **Crusader madness** beginning to set in — corrupted Sarenrae knights attempting child-sacrifice for the demon-slayer-blade folk-legend. Whether this is isolated or a pattern is not yet known.
 - **The Templars' Nyserian Manor safe house was destroyed by a demon's path** — confirmed in Chapter 4. One of three safe houses off the list.
-- **The Blackwing Library was destroyed** — Aravashniel grieved deeply (and for more reasons than the books; see characters/npcs.md Aravashniel SECRET note).
+- **The Blackwing Library was destroyed** — Aravashnial grieved deeply (and for more reasons than the books; see characters/npcs.md Aravashnial SECRET note).
 - **Irabeth is alive** — Watch leader (and Anevia's wife) left a note at home: *"Meet at the Defender's Heart."* The party's next destination.
 
-**The party is currently split.** The strike team (Korroc, Thane, Caleth, Anevia, Aravashniel) and the four rescued librarians (at least one of them a fellow Riftwarden, recognized quietly by Aravashniel) are still in the standing hall of the destroyed Blackwing Library after the fight that nearly killed Caleth. The non-combat group (Horgus, Klarah the orphan child, Nageru) is back at **Gwerm Manor** (south of the cathedral; Horgus's intact home). The two groups have not yet reunited — that reconnection is a Session 5 beat.
+**The party is currently split.** The strike team (Korroc, Thane, Caleth, Anevia, Aravashnial) and the four rescued librarians (at least one of them a fellow Riftwarden, recognized quietly by Aravashnial) are still in the standing hall of the destroyed Blackwing Library after the fight that nearly killed Caleth. The non-combat group (Horgus, Klarah the orphan child, Nageru) is back at **Gwerm Manor** (south of the cathedral; Horgus's intact home). The two groups have not yet reunited — that reconnection is a Session 5 beat.
 
 **Lord Hulrun's fate is still unknown.**
 

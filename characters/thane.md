@@ -132,7 +132,7 @@ His faith is **divine but not warmly so.** He doesn't pray for forgiveness; he p
 - **Caleth:** Genuine partnership. **Caleth's defense of Thane's worth after the dretch fight matters deeply** — Thane felt the small cold thing of irrelevance under his ribs when his steel turned aside on demon flesh, and Caleth's calm *"you stood. With these things, on a day this long, with the dwarf nearly dry and the aasimar nearly down — standing was much"* is the kind of thing a Spireborn says once and a dwarf remembers forever. They quip well. **Caleth now knows about Thane's contract** (revealed in the ritual chamber after the letter was found).
 - **Nageru:** Respect. Thane is fascinated by the aasimar's stillness but doesn't try to imitate it. Knows Nageru is the one who can do what Thane cannot (raw holy violence).
 - **Anevia:** Partners-in-work. Genuine friendship. NOT romantic. Will defend her like family without it being more than that. **As of Chapter 4, Thane knows Anevia is married to Irabeth** — the Watch leader they have been trying to reach. Anevia hadn't told them. Now they know. It reframes nothing about Thane and Anevia's working partnership; it reframes a great deal about Anevia's stubbornness over the last four days.
-- **Aravashniel:** Polite respect.
+- **Aravashnial:** Polite respect.
 - **Horgus:** Annoyed indifference. Thane has met a thousand Horguses.
 
 ## Things Thane Doesn't Know (Yet)

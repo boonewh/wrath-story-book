@@ -85,7 +85,7 @@ Think of it like grain in wood: the grain gives the piece its character and is g
 - **Faith is real.** When a character prays, when a god answers, when a holy place is consecrated, treat it with weight. This is a setting where the divine is present and active. Don't undercut it with irony.
 - **The Worldwound is genuinely terrifying.** Demons are not monsters-of-the-week. Each one is a violation of reality.
 - **Grim humor is welcome.** Korroc complaining about heights, Thane's deadpan one-liners, Caleth's wry Spireborn restraint — these are essential to keep the chapters from drowning in their own darkness.
-- **Tenderness is welcome.** When characters show care for each other — Korroc healing Nageru, Caleth giving Aravashniel the restoration potion, Thane returning a nod to Anevia — let the moments land.
+- **Tenderness is welcome.** When characters show care for each other — Korroc healing Nageru, Caleth giving Aravashnial the restoration potion, Thane returning a nod to Anevia — let the moments land.
 
 ## Length Targets
 

@@ -60,7 +60,7 @@ If any of these contradict each other, **flag it to the user**; do not silently 
 Memory files live at `C:\Users\William Boone\.claude\projects\c--Users-William-Boone-Desktop-Pathfinder-wrath-story-book\memory\` and are auto-loaded into context via the index file `MEMORY.md`. **Always check `memory/MEMORY.md` early in a session.**
 
 Key memory files at time of writing:
-- `aravashniel-riftwarden.md` — SECRET: Aravashniel is a Riftwarden elder; Caleth knows as of Ch 4
+- `aravashniel-riftwarden.md` — SECRET: Aravashnial is a Riftwarden elder; Caleth knows as of Ch 4
 - `korroc-stonelord.md` — Korroc's Stonelord paladin archetype + literal stone-in-veins
 - `nageru-not-golden-skin.md` — Nageru's skin is bronze, NOT golden (recurring image-prompt error)
 - `stonevein-family-question.md` — Korroc/Thane share Stonevein surname? OPEN
@@ -91,9 +91,9 @@ Who knows what. The POV character can only narrate what they know — never let 
 
 | Secret | Who Knows | Who Doesn't |
 |---|---|---|
-| Caleth's Spireborn lineage | Caleth, Aravashniel | The party reads it as background, not as identity |
-| Caleth's Riftwarden Orphan status / Seeker's Spiral on his shoulder | Caleth, Aravashniel | Korroc, Thane, Nageru, Anevia, Horgus, Klarah |
-| **Aravashniel is a Riftwarden elder** | Caleth (as of Ch 4), Aravashniel | Korroc, Thane, Nageru, others |
+| Caleth's Spireborn lineage | Caleth, Aravashnial | The party reads it as background, not as identity |
+| Caleth's Riftwarden Orphan status / Seeker's Spiral on his shoulder | Caleth, Aravashnial | Korroc, Thane, Nageru, Anevia, Horgus, Klarah |
+| **Aravashnial is a Riftwarden elder** | Caleth (as of Ch 4), Aravashnial | Korroc, Thane, Nageru, others |
 | The fate of Caleth's biological parents | No one in the party knows | Caleth seeks it |
 | Caleth's Terendelev recognition / dream | Caleth | The rest of the party |
 | Thane + Anevia's Eagle Watch contract | Thane, Anevia, Caleth (Ch 3 reveal), Korroc (partial) | Nageru |
@@ -103,7 +103,7 @@ Who knows what. The POV character can only narrate what they know — never let 
 ### Name Spellings (verify against `characters/` before writing)
 
 - **Klarah** (orphaned child rescued in Ch 4) — NOT Klareth, NOT Klara
-- **Aravashniel** — elder wizard / Riftwarden
+- **Aravashnial** — elder wizard / Riftwarden
 - **Korroc** — two Rs, one C (Korroc, not Karroc or Korac)
 - **Khorramzadeh** — the Balor Lord / Storm King
 - **Khar-Zadûn** — the lost Dwarven Sky City (note the û accent)
@@ -113,7 +113,7 @@ Who knows what. The POV character can only narrate what they know — never let 
 ### Party State at End of Chapter 4
 
 The party is **SPLIT**:
-- **Strike team in the Blackwing Library:** Korroc, Caleth, Thane, Anevia, Aravashniel + 4 rescued librarians
+- **Strike team in the Blackwing Library:** Korroc, Caleth, Thane, Anevia, Aravashnial + 4 rescued librarians
 - **At Gwerm Manor:** Horgus, Klarah, Nageru
 - They have **NOT yet reunited**. Reconnection is a Session 5 beat.
 
@@ -151,7 +151,7 @@ Past canon corrections worth knowing:
 - Caleth wears traveling clothes + crusader tabard, NOT scholarly wizard robes
 - Caleth does not display Shelyn's sigil (private faith)
 - Nageru has bronze skin, NOT golden (golden aura is separate, subtle)
-- Aravashniel is a Riftwarden (Ch 4 reveal — secret from rest of party)
+- Aravashnial is a Riftwarden (Ch 4 reveal — secret from rest of party)
 - Klarah's name — was briefly typo'd as Klareth in earlier drafts
 
 ## Sub-Agent Roles
@@ -176,6 +176,6 @@ These are not yet formalized in `.claude/agents/` — they're informal patterns.
 - **Do NOT skip writing the matching `website/updateN.md`** when the page is updated.
 - **Do NOT batch chapter writing + canon updates without checking with the user** — they often want these in separate turns.
 - **Do NOT spawn parallel Opus agents to co-write a single chapter** — voice fractures. One Opus per chapter.
-- **Do NOT trust character names from your own memory alone.** Especially Klarah, Aravashniel, Khar-Zadûn. Always verify against the character file before writing.
+- **Do NOT trust character names from your own memory alone.** Especially Klarah, Aravashnial, Khar-Zadûn. Always verify against the character file before writing.
 - **Do NOT delete or rewrite chapter prose without the user's explicit approval.** Chapters are published; treat them as canon.
-- **Do NOT use Korroc, Caleth, or Thane's POV to narrate Caleth's Riftwarden origin or Aravashniel's identity.** Those are private to Caleth (and Aravashniel).
+- **Do NOT use Korroc, Caleth, or Thane's POV to narrate Caleth's Riftwarden origin or Aravashnial's identity.** Those are private to Caleth (and Aravashnial).

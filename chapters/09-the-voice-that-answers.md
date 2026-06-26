@@ -705,7 +705,7 @@ He crossed seventy feet in what felt, to him, like a single held breath — the 
 
 The imposter was in his path.
 
-The man in Iomedae's stolen plate turned as Nageru came through — turned and struck, a mailed blow that caught Nageru across the shoulder as he passed, a line of fire across the meat of him. A grazing wound. Nageru did not stop. He let the pain pass into the breath and carry on through, because the imposter was not the target and the target was ten strides past him.
+The man in Iomedae's stolen plate turned as Nageru came through — turned and struck, a blow that caught Nageru across the shoulder as he passed, a line of fire across the meat of him. A grazing wound. Nageru did not stop. He let the pain pass into the breath and carry on through, because the imposter was not the target and the target was ten strides past him.
 
 He reached the incubus.
 
@@ -739,11 +739,11 @@ And Nageru turned on the imposter.
 
 He let his hands fill.
 
-It was not the silver scale — that charge was spent, had been spent in the Garrison weeks ago. It was the deeper thing, the thing his masters had named and his blood carried, the conviction that order is owed to the innocent made manifest in the body. His fists kindled — a clean white-gold fire running up them from the knuckles, the celestial fire of the Archon line, the smite of a man sworn against exactly this. A man in the armor of the Inheritor, mocking Her, walking Her sign through a host of demons.
+It was not the silver scale. It was the deeper thing, the thing his masters had named and his blood carried, the conviction that order is owed to the innocent made manifest in the body. His fists kindled — a clean white-gold fire running up them from the knuckles, the celestial fire of the Archon line, the smite of a man sworn against exactly this. A man in the armor of the Inheritor, mocking Her, walking Her sign through a host of demons.
 
 "Evil," Nageru said, "must die."
 
-He did not raise his voice. He never raised his voice. But the canyon seemed to narrow around the three quiet words, and he stepped in past the imposter's guard, and his burning fist found the center of the man's chest — fist to plate, the holy fire going *through* the holy armor as though the armor were a lie, which it was — and the man in Iomedae's stolen plate sprawled backward onto the red ground and did not get up.
+He did not raise his voice. He never raised his voice. But the canyon seemed to narrow around the three quiet words, and he stepped in past the imposter's guard, and his burning fist found the center of the man's chest — fist to plate, the holy fire going *through* the armor as though the armor were a lie, which it was — and the man in Iomedae's stolen plate sprawled backward onto the red ground and did not get up.
 
 A tiefling sneaked behind Nageru in the instant after and stabbed him in the back — a real wound, deep, between the shoulder-blades, and Nageru's breath caught on it the way Thane's wound had caught on his breath in the back room weeks ago. He rode it. He did not turn yet.
 

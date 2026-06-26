@@ -97,7 +97,7 @@ Behind him Anevia's boots were even and quick. Horgus was breathing like a bello
 
 At the corner of what had been a tannery he slowed and let them close the distance. Anevia came up at his shoulder, bow loose at her hip, sweat at her temples.
 
-"We should go to the Blackwing," he said. "The library Aravashniel spoke of. The others are there."
+"We should go to the Blackwing," he said. "The library Aravashnial spoke of. The others are there."
 
 She nodded, already taking the lead, already pointing.
 
@@ -117,9 +117,9 @@ Then Thane saw what he was looking at.
 
 Then Thane lowered his hand.
 
-Then Aravashniel stepped out behind him, the wizard's blind-clouded eyes finding nothing in particular and his face finding everything anyway.
+Then Aravashnial stepped out behind him, the wizard's blind-clouded eyes finding nothing in particular and his face finding everything anyway.
 
-"You came," Aravashniel said.
+"You came," Aravashnial said.
 
 "We came," Nageru said.
 
@@ -137,9 +137,9 @@ Nageru set Klarah down on a low bench and crouched in front of her and put a han
 
 He straightened.
 
-Aravashniel had come into the library proper now — the first time, Nageru understood; the wizard had been outside until this moment — and the librarians saw him and the room broke open.
+Aravashnial had come into the library proper now — the first time, Nageru understood; the wizard had been outside until this moment — and the librarians saw him and the room broke open.
 
-They went to him all at once. Four men talking, four sets of hands at his sleeves, four faces white and gray and one of them weeping without any sound. Aravashniel did not move. He let them touch him. He let them speak. After a while he lifted one veined hand and they fell silent the way servants fall silent at the right gesture.
+They went to him all at once. Four men talking, four sets of hands at his sleeves, four faces white and gray and one of them weeping without any sound. Aravashnial did not move. He let them touch him. He let them speak. After a while he lifted one veined hand and they fell silent the way servants fall silent at the right gesture.
 
 "Where," he said, "is everyone else."
 
@@ -149,9 +149,9 @@ The head librarian — older, with a long gray beard and the kind of stoop that 
 
 A silence.
 
-Nageru watched Aravashniel's face. He saw the wizard absorb the words the way a body absorbed a blow that had been expected for years. There was no surprise in him. There was only a closing.
+Nageru watched Aravashnial's face. He saw the wizard absorb the words the way a body absorbed a blow that had been expected for years. There was no surprise in him. There was only a closing.
 
-"What took the tower?" Aravashniel asked, very quietly.
+"What took the tower?" Aravashnial asked, very quietly.
 
 "The worm."
 
@@ -167,17 +167,17 @@ The head librarian turned to him with the slowness of a man whose tongue had gro
 
 "We do not know."
 
-Aravashniel was breathing carefully, the way a wounded man breathed against a cracked rib.
+Aravashnial was breathing carefully, the way a wounded man breathed against a cracked rib.
 
 "And the rest of the order," he said. "The rest of us in this city."
 
 "You." The old librarian's voice softened, the way a healer's softened over a wound that would not close. "I believe — I am afraid — you may be the last."
 
-The librarians' eyes were on Aravashniel and so were Caleth's, sharp and concerned. Nageru watched the wizard and the room and the way the silence settled. He understood that there were things in this exchange that he did not have the shape of. He understood that he would not ask.
+The librarians' eyes were on Aravashnial and so were Caleth's, sharp and concerned. Nageru watched the wizard and the room and the way the silence settled. He understood that there were things in this exchange that he did not have the shape of. He understood that he would not ask.
 
 *A man's grief is his own house,* he thought. *I will not walk through it uninvited.*
 
-Aravashniel turned, eventually, and looked at the dead man by the wall.
+Aravashnial turned, eventually, and looked at the dead man by the wall.
 
 "That one came to the door wearing the armor of Iomedae," the head librarian said, and there was rage in his exhaustion now, threadbare but real. "We let him in. We thought he was a refugee. He bound us and told us he meant to burn us alive as an offering, to call the attention of a demon patron. He was — he was halfway to lighting the fire when —"
 
@@ -187,9 +187,9 @@ The librarian nodded.
 
 Nageru looked at the body and felt nothing in particular. A man had decided to commit an evil. The evil had been answered. The line of order had been restored, here, in this one room, on this one morning. It was a small thing. It was the whole of his vocation.
 
-Aravashniel was speaking again, low, to the librarians. Nageru did not eavesdrop. He went and stood beside Klarah, where she sat on the bench with her dice cup held in both hands as if it were a holy relic, and he put one bronze palm flat on the top of her head and left it there. She leaned the smallest fraction into the weight.
+Aravashnial was speaking again, low, to the librarians. Nageru did not eavesdrop. He went and stood beside Klarah, where she sat on the bench with her dice cup held in both hands as if it were a holy relic, and he put one bronze palm flat on the top of her head and left it there. She leaned the smallest fraction into the weight.
 
-A long while later Aravashniel turned to the rest of them.
+A long while later Aravashnial turned to the rest of them.
 
 "The librarians will stay here," he said. "I will stay with them. We must determine what was taken. It will take time."
 
@@ -199,7 +199,7 @@ He paused. A look crossed his face — quick, sharp, as if a thought had reached
 
 They looked at each other. They shrugged, all four of them, the small helpless shrug of men whose roll-call no longer made sense.
 
-Aravashniel's mouth tightened. He turned to the party.
+Aravashnial's mouth tightened. He turned to the party.
 
 "Please, when you get to the inn," he said. "Most of what is left of the order — of any order — will be there. Ask after a man named Quednys. If you find him, send him back to us. If you find anyone willing to help guard this place, send them as well. By then I may have an accounting."
 
@@ -297,7 +297,7 @@ He did not speak often. He had not spoken this much in any single day of his lif
 
 He told it in order.
 
-He told her about the festival. About the dragon falling and the city splitting open. About the dark and the stones that ran with veins of something wrong, and the krenshar and the fungus and the cultists in the cracked chapel of Sarenrae. He told her about finding Aravashniel blinded by wounds. He told her about Horgus. About Klarah — and here he gestured back through the door, where Horgus was already moving with the child toward the smell of soup, and Irabeth's eyes followed the gesture and softened. He told her about Korroc's burning, the Life Oracle fire that had come up out of the dwarf. About Caleth turning the dark cold with a single word. About Thane reading signs at every crossroads.
+He told her about the festival. About the dragon falling and the city splitting open. About the dark and the stones that ran with veins of something wrong, and the krenshar and the fungus and the cultists in the cracked chapel of Sarenrae. He told her about finding Aravashnial blinded by wounds. He told her about Horgus. About Klarah — and here he gestured back through the door, where Horgus was already moving with the child toward the smell of soup, and Irabeth's eyes followed the gesture and softened. He told her about Korroc's burning, the Life Oracle fire that had come up out of the dwarf. About Caleth turning the dark cold with a single word. About Thane reading signs at every crossroads.
 
 He told her about the wardstone. He felt her stiffen when he said the word. He kept telling. He told her about the Blackwing. About the cultist with the borrowed armor of Sarenrae and the librarians bound and ready to burn. About the worm that walks who had taken the upper floors of the tower with him when he left.
 

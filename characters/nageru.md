@@ -120,7 +120,7 @@ His blood manifests in:
 - **Thane:** Respect for the knife's work. Sees Thane's worth even when Thane doubts it.
 - **Anevia:** Polite formality, slowly warming.
 - **Horgus:** Was the one who reached the merchant when no one else could. There is a quiet patience between them that no one else has built with Horgus.
-- **Aravashniel:** Formal respect for the elder.
+- **Aravashnial:** Formal respect for the elder.
 
 ## The Stillness
 Nageru's defining trait: he is **the still point.** When the world tilts and the others react, Nageru is the one whose breathing doesn't change. This is not coldness — when he laughs (rare), it's warm. When he saves someone, he does it without performance. He is simply *steady,* in a way that the others (especially Korroc) draw on without naming.

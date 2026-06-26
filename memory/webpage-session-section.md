@@ -55,7 +55,7 @@ The page uses Cinzel headers, Spectral italics, and a tight palette: `wotr-gold`
 - Do NOT add more cards over time (no fifth PC card; no "previous sessions" archive within this section)
 - Do NOT make the contribution paragraphs longer with each update
 - Do NOT label session beats by chapter number in the prose (a casual reader doesn't know what Chapter 4 is)
-- Do NOT reveal explicit secrets that belong to specific characters' private threads (e.g. Caleth's Riftwarden origin, Thane's Eagle Watch contract specifics, Aravashniel's identity). It's fine to ALLUDE — *"Caleth carries a secret about an old wizard he's only beginning to understand"* — but the page is reader-facing and the secret should land in chapter prose, not in a summary card
+- Do NOT reveal explicit secrets that belong to specific characters' private threads (e.g. Caleth's Riftwarden origin, Thane's Eagle Watch contract specifics, Aravashnial's identity). It's fine to ALLUDE — *"Caleth carries a secret about an old wizard he's only beginning to understand"* — but the page is reader-facing and the secret should land in chapter prose, not in a summary card
 
 ## Cross-references
 

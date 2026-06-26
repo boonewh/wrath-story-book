@@ -169,11 +169,11 @@ Caleth let her go. Then he turned and looked for the other man he had been meani
 
 Quednys was in the back, as Irabeth had said he would be when Caleth asked, and Caleth found him at a table half-buried in lists — supply tallies, casualty counts, the grim ledgers by which a dying city was kept barely alive. He was a middle-aged man with ink on his fingers and grey coming in at his temples and the particular hollowed look of someone who had not slept properly in a long time and did not expect to soon.
 
-Aravashniel had asked after this man. Days ago now, in the Blackwing Library, the elder wizard had said the name *Quednys* and asked the company to find him if they could, and Caleth — who carried more reasons than the others to do as Aravashniel asked, and carried them privately — had kept the name. He crossed to the table and gave the small respectful half-bow of the Spire.
+Aravashnial had asked after this man. Days ago now, in the Blackwing Library, the elder wizard had said the name *Quednys* and asked the company to find him if they could, and Caleth — who carried more reasons than the others to do as Aravashnial asked, and carried them privately — had kept the name. He crossed to the table and gave the small respectful half-bow of the Spire.
 
-"You are Quednys. Aravashniel asked us to find you."
+"You are Quednys. Aravashnial asked us to find you."
 
-The man's head came up. Something crossed his face at the name — relief, and under it a grief he did not bother to hide. "Aravashniel lives?"
+The man's head came up. Something crossed his face at the name — relief, and under it a grief he did not bother to hide. "Aravashnial lives?"
 
 "He lives. He is at the Blackwing."
 
@@ -259,7 +259,7 @@ He kept his face still and said nothing, and went to rest.
 
 In the grey before first light Irabeth went over the plan a second time, point by point, the way good commanders did — *say it twice and a man remembers it once; say it once and he remembers none of it* — and as she finished, a figure came in through the inn's door from the cold.
 
-Aravashniel.
+Aravashnial.
 
 The elder wizard had come from the Blackwing on his own feet, leaning on the staff Caleth had cut for him weeks ago in the dark, and his half-restored eyes found the company and warmed, and his ruined face — older than it had been, much older, the price of the dark and the demons paid out in lines and hollows — broke into a smile.
 
@@ -269,19 +269,19 @@ He went to each of them. A word for Korroc, a nod for Thane, a long quiet look f
 
 *Riftwarden elder.* The word lived in Caleth and nowhere else in this room. The same order his blood-parents had served and vanished serving. He had known it since the whispered conversation at Gwerm Manor, and he had told no one, and he would tell no one, and the not-telling had become one more card held close in a hand already crowded with them.
 
-"I cannot come with you," Aravashniel said. "I would only slow you, and the dark has taken more from these eyes than it has given back. But I can give you this." He came to the map and bent over it, the half-sight squinting, his finger hovering and then settling on a street in Old Kenabres not far from the gap in the wall. "There is a cache here. Hidden. Equipment — supplies, the kind of thing that has been laid down quietly over years against a day of need. If it is still there, and if you can reach it, it will help you. Potions. Arrows. Such things." His finger traced the way to it. "Here, and then here, and the cache is set into the cellar of the third building, behind a false wall on the north side. If it has not been found. If it has not burned."
+"I cannot come with you," Aravashnial said. "I would only slow you, and the dark has taken more from these eyes than it has given back. But I can give you this." He came to the map and bent over it, the half-sight squinting, his finger hovering and then settling on a street in Old Kenabres not far from the gap in the wall. "There is a cache here. Hidden. Equipment — supplies, the kind of thing that has been laid down quietly over years against a day of need. If it is still there, and if you can reach it, it will help you. Potions. Arrows. Such things." His finger traced the way to it. "Here, and then here, and the cache is set into the cellar of the third building, behind a false wall on the north side. If it has not been found. If it has not burned."
 
 He straightened, and looked at Caleth, only at Caleth, for the briefest instant.
 
 "It has been there a long time," he said. "Longer than the cultists. Longer than this war's worst years. Laid down by careful hands, against exactly such a day as this."
 
-Caleth understood him perfectly. The others heard *a cache of supplies,* useful, practical, welcome. Caleth heard *the order put this here.* He heard that the secret guardians who watched where reality thinned had, in some quiet year, foreseen a day when Kenabres would need a hidden hand reaching up out of the past, and had laid that hand down in a cellar, and waited. The Riftwardens had not been only Aravashniel and a burned library. They had been *here,* in the bones of the city, all along.
+Caleth understood him perfectly. The others heard *a cache of supplies,* useful, practical, welcome. Caleth heard *the order put this here.* He heard that the secret guardians who watched where reality thinned had, in some quiet year, foreseen a day when Kenabres would need a hidden hand reaching up out of the past, and had laid that hand down in a cellar, and waited. The Riftwardens had not been only Aravashnial and a burned library. They had been *here,* in the bones of the city, all along.
 
 He let none of it show.
 
 "Thank you," he said. "We'll find it."
 
-Aravashniel smiled at him — the small smile of two men who share a thing no one else in the room can see — and stepped back, and leaned on his staff, and let them go.
+Aravashnial smiled at him — the small smile of two men who share a thing no one else in the room can see — and stepped back, and leaned on his staff, and let them go.
 
 ---
 
@@ -451,11 +451,11 @@ Caleth nodded. He looked once more at the chewed book lying ruined in the rubble
 
 Mirror-breakers in the shadow of her grave. He let it land, and then he let it go.
 
-"The cache Aravashniel mentioned is just down this street," he said.
+"The cache Aravashnial mentioned is just down this street," he said.
 
 ---
 
-It was where Aravashniel had said it would be — the third building, the cellar, the false wall on the north side. Caleth found the seam in the stonework with his fingers while the others kept the street, pressed where the elder had described, and the false wall swung back on a hidden pivot with the soft grate of a thing that had not been opened in a long time.
+It was where Aravashnial had said it would be — the third building, the cellar, the false wall on the north side. Caleth found the seam in the stonework with his fingers while the others kept the street, pressed where the elder had described, and the false wall swung back on a hidden pivot with the soft grate of a thing that had not been opened in a long time.
 
 Behind it sat a crate.
 
@@ -467,7 +467,7 @@ Caleth knelt and lifted the lid. Inside, packed in straw gone brittle with age, 
 
 He let his hand rest on the edge of the crate for a moment longer than he needed to.
 
-The others saw potions and arrows. Caleth saw something else, and kept it where he kept everything. The order had laid this here. The Riftwardens — the secret guardians who watched where reality thinned, the order his blood-parents had died serving, the order Aravashniel led and the burned library had served — they had reached forward out of some quiet year into this exact terrible morning, and they had set down a hand to help, and the hand had survived. The library was ash. The order's heart in Golarion had nearly gone to the knife. And here in a cellar in the ruined city, against every odd, one small piece of it had endured intact, waiting in the dark for someone of the order's blood to come and find it.
+The others saw potions and arrows. Caleth saw something else, and kept it where he kept everything. The order had laid this here. The Riftwardens — the secret guardians who watched where reality thinned, the order his blood-parents had died serving, the order Aravashnial led and the burned library had served — they had reached forward out of some quiet year into this exact terrible morning, and they had set down a hand to help, and the hand had survived. The library was ash. The order's heart in Golarion had nearly gone to the knife. And here in a cellar in the ruined city, against every odd, one small piece of it had endured intact, waiting in the dark for someone of the order's blood to come and find it.
 
 Something in him that was usually very quiet went quieter still.
 

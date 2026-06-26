@@ -195,7 +195,7 @@ Items of importance to the campaign — magical, plot-relevant, or symbolic. Upd
 - Coil of rope
 - Flint and steel
 - Healing potion (given to Korroc in Chapter 2 after near-death)
-- **Restoration potion** (given to Aravashniel in Chapter 1 to partially restore his sight; later, a second was found and given to Thane in Chapter 3 for the lizard venom)
+- **Restoration potion** (given to Aravashnial in Chapter 1 to partially restore his sight; later, a second was found and given to Thane in Chapter 3 for the lizard venom)
 - Small bag of hard trail rations
 
 **Status:** Distributed. The pack itself may still be in Caleth's possession.
