@@ -1,6 +1,7 @@
 - [Korroc is a Stonelord paladin](korroc-stonelord.md) — stone literally runs in his veins
 - [Nageru is bronze-skinned, not golden](nageru-not-golden-skin.md) — bronze skin + subtle golden aura; eyes amber
 - [Stonevein family question](stonevein-family-question.md) — Korroc & Thane are cousins; whether they share "Stonevein" surname is TBD
+- [Thane & Korroc knew their fathers](thane-father-timeline.md) — the fathers died when the sons were children, NOT before they were born; the Drezen blueprints (Ch 11) predate the sons' births by ~20 years, the deaths do not
 - [Aravashnial is a Riftwarden elder (SECRET)](aravashniel-riftwarden.md) — same order as Caleth's parents; Caleth knows as of Ch 4; rest of party does NOT
 - [Pre-session-4 character file pass](session-4-prep.md) — most archetypes and corrections landed during the May file pass; new canon may still emerge
 - [Chapter 1 origin and the accidental song-doubling](chapter-1-origin.md) — Ch 1 predates the POV-per-character + song-per-POV idea; its title shares Korroc's song name on purpose now
