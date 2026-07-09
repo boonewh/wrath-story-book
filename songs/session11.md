@@ -8,7 +8,7 @@ Single register start to finish — a funeral march that becomes a vow, building
 
 ## Lyrics (paste into Suno lyrics box)
 
-Character count: 1720 (spaces, newlines, and section tags included)
+Character count: 1721 (spaces, newlines, and section tags included)
 
 Title: Stone Remembers
 
@@ -52,8 +52,8 @@ stone remembers, and so do we.
 [Bridge]
 Seventy years reach through the dark
 to lay his hand on me,
-a key in the palm of a son
-he never lived to see.
+a key in the palm of a son,
+a dawn he'd never see.
 The grief and the gift were the same,
 they always were the same,
 and all my life I only saw
