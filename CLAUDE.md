@@ -60,10 +60,10 @@ If any of these contradict each other, **flag it to the user**; do not silently 
 Memory files live at `C:\Users\William Boone\.claude\projects\c--Users-William-Boone-Desktop-Pathfinder-wrath-story-book\memory\` and are auto-loaded into context via the index file `MEMORY.md`. **Always check `memory/MEMORY.md` early in a session.**
 
 Key memory files at time of writing:
-- `aravashniel-riftwarden.md` — SECRET: Aravashnial is a Riftwarden elder; Caleth knows as of Ch 4
+- `aravashnial-riftwarden.md` — Aravashnial's Riftwarden identity is PUBLIC to the party as of Ch 11; the deeper layers (elder rank, Caleth connection, Caleth's Ch 4 knowledge) stay secret
 - `korroc-stonelord.md` — Korroc's Stonelord paladin archetype + literal stone-in-veins
 - `nageru-not-golden-skin.md` — Nageru's skin is bronze, NOT golden (recurring image-prompt error)
-- `stonevein-family-question.md` — Korroc/Thane share Stonevein surname? OPEN
+- `korroc-thane-stonevein.md` — RESOLVED: all four parents named (Ch 11): Thorek + Helja (Thane's), Borin + Dagna (Korroc's)
 - `chapter-1-origin.md` — Ch 1 predates the POV-by-stakes system; quirks are intentional
 - `webpage-session-section.md` — Design pattern for the live blog Campaign Arc Status section
 - `session-4-prep.md` — Notes from the May 2026 character-file canon-correction pass
@@ -82,8 +82,13 @@ Established POVs so far:
 - Chapter 5: **Nageru** (*The Patient Thunder / The Open Fist* — his first POV, the Gwerm Manor defense / reunion)
 - Chapter 6: **Caleth** (*The Blade That Chooses* — Radiance chooses him)
 - Chapter 7: **Thane** (*The Threshold and the Bar / No Honest Tenants* — the Gray Garrison breach)
+- Chapter 8: **Korroc** (*The Stone Remembers* — the wardstone, the mythic explosion, Staunton at the fathers' table)
+- Chapter 8.5: **Ensemble interlude** (*The Breathing Space* — downtime)
+- Chapter 9: **Nageru** (*The Voice That Answers* — the Queen, the knighting, the march begins)
+- Chapter 10: **Caleth** (*The House That Beauty Built* — the Chapel of Shelyn, the sabotage surfaces)
+- Chapter 11: **Thane** (*The Latch That Held / What the Stone Remembers* — the traitor hunt, the Stonevein letter)
 
-**Nageru has had his first POV (Chapter 5).** POV remains a stakes decision, not a rotation — choose whoever has the most at stake in a given session.
+POV remains a stakes decision, not a rotation — choose whoever has the most at stake in a given session.
 
 ### Secrets Matrix
 
@@ -93,7 +98,8 @@ Who knows what. The POV character can only narrate what they know — never let 
 |---|---|---|
 | Caleth's Spireborn lineage | Caleth, Aravashnial | The party reads it as background, not as identity |
 | Caleth's Riftwarden Orphan status / Seeker's Spiral on his shoulder | Caleth, Aravashnial | Korroc, Thane, Nageru, Anevia, Horgus, Klarah |
-| **Aravashnial is a Riftwarden elder** | Caleth (as of Ch 4), Aravashnial | Korroc, Thane, Nageru, others |
+| Aravashnial is **a Riftwarden** | **PUBLIC to the whole party as of Ch 11** (he closed the Abyssal rift and said so) | Public NPCs / the wider army |
+| **Aravashnial's deeper layers:** his *elder* rank, his link to Caleth's parents' order, the Blackwing as Riftwarden stronghold, **and that Caleth knew since Ch 4** | Caleth, Aravashnial | Korroc, Thane, Nageru, everyone else |
 | The fate of Caleth's biological parents | No one in the party knows | Caleth seeks it |
 | Caleth's Terendelev recognition / dream | Caleth | The rest of the party |
 | Thane + Anevia's Eagle Watch contract | Thane, Anevia, Caleth (Ch 3 reveal), Korroc (partial) | Nageru |
@@ -110,12 +116,14 @@ Who knows what. The POV character can only narrate what they know — never let 
 - **Terendelev** — the silver dragon
 - **Nageru** — the aasimar; **bronze skin** (NOT golden), amber eyes, subtle golden *aura* only
 
-### Party State at End of Chapter 4
+### Party State at End of Chapter 11
 
-The party is **SPLIT**:
-- **Strike team in the Blackwing Library:** Korroc, Caleth, Thane, Anevia, Aravashnial + 4 rescued librarians
-- **At Gwerm Manor:** Horgus, Klarah, Nageru
-- They have **NOT yet reunited**. Reconnection is a Session 5 beat.
+- All four PCs are **Knights of the Fifth Crusade** and **mythic**, leading ~200 soldiers with Irabeth commanding.
+- The army is **within striking distance of Drezen**; the assault (riverbed approach, army engages in the city, strike team takes the citadel) goes in at dawn — that is Session 12.
+- **A traitor/saboteur is loose in the company** (sawn axle, shadowblood in Thane's pack, Aron Kir knifed). Prime suspect: **Nurah** — UNPROVEN; keep her ambiguous.
+- **The Drezen blueprints** (built by the four Stonevein parents + 8 dwarves) ride folded in Caleth's spellbook; the traitor must not learn they exist.
+- Aravashnial is party-publicly **a Riftwarden** (Ch 11); the Caleth connection stays secret.
+- Klarah, Horgus, Anevia, Aron, Sosiel, Nurah travel with the company. Queen Galfrey stayed at Kenabres.
 
 ## Workflow Patterns
 
@@ -178,4 +186,4 @@ These are not yet formalized in `.claude/agents/` — they're informal patterns.
 - **Do NOT spawn parallel Opus agents to co-write a single chapter** — voice fractures. One Opus per chapter.
 - **Do NOT trust character names from your own memory alone.** Especially Klarah, Aravashnial, Khar-Zadûn. Always verify against the character file before writing.
 - **Do NOT delete or rewrite chapter prose without the user's explicit approval.** Chapters are published; treat them as canon.
-- **Do NOT use Korroc, Caleth, or Thane's POV to narrate Caleth's Riftwarden origin or Aravashnial's identity.** Those are private to Caleth (and Aravashnial).
+- **Do NOT use Korroc, Thane, or Nageru's POV to narrate Caleth's Riftwarden origin or the Caleth–Aravashnial connection.** Aravashnial being *a Riftwarden* is party-public as of Ch 11 — but his elder rank, the order's link to Caleth's parents, and the fact that Caleth knew since Ch 4 remain private to Caleth (and Aravashnial).

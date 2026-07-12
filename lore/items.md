@@ -12,14 +12,14 @@ Items of importance to the campaign — magical, plot-relevant, or symbolic. Upd
 
 **Properties:**
 - Each surviving party member picked one up.
-- Each scale carries **one charge of a unique ability,** specific to the bearer's nature and need.
-- The scales seem to **regenerate their charge** (this has been functioning as such in play — confirm with GM).
+- Each scale carries **a unique ability,** specific to the bearer's nature and need.
+- **GM ruling (confirmed): each scale can be used three times per day.** (The earlier "one charge — does it regenerate?" uncertainty is resolved; older prose treating a use as spending a scarce charge reads fine as the bearer's reverence for the gift.)
 
-**Assigned charges:**
-- **Korroc's scale:** Feather Fall / Levitate. Used to descend gently in Chapter 1.
+**Assigned abilities:**
+- **Korroc's scale:** Feather Fall / Levitate. Used in Ch 1 (descent from the ledge), Ch 10 (up the chapel cliff), Ch 11 (down into the Vescavor warren).
 - **Caleth's scale:** Unspent. He is deliberately holding it for something specific. Terendelev's recognition of him suggests a unique purpose.
-- **Thane's scale:** Levitation. Used to ascend the rat-hole in Chapter 3.
-- **Nageru's scale:** Divine smite empowerment for one fight. Fists count as good-aligned and magical, overcoming demonic resistances. Used against the dretches in Chapter 3.
+- **Thane's scale:** Levitation. Used in Ch 3 (up the rat-hole) and Ch 10 (up the broken chapel stairs).
+- **Nageru's scale:** Divine smite empowerment for one fight. Fists count as good-aligned and magical, overcoming demonic resistances. Used against the dretches in Ch 3 and again in Ch 7.
 
 **Symbolic significance:** The scales are Terendelev's blessing on the party. While they carry them, she is *with* them. They are the campaign's first holy relic.
 
@@ -38,9 +38,11 @@ Items of importance to the campaign — magical, plot-relevant, or symbolic. Upd
 
 **Recent history:** Stolen from the Kenabres museum approximately two months before the campaign began by Templars of the Ivory Labyrinth, who intended to **corrupt** it for their own purposes per the S. V. letter.
 
-**Current custody:** **Caleth.** The blade **chose him in Chapter 6** — it woke in his hand at the Defender's Heart and reshaped into a **glaive**, and has not changed back for him since. (It takes a different form for whoever holds it: a longsword for Nageru, a warhammer for Korroc, a glaive for Caleth — each sized to the wielder's reach.) Korroc returned it to him with plain reasoning: the blade keeps finding your hand. Caleth has carried and fought with it through Chapters 6–7, its holy edge blazing white on a smite. **No longer with Thane.**
+**Current custody:** **Caleth.** The blade **chose him in Chapter 6** — it woke in his hand at the Defender's Heart and reshaped into a **glaive**, and has not changed back for him since. (It takes a different form for whoever holds it: a longsword for Nageru, a warhammer for Korroc, a glaive for Caleth — each sized to the wielder's reach.) Korroc returned it to him with plain reasoning: the blade keeps finding your hand. Caleth has carried and fought with it since Chapter 6, its holy edge blazing white on a smite. **No longer with Thane.**
 
-**Symbolic significance:** The first relic the party has rescued *from* the enemy. Yaniel's legacy now partly rests on whoever carries it. Returning Radiance to lawful use is a meaningful moral statement.
+**Session 10 — Powered up.** When Caleth consecrated the Chapel of Shelyn (clearing Kabriri's desecration and casting a consecration scroll), **Radiance flared with light and grew stronger** — heavier in the right way, as if the restored chapel had put something of itself into the weapon. Exact mechanical upgrade TBD with GM, but the blade is narratively and magically more potent now.
+
+**Symbolic significance:** The first relic the party has rescued *from* the enemy. Yaniel's legacy now partly rests on whoever carries it. Returning Radiance to lawful use is a meaningful moral statement. Its Session 10 power-up ties the weapon to an act of faith — Caleth restoring his goddess's house.
 
 ---
 
@@ -56,15 +58,15 @@ Items of importance to the campaign — magical, plot-relevant, or symbolic. Upd
 
 ---
 
-## The Iomedae Sunburst Shield (Korroc's, borrowed)
+## Korroc's Shield (formerly the Iomedae Sunburst Shield)
 
 **Origin:** From the sealed temple armory of Iomedae inside the Gray Garrison.
 
-**Description:** An old, well-made shield bearing Iomedae's sunburst, worked by a craftsman's hand. **Radiates magic.**
+**Description:** An old, well-made shield, worked by a craftsman's hand. **Radiates magic.** Originally bore Iomedae's sunburst; now bears **Torag's hammer-and-anvil**.
 
-**Recovered:** Chapter 7. Korroc — a paladin of **Torag** — took it up **borrowed and with respect**, carrying Iomedae's sign through the garrison *"until I can ask the gods' leave to put her sunburst on alongside Torag's hammer and anvil."*
+**Recovered:** Chapter 7. Korroc took it up borrowed and with respect, carrying Iomedae's sign until he could seek the gods' leave. **In the Chapter 8 wardstone visions, Iomedae herself blessed the change** — the shield now bears Torag's mark by divine leave. It is no longer borrowed; it is his.
 
-**Symbolic significance:** A paladin of one god honoring another's; a small ecumenical grace amid the desecration.
+**Symbolic significance:** A paladin of one god honored by another; Iomedae's direct blessing on Korroc's faith in Torag.
 
 ---
 
@@ -214,6 +216,65 @@ Items of importance to the campaign — magical, plot-relevant, or symbolic. Upd
 - One restoration potion: **spent** (Thane's venom in Chapter 3)
 - One restoration potion: remaining with the party
 - Two healing potions: remaining with the party
+
+---
+
+## The Drezen Blueprints & the Stonevein Letter
+
+**Origin:** Delivered in Ch 11 from **Queen Galfrey's sealed satchel**, carried the whole march by Sosiel Vaenic under orders — he did not know what he held (the Queen suspected an infiltrator and compartmentalized). Handed to Caleth after the war council on the eve of the Drezen assault.
+
+**The blueprints:** The most complete reconstruction of **Citadel Drezen** that could be made — walls, battlements, gates, defenses, barracks, forges, storerooms, and **hidden passages and secret chambers known only to trusted officers and master builders.** Built five years after Drezen fell (~70 years ago) from the gathered testimony of every surviving dwarf the compilers could find. The map is dense with handwritten notes in a dozen dwarven hands.
+
+**The letter (full text):**
+
+> *To Her Majesty, Queen Galfrey of Mendev,*
+>
+> *Five years have passed since the disgraceful loss of Drezen and the deaths of so many of our kin. Though the citadel remains in the grasp of the demonic horde, we have not forgotten our duty.*
+>
+> *By gathering the testimony of every surviving dwarf we could find—soldiers, engineers, stonemasons, and laborers alike—we have painstakingly reconstructed these plans. Before you lies the most complete replica of Drezen's blueprints that can now be made.*
+>
+> *Its walls and battlements. Its gates and defenses. Its barracks, forges, and storerooms. Even those hidden passages and secret chambers known only to trusted officers and master builders.*
+>
+> *No copy can perfectly replace the original records lost during the fall, yet we believe this work to be accurate enough to serve those who would one day reclaim the fortress.*
+>
+> *May these plans aid in the liberation of Drezen and the restoration of dwarven honor. Let the demons learn that stone remembers, and so do dwarves.*
+>
+> *Your humble servants,*
+>
+> *Thorek Stonevein*
+> *Borin Stonevein*
+> *Dagna Stonevein*
+> *Helja Stonevein*
+> *Durgrim Ironfist*
+> *Kazra Deepdelver*
+> *Harbek Granitehand*
+> *Orsik Hammerfall*
+> *Vondal Emberforge*
+> *Rurik Blackmantle*
+> *Gimra Coppervein*
+> *Tordek Runecarver*
+
+**Key facts:**
+- The letter is in **Thorek Stonevein's hand** — Thane recognized his father's handwriting on sight. Each of the twelve names is signed by its owner.
+- **The first four signatories are the four parents of Thane and Korroc:** Thorek + Helja (Thane's), Borin + Dagna (Korroc's). See `characters/npcs.md`.
+- Queen Galfrey kept the blueprints **seventy years**, then put them in the hands of Thorek's son on the eve of the assault to retake the city. *"She has put her full trust in all of you."*
+- **SECRECY IS PLOT-CRITICAL:** the traitor in the company must never learn the blueprints exist. If they are taken, copied, or destroyed, the assault plan dies with them.
+
+**Current custody:** **Caleth** — the map folded deep in the pages of his spellbook (*"People don't lightly meddle with a wizard's spellbook"*). The letter itself is **Thane's**, emotionally if not formally.
+
+**Symbolic significance:** The grief and the gift are the same thing — a dead father's mind, love, and stubborn dwarven refusal to let a thing be truly lost, reaching across seventy years to arm a son not yet born. The other side of Thane's banked flame.
+
+---
+
+## The Footprint Sketch (Aravashnial's Torn Page)
+
+**Origin:** Ch 11. After Aron Kir was knifed from behind by an unseen attacker, Aravashnial sketched the size and shape of the assailant's footprint in his spellbook-journal; Thane held out his hand (*"I want that"*) and Aravashnial tore the page out for him.
+
+**Description:** A single page of precise elven draftsmanship: a footprint **smaller than any foot in the company** — gnome-sized, or near it.
+
+**Current custody:** **Thane.** He treats it the way he treats all evidence: like a holy relic. Slammed it on the war-council map table; has begun checking feet against it (Anevia's cleared, with a grin; **Nurah refused**).
+
+**Plot use:** The only physical evidence against the saboteur. Not proof — as Irabeth said, *"It's a footprint, Master Thane. It isn't a name."*
 
 ---
 

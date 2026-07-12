@@ -32,7 +32,7 @@
 ### Aravashnial
 **Status:** Living. Eyesight fully restored (Ch 9 — Queen's cleric cast Regenerate). Marching with the company toward Drezen.
 
-**Role:** Elder wizard. **Riftwarden elder** — same secret order as Caleth's biological parents. *(See "Riftwarden Identity — SECRET" below.)*
+**Role:** Elder wizard. **Riftwarden elder** — same secret order as Caleth's biological parents. *(Party knows he is a Riftwarden as of Ch 11; the deeper layers stay secret — see "Riftwarden Identity" below.)*
 
 **Appearance:** An **elf** — long-lived but **not elderly**; he reads as mature and weathered, not aged. He is a Riftwarden *elder* by **rank and seniority in the order, not by age** — do NOT write him as an "old man." It is easy to determine he is older than the Worldwound itself — he remembers a time before the crusades. Face was burned in the fall; eye fully regenerated in Ch 9.
 
@@ -47,16 +47,19 @@
 - Began regaining his vision in stages
 - **Chapter 4:** Took Caleth aside at Gwerm Manor and revealed himself as a Riftwarden elder, asking the party to visit the Blackwing Library. Was devastated to find it destroyed. Survived the library fight; one or more of the four rescued librarians may also have been Riftwardens.
 - **Chapter 9:** Eyesight fully restored by a cleric of Iomedae (Nageru asked the Queen). Wept when he could see again. Found Keeper's Canyon on the map first. Grew somber looking west at the Worldwound: "I remember when that land was lush and green." Volunteered to write the pigeon message to the Queen.
+- **Chapter 11:** Named the Vescavor queen as the key to dispersing the swarms. Headed straight for the purple light after the queen fell (*"There could be demons in there." / "Probably."*). Named the **Abyssal rift** calmly, then **closed it casting by casting while the party fought three vrocks** — and **flung demons mid-teleport** with a flick of his hand (*"Keep them away from me"*), snapping the rift shut on the last vrock (only its head came out). Answered Caleth in front of everyone: *"What do you think a Riftwarden does?"* — **his Riftwarden identity is now public to the party.** Cursed in elven for the first time anyone had heard. Sketched the saboteur's footprint in his book and tore the page out for Thane. Warned the group the traitor must never learn the blueprints exist, then left the tent.
 
 **Relationship anchor:** A mentor-figure to Caleth — and now, as of Chapter 4, an acknowledged fellow Riftwarden. He knows something about Caleth's past that he will not share. When Caleth has let something slip and pressed carefully, the door shuts every time. *(See Riftwarden note below.)*
 
-**Riftwarden Identity — SECRET:**
-- Aravashnial is a **Riftwarden elder** — the same secret order as Caleth's biological parents.
-- He **recognized Caleth's lineage from the moment they met** in the underdark. What looked like a scholar's gratitude for the restoration potion was actually a Riftwarden elder quietly acknowledging a Riftwarden's child.
-- **Blackwing Library was a Riftwarden stronghold** — the order's working library, holding the most extensive writings on demons in Golarion. Its destruction is for Aravashnial a loss of *the order*, not only of the books.
-- **Caleth now knows** (revealed in a whispered conversation at Gwerm Manor in Chapter 4).
-- **Korroc, Thane, Nageru, Anevia, Horgus, Klarah do NOT know.** The party's awareness of Aravashnial's true role must remain hidden in prose — show conversations between him and Caleth from outside; never narrate his Riftwarden identity from a non-Caleth POV.
-- **He knows something about Caleth's past** — likely his parentage or their fate — and keeps it locked. This is an active thread: Caleth presses, Aravashnial closes the door.
+**Riftwarden Identity — PARTLY PUBLIC as of Ch 11:**
+- **PUBLIC (the whole party knows, Ch 11):** Aravashnial is **a Riftwarden**, with "powers over the movements of demons" — he closed the Abyssal rift beneath the Ahari Gorge and flung vrocks mid-teleport in front of everyone, then said so plainly: *"What do you think a Riftwarden does?"* Any POV may now narrate this fact.
+- **STILL SECRET (Caleth and Aravashnial only):**
+  - He is a Riftwarden **elder** — rank and seniority in the order.
+  - He **recognized Caleth's lineage from the moment they met** in the underdark; the restoration potion was a Riftwarden elder quietly acknowledging a Riftwarden's child.
+  - **Blackwing Library was a Riftwarden stronghold** — the order's working library. Its destruction is for him a loss of *the order*, not only of the books.
+  - **Caleth has known since Ch 4** (the whispered Gwerm Manor conversation). The rest of the party believes Caleth learned what a Riftwarden is at the rift, same as they did — his *"no one has ever really told me the full story"* protected this.
+  - **He knows something about Caleth's past** — likely his parentage or their fate — and keeps it locked. Active thread: Caleth presses, Aravashnial closes the door.
+- **In prose:** the Caleth–Aravashnial connection must still be shown only from outside in non-Caleth POVs.
 
 ---
 
@@ -120,6 +123,8 @@
 
 **Key moments (Ch 9):** Arrived with the army at Kenabres. Heard Nageru's account of the wardstone. Revealed the wardstones are all gone and the party are their replacement. Assigned the Drezen mission. Knighted all four PCs and Irabeth. Awarded the Righteous Medals. Provided a cleric to regenerate Aravashnial's eye. Gave the company two hundred soldiers, three advisors, and the road.
 
+**Revealed (Ch 11):** She **knew the Stonevein parents** — Thorek, Helja, Borin, and Dagna signed the reconstructed Drezen blueprints letter to her seventy years ago, and she **kept the blueprints all that time**, through the loss of the wardstones and the long bleeding of Mendev. She sent them to Drezen **sealed, via Sosiel, who did not know what he carried** — because she suspected an infiltrator in the company. This is why she looked at Korroc and Thane the way she did when they first met: she knew their parents. Her trust in the four is now explicit and material.
+
 ---
 
 ### Aron Kir
@@ -133,6 +138,8 @@
 
 **Key moments (Ch 9):** Scouted Vilareth Ford with Thane and Anevia. Devised the strategy for Keeper's Canyon — split the army, use bait, pin the incubus. Was right about everything: take the leader, the rest leave.
 
+**Key moments (Ch 11):** Spotted the Ahari Gorge threat and halted the army. Named the **Vescavor swarms** on sight (*"Taking an army through it would be suicide"*). Went forward with the six but **refused to descend into the warren** — set the piton and rope, stayed topside as watch, distaste written all over him. **Knifed from behind by an unseen attacker** while alone on watch — dragged off, left face-down in a ravine, nearly dead. Revived by Nageru's lay on hands and Korroc's cure. Never saw or heard who hit him. Told the full story to the war council. Also briefed the approach: **two enemy armies at Drezen, cultists and tieflings, one south and one north of the river.**
+
 ---
 
 ### Sosiel Vaenic
@@ -144,16 +151,25 @@
 
 **Note:** Caleth recognized Shelyn's symbol immediately and went very still. The connection between Caleth and this faith is private and unspoken. Do not narrate what it means from a non-Caleth POV — only note that the reaction happened.
 
+**Key moments (Ch 11):** After the war council emptied, **delivered Queen Galfrey's sealed satchel to Caleth** — carried the whole march under orders, without knowing what it held (*"She is not one to trust and knew there could be an infiltrator... I hope it helps you in our mission"*). The Queen's compartmentalization: he could betray nothing he didn't know he held.
+
 ---
 
 ### Nurah Dendiwhar
-**Status:** Living. Marching with the company as historian/chronicler.
+**Status:** Living. Marching with the company as historian/chronicler. **PRIME SUSPECT in the sabotage — unproven.**
 
-**Role:** Halfling historian and chronicler of the Worldwound. Knows the land between Kenabres and Drezen better than anyone living who is not currently a demon.
+**Role:** Halfling historian and chronicler of the Worldwound, sent by Queen Galfrey. Knows the land between Kenabres and Drezen better than anyone living who is not currently a demon.
 
-**Appearance:** Small, unassuming, easy to overlook — which may be the point.
+**Appearance:** Small, unassuming, easy to overlook — which may be the point. The smallest person in the leadership tent.
 
-**Voice:** Quick bright nod. Not yet heard enough to characterize further.
+**Voice:** Quick and bright in company — she moves through the camp entertaining the soldiers. Goes **instantly defensive** when challenged: *"I'm not a fighter, I was sent by the Queen to chronicle, and that's all I am, a chronicler."*
+
+**The suspicion (Ch 11 — NOTHING PROVEN):**
+- Aron Kir was knifed **from behind** by an attacker he never saw or heard — not a fighter's approach.
+- The footprints at the attack site are **gnome-sized** — smaller than any foot in the company Thane could name. Nurah is the size that fits.
+- Confronted at the war council (Thane slammed the sketch on the map table; Korroc told her to put her foot up), she **refused and bristled**. Irabeth shut the confrontation down: a footprint is not a name, and accusation without evidence breeds strife on the eve of the assault.
+- **Anevia, independently and unprompted, whispered the same suspicion to Thane in the night:** *"Something might be strange with Nurah. I don't have any proof... Watch your back."*
+- **Writing guidance:** keep her ambiguous in prose. She has never been caught at anything. The evil-sweeps of the camp found nothing — whoever the saboteur is, they are invisible to divine detection. Do not confirm or deny her guilt until the table does.
 
 ---
 
@@ -244,8 +260,8 @@
 
 ---
 
-### S. V. (Unknown — Active Antagonist)
-**Status:** Living. Identity not yet revealed.
+### S. V. — RESOLVED: Staunton Vhane
+**Status:** Living. **Identity revealed (Ch 8):** S. V. = **Staunton Vhane** — see his entry below. This entry is kept for the letter intelligence.
 
 **Role:** Hosilla's superior. Senior Templar of the Ivory Labyrinth. Will assume command of Drezen.
 
@@ -408,6 +424,7 @@
 - Knighted by Queen Galfrey alongside the party (Ch 9) — a flinch of disbelief, quickly mastered
 - Reluctantly accepted command of the two hundred soldiers after Nageru persuaded her
 - Reported nine lost at Keeper's Canyon with grim satisfaction
+- **Ch 11:** Deferred Thane's request for a private word to keep the army moving — a commander's call that cost her Thane's patience and surfaced hot at the council. Ran the Drezen war council (riverbed approach, army engages in the city, strike team takes the citadel). **Refused to move against Nurah on a footprint alone** — *"It's a footprint, Master Thane. It isn't a name"* — absorbing Thane's anger rather than defending herself, and prioritizing the army's cohesion on the eve of the assault
 
 **Relationship anchor:** The company's field commander. Her bluntness and Korroc's stoicism form a natural mutual respect. She leads by being where the worst of it is.
 
@@ -427,7 +444,20 @@
 
 **Role:** Thane's father. Once a Skyguard of Khar-Zadûn, the legendary Dwarven Sky City. Dreamed of reclaiming it.
 
+**Revealed (Ch 11):** Five years after the fall of Drezen — seventy years ago, twenty before Thane and Korroc were born — Thorek **led the reconstruction of Citadel Drezen's blueprints** from the testimony of every surviving dwarf he and eleven others could find, and sent them to Queen Galfrey: *"Let the demons learn that stone remembers, and so do dwarves."* His is the first signature and the letter is in his hand. The blueprints came back to his son on the eve of the assault to retake the city. (See `lore/items.md` — The Drezen Blueprints.)
+
 **Plot significance:** Thane's interior north star. Every demon Thane puts down is part of paying down his father's death. Khar-Zadûn itself is a potential late-campaign location — if Thane ever stands in his father's city, that should be a defining moment.
+
+---
+
+### Helja, Borin & Dagna Stonevein — the Other Signatories
+**Named as of Ch 11** — the second, third, and fourth signatures on the Drezen blueprints letter. The first four names on the page are the four parents of Thane and Korroc.
+
+- **Helja Stonevein** — **Thane's mother.** Still living (presumed; last known in Kenabres). Fourth Crusade veteran; "her careful upright hand" on the letter. She signed it seventy years ago and has never mentioned it to Thane — the user has chosen NOT to make her silence a story beat; do not open that thread unprompted.
+- **Borin Stonevein** — **Korroc's father.** Dead — fell in the Fourth Crusade fighting beside his brother Thorek. Shared the Khar-Zadûn dream.
+- **Dagna Stonevein** — **Korroc's mother.** **Status unknown — do not mark her alive or dead** until the table does.
+
+*(Note: "Borin" also happens to be the name of Nageru's monk teacher, Master Borin — a human at the Sunken Fist. Different people; coincidence of names. Watch for confusion in prose.)*
 
 ---
 
