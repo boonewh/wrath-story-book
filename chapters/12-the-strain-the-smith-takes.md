@@ -16,11 +16,15 @@ Aron had drawn a map in the ash with the point of his knife — Drezen, or the b
 
 "So we clear the outside first," Thane said. Not a question. His cousin sat with his forearms on his knees, both blades already wiped though he'd killed nothing since noon, reading the ash-map the way he read everything, from the ground up. "How much of it."
 
-"Enough of it." Aron's knife-point touched a scratch near the citadel. "The bridge, first and last. It has to be taken and it has to be *held*. Lose the bridge and you lose the whole approach — they can pour reinforcement across it faster than we can bleed them for it." The knife moved. "Here. Paradise Hill. The Queen thinks they're holding prisoners there. People they took in the raids."
+"Enough of it." Aron's knife-point touched a scratch out on the eastern side of the ash-city. "Here. Paradise Hill. The Queen thinks they're holding prisoners there. People they took in the raids."
 
 "Then we go get them," Thane said, before anyone else could. Flat and certain, and Korroc felt the small warm pull of pride at it — his cousin, who trusted almost no one and liked fewer, who would still hear *prisoners* and answer without a breath between.
 
 "Aye," Korroc said. "We go get them."
+
+"And once you have them, you keep them." Aron's knife dropped a fraction south of the hill-mark and rested. "There's a bridge below the hill. A small crossing — not the Ahari, that one's west of here and it stays theirs for now. This one. It has to be taken, and it has to be *held*. Hold that bridge and nothing reaches the hill again without wings or foul magic. You'll have sealed it — ground the freed can stand on, ground the army can anchor to and work west from." The flat eyes came up. "Lose it, and everything you've freed is an island in their sea."
+
+Korroc looked at the little scratch of a crossing and heard the shape of the plan under it, and approved it the way he approved good joinery. *Seal the join before you work the next seam.* You did not spread your clamps across a whole piece at once. You set one true hold, and you worked outward from it.
 
 Aron's knife moved a last time, and stopped, and rested there a moment longer than it had rested anywhere. "And the cemetery." His voice did not change and somehow that was worse. "That one's a wild card. Nobody goes there. The ones who do don't come back. So we don't know what's in it, and I'll tell you plain — I don't want to find out with an army camped blind beside it." He lifted the knife. "That's for later. But it's coming."
 
@@ -222,7 +226,7 @@ Below, out in the ruined dark, a new noise had risen while they fought — a cla
 
 Paradise Hill was a supply-dump before it was anything else, and Korroc read it as one.
 
-They came into it behind the last of the fighting, the four of them and a knot of paladins, and the first thing they found was the plain evidence of an army being fed. Cultist stores — sacks of hard bread and dried meat stacked under a lean-to, barrels of water ranked along a wall, the dull unglamorous stuff that let a horde sit outside a city and starve it. Korroc noted it the way a quartermaster's friend notes it: *ours now.* Horgus would be pleased. Every barrel here was a barrel Irabeth's people did not have to haul up the riverbed.
+They came into it behind the last of the fighting, the four of them and a knot of paladins, and the first thing they found was the plain evidence of an army being fed. Cultist stores — sacks of hard bread and dried meat stacked under a lean-to, barrels of water ranked along a wall, the dull unglamorous stuff that kept a horde fed in a ruin it had held too long. Korroc noted it the way a quartermaster's friend notes it: *ours now.* Horgus would be pleased. Every barrel here was a barrel Irabeth's people did not have to haul up the riverbed.
 
 Then, deeper in, past the stores — voices.
 
@@ -238,7 +242,7 @@ For a moment nothing. Then the words seemed to reach the back of them, and somet
 
 "Whoa. Whoa, now." Gentle, immovable, the same tone. "We'll have this door open. Stand back from it and let my friend work the lock."
 
-They explained it as Thane opened the door — the army come north, the wardstone, the city being taken back — and Korroc watched the thing happen that he would carry out of this whole grim day as the one clean piece of it: he watched hope come back into two hundred faces. Not slowly. All at once, like a forge-door flung open, the tired gray leaving them and something bright and painful taking its place.
+They explained it as Thane opened the door and Korroc watched the thing happen that he would carry out of this whole grim day as the one clean piece of it: he watched hope come back into two hundred faces. Not slowly. All at once, like a forge-door flung open, the tired gray leaving them and something bright and painful taking its place.
 
 Because there were two hundred of them, at the least. More, maybe. The door opened and they came out and kept coming out, filing into the torchlight, blinking, and Korroc stood back and let them come and did the thing he could not help doing, which was to read them.
 
@@ -262,19 +266,25 @@ Korroc watched him go back to the others with the notch-bladed sword held like a
 
 *Bent, not broken,* he thought. *And metal that's been bent and holds is stronger than metal that never bore a load at all.*
 
-His father would have said that. His father had been here, in this city, seventy-five years ago, believing the same stubborn dwarven thing — that a broken thing could be reforged, that stone remembered, that you did not walk away from work worth doing just because it had been ruined once. Korroc set his shield and looked north again, and felt his father very near.
+His father would have said that. His father had been here, in this city, seventy-five years ago, believing the same stubborn dwarven thing — that a broken thing could be reforged, that stone remembered, that you did not walk away from work worth doing just because it had been ruined once. Korroc set his shield and felt his father very near.
+
+A leader among the paladins found them as the last of the freed men armed themselves. "Where next?"
+
+"The bridge south of the hill." It was Aron who answered, flat as ever, his hand chopping down the southern fall of the ground. "I've already sent runners back to Irabeth and told her to move. We take that crossing and we hold it, and this hill is sealed — nothing gets back onto it without wings or foul magic. Then she has solid ground to plant the army on, and we work west from there."
+
+Korroc grunted. It was the same plan it had been in the ash the night before, and daylight had made it no worse. *Seal the join. Then work the next seam.*
 
 There was a bridge to take.
 
 ---
 
-They came up on the bridge with a small army at their backs, and it was already half a battle.
+They came south off the hill with a small army at their backs, and the bridge was already half a battle.
 
-Aron had not waited. When Korroc found him the tactics-man was standing at the near end of the span with his flat eyes already reading the far side, and he spoke without turning. "I sent runners to Irabeth the moment we cleared the hill. She's bringing the rest up the riverbed behind us. And the lookouts on the bridge are down — the paladins got them on the way in." He jerked his chin at the span, where bodies lay crumpled at the near end. "Bought us a little. But look."
+The lookouts on it were dead before the column ever reached them — the paladins had taken them down in the earlier fighting, and the bodies lay crumpled along the near end of the span. It had bought time. It had not bought surprise. Aron stood at the bridge-mouth with his flat eyes reading the far side, and he did not bother saying *look*.
 
 Korroc looked.
 
-Across the gorge, on the far side of the long stone bridge, there was an army waking up. Two of them, in truth — Korroc could see the split in it plain, the way you could see a weld between two metals that had never quite fused. Cultists on the one hand, a mass of hooded human filth. Tieflings on the other, red-skinned and horned and moving with a soldier's discipline the cultists lacked. Two forces, camped separate, mustering separate, and both of them now fully awake to the fact that the near end of their bridge had been taken.
+Across the gorge, on the far side — the south side — there was an army waking up. Two of them, in truth — Korroc could see the split in it plain, the way you could see a weld between two metals that had never quite fused. Cultists on the one hand, a mass of hooded human filth. Tieflings on the other, red-skinned and horned and moving with a soldier's discipline the cultists lacked. Two forces, camped separate, mustering separate, and both of them now fully awake to the fact that the near end of their bridge had been taken.
 
 Aron was already moving, barking low orders, fanning the freed prisoners out along the lip of the gorge — the archers, the men Caleth had armed, spreading into a loose line with bows in their hands. The paladin leader brought his hundred up to the front and set them at the near mouth of the bridge, a shield-wall across the only crossing, ready to hold the throat of it. The whole thing came together fast, the ragged instant machinery of an army that knows its work.
 
@@ -324,7 +334,7 @@ Caleth had put them at the deep rear, with the enemy's own rearguard between the
 
 It happened at the same instant the first dretches crashed into the paladin shield-wall across the gorge. Korroc heard it start behind him — the clash of the line taking the summoned things, and over it, the hiss and thunk of the freed archers' arrows arcing down onto the cultists and tieflings crowding the bridge. The trap closed from two sides at once. Bodies began to fall on the span.
 
-And here, in the rear, the four of them went to work.
+And here, in the rear, the three of them went to work.
 
 A cultist dropped under Nageru's fists before he even knew what had killed him — the aasimar simply arrived among them, a bronze blur, and men fell where he passed. Thane went one way and Korroc the other, and cultists began to fall between them, the hammer on the one side finding skulls and the daggers on the other finding seams. Then Caleth was suddenly ahead of them all, the world folding under him, appearing deeper in to cut at the soft middle.
 
@@ -354,7 +364,7 @@ Caleth's eyes cleared. His hand shot out and closed on Korroc's forearm, hard, a
 
 "Keep count," Korroc said. "I'll not."
 
-Nageru was wading deeper. He'd left the dead caster and pushed on toward the leaders sheltering in the crowd, and the enemy army, waking at last to the disaster in its rear, had begun to turn — men peeling off the bridge-fight and the front to come back at the four demons who had appeared behind them. Korroc saw it coming and moved up behind Nageru, and then the two of them were in the thick of it, mobbed, soldiers closing on them from three sides.
+Nageru was wading deeper. He'd left the dead caster and pushed on toward the leaders sheltering in the crowd, and the enemy army, waking at last to the disaster in its rear, had begun to turn — men peeling off the bridge-fight and the front to come back at the four who had appeared behind them. Korroc saw it coming and moved up behind Nageru, and then the two of them were in the thick of it, mobbed, soldiers closing on them from three sides.
 
 Korroc set his feet and his shield and became a wall.
 
@@ -372,7 +382,7 @@ The paladins came off the near end in a hard advancing line, and the freed arche
 
 The paladins began gathering the ones who'd surrendered, herding them into a knot, searching them for blades and worse. And the four of them, catching their breath, moved back into the ground the enemy had camped on — and found the last gift of the day.
 
-Supplies, first. More of the same dull crucial stuff, food and water and the makings of a siege. And then, stacked in a lean-to under a cultist's tarp, a thing that stopped Korroc where he stood: crusader gear. Armor and weapons, a whole stash of it — plate and mail and good honest steel, taken off the Crusade's own dead over years of raids, hoarded here like a magpie's pile. Korroc knelt and put his hand on a breastplate and knew the make of it, the Mendevian pattern, the work of a living smith somewhere south who'd never know his craft had come home.
+Supplies, first. More of the same dull crucial stuff, food and water and fodder, the makings of a long war. And then, stacked in a lean-to under a cultist's tarp, a thing that stopped Korroc where he stood: crusader gear. Armor and weapons, a whole stash of it — plate and mail and good honest steel, taken off the Crusade's own dead over years of raids, hoarded here like a magpie's pile. Korroc knelt and put his hand on a breastplate and knew the make of it, the Mendevian pattern, the work of a living smith somewhere south who'd never know his craft had come home.
 
 "Get word to the lieutenants," Korroc said, rising. "The freed men. Bring them up and let them arm themselves proper. This was theirs once." He looked at the pile, and at the north, where the citadel still hid behind the ruin. "Let them go into the rest of this fight wearing their own steel."
 
@@ -380,15 +390,15 @@ And they did. Within the hour the men from the cellar under Paradise Hill were p
 
 ---
 
-Irabeth came up the riverbed with the rest of the army as the sun cleared the ruins, and the siege of Drezen began in earnest.
+Irabeth came up with the rest of the army as the sun cleared the ruins, and the Crusade drove its first anchor into Drezen's ground.
 
-They made a camp on the south bank of the dry river, in the ground they'd bled to win, and threw up a makeshift prison of stakes and rope to hold the ones who'd surrendered, and the whole grinding apparatus of a besieging army began to settle itself around the bones of the city like a second, living wall. Korroc walked the edge of it once the healing was done and the wounded were seen to, and he could not help but read the ground under the new camp the way he'd read everything all day — dwarven work under the crusader tents, his people's stone holding up a Crusade come at last to take it back.
+They made camp south of the bridge, below Paradise Hill, on the very ground the enemy had camped on that morning, and threw up a makeshift prison of stakes and rope to hold the ones who'd surrendered. It was not the siege. Korroc was careful with himself about that, the way a smith is careful not to call a first weld a finished frame. The outer city was not cleared; the Ahari crossing to the west was still in demon hands; the citadel had not yet felt so much as a knock at its door. But the hill was sealed at their backs, and the bridge was held, and two hundred freed souls stood armed inside a line the enemy could not cross without wings, and the army had solid ground under it to work west from. A foothold, won and paid for. Korroc walked the edge of the camp once the healing was done and the wounded were seen to, and he could not help but read the ground under the new tents the way he'd read everything all day — dwarven work under the crusader canvas, his people's stone holding up a Crusade come at last to take it back.
 
-*We're inside it now,* he thought. *The first stone of it, anyway. The outer wall of it.* His father's city, cracked open at last, one bought yard of it turned back to the light.
+*A foothold,* he thought. *Not the city. Not near the city yet. The first true hold on the edge of it.* You did not rush a piece like this. You set the first clamp where it would bite, and you tested it, and then you worked — and everything west of this camp, the whole long defiled sweep of his father's city, was still the work.
 
-The command tent went up, and when it did, Aron and Irabeth called them in, and the map was on the table again — Drezen, drawn true this time, not scratched in ash — and Aron's finger came down on it in a place Korroc had been half-dreading since the fire two nights gone.
+The command tent went up, and when it did, Aron and Irabeth called them in, and the map was on the table again — Drezen, drawn true this time, not scratched in ash — and Aron's finger came down on it in a place Korroc had been half-dreading since the fire last night.
 
-The cemetery.
+The cemetery. It lay west of the new camp — too close to the road the army would have to take.
 
 "I hate to belabor it," Aron said, in his flat spent voice, "but." The finger tapped the mark. "We're camped on this side of the riverbed now. We're *staying* here, for a while. And I will not have this army sitting blind next to a place where everyone who walks in stops walking out." He looked around the tent. "We don't know what's in it. That's the whole problem. And 'we don't know' is how a camp gets taken in the night."
 
@@ -404,15 +414,15 @@ Korroc watched the man kneel and rise and did not say what he was thinking, whic
 
 Later, when the tent had emptied and the camp had banked its fires and the four of them found a stretch of ground to lay their bedrolls, Korroc sat a while before he slept with his back to a dwarven wall seventy-five years defiled, and put his palm flat against the old stone, and let the stone in his veins lean toward the stone at his back the way it wanted to. The wall did not speak. It only held, the way it had held for three lifetimes under filth and fire, waiting.
 
-*We're here,* he told it, without words. *We're inside the wall. We took the bridge. We got the prisoners out.* And, because it was true and because he could say it to stone if he could say it to no one: *I felt him get torn open today and I couldn't reach him, and I'd feel it again a hundred times before I'd let him carry it alone.*
+*We're here,* he told it, without words. *We've a hold on the edge of you now. We took the bridge. We got the prisoners out.* And, because it was true and because he could say it to stone if he could say it to no one: *I felt him get torn open today and I couldn't reach him, and I'd feel it again a hundred times before I'd let him carry it alone.*
 
 The bond was quiet now. Tired, but quiet. All three of them were still standing, healed and fed and breathing, laid out in the dark within an arm's reach of him. Korroc could feel them there on the thread, three warm sure weights, and he held onto the feeling the way you keep one hand on a rope in the black.
 
 He thought of the smith's oldest lesson, the one his father had drilled into him before he could lift a full hammer: that the strain in a thing had to go *somewhere*. You could not make it vanish. You could only choose where it went. A blade that took all its own strain cracked. A good smith drew the strain out, spread it, carried it in the work of his own hands and his own back so the metal came off the anvil true and whole and ringing. That was the whole of the craft, in the end. Not the striking. The *bearing*. The taking of the strain so the thing you loved did not have to break under it.
 
-He had a thread that let him do that for the three men sleeping beside him. He had a hammer and a shield and a curse and a gift and a god who answered when he spoke. He had his family's city cracked open around him and a citadel ahead with his father's work in its bones and a burly branded traitor somewhere in it who had sat at that father's table.
+He had a thread that let him do that for the three men sleeping beside him. He had a hammer and a shield and a curse and a gift and a god who answered when he spoke. He had a first hard-won hold on the edge of his family's city, and a citadel still ahead with his father's work in its bones, and a burly branded traitor somewhere in it who had sat at that father's table.
 
-And he had, still, whole days of the work ahead — the cemetery, the walls, the citadel, the man. The outer city was theirs. The rest was not. Their jobs in Drezen, Korroc knew, laying his head down at last against his family's stone, were only just begun.
+And he had, still, whole days of the work ahead — the cemetery, the long west, the walls, the citadel, the man. One hill and one bridge were theirs. All the rest was not. Their jobs in Drezen, Korroc knew, laying his head down at last against his family's stone, were only just begun.
 
 He slept, and the stone held him, and the thread stayed warm, and somewhere north in the dark a citadel waited to be read.
 
