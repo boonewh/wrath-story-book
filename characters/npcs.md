@@ -48,6 +48,7 @@
 - **Chapter 4:** Took Caleth aside at Gwerm Manor and revealed himself as a Riftwarden elder, asking the party to visit the Blackwing Library. Was devastated to find it destroyed. Survived the library fight; one or more of the four rescued librarians may also have been Riftwardens.
 - **Chapter 9:** Eyesight fully restored by a cleric of Iomedae (Nageru asked the Queen). Wept when he could see again. Found Keeper's Canyon on the map first. Grew somber looking west at the Worldwound: "I remember when that land was lush and green." Volunteered to write the pigeon message to the Queen.
 - **Chapter 11:** Named the Vescavor queen as the key to dispersing the swarms. Headed straight for the purple light after the queen fell (*"There could be demons in there." / "Probably."*). Named the **Abyssal rift** calmly, then **closed it casting by casting while the party fought three vrocks** — and **flung demons mid-teleport** with a flick of his hand (*"Keep them away from me"*), snapping the rift shut on the last vrock (only its head came out). Answered Caleth in front of everyone: *"What do you think a Riftwarden does?"* — **his Riftwarden identity is now public to the party.** Cursed in elven for the first time anyone had heard. Sketched the saboteur's footprint in his book and tore the page out for Thane. Warned the group the traitor must never learn the blueprints exist, then left the tent.
+- **Chapter 13:** Studied the dead beasts at Ahari Bridge with his restored eyes and named them — **"Aurochs."** — and *spat*, an emphasis no one had ever seen the dry elf spend (*"an animal fused with an evil spirit, often the result of a botched summoning, or a botched exorcism... The beast is in there the whole time, you understand. Underneath."*). Then delivered the campaign's new dread over the chimera's carcass, voice lowered as if it might hear: *"It seems enhanced. Fortified past its nature. **In the same way the stone affected you.**"* — the first confirmation that the enemy commands mythic power of its own.
 
 **Relationship anchor:** A mentor-figure to Caleth — and now, as of Chapter 4, an acknowledged fellow Riftwarden. He knows something about Caleth's past that he will not share. When Caleth has let something slip and pressed carefully, the door shuts every time. *(See Riftwarden note below.)*
 
@@ -140,6 +141,8 @@
 
 **Key moments (Ch 11):** Spotted the Ahari Gorge threat and halted the army. Named the **Vescavor swarms** on sight (*"Taking an army through it would be suicide"*). Went forward with the six but **refused to descend into the warren** — set the piton and rope, stayed topside as watch, distaste written all over him. **Knifed from behind by an unseen attacker** while alone on watch — dragged off, left face-down in a ravine, nearly dead. Revived by Nageru's lay on hands and Korroc's cure. Never saw or heard who hit him. Told the full story to the war council. Also briefed the approach: **two enemy armies at Drezen, cultists and tieflings, one south and one north of the river.**
 
+**Key moments (Ch 12–13):** Planned the clearing of Drezen's outer city with the four at a deliberately small fire, leadership excluded for fear of the traitor (*"This is not for four heroes... You want a good slice of the army with you."*). Laid out the three objectives: Paradise Hill's prisoners, the unnamed bridge south of the hill (*"Hold that bridge and nothing reaches the hill again without wings or foul magic"*), and — at every council, relentlessly — the cemetery (*"Nobody goes there. The ones who do don't come back."*). Sent runners to Irabeth mid-battle to bring the army forward. Fanned the freed prisoners out as an archer line at the bridge fight. After the vote went cemetery-first, kept raising real problems until Thane walked out and scouted it himself.
+
 ---
 
 ### Sosiel Vaenic
@@ -170,6 +173,18 @@
 - Confronted at the war council (Thane slammed the sketch on the map table; Korroc told her to put her foot up), she **refused and bristled**. Irabeth shut the confrontation down: a footprint is not a name, and accusation without evidence breeds strife on the eve of the assault.
 - **Anevia, independently and unprompted, whispered the same suspicion to Thane in the night:** *"Something might be strange with Nurah. I don't have any proof... Watch your back."*
 - **Writing guidance:** keep her ambiguous in prose. She has never been caught at anything. The evil-sweeps of the camp found nothing — whoever the saboteur is, they are invisible to divine detection. Do not confirm or deny her guilt until the table does.
+- **Status after Sessions 12–13:** no new incidents since Aron Kir. The saboteur has gone quiet through the outer-city fighting and the move to the Ahari. Quiet is not resolution — the thread stays live and unproven.
+
+---
+
+### The Freed Men's Leader (unnamed)
+**Status:** Living. Leads the ~200 freed prisoners folded into the army.
+
+**Role:** A prisoner freed from the cellar at Paradise Hill (Ch 12) — lean, hard-eyed, carrying a notched blade taken off a dead tiefling. Spoke for the freed: *"We can help in the fight. Most of us are healthy. All we need is a weapon and we'll go with you. Let us fight these bastards."* Caleth armed them (*"Archers are always valuable in a war"*); many later re-equipped from the recovered stash of captured crusader gear.
+
+**Key moment:** By full dark of the first day, stood before Irabeth, **swore allegiance to the Crusade in a rough plain voice, and was made leader of the new men.** Korroc's private read: *bent, not broken — metal that would take a temper. His father would have liked him.*
+
+**Open thread:** The GM has not named him. If he recurs, get a name from the table before inventing one.
 
 ---
 
@@ -425,6 +440,8 @@
 - Reluctantly accepted command of the two hundred soldiers after Nageru persuaded her
 - Reported nine lost at Keeper's Canyon with grim satisfaction
 - **Ch 11:** Deferred Thane's request for a private word to keep the army moving — a commander's call that cost her Thane's patience and surfaced hot at the council. Ran the Drezen war council (riverbed approach, army engages in the city, strike team takes the citadel). **Refused to move against Nurah on a footprint alone** — *"It's a footprint, Master Thane. It isn't a name"* — absorbing Thane's anger rather than defending herself, and prioritizing the army's cohesion on the eve of the assault
+- **Ch 12:** Brought the army up after the unnamed bridge fell and planted the Crusade's first camp on Drezen ground — south of the bridge, below sealed Paradise Hill — with a makeshift prison for the surrendered. Made the lean, hard-eyed freed prisoner who swore allegiance **leader of the two hundred new men**
+- **Ch 13:** Let the bridge-or-cemetery argument burn down to coals, then called the vote (*"Enough. We vote."*). Heard the four's blood-soaked report standing, asked the right questions in the right order, and had the army moving before the telling was done — by evening the Crusade stood camped at the Ahari's south edge with engineers shoring the span
 
 **Relationship anchor:** The company's field commander. Her bluntness and Korroc's stoicism form a natural mutual respect. She leads by being where the worst of it is.
 
