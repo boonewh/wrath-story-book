@@ -1,67 +1,83 @@
-⚔️ "The Floor of the Still Water" — Martial Death Metal
+⚔️ "One Word" — Martial Death Metal
+### *(The Day the Silence Broke)*
 
-The **Session 13** song for [chapters/13-the-sound-the-thunder-makes.md](../chapters/13-the-sound-the-thunder-makes.md) (*The Sound the Thunder Makes / What Breaks the Stillness*) — Nageru's second death-metal anthem, and the deliberate **inversion and companion** to his character anthem [songs/character-nageru.md](character-nageru.md) ("The Thunder Wakes"). Same voice, same register, opposite pole. "The Thunder Wakes" is wrath he *elected* — cold, liturgical, decided: *restoration, not rage; it is tidying.* This song is the one time the discipline **failed** — wrath that was **not chosen**, that got past a thousand mornings of guard, involuntarily, for a specific person. The man who mastered his anger until mastery was nature meets the one thing the still water cannot hold: his brother in the monster's teeth with no one left to carry him. The floor of the still water was love, not law. He broke — and *did not resist the breaking* — and for the first time in the whole campaign he raised his voice. One word. The single roared **"NO!"** is the gang-shout hook, the whole piece's center. The craft move is the same one that solves "The Thunder Wakes": the MUSIC is relentless martial death metal start to finish (single register), and the stillness — and the crack running through it — lives entirely in the WORDS. Paste the LYRICS block into Suno's lyrics box, the STYLE block into the style box, and "The Floor of the Still Water" into the title field.
+The **Session 13** song for [chapters/13-the-sound-the-thunder-makes.md](../chapters/13-the-sound-the-thunder-makes.md) — Nageru's second death-metal anthem, and the deliberate **inversion and companion** to his character anthem [songs/character-nageru.md](character-nageru.md) ("The Thunder Wakes"). This is a full lyric rewrite for legibility. The through-line a first-time listener with zero knowledge of the story should get, start to finish: **a warrior who has trained his entire life to be silent, calm, and unbreakable — who has never once raised his voice — reaches the single moment his control shatters, roars one word, and strikes.** Verse 1 says plainly who he is (the silent one, anger swallowed a thousand times, still as water). Verse 2 crosses the line (one of his own goes down; the discipline fails). The break and the blow: holy fire on his fists, the leap, the strike landing like a falling tower. "The Thunder Wakes" was wrath he *chose* — cold, liturgical, decided. This is wrath he *didn't* choose — the one time the guard fails, involuntarily.
+
+The whole song turns on **one word: "NO!"** — and it is built structurally and in the style box to force Suno to make that word the single biggest, most **isolated** moment in the track. It gets its own line, ALL CAPS, standing alone; a dedicated `[Breakdown]` where the band drops out and the word lands by itself and as a gang chant; a performance-cue tag on the delivery; and a hard call-out in the style box against Suno's exact failure of blending it into the line. The Korroc-burden material from the previous draft is cut entirely — the fallen comrade is now faceless and brief ("one of my own goes down"), the spark and nothing more. The camera stays on Nageru's rupture. Paste the LYRICS block into Suno's lyrics box, the STYLE block into the style box, and "One Word" into the title field.
 
 ---
 
 ## Lyrics (paste into Suno lyrics box)
 
-Character count: 1,279 (spaces and section tags included — the lyrics box is uncapped; kept lean and roarable per the genre)
+Character count: 1,413 (spaces and section tags included — the lyrics box is uncapped; kept blunt, concrete, and roarable per the genre)
 
 [Verse 1]
-A thousand courtyard mornings, I refused the rise
-Read the blow, I gave it nowhere, never lift my voice or eyes
-Anger drilled to water, and the water drilled to stone
-Mastery was second nature — a thing I thought I owned
-
-[Chorus]
-NO — one word, and the word is the whole of the law
-NO — I did not choose it, did not resist the fall
-The floor of the still water is my brother in the jaws
-NO — over the shield-line, and the fire was not my call
+I have never raised my voice — not once in all my years
+Swallowed every anger, drove it down beneath the years
+Still as standing water, calm because I chose to be
+A thousand mornings mastered it. No rage gets past me.
 
 [Verse 2]
-He drinks the half of every wound the rest of us should bear
-The one who carries all of us — and no one carrying there
-He shut the thread between us so his knees would keep the ground
-Alone inside his body when the cold that walks came round
+Then one of my own goes down, and I cannot let it stand
+The line I have held forever breaks apart inside the man
+Still as standing water — till the water finds its floor
+The calm gives out, the discipline fails, I am silent no more
+
+[Pre-Chorus]
+Holy fire wakes on my fists. I leave the ground.
+The whole of my life comes off the leash without a sound —
+
+[Breakdown — full stop, the word screamed alone, gang shout]
+NO!
 
 [Chorus]
-NO — one word, and the word is the whole of the law
-NO — I did not choose it, did not resist the fall
-The floor of the still water is my brother in the jaws
-NO — over the shield-line, and the fire was not my call
+NO! — one word, the only word, the loudest thing I own
+NO! — I leap the open air and bring it down like falling stone
+Fire on my knuckles, and it lands like a falling tower
+NO! — the silence breaks. This is the hour.
 
-[Bridge]
-Fists caught fire without my asking — blood and oath agreed
-Over the guard, over my brother, the leap devoured the need
-A tower falls where the knuckle lands, white light tears the black
-Three throats scream as one — it stands — and its hate looks back
+[Breakdown — band drops out, gang chant, isolated]
+NO! NO!
+
+[Verse 3]
+I did not choose it. I did not resist the fall.
+A life of holding still, and now I finally raise my call.
+The light bursts where it strikes, and it screams, and still it stands —
+I broke one time, I broke for this, and I feel it in my hands
+
+[Chorus]
+NO! — one word, the only word, the loudest thing I own
+NO! — I leap the open air and bring it down like falling stone
+Fire on my knuckles, and it lands like a falling tower
+NO! — the silence breaks. This is the hour.
 
 [Outro]
-The still water found its floor. The floor was him.
-NO.
+Never raised my voice. Not once.
+Until now.
+NO!
 
 ---
 
 ## Style (paste into Suno style box)
 
-Character count: 904 (spaces included — under the 1,000 hard cap)
+Character count: 962 (spaces included — under the 1,000 hard cap)
 
-Martial death metal, a holy war-march. Fast galloping rhythm around 170 BPM, driving double-kick drums, palm-muted gallop riffs, soaring twin-guitar harmonies and triumphant lead melodies. Harsh but fully INTELLIGIBLE mid-range death growl on the verses — every word clearly heard, controlled and precise, not a chaotic gurgle. Huge clean anthemic gang-shout chorus, genuinely SINGABLE — a crowd of male voices roaring "NO" in unison, clear enough to chant. Triumphant, martial, disciplined, holy battle-metal: a paladin's controlled fury cracking open, NOT demonic, NOT satanic, NOT brutal-death, NOT chaotic. Single register throughout — relentless war-march start to finish, no quiet flute intro, no meditative section, no genre swap. Dynamic swells inside the genre only: heavier verses, soaring choruses, the bridge a massive gang-shout climax. Epic, grieving, ordered wrath. Male vocals only.
+Martial death metal, a holy war-march. Fast galloping rhythm around 170 BPM, driving double-kick drums, palm-muted gallop riffs, soaring twin-guitar harmonies and triumphant leads. Harsh but fully INTELLIGIBLE mid-range death growl on the verses — every word clearly heard, controlled and precise, not a gurgle. THE WORD "NO" IS THE SINGLE LOUDEST, MOST ISOLATED MOMENT IN THE SONG: the band drops to a full stop around it, it is screamed CLEAN in unison, pushed hard to the front of the mix, a gang shout standing alone — NEVER blended into a line, NEVER swallowed by the growl, NEVER just another word in the flow. Choruses are huge, clean, singable gang-shouts. Triumphant, martial, disciplined holy battle-metal: a silent warrior's lifelong control finally shattering — NOT demonic, NOT satanic, NOT brutal-death, NOT chaotic. Single register throughout, relentless start to finish, no quiet intro, no meditative break, no genre swap. Male vocals only.
 
 ---
 
 ## Troubleshooting
 
-1. **If the growl goes UNINTELLIGIBLE (the worst failure — the liturgical words MUST be heard):** This song lives or dies on the words. The whole concept is a disciplined, formal register with a crack running through it — *"I did not choose it, did not resist the fall,"* *"the floor of the still water is my brother in the jaws."* If you can't make those out, the grief is gone and it's just noise. Lead the style box with "harsh but fully intelligible mid-range death growl, every word clearly understood, controlled and precise." If it persists, drop to a cleaner "raspy shouted half-growl." Regenerate until you can hear "the floor of the still water."
+1. **If the "NO" gets blended into the line / swallowed by the growl (the user's exact complaint — the #1 failure to beat):** The word has to land as the single biggest, most *isolated* hit in the whole song, not one more syllable in the flow. Three levers are already built in — use all of them and push harder if needed: (a) the `[Breakdown]` sections isolate it with the band dropping out; (b) it sits alone on its own ALL-CAPS line with a bang; (c) the style box foregrounds it explicitly. If Suno still buries it, strengthen the tags to `[Breakdown — ALL instruments STOP, one clean screamed "NO!" alone in silence, then gang chant NO! NO!]` and add to the style box "the word NO is a full-stop hit with dead air around it, clean unison scream at the very front of the mix." Regenerate until the "NO" is the thing a stranger remembers.
 
-2. **If you lose the clean gang-shout "NO!" hook (the single most important failure here):** The one roared word is the entire centerpiece — the chapter's climax, the first time in the campaign this man raises his voice. It has to land as a crowd of clean male voices roaring **NO** in unison, big and chantable, NOT growled and NOT buried in the mix. Add "huge clean gang-shout chorus, layered male voices roaring NO in unison, anthemic and singable, NOT growled, the word NO clearly forward in the mix." The verses growl; the chorus is shouted clean and enormous. If Suno swallows the "NO," regenerate — that word is the whole song.
+2. **If a first-time listener can't tell what the song is about (the clarity failure):** The lyric is deliberately plain now — "I have never raised my voice," "no rage gets past me," "one of my own goes down," "the discipline fails, I am silent no more," "I leap the open air and bring it down like falling stone." Do NOT let Suno's mix or an unintelligible growl erase that legibility. Lead the style box with "harsh but fully intelligible mid-range death growl, every word clearly understood." If takes come back mushy, regenerate — the story only works if you can hear the words. There is exactly one poetic line ("till the water finds its floor"); everything else is concrete on purpose. Keep it that way.
 
-3. **If it goes chaotic / satanic / brutal-death instead of martial / holy:** Add "martial death metal, triumphant holy war-march, soaring twin-guitar harmonies, NOT brutal death, NOT satanic, NOT chaotic, NOT blast-beat grindcore." This is a holy warrior's discipline *breaking* — but it breaks into grief and celestial fire, not into a demonic pit. It should sound epic, ordered, and heartbroken, like an army that has just watched one of its own go down — not like a collapse.
+3. **If the growl goes UNINTELLIGIBLE:** Same fix as above and it is critical here — the whole point of this rewrite is that a stranger follows the beginning/middle/end. Drop to a cleaner "raspy shouted half-growl" on the verses if the death growl keeps eating the diction.
 
-4. **If Suno tries to insert a quiet / meditative intro (reject this — same trap as the other thunder songs):** Single register only. The stillness and the crack both live in the WORDS ("a thousand courtyard mornings, I refused the rise"), never in the arrangement. There is no quiet flute intro, no meditation break, no soft passage that detonates into metal — Suno chokes on that swap and it is wrong for this song. If a quiet intro or breakdown appears, regenerate and add "no quiet intro, no acoustic break, relentless metal start to finish, single register."
+4. **If it goes chaotic / satanic / brutal-death instead of martial / holy:** Add "martial death metal, triumphant holy war-march, soaring twin-guitar harmonies, NOT brutal death, NOT satanic, NOT chaotic, NOT blast-beat grindcore." This is a silent holy warrior's discipline breaking into grief and celestial fire — epic and ordered even as it shatters, not a demonic collapse.
 
-5. **Keep it DISTINCT from the other two thunder songs.** This is not "The Thunder Turns Over in Its Sleep" (session 5 — the whispered meditation where the thunder deliberately never wakes), and it is not quite "The Thunder Wakes" (the character anthem — wrath *chosen* as cold general principle). Do not let Suno drift toward either. Session 5 is quiet and must stay unrelated in sound. "The Thunder Wakes" is this song's sibling in genre but its opposite in meaning: that one is decided, liturgical, abstract; **this one is involuntary, grieving, and about one specific brother.** If a take feels like it's just re-singing "Evil must die," it has the wrong song — the engine here is *the one who carries everyone had no one to carry him, so I broke, and I did not resist the breaking.*
+5. **If Suno tries to insert a quiet / meditative intro (reject — same trap as the other thunder songs):** Single register only. The stillness lives in the WORDS ("still as standing water, calm because I chose to be"), never in the arrangement — no quiet flute intro, no soft passage that detonates into metal. If a quiet intro or breakdown-into-silence appears anywhere except the intended `[Breakdown]` around the "NO," regenerate and add "no quiet intro, no acoustic break, relentless metal start to finish, single register."
 
-6. **Tempo note:** Fast gallop, around 170 BPM — driving and relentless, a war-march you go to battle to, not a chaotic blast. If it loses the deliberate, ordered feel under the grief, tag "galloping war-march, 170 BPM, driving but controlled, NOT blast-beat." The discipline is still audible in the music even as it cracks in the words — that tension is the point.
+6. **Keep it DISTINCT from the other two thunder songs.** Not "The Thunder Turns Over in Its Sleep" (session 5, the whispered meditation) and not a re-sing of "The Thunder Wakes" (the character anthem, wrath chosen as cold principle). This one is the opposite pole: *involuntary* — the one time the still man breaks — and it must not reuse that song's "Evil must die" gang-shout. Here the gang-shout is a single word: **NO.**
+
+7. **Tempo note:** Fast gallop, around 170 BPM, driving and relentless. If it loses the deliberate martial feel, tag "galloping war-march, 170 BPM, driving but controlled, NOT blast-beat."
