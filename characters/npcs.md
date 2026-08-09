@@ -50,6 +50,8 @@
 - **Chapter 11:** Named the Vescavor queen as the key to dispersing the swarms. Headed straight for the purple light after the queen fell (*"There could be demons in there." / "Probably."*). Named the **Abyssal rift** calmly, then **closed it casting by casting while the party fought three vrocks** — and **flung demons mid-teleport** with a flick of his hand (*"Keep them away from me"*), snapping the rift shut on the last vrock (only its head came out). Answered Caleth in front of everyone: *"What do you think a Riftwarden does?"* — **his Riftwarden identity is now public to the party.** Cursed in elven for the first time anyone had heard. Sketched the saboteur's footprint in his book and tore the page out for Thane. Warned the group the traitor must never learn the blueprints exist, then left the tent.
 - **Chapter 13:** Studied the dead beasts at Ahari Bridge with his restored eyes and named them — **"Aurochs."** — and *spat*, an emphasis no one had ever seen the dry elf spend (*"an animal fused with an evil spirit, often the result of a botched summoning, or a botched exorcism... The beast is in there the whole time, you understand. Underneath."*). Then delivered the campaign's new dread over the chimera's carcass, voice lowered as if it might hear: *"It seems enhanced. Fortified past its nature. **In the same way the stone affected you.**"* — the first confirmation that the enemy commands mythic power of its own.
 
+- **Chapter 14:** Drew the party a **brimorak** in his own book and briefed them on it — *"Fire does not hurt them. And neither does electricity"* (said pointedly to Caleth) — *"But they mislike the cold."* / *"It **hurts** them."* Plus the warning that a brimorak's touch burns through a fire ward. **And the live thread: he watched Caleth push charge back into a dead wand, went still, took the wand, turned that same attention on Caleth, and asked *"How did you do this?"* — then said *"We should talk later."*** Thane clocked the whole exchange as a door with more behind it than the frame shows. **The conversation has not happened yet. Do not resolve it without the GM.** That night the saboteur cut into his tent and left a bomb in it; he walked out unhurried a half-second before it detonated and did not turn around to look.
+
 **Relationship anchor:** A mentor-figure to Caleth — and now, as of Chapter 4, an acknowledged fellow Riftwarden. He knows something about Caleth's past that he will not share. When Caleth has let something slip and pressed carefully, the door shuts every time. *(See Riftwarden note below.)*
 
 **Riftwarden Identity — PARTLY PUBLIC as of Ch 11:**
@@ -141,6 +143,8 @@
 
 **Key moments (Ch 11):** Spotted the Ahari Gorge threat and halted the army. Named the **Vescavor swarms** on sight (*"Taking an army through it would be suicide"*). Went forward with the six but **refused to descend into the warren** — set the piton and rope, stayed topside as watch, distaste written all over him. **Knifed from behind by an unseen attacker** while alone on watch — dragged off, left face-down in a ravine, nearly dead. Revived by Nageru's lay on hands and Korroc's cure. Never saw or heard who hit him. Told the full story to the war council. Also briefed the approach: **two enemy armies at Drezen, cultists and tieflings, one south and one north of the river.**
 
+**Key moments (Ch 14):** Laid out the **four watchtowers** on the map — still manned, still active, each garrisoned by a brimorak that could summon or teleport in more, with the tiefling army waiting on the flat behind them. *"They come down first, or we don't come at all. Small job. Strike team."* The plan that put the party on the citadel roof started here.
+
 **Key moments (Ch 12–13):** Planned the clearing of Drezen's outer city with the four at a deliberately small fire, leadership excluded for fear of the traitor (*"This is not for four heroes... You want a good slice of the army with you."*). Laid out the three objectives: Paradise Hill's prisoners, the unnamed bridge south of the hill (*"Hold that bridge and nothing reaches the hill again without wings or foul magic"*), and — at every council, relentlessly — the cemetery (*"Nobody goes there. The ones who do don't come back."*). Sent runners to Irabeth mid-battle to bring the army forward. Fanned the freed prisoners out as an archer line at the bridge fight. After the vote went cemetery-first, kept raising real problems until Thane walked out and scouted it himself.
 
 ---
@@ -154,12 +158,37 @@
 
 **Note:** Caleth recognized Shelyn's symbol immediately and went very still. The connection between Caleth and this faith is private and unspoken. Do not narrate what it means from a non-Caleth POV — only note that the reaction happened.
 
+**Key moments (Ch 14):** Arrived at the prisoner cages with soldiers and a litter and took the shadowblood casualty to the infirmary — the party's healer-of-record for the camp while the four fight ahead of it.
+
 **Key moments (Ch 11):** After the war council emptied, **delivered Queen Galfrey's sealed satchel to Caleth** — carried the whole march under orders, without knowing what it held (*"She is not one to trust and knew there could be an infiltrator... I hope it helps you in our mission"*). The Queen's compartmentalization: he could betray nothing he didn't know he held.
 
 ---
 
 ### Nurah Dendiwhar
-**Status:** Living. Marching with the company as historian/chronicler. **PRIME SUSPECT in the sabotage — unproven.**
+**Status:** Living. **CAUGHT AND CONFESSED (Ch 14).** Bound, gagged, and under guard in the camp below Drezen, to be returned to Queen Galfrey for judgment. **The sabotage arc is closed.**
+
+**CAUGHT (Ch 14):** She threw shadowblood into the prisoner cage as a distraction, rifled the party's tents while the camp ran to the seizing prisoner, and was cutting into Aravashnial's tent — invisible, with a bomb already inside it — when **Thane dropped conjured water on the empty air and soaked her.** She acid-splashed him, tried a spell on him that slid off, and was hammered by Korroc, dropped by Nageru's fist, and held rigid by Caleth. Thane turned back the hood with the point of his mother's blade: *"Nurah."*
+
+**HER CONFESSION (Ch 14) — canon:**
+- Came to the Worldwound at **twenty**, the youngest of the entourage of **Lord Axilar Trezbot of Isger**, an abusive master who dragged her to the **Fourth Crusade** as scribe and tactician in the failed attempt to retake Citadel Drezen — *the same failure that killed Thorek and Borin Stonevein.*
+- Years in Isger and Cheliax had already made fiends ordinary to her. In the Worldwound she came to relish the carnage, and then to **admire demons**.
+- Tiefling assassins and babaus led by a possessed crusader destroyed Axilar's legion and **killed her master in front of her.** She felt release, not horror, and **pledged herself to the demons on the spot.**
+- The victorious commander was a shadow demon named **Eustoyriax**, who accepted her surrender and sent her to **Raliscrad** to be processed. There **Minagho** examined her soul, confirmed the conversion was real, and **sent her back across the line as a spy for the Templars of the Ivory Labyrinth.**
+- She has been a long-term saboteur ever since — arranging the deaths of devout crusaders while passing as a lucky, generous, gifted traveling companion. Getting placed at **Queen Galfrey's** elbow took months of machinations; she was *annoyed* to be reassigned to the four PCs, and then delighted, because **bringing down four mythic knights is a greater triumph than bringing down the Queen.** Baphomet's cult calls it her masterwork.
+
+**What she gave up under questioning:**
+- **Staunton is in the citadel.**
+- She does **not** answer to Staunton — she has a handler: **Kiranda, a succubus.** *"You'll know her."*
+- She was to check in when she had either destroyed the party or they had gotten into the citadel.
+
+**Holding her:** Irabeth had no men to spare to send her back mid-assault. **She sings to cast** — so her components were taken and her mouth is kept bound, with eyes on her every hour. *"You'll not sing your way out of my camp, advisor."*
+
+**Writing guidance going forward:** the ambiguity rule is retired. She is a confessed Templar agent. If she reappears, she is a prisoner and a source — and a woman who lost her innocence on the exact ground that killed the Stonevein fathers, which Thane noted and refused to soften toward.
+
+---
+
+### Nurah — prior suspicion record (Sessions 10–11, kept for reference)
+**Status at the time:** Living, marching with the company as historian/chronicler. **PRIME SUSPECT — unproven.**
 
 **Role:** Halfling historian and chronicler of the Worldwound, sent by Queen Galfrey. Knows the land between Kenabres and Drezen better than anyone living who is not currently a demon.
 
@@ -185,6 +214,89 @@
 **Key moment:** By full dark of the first day, stood before Irabeth, **swore allegiance to the Crusade in a rough plain voice, and was made leader of the new men.** Korroc's private read: *bent, not broken — metal that would take a temper. His father would have liked him.*
 
 **Open thread:** The GM has not named him. If he recurs, get a name from the table before inventing one.
+
+---
+
+## Inside Citadel Drezen (Sessions 14–16)
+
+### Jordan Vhane
+**Status:** Living. **Surrendered to Korroc in Chapter 16.** Kneeling in his dead brother's map room, awaiting a decision about his fate.
+
+**Role:** Dwarf. **Staunton Vhane's younger brother**, and by every account badly used by him. A spellcaster and hammer-fighter; he opened the map-room fight with a burst of sound that stunned Thane, tried to blind and deafen Korroc, and split himself into illusory copies.
+
+**Faith: DROSKAR, the Dark Smith.** His shield bears the Dark Smith's symbol — near-kin to Torag's hammer and anvil, and wrong: the proportions greedy, the design bent toward *toil* where Torag's bends toward *craft*. **This is the load-bearing detail of his character and of Korroc's interest in him.**
+
+**Key moments (Ch 16):**
+- Foreshadowed by **Jestak** in Ch 14: *"Jordan Vhane is also down there often... he is not happy with the way his brother is treating him. Find him and he might help you."*
+- **Korroc recognized him by name off a single flinch** — *"Jordan Vhane, is that you?"* — and immediately called *"Don't kill him."*
+- **Nageru talked to him in the middle of the fight** on Korroc's shout, offering both the crusade (*"We have some great dwarves, join us and we'll help you"*) and a smaller door (*"If you want, you can stay here until we're done. We won't hurt you."*). His face showed real conflict.
+- **He held back for the rest of the fight — and then healed his brother anyway.** Even after everything. Korroc read that as the thing Droskar's toil could not burn out of a dwarf.
+- When Staunton fell, Jordan dropped to his knees, looked at the body, and looked at the burning Korroc: *"Staunton was never the same since he came back from the Ivory Sanctum. I assume that my fate will be the same as his."*
+- **Korroc offered him submission to Queen Galfrey for judgment — *"You don't have to die"* — and a first task to steady him: tell them where the Sword of Valor is.** Recognition and **hope** crossed his face. He nodded.
+
+**Open thread — this is Korroc's, and the party has not tested it yet.** Jordan knows the citadel and the new chambers below. Whether he holds when a demon leans on him is exactly the doubt Korroc raised about Jestak in Ch 14.
+
+---
+
+### Kiranda
+**Status:** DEAD — destroyed by Caleth in Chapter 16.
+
+**Role:** A **succubus**, and **Nurah's handler** in the Templar network. Named by Nurah under interrogation in Ch 14: *"She's a succubus. You'll know her."*
+
+**Her method — CANON (GM, confirmed): it was Kiranda the whole time. There was never a living Maranse Delaskru in that room.** She staged the entire rescue: chained herself by one ankle in a garrison bunkroom, laid a rapier just past her own reach, and screamed threats about "Master Staunton" at the door until the party came in and freed her.
+
+Everything the party "found" was part of the staging. **Korroc's paladin sight found no evil on the man at all.** Caleth read a charm on him and identified the swashbuckler by name and by his two-year-old disappearance. Korroc broke the "charm" — which had never been a charm — and then overruled Thane to give the prisoner his sword back. She then **fought competently and lethally alongside the party through two rooms**, killing demons at their side and taking Korroc's healing, before putting a freezing blade into Caleth's back mid-battle: *"It's amazing you've made it this far, but it ends here."* Caleth killed her with three smite-lit thrusts of Radiance.
+
+**Why this matters going forward — she beat the party's detection outright.** She fooled a paladin's read of evil, a wizard's read of magic, and an inquisitor's instincts (Thane distrusted her but had nothing), and she had the patience to fight two full rooms at their backs before striking. **The party does not know how she did it.** Korroc's in-the-moment conclusion in Ch 16 — *no soul at all in the shape it was wearing, only a hole with a face over it* — is now confirmed correct.
+
+**Almost certainly the author of the citadel roof (Ch 14)** — a dozen-plus tieflings and halflings dead with **no defensive wounds**, which Nageru named on sight: *"Succubus."*
+
+**Note on succubi in this arc:** she is the **second** face-stealing demon in two chapters — the false Iomedae of Ch 15 was a different one. The web page framed them as "the same stolen-face kind." Kiranda was the one Nurah answered to.
+
+---
+
+### Jestak
+**Status:** Living. Sent out of the citadel by Caleth in Chapter 14, over the battlefield to the crusade's rear, with a written pass pinned to her armor. **Unaccounted for since.**
+
+**Role:** Leader of Citadel Drezen's siege-engine crew. Human-ish; furred armor, wild hair, horns bolted to her pauldrons, a greatsword nearly as long as she is. **Radiates evil** — Thane and Korroc both read it clearly, and Thane spared her anyway.
+
+**Her story:** **Lord Vhane was not happy that the siege crew failed** to hold the south, so he sent tieflings to kill them. They beheaded her twelve halfling crewmen. **She killed the tieflings** — the twelve headless bodies and twelve heads the party found in the barracks were the two sides of that. She was standing alone among them when Thane rolled through the door.
+
+**What she gave the party (all of it load-bearing):**
+- **New chambers below the citadel** — a dungeon, not on the Stonevein blueprints. *"Anything important goes down there and happens down there."*
+- **The Banner is below.**
+- **Jordan Vhane** — Staunton's brother, mistreated, and possibly willing to help.
+- That there are people in the citadel who would gladly turn if someone got them clear of the demons.
+
+**Why she matters to Thane's arc:** she is the hunch he threw a hand out for against his own reading and against Korroc's — *"Look at the bodies. What if she killed them for the same reason we are?"* — and she paid off completely. Korroc's caveat still stands unproven: *"If we come up against something strong down there, I can't promise she holds."*
+
+---
+
+### Maranse Delaskru
+**Status: a name and a face, not a person — at least not one the party has ever met. CANON (GM): the "Maranse Delaskru" in the citadel was the succubus Kiranda from the first moment, start to finish.**
+
+The real Maranse Delaskru is a **famous swashbuckler who disappeared about two years ago** — that much is true, and it is what let Caleth identify the face on sight. **What became of the actual man is unrecorded; do not invent it.** Kiranda was wearing a reputation as much as a shape: a name the party would recognize, a disappearance that explained the chains, and a grievance that explained why he'd want to go deeper into the citadel with them.
+
+**Everything "he" said should be read as a demon's script**, including:
+- The threats about "Master Staunton" shouted at the door — bait to look like a prisoner.
+- The famous swashbuckler's stubbornness about not leaving.
+- The tiefling sorceress **Chorussian**, "somewhere down below," who supposedly defeated and chained him. **Treat this name as suspect** — it was a reason to be taken downstairs, and it may be a real person, a trap, or nothing at all. Wait for the table.
+
+**Prose note:** the party has no idea any of this is settled. Korroc suspects it; nobody has confirmed it to them.
+
+---
+
+### Chorussian
+**Status:** Living (presumed). Named but never seen.
+
+**Role:** A **tiefling sorceress** said to be somewhere in the new chambers below the citadel. Named in Ch 16 by the man in the chains as the one who defeated and imprisoned him — which makes the name suspect in origin but not necessarily false. **Unverified. Do not build on it until the table does.**
+
+---
+
+### Eustoyriax
+**Status:** Living (presumed). Off-screen.
+
+**Role:** A **shadow demon**; commander of the force that destroyed Lord Axilar Trezbot's legion in the Fourth Crusade and accepted **Nurah's** surrender, sending her to Raliscrad to be processed (Ch 14 confession). A named rung on the Templar ladder above her and below Minagho.
 
 ---
 
@@ -311,7 +423,9 @@
 
 **Key facts (from her letter to Faxon):** Vorlesh has left for the Abyss to secure a **Nahyndrian crystal** from "our Lord's daughter," then will come to Kenabres to "turn the wardstones fully to our use." Minagho regrets she cannot be present for the city's murder.
 
-**Plot significance:** A named, ranked demonic antagonist tied directly to the wardstone plot and the fall of Kenabres. Raliscradin (her seat) is a potential later target.
+**CONFIRMED (Ch 14 — Nurah's confession):** Minagho **personally recruited and vetted Nurah** at Raliscrad, saw the potential in her tainted soul, and sent her back across the line as a Templar spy. She has been running long-term saboteurs inside the crusade for years. This puts her one clear rung above the whole Drezen infiltration.
+
+**Plot significance:** A named, ranked demonic antagonist tied directly to the wardstone plot, the fall of Kenabres, **and the spy who nearly unmade the Drezen expedition.** Raliscradin/Raliscrad (her seat) is a potential later target.
 
 ---
 
@@ -334,7 +448,15 @@
 ---
 
 ### Staunton Vhane
-**Status:** Living, at large. Named by Irabeth in Chapter 5.
+**Status: DEAD — killed in Chapter 16**, in the citadel's map room, by Caleth's three smite-lit thrusts of Radiance after Thane put five daggers into him from invisibility. **The campaign's first great nemesis is finished.**
+
+**How he died (Ch 16):** He walked out from behind a half-fiend minotaur into the room where the party had just killed three babaus and cornered his brother. *"Took you long enough to get here."* He put his glaive twice through Thane, then named the cousins in the open — ***"So the Stonevein brothers have finally made it, and one hides like a coward."*** He dropped Nageru with three glaive thrusts, was healed by his own brother mid-fight, took Thane's five stabs and went to one knee without falling, mocked them again (*"One snot-nosed Stonevein turns into a paladin and the other is a coward, hiding in the shadows"*), loosed a wave of negative energy through all four, and **landed a killing critical on Korroc that the Stonelord's ancestor-stone refused.** Caleth killed him a heartbeat later.
+
+**What died with him:** Thane wanted him taken alive — *"Don't kill him"* — for the Templar chain, the names, the years. **Korroc overruled him: *"No. You can kill him."*** The intelligence Staunton carried is gone. **This is a live thread between the cousins and neither has spoken of it.**
+
+**Revealed by his brother:** *"Staunton was never the same since he came back from the Ivory Sanctum."* The Ivory Sanctum is now a named place in the campaign and a thing that changes people.
+
+**Prior record (kept):** Named by Irabeth in Chapter 5.
 
 **Role:** A model crusader and secret traitor — leader of a group called the **Hammers of Heaven**, held up to younger soldiers as what they should aspire to be. He was the enemy's the whole time. Irabeth caught him, and he **slipped her hand** (escaped).
 
@@ -442,6 +564,9 @@
 - **Ch 11:** Deferred Thane's request for a private word to keep the army moving — a commander's call that cost her Thane's patience and surfaced hot at the council. Ran the Drezen war council (riverbed approach, army engages in the city, strike team takes the citadel). **Refused to move against Nurah on a footprint alone** — *"It's a footprint, Master Thane. It isn't a name"* — absorbing Thane's anger rather than defending herself, and prioritizing the army's cohesion on the eve of the assault
 - **Ch 12:** Brought the army up after the unnamed bridge fell and planted the Crusade's first camp on Drezen ground — south of the bridge, below sealed Paradise Hill — with a makeshift prison for the surrendered. Made the lean, hard-eyed freed prisoner who swore allegiance **leader of the two hundred new men**
 - **Ch 13:** Let the bridge-or-cemetery argument burn down to coals, then called the vote (*"Enough. We vote."*). Heard the four's blood-soaked report standing, asked the right questions in the right order, and had the army moving before the telling was done — by evening the Crusade stood camped at the Ahari's south edge with engineers shoring the span
+
+- **Ch 14:** Came through the tent-row "like a portcullis dropping" when the saboteur was taken — *"What is going on in my camp."* Ran the interrogation, named what Nurah had betrayed (*"You were sent to us by the Queen. By Galfrey herself"*), and made the hard practical call: **no men could be spared to send the prisoner back mid-assault**, so Nurah would be held under guard, components confiscated and **mouth bound** — because Irabeth had watched her cast and knew **she sings to do it.** *"You'll not sing your way out of my camp, advisor."*
+- **Ch 14–16:** Commanding the army up the Ahari and into Drezen while the four clear the citadel from the roof down. As of the end of Ch 16 the crusade appeared to be winning the field below.
 
 **Relationship anchor:** The company's field commander. Her bluntness and Korroc's stoicism form a natural mutual respect. She leads by being where the worst of it is.
 

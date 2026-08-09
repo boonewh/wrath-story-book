@@ -2,13 +2,13 @@
 
 ## Model Architecture Rule
 
-**Sonnet is always the orchestrator. Opus is always the creative writer.**
+**ONE agent does everything. Opus reads, researches, decides, and writes. No hand-offs.**
 
-- Sonnet handles all planning, file reads, note-taking, canon updates, continuity checks, and session scaffolding.
-- When it is time to write a chapter, a song, an image prompt, or any other creative prose, Sonnet spawns an Opus sub-agent (using `model: "opus"` in the Agent tool) and passes it the full context: style guide, session notes, relevant character files, prior chapters, and any specific instructions.
-- Opus returns the finished prose; Sonnet handles all follow-up (saving the file, updating canon, writing the per-session changelog).
+- The main agent is **Opus**. It does the session-note reading, the canon research, the POV decision, the continuity checking, the chapter prose, the songs, the image prompts, the canon updates, and the web updates — all of it, in one continuous context.
+- **Do NOT spawn sub-agents for creative work.** Do not spawn a "chapter-writer," a "song-writer," a "canon-keeper," or a "continuity-checker." The hand-off was the problem: the writing agent arrived with less context than the agent that did the reading, and the prose paid for it.
+- Only use the Agent tool if the user explicitly asks for it.
 
-This rule applies to every creative task, no exceptions. **Do not write story prose, songs, or image prompts as the Sonnet main agent.**
+*(Changed 2026-08-09. The project previously ran Sonnet-orchestrates / Opus-writes. Briefing a fresh Opus with a summary of research it did not itself do lost too much — the researching agent knows which details matter and why, and that knowledge does not survive being compressed into a prompt. One agent, whole context, start to finish.)*
 
 ## Project Overview
 
@@ -37,7 +37,7 @@ wrath-story-book/
 
 ## Cross-Project Relationship
 
-The live blog lives in a **separate repository** at `c:\Users\William Boone\Desktop\Websites\games\`. Built with Next.js + TipTap. The relevant page is `src/app/wrath/page.tsx` (route: `/wrath`). The page has a section labeled `{/* CAMPAIGN ARC STATUS — REPLACE-NOT-APPEND ... */}` that must be updated per session.
+The live blog lives in a **separate repository** at `G:\Projects\games\`. Built with Next.js + TipTap. The relevant page is `src/app/wrath/page.tsx` (route: `/wrath`). The page has a section labeled `{/* CAMPAIGN ARC STATUS — REPLACE-NOT-APPEND ... */}` that must be updated per session.
 
 When the blog page is updated, a matching `website/updateN.md` changelog file is written in *this* repo. Pattern set by `website/update4.md` — top matter, what changed (grouped by file path), files NOT touched, verification steps, cross-references.
 
@@ -57,16 +57,21 @@ If any of these contradict each other, **flag it to the user**; do not silently 
 
 ## Memory System
 
-Memory files live at `C:\Users\William Boone\.claude\projects\c--Users-William-Boone-Desktop-Pathfinder-wrath-story-book\memory\` and are auto-loaded into context via the index file `MEMORY.md`. **Always check `memory/MEMORY.md` early in a session.**
+**The project's canon memory lives in this repo, at `memory/`**, indexed by `memory/MEMORY.md`. It is committed to git and survives machine failures. **Always read `memory/MEMORY.md` early in a session**, then read the files it points at.
 
-Key memory files at time of writing:
-- `aravashnial-riftwarden.md` — Aravashnial's Riftwarden identity is PUBLIC to the party as of Ch 11; the deeper layers (elder rank, Caleth connection, Caleth's Ch 4 knowledge) stay secret
+There is also a machine-local Claude memory store at `C:\Users\boone\.claude\projects\G--Projects-wrath-story-book\memory\`. It is NOT backed up and was wiped by the August 2026 Windows reinstall — treat it as scratch. **Anything that matters to the campaign goes in the repo's `memory/`.**
+
+Current repo memory files:
+- `aravashniel-riftwarden.md` — Aravashnial's Riftwarden identity is PUBLIC to the party as of Ch 11; the deeper layers (elder rank, Caleth connection, Caleth's Ch 4 knowledge) stay secret. *(Filename misspells his name; the file's content is correct.)*
 - `korroc-stonelord.md` — Korroc's Stonelord paladin archetype + literal stone-in-veins
 - `nageru-not-golden-skin.md` — Nageru's skin is bronze, NOT golden (recurring image-prompt error)
-- `korroc-thane-stonevein.md` — RESOLVED: all four parents named (Ch 11): Thorek + Helja (Thane's), Borin + Dagna (Korroc's)
+- `stonevein-family-question.md` — **superseded:** the cousins DO share the Stonevein name; all four parents named in Ch 11 (Thorek + Helja are Thane's, Borin + Dagna are Korroc's)
+- `thane-father-timeline.md` — the fathers died when the sons were children; the sons KNEW them. The blueprints predate the sons' births; the deaths do not.
 - `chapter-1-origin.md` — Ch 1 predates the POV-by-stakes system; quirks are intentional
 - `webpage-session-section.md` — Design pattern for the live blog Campaign Arc Status section
 - `session-4-prep.md` — Notes from the May 2026 character-file canon-correction pass
+
+**Lost in the August 2026 reinstall** (referenced by older docs, never committed, not recoverable): `drezen-geography-session12.md`, `staunton-sv-delayed-reveal.md`, `suno-song-constraints.md`, `korroc-thane-stonevein.md`. Their substance survives in `style-guide.md` (Suno rules) and the character files (Stonevein parents, Staunton reveal). Do not go looking for them.
 
 ## Critical Continuity (Do Not Forget)
 
@@ -87,6 +92,11 @@ Established POVs so far:
 - Chapter 9: **Nageru** (*The Voice That Answers* — the Queen, the knighting, the march begins)
 - Chapter 10: **Caleth** (*The House That Beauty Built* — the Chapel of Shelyn, the sabotage surfaces)
 - Chapter 11: **Thane** (*The Latch That Held / What the Stone Remembers* — the traitor hunt, the Stonevein letter)
+- Chapter 12: **Korroc** (*The Strain the Smith Takes / Half Your Wounds* — the foothold on Drezen's edge)
+- Chapter 13: **Nageru** (*The Sound the Thunder Makes* — the cemetery, the Ahari, the stillness breaking)
+- Chapter 14: **Thane** (*Who Has Business Inside / The False Credential* — Nurah caught, the watchtowers, into the citadel)
+- Chapter 15: **Caleth** (*Beauty Has Teeth / What Wore the Inheritor's Face* — the false Iomedae, "knowing wasn't enough")
+- Chapter 16: **Korroc** (*Two Brothers of the Same Forge / The Price of Working with Demons* — Staunton dies, Jordan kneels)
 
 POV remains a stakes decision, not a rotation — choose whoever has the most at stake in a given session.
 
@@ -116,14 +126,19 @@ Who knows what. The POV character can only narrate what they know — never let 
 - **Terendelev** — the silver dragon
 - **Nageru** — the aasimar; **bronze skin** (NOT golden), amber eyes, subtle golden *aura* only
 
-### Party State at End of Chapter 11
+### Party State at End of Chapter 16
 
-- All four PCs are **Knights of the Fifth Crusade** and **mythic**, leading ~200 soldiers with Irabeth commanding.
-- The army is **within striking distance of Drezen**; the assault (riverbed approach, army engages in the city, strike team takes the citadel) goes in at dawn — that is Session 12.
-- **A traitor/saboteur is loose in the company** (sawn axle, shadowblood in Thane's pack, Aron Kir knifed). Prime suspect: **Nurah** — UNPROVEN; keep her ambiguous.
-- **The Drezen blueprints** (built by the four Stonevein parents + 8 dwarves) ride folded in Caleth's spellbook; the traitor must not learn they exist.
-- Aravashnial is party-publicly **a Riftwarden** (Ch 11); the Caleth connection stays secret.
-- Klarah, Horgus, Anevia, Aron, Sosiel, Nurah travel with the company. Queen Galfrey stayed at Kenabres.
+- All four PCs are **Knights of the Fifth Crusade** and **mythic** — **Level 9, Mythic Tier 2** as of Session 16. *(The live blog page still shows Level 8 in two places; both update with the Session 16 web pass.)*
+- **The four are inside Citadel Drezen**, clearing it from the roof downward, while Irabeth's army fights up the Ahari below and appears to be winning.
+- **STAUNTON VHANE IS DEAD** (Ch 16) — killed by Caleth, after Thane's daggers broke him and Korroc refused Thane's request to take him alive. The Templar chain he could have named died with him.
+- **The saboteur is caught:** **Nurah** confessed in Ch 14 — a Templar agent recruited by Minagho — and is bound and gagged under guard, awaiting return to the Queen. *The "keep her ambiguous" rule is retired.*
+- **Jordan Vhane**, Staunton's ill-used brother and a **worshipper of Droskar the Dark Smith**, has **surrendered to Korroc personally** and agreed to reveal where the Sword of Valor is. Unproven; Korroc owns this thread.
+- **The Sword of Valor is NOT recovered.** The upper-citadel Banner was a decoy. The true one is **below**, in new chambers that appear on no dwarven map — including the Stonevein blueprints.
+- **Korroc wears gold-and-mithral Iomedaean armor** (Ch 15) that fits him as though forged for him. **He feels he ought to know why and cannot. Do not explain it.**
+- **Caleth carries an unhealed wound from Ch 15:** a succubus wearing Iomedae's face compelled him past his own correct judgment and drained him. His refrain is *"knowing wasn't enough."* **No one in the party has ever spoken of it.**
+- **Caleth can push charge back into spent magic items** (Ch 14) — and **Aravashnial said "We should talk later." That conversation has not happened.**
+- The Drezen blueprints still ride folded in Caleth's spellbook and have been navigating the citadel since Ch 14.
+- Klarah, Horgus, Anevia, Aron, Sosiel remain with the company at camp. Queen Galfrey stayed at Kenabres.
 
 ## Workflow Patterns
 
@@ -135,14 +150,16 @@ Who knows what. The POV character can only narrate what they know — never let 
 4. **Read** the POV character's file in `characters/`
 5. **Skim** relevant lore (factions, items, places mentioned in the session)
 6. **Check** `memory/MEMORY.md` for secrets, open questions, and any "previous-Claude fabrication" warnings
-7. **Spawn ONE Opus sub-agent** with the full briefing to write the chapter
+7. **Write the chapter yourself**, in one sustained pass, with all of the above in context
 8. **Save** the result as `chapters/NN-short-title.md` (chapter number matches session number)
 9. **Canon-update pass:** update character files (Established Moments + Current State), lore files, npcs.md as needed
 10. **Web-update pass:** update `games/src/app/wrath/page.tsx` Campaign Arc Status section + write `website/updateN.md`
-11. **Song:** spawn Opus to write `songs/sessionN.md`
-12. **Image prompt:** spawn Opus to write `images/sessionN.md`
+11. **Song:** write `songs/sessionN.md`
+12. **Image prompt:** write `images/sessionN.md`
 
 **The user often wants steps 8-12 spread across multiple turns, not done all at once.** Check before bundling.
+
+**Never skip step 9 to get to the next chapter.** The canon files are the only durable record of what the prose established; a chapter written against stale character files loses the previous session's gains. (Sessions 14–15 were written and the canon pass was lost in a disk failure — it had to be reconstructed from the chapter prose.)
 
 ### Canon-Correction Process
 
@@ -162,28 +179,25 @@ Past canon corrections worth knowing:
 - Aravashnial is a Riftwarden (Ch 4 reveal — secret from rest of party)
 - Klarah's name — was briefly typo'd as Klareth in earlier drafts
 
-## Sub-Agent Roles
+## The Jobs (all done by the one agent)
 
-When spawning sub-agents, give each a clear role and full briefing. Suggested roles for this project:
+These are phases of work, **not** sub-agents to delegate to. Same agent, same context, one after another.
 
-- **chapter-writer (Opus)** — given session notes + POV character + style guide + recent chapter for voice + relevant canon, writes the full chapter in one sustained session. **Do NOT split a chapter across multiple agents — voice fractures.** One Opus per chapter.
-- **song-writer (Opus)** — given the chapter (or a character/theme brief), writes a Suno song. **THE ONE HARD LIMIT IS THE STYLE BOX: ~1,000 characters MAX, spaces included — Suno rejects anything over (tested: 1,054 was over).** The **lyrics box is NOT capped at 1,000** — that old rule was wrong. Suno accepts full-length lyrics (3,000+ chars confirmed in testing), so write the song to its proper length and do not truncate. Keep section tags short and put instrumentation/voice/tempo in the style box — but a *short* performance cue inside a tag (e.g. `[Verse - double time]`) is fine when it's needed to force a specific delivery. Single-register beats a four-stage build (Suno can't handle genre transitions). **No hard runtime cap** — let the song run its natural length; only ask for "no instrumental padding" if you actually want it tight. See `style-guide.md` "Song Writing Rules (Suno)" and memory `suno-song-constraints.md`.
-- **image-prompt-writer (Opus)** — given the chapter, writes a cinematic image generation prompt. Follow the format set by `images/session3.md` and `images/session4.md`.
-- **web-updater (Opus)** — given the chapter, updates the `wrath/page.tsx` Campaign Arc Status section + writes `website/updateN.md`. Follow `memory/webpage-session-section.md`.
-- **canon-keeper (Sonnet)** — after a chapter lands, updates affected character files, lore files, and `npcs.md` with new canon. Targeted Edits; no creative prose.
-- **continuity-checker (Sonnet)** — given a chapter draft, verifies against existing canon files. Flags contradictions.
-
-These are not yet formalized in `.claude/agents/` — they're informal patterns. The orchestrator can spawn ad-hoc Agent tool calls following these patterns until/unless formal definitions are added.
+- **Chapter.** Session notes + POV decision + style guide + previous chapter for voice + relevant canon → the full chapter in one sustained pass. **Do not split a chapter across passes or agents — voice fractures.**
+- **Song.** A Suno song for the session, or for a character. **THE ONE HARD LIMIT IS THE STYLE BOX: ~1,000 characters MAX, spaces included — Suno rejects anything over (tested: 1,054 was over).** The **lyrics box is NOT capped at 1,000** — that old rule was wrong. Suno accepts full-length lyrics (3,000+ chars confirmed in testing), so write the song to its proper length and do not truncate. Keep section tags short and put instrumentation/voice/tempo in the style box — but a *short* performance cue inside a tag (e.g. `[Verse - double time]`) is fine when it's needed to force a specific delivery. Single-register beats a four-stage build (Suno can't handle genre transitions). **No hard runtime cap** — let the song run its natural length; only ask for "no instrumental padding" if you actually want it tight. See `style-guide.md` → "Song Writing Rules (Suno)".
+- **Image prompt.** A cinematic image-generation prompt for the session. Follow the format in `images/session3.md` and `images/session4.md`.
+- **Web update.** Update the `wrath/page.tsx` Campaign Arc Status section + write `website/updateN.md`. Follow `memory/webpage-session-section.md`.
+- **Canon pass.** Update affected character files, lore files, and `npcs.md`. Targeted edits; no creative prose.
+- **Continuity check.** Verify the finished chapter against the canon files; flag contradictions to the user.
 
 ## What NOT to Do
 
-- **Do NOT write creative prose as Sonnet.** Spawn Opus for all creative work.
+- **Do NOT hand creative work to a sub-agent.** One agent — you — does the reading, the deciding, and the writing. See *Model Architecture Rule*.
 - **Do NOT invent canon.** If a session note is unclear, ASK the user; do not fill gaps with plausible invention.
 - **Do NOT reveal secrets through narration.** The POV character can only narrate what they know.
 - **Do NOT update the live web page's Campaign Arc Status section by appending.** Always REPLACE the content; the section is a current-state window, not an archive.
 - **Do NOT skip writing the matching `website/updateN.md`** when the page is updated.
 - **Do NOT batch chapter writing + canon updates without checking with the user** — they often want these in separate turns.
-- **Do NOT spawn parallel Opus agents to co-write a single chapter** — voice fractures. One Opus per chapter.
 - **Do NOT trust character names from your own memory alone.** Especially Klarah, Aravashnial, Khar-Zadûn. Always verify against the character file before writing.
 - **Do NOT delete or rewrite chapter prose without the user's explicit approval.** Chapters are published; treat them as canon.
 - **Do NOT use Korroc, Thane, or Nageru's POV to narrate Caleth's Riftwarden origin or the Caleth–Aravashnial connection.** Aravashnial being *a Riftwarden* is party-public as of Ch 11 — but his elder rank, the order's link to Caleth's parents, and the fact that Caleth knew since Ch 4 remain private to Caleth (and Aravashnial).

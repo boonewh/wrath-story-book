@@ -46,6 +46,42 @@ Items of importance to the campaign — magical, plot-relevant, or symbolic. Upd
 
 ---
 
+## The Gold-and-Mithral Armor of Iomedae (Korroc's)
+
+**Origin:** Unknown. Found in Chapter 15 in a hidden treasury deep inside Citadel Drezen, standing on one of four statues flanking the room — **the only magical thing in the chamber**, per Caleth's sight.
+
+**Description:** **Gold plated over mithral**, the two metals married by someone who knew exactly what they were doing, with **the sunburst sigil of Iomedae etched deep, clean, and reverent** into the breastplate. Caleth's iconographer's eye found no forgery in the work at all: a genuinely holy object, made by someone who loved both the metal and the goddess, and ending up in a demon's hoard like a candle in a sewer.
+
+**The mystery — DO NOT RESOLVE WITHOUT THE GM:** the suit **settled onto Korroc as though it had been forged for him and no one else.** Every buckle sat true; a breastplate that had hung loose on a statue fit his barrel chest as if a master had measured him for it. Korroc took it over Thane's warning (*"Could be cursed. It's sitting in a demon's trophy room, cousin. Everything in here's a mouth."*) on the plainest possible reasoning — *"It feels right"* — and then said the thing that matters: ***"There's something about this armor. Something I feel like I should know. And I can't quite get it."***
+
+Caleth privately recognized that ache as his own — the mark he has carried since birth, the dragon that knew him in a crowd — and said nothing. *He's carrying one too. His shaped like armor. Mine shaped like a scale I've never spent.*
+
+**Ch 16:** it does not creak (his old plate always did), and **Staunton Vhane's killing glaive-thrust went through it and was stopped inside him** — by the Stonelord's ancestor-stone, *not* by the armor. Do not credit the save to the armor in prose.
+
+**Symbolic significance:** Korroc now wears **Torag's hammer-and-anvil on his shield and Iomedae's sunburst on his chest** — the two gods he thanked together over the adamantine warhammer in Ch 7, now carried openly and read by strangers at a glance (Ch 16, the man in the chains). A dwarf of the Father who has been claimed, twice, by the Inheritor.
+
+---
+
+## The Sword of Valor (the Banner)
+
+**What it is:** The banner of the Fifth Crusade's founding — the objective Queen Galfrey sent the company to Drezen to reclaim (Ch 9).
+
+**Status: NOT YET RECOVERED. The one in the citadel's upper treasury is a decoy** — a sword-before-a-sunburst worked in once-fine thread, hanging from a rod in a statue's hands, and **Caleth's sight read it as entirely ordinary** (Ch 15). Korroc's read: *"This is a decoy. Or just what they left when they took the real one down."*
+
+**Where the true one is:** **below.** Two independent sources agree — **Jestak** (Ch 14: *"I know the Banner is down below"*) and **Jordan Vhane** (Ch 16), who agreed to tell the party its location as the first act of his surrender. It is in the **new chambers beneath the citadel — a dungeon that appears on no dwarven map**, including the Stonevein blueprints.
+
+---
+
+## The Adamantine Battleaxe (Nageru's, by accident)
+
+**Origin:** Lifted off an armory rack behind the archers' gallery in Citadel Drezen (Ch 15) by Caleth, purely because good steel is a resource and Caleth does not leave resources on a wall for the enemy. Dark, near-black, drinking the light. Korroc named the metal at a touch: *"Adamantine."* Caleth: *"And good work. Look at the weld line. Whoever made this loved the metal."*
+
+**What happened:** In Torag's chapel, against rune-carved statues, **Caleth drew it and it betrayed him** — too heavy, wrong length, balanced for a grip his hands had never trained to; the swing went wide and hauled him off his center mid-fight. He threw it underhand to Nageru — ***"Yours"*** — and went back to Radiance. **In Nageru's hands it was immediately, exactly right**, biting deep into runed stone.
+
+**Significance:** the campaign's cleanest statement of a Caleth lesson — *a resource that doesn't fit the hand is not a resource* — and the first time in the campaign the monk who fights with nothing but his fists took up a weapon and used it well.
+
+---
+
 ## The Adamantine Warhammer of the First Crusade (Korroc's)
 
 **Origin:** A masterwork warhammer kept in the Gray Garrison's museum of First Crusade relics. The demons holding the garrison had used it to finish defiling the bodies of two slain Iomedaen knights.

@@ -55,9 +55,13 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 
 **Known members (from the campaign so far):**
 - **Hosilla** (dead, Chapter 3) — Templar contact in Kenabres, killed by Korroc's hammer
-- **S. V.** (unknown identity) — Hosilla's superior; will assume command of Drezen
-- **Vorlesh** — The operative who "finished with the wardstone"; agent of the wardstone's destruction
+- **Staunton Vhane** — *identified as S. V. in Ch 8; **KILLED in Ch 16** in Citadel Drezen.* Hosilla's superior and commander at Drezen; a Fourth Crusade traitor who sat at the Stonevein fathers' table. His brother **Jordan Vhane** has surrendered to the party.
+- **Areelu Vorlesh** — the witch who opened the Worldwound; the operative who "finished with the wardstone"
+- **Nurah Dendiwhar** — *caught and confessed, Ch 14.* Long-term saboteur planted at Queen Galfrey's elbow; recruited and vetted by **Minagho** at Raliscrad, run for years inside the crusade. Now a bound prisoner.
+- **Kiranda** (dead, Ch 16) — a **succubus**; Nurah's handler. Wore a rescued prisoner's shape to walk at the party's backs before knifing Caleth.
 - Several unnamed Templars killed in the underdark — the wizard at the campfire, the two at the spore cougher, the two in the ritual chamber
+
+**The Ivory Sanctum** — named for the first time in Ch 16 by Jordan Vhane: *"Staunton was never the same since he came back from the Ivory Sanctum."* A place within the cult's reach that **changes the people sent to it.** Nothing more is known. **Do not invent its nature — wait for the GM.**
 
 **Known safe houses in Kenabres:**
 - **Nyserian Manor** — *DESTROYED (Chapter 4).* A demon's path ran straight through the property; the manor is unsalvageable. One safe house off the list without the party having to fight for it.
@@ -88,6 +92,18 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 **Allied demonic forces:** Deskari (Lord of the Locust Host) — the senior demonic power behind the wardstone plot, per the S. V. letter ("May Lord Deskari and Lord Baphomet watch over you").
 
 **Plot relevance:** Baphomet is one of the campaign's major late-game antagonists; the party may face him directly at full mythic power.
+
+---
+
+## Droskar, the Dark Smith (faith)
+
+**Type:** A dwarven deity — and for a paladin of Torag, a wound in the family.
+
+**What the campaign has established (Ch 16):** **Jordan Vhane** carries Droskar's mark on his shield, and confirmed the faith aloud when Korroc asked him plainly. Korroc recognized the symbol instantly because it is *almost* his own: the same hammer-and-anvil bones, the proportions gone greedy, the whole design bent toward **toil** where Torag's is bent toward **craft**. The Dark Smith's gospel is work without end, without joy, and without the moment at the end where a smith sets down the hammer, looks at what he has made, and finds it good.
+
+**Why it matters:** it gives Korroc a theological antagonist that is not a demon — a corruption of his own trade and his own god's work, walking around inside a dwarf he has just decided to try to save. **This is Korroc's thread.** Handle Droskar as the perversion of a craftsman's faith, not as generic evil.
+
+**Do not over-extend the lore.** Keep to what a Torag paladin would know and feel; wait for the GM on specifics.
 
 ---
 
@@ -213,15 +229,22 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 
 ## Active Plot Threads
 
-1. **Deliver the S. V. letter to the surface** (priority one)
-2. **Identify S. V. and Vorlesh**
-3. **Burn the three Templar safe houses in Kenabres**
-4. **Reach Irabeth and the Eagle Watch leadership**
-5. **Return Radiance to its proper keeping or wield it**
-6. **Investigate the broader Templar infiltration**
-7. **Move on Drezen** (mid-campaign target)
-8. **Resolve Khar-Zadûn for Thane** (late campaign)
-9. **Find what happened to Caleth's Riftwarden parents in the Worldwound** (gradual revelation)
-10. **Understand Nageru's celestial heritage and purpose** (gradual revelation)
-11. **Defeat Khorramzadeh, the Storm King** (late campaign)
-12. **Close the Worldwound** (campaign endgame)
+*Updated through Session 16.*
+
+**Closed:**
+- ~~Deliver the S. V. letter to the surface~~ (Ch 5) · ~~Identify S. V.~~ (Ch 8 — Staunton Vhane) · ~~Burn the Kenabres safe houses~~ (Chs 4–5) · ~~Reach Irabeth and the Eagle Watch~~ (Ch 5) · ~~Wield Radiance~~ (Ch 6 — it chose Caleth) · ~~Find the saboteur~~ (Ch 14 — Nurah, caught and confessed) · ~~Kill Staunton Vhane~~ (Ch 16)
+
+**Live now:**
+1. **Recover the Sword of Valor** — the upper-citadel Banner was a decoy; the true one is in the unmapped chambers below. **Jordan Vhane has agreed to tell them where.**
+2. **Jordan Vhane's fate** — Korroc offered him the Queen's judgment instead of a grave. Does he hold when a demon leans on him? *(Korroc's thread.)*
+3. **The new chambers below Drezen** — a dungeon on no dwarven map, including the Stoneveins' blueprints. A tiefling sorceress named **Chorussian** is said to be down there.
+4. **The Ivory Sanctum** — the place that "changed" Staunton. Named, unexplained.
+5. **Aravashnial wants to talk to Caleth** about pushing charge back into spent items. *"We should talk later."* Not yet had.
+6. **Korroc's gold-and-mithral armor** — fits him as though forged for him; he feels he should know why and cannot.
+7. **Areelu Vorlesh and Minagho** remain at large; Minagho personally ran Nurah.
+8. **Investigate the broader Templar infiltration** — the chain died with Staunton, over Thane's objection.
+9. **Resolve Khar-Zadûn for Thane** (late campaign)
+10. **Find what happened to Caleth's Riftwarden parents in the Worldwound** (gradual revelation)
+11. **Understand Nageru's celestial heritage and purpose** (gradual revelation)
+12. **Defeat Khorramzadeh, the Storm King** (late campaign)
+13. **Close the Worldwound** (campaign endgame)
