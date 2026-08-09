@@ -1,0 +1,67 @@
+{
+  // Canon spellcheck dictionary for the Wrath of the Righteous campaign blog.
+  //
+  // These are the CORRECT spellings only. Known-wrong variants are deliberately
+  // LEFT OUT so the spell-checker flags them as errors — this file is a canon
+  // guard, not just noise suppression. Words intentionally absent:
+  //   Aravashniel / Aravashnal  (correct: Aravashnial)
+  //   Klareth / Klara           (correct: Klarah)
+  //   Karroc / Korac            (correct: Korroc)
+  //   Stanton                   (correct: Staunton)
+  //   Aranore                   (correct: Aranor)
+  //   Khar-Zadun (no accent)    (correct: Khar-Zadûn)
+  //
+  // Add new proper nouns here as the GM introduces them.
+
+  "cSpell.words": [
+    // --- Player characters ---
+    "Aranor", "Caleth", "Korroc", "Nageru", "Stonevein", "Stoneveins", "Thane",
+
+    // --- The Stonevein line ---
+    "Borin", "Dagna", "Helja", "Thorek",
+
+    // --- Allies ---
+    "Anevia", "Aravashnial", "Aron", "Crel", "Dyra", "Galfrey", "Gwerm",
+    "Horgus", "Irabeth", "Kaelen", "Klarah", "Lann", "Orlun", "Quednys",
+    "Sosiel", "Sull", "Terendelev", "Tirabade", "Vaenic", "Yaniel",
+
+    // --- Enemies and the Templar chain ---
+    "Aponavicius", "Areelu", "Axilar", "Chorussian", "Delaskru", "Dendiwhar",
+    "Eustoyriax", "Faxon", "Hosilla", "Hulrun", "Jestak", "Kandro", "Khorramzadeh",
+    "Kiranda", "Maranse", "Minagho", "Nurah", "Nyserian", "Othirubo", "Staunton",
+    "Trezbot", "Vang", "Vhane", "Vorlesh", "Xanthir",
+
+    // --- Deities and their adjectives ---
+    "Alseta", "Alsetan", "Aroden", "Baphomet", "Deskari", "Droskar", "Iomedae",
+    "Iomedaean", "Iomedaen", "Irori", "Kabriri", "Sarenrae", "Shelyn", "Shelynian",
+    "Torag",
+
+    // --- Places ---
+    "Ahari", "Blackwing", "Cheliax", "Clydwell", "Drezen", "Estrod", "Golarion",
+    "Isger", "Kenabres", "Khar", "Nathholm", "Nerosyan", "Raliscrad", "Raliscradin",
+    "Sarkoris", "Vilareth", "Worldwound", "Zadûn",
+
+    // --- Orders, factions, titles ---
+    "Lawbringer", "Mendev", "Mendevian", "Mordant", "Riftwarden", "Riftwardens",
+    "Skyguard", "Spireborn", "Stonelord", "Templar", "Templars",
+
+    // --- Monsters and demon types ---
+    "aasimar", "Abrikandilu", "aurochs", "babau", "babaus", "berbalang",
+    "brimorak", "brimoraks", "dretch", "dretches", "mongrelfolk", "nabasu",
+    "peryton", "quasit", "schir", "thoxel", "thoxels", "tiefling", "tieflings",
+    "vermlek", "Vescavor", "vrock", "vrocks",
+
+    // --- Campaign terms and items ---
+    "Abyssal", "adamantine", "Armasse", "Exploiter", "glaive", "mithral",
+    "Nahyndrian", "shadowblood", "wardstone", "wardstones",
+
+    // --- Tooling ---
+    "Suno"
+  ],
+
+  // Prose settings for this repo.
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": { "other": false, "comments": false, "strings": false }
+  }
+}
