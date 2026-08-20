@@ -125,6 +125,8 @@ Who knows what. The POV character can only narrate what they know — never let 
 - **Khar-Zadûn** — the lost Dwarven Sky City (note the û accent)
 - **Terendelev** — the silver dragon
 - **Nageru** — the aasimar; **bronze skin** (NOT golden), amber eyes, subtle golden *aura* only
+- **Chorussina** — the tiefling conjurer below Drezen. *(Ch 16 originally spelled her "Chorussian" off a mishearing; corrected across all files 2026-08-16. Only `sessions/session16.md`, the raw GM note, still carries the old spelling — leave it, source records are not edited.)*
+- **Jordan Vhane** — Staunton's brother. NOT "Joron" *(the Nageru player's after-action reports call him Joron; the GM's notes are correct)*
 
 ### Party State at End of Chapter 16
 

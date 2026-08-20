@@ -70,6 +70,16 @@ Caleth privately recognized that ache as his own — the mark he has carried sin
 
 **Where the true one is:** **below.** Two independent sources agree — **Jestak** (Ch 14: *"I know the Banner is down below"*) and **Jordan Vhane** (Ch 16), who agreed to tell the party its location as the first act of his surrender. It is in the **new chambers beneath the citadel — a dungeon that appears on no dwarven map**, including the Stonevein blueprints.
 
+**THE SECOND DECOY (Ch 17) — the crueler one.** At the end of a hall thirty feet high, lit by pulsing red lichen, lined with alcoves of **Deskari mutilating six gods** (Iomedae, Sarenrae, Torag, Desna, Irori, Shelyn), the Banner hangs in a massive iron framework: red cloth, Iomedae's sunburst in gold. **The whole room is a trap.** Thane felt it, could not locate the trigger (*"The whole damn room"*), worked the flagstones on his knees, failed, and set it off. Fire erupted from every mural, gathered into six burning shapes of the demon lord, and slammed inward. And then **the cloth went black and the sunburst reformed into Deskari's mark** in front of them.
+
+It is a staged humiliation, built and waited on for years, for the exact moment crusaders finally reached the bottom. Caleth's read: *"It's a joke. It's an extremely expensive joke."*
+
+**Who has the real one:** **Eustoyriax**, a shadow demon, per both Jordan Vhane and Staunton's journal. Aponavicius gave him one job. Staunton: *"I do not envy anyone foolish enough to try taking it from him."*
+
+**Why it still exists at all:** Staunton repeatedly begged Aponavicius to let the corruption forge remake the Banner in Baphomet's image, and **she refused every time** — *"some prizes are more valuable intact."* He thought she lacked imagination. Her vanity is the only reason the Sword of Valor was not destroyed seventy years ago.
+
+**Route as of end of Ch 17:** past the decoy, up a rope to a seam **twenty feet up a blank wall** behind the Deskari shrine, through one secret door, down a short passage — to **another secret door.**
+
 ---
 
 ## The Adamantine Battleaxe (Nageru's, by accident)
@@ -363,3 +373,67 @@ Caleth privately recognized that ache as his own — the mark he has carried sin
 **Status:** **All three safe houses are now addressed** — Nyserian Manor destroyed (Ch 4); Topaz Solutions and Tower of Estrod cleared (Ch 5). The remaining value is the *intelligence* hauled out of them (agent lists, the wardstone-network diagram, the Minagho letter), the party's to deliver to Irabeth.
 
 **Plot use:** The location arc is spent — but the recovered records open new threads: named agents, **Minagho**, **Faxon**, and Vorlesh's Abyss errand for the Nahyndrian crystal.
+
+---
+
+## The Journal of Staunton Vhane *(recovered Ch 17)*
+
+**What it is:** A heavy volume bound in cracked black leather, brass at the corners, several pages torn away. Early entries in a precise dwarven hand; later ones cramped, heavily corrected, stained. Seventy years of the traitor of Drezen writing to himself, and — on the last page — to whoever found it.
+
+**Found by Nageru** in a side room off the map room, minutes after Staunton died.
+
+**Full contents and quotations are catalogued in `characters/npcs.md` under "THE JOURNAL OF STAUNTON VHANE."** Summary of what it gives the campaign:
+
+- **How Drezen actually fell**, in the traitor's own hand, with the excuse refused: *"She gave me the opportunity. I made the choice."*
+- **The corruption ledger** — pages of relics unmade, each COMPLETE, including a **Torag breastplate with the markings removed** and **three Eagle Watch shields.**
+- **The Nahyndrian elixirs** — five delivered, one drunk by Staunton, **four remaining and unaccounted for.**
+- **Xanthir Vang**, the **Ivory Sanctum**, and the **Blackflame Adepts**, named and placed.
+- **Eustoyriax** as the Sword of Valor's keeper, and as a shadow that once wore the face of a crusader named **Maranse** — the party's written proof about the man they freed in Ch 16.
+- **Arueshalae**, the succubus heretic who escaped from below Drezen.
+- **A page on Irabeth Tirabade** describing what he meant to do to her. **Thane read it once and has never repeated a word of it to her.**
+
+**⚠ The absence is the point.** He catalogued every relic and invited the reader to know *every name.* **Thorek and Borin Stonevein are not in it. Do not retcon an entry in.**
+
+**Custody:** the party has it. Korroc offered it to Jordan Vhane, who would not read it.
+
+---
+
+## The Corruption Forge
+
+**What it is:** A forge of black and red metal squatting in a pit below Citadel Drezen, in a chamber whose walls glow dull red and whose floor gives off vapor. **Salamanders** tend the coals and have done for decades. A caged lift on chains and pulleys runs from a terrace above, across the pit, to double doors on the far side; the terrace is oddly cool while the pit is not. Access is through a hidden wall-panel south of the stair-room — **you cannot reach the deep chambers without passing through it.**
+
+**What it does:** strips the holiness out of captured relics and makes them unholy. **Jordan Vhane** has worked it for forty years and is, per Staunton, the only one who understands it. His own description: *"I don't make. I change."*
+
+**⚠ THE OPEN QUESTION:** Korroc asked Jordan whether corruption can be reversed. Jordan thought a long time and said **"I don't know."** That single answer is the whole live argument between Caleth (keep it — a hundred families' stolen steel could be restored) and Thane (destroy it — *"It will not lead to good things"*). **The party interrupted itself and never settled it. Do not settle it without the GM.**
+
+**Physical state:** intact and burning as of the end of Ch 17. Nobody has laid a hand on it.
+
+---
+
+## Chorussina's Bone Claw
+
+**What it is:** A curved spike or claw, about a forearm long, off some insectile creature. Chorussina used it as a touch weapon; the effect resembled *vampiric touch.*
+
+**What it did:** she put it into **Jordan Vhane's** back as her last act. He tried to heal himself and **could not, and has not been able to since.**
+
+**⚠ Korroc pulled it out and felt it reach for his own life through his gauntlet, and dropped it immediately.** It is still lying on the floor of the ritual chamber. **Nobody picked it up.** Whether it caused Jordan's loss is unknown — the other candidates are the ritual, the crystal's destruction, and Droskar. **Do not resolve.**
+
+---
+
+## The Ritual Crystal (destroyed)
+
+A pulsing purple crystal the size of a horse, hung on a heavy chain forty feet up in the chamber past the forge, above a candle-ringed circle. **Purple like the Nahyndrian crystal Areelu Vorlesh carried in Korroc's Ch 8 wardstone vision** — the resemblance is noted in the prose and not explained.
+
+Chorussina and three schir were performing a ritual beneath it that she claimed would **destroy half the city of Drezen.**
+
+**How it ended:** Nageru's opening critical hurled a schir's body into it hard enough to crack it audibly. Forty minutes later, with the ritualist dead, its pulsing went arrhythmic, the crack branched, it came off the chain, and it **shattered** — throwing shards across the room and a bloom of purple smoke that thinned and vanished. Thane was standing directly underneath and rolled clear.
+
+**Nobody in the party connected Nageru's blow to the collapse.** Whether it was the blow, the ritual's failure, or something else is open.
+
+---
+
+## The Vampire's Library (Nul's)
+
+Below Drezen, behind a plush carpet and four walls of well-stocked shelves: **real histories of every crusade going back to the First**, chronicles, campaign records, three separate accounts of Drezen's founding, and a shelf of tagged scroll-cases. Something down there read steadily for years about the people it was eating.
+
+**The party took the four oldest volumes and the scrolls and left the rest.** The room is intact and Caleth has not been let near it properly. **Idrian Vosner is hidden in the coffin chamber behind its secret door.**

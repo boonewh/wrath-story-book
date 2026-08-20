@@ -229,22 +229,27 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 
 ## Active Plot Threads
 
-*Updated through Session 16.*
+*Updated through Session 17.*
 
 **Closed:**
-- ~~Deliver the S. V. letter to the surface~~ (Ch 5) · ~~Identify S. V.~~ (Ch 8 — Staunton Vhane) · ~~Burn the Kenabres safe houses~~ (Chs 4–5) · ~~Reach Irabeth and the Eagle Watch~~ (Ch 5) · ~~Wield Radiance~~ (Ch 6 — it chose Caleth) · ~~Find the saboteur~~ (Ch 14 — Nurah, caught and confessed) · ~~Kill Staunton Vhane~~ (Ch 16)
+- ~~Deliver the S. V. letter to the surface~~ (Ch 5) · ~~Identify S. V.~~ (Ch 8 — Staunton Vhane) · ~~Burn the Kenabres safe houses~~ (Chs 4–5) · ~~Reach Irabeth and the Eagle Watch~~ (Ch 5) · ~~Wield Radiance~~ (Ch 6 — it chose Caleth) · ~~Find the saboteur~~ (Ch 14 — Nurah, caught and confessed) · ~~Kill Staunton Vhane~~ (Ch 16) · ~~Learn how Drezen actually fell~~ (Ch 17 — Staunton's journal; **he took the Sword of Valor himself and says the choice was his**) · ~~Stop the ritual under Drezen~~ (Ch 17 — Chorussina dead, half the city saved)
 
 **Live now:**
-1. **Recover the Sword of Valor** — the upper-citadel Banner was a decoy; the true one is in the unmapped chambers below. **Jordan Vhane has agreed to tell them where.**
-2. **Jordan Vhane's fate** — Korroc offered him the Queen's judgment instead of a grave. Does he hold when a demon leans on him? *(Korroc's thread.)*
-3. **The new chambers below Drezen** — a dungeon on no dwarven map, including the Stoneveins' blueprints. A tiefling sorceress named **Chorussian** is said to be down there.
-4. **The Ivory Sanctum** — the place that "changed" Staunton. Named, unexplained.
-5. **Aravashnial wants to talk to Caleth** about pushing charge back into spent items. *"We should talk later."* Not yet had.
-6. **Korroc's gold-and-mithral armor** — fits him as though forged for him; he feels he should know why and cannot.
-7. **Areelu Vorlesh and Minagho** remain at large; Minagho personally ran Nurah.
-8. **Investigate the broader Templar infiltration** — the chain died with Staunton, over Thane's objection.
-9. **Resolve Khar-Zadûn for Thane** (late campaign)
-10. **Find what happened to Caleth's Riftwarden parents in the Worldwound** (gradual revelation)
-11. **Understand Nageru's celestial heritage and purpose** (gradual revelation)
-12. **Defeat Khorramzadeh, the Storm King** (late campaign)
-13. **Close the Worldwound** (campaign endgame)
+1. **Recover the Sword of Valor** — both Banners found so far were decoys. The true one is deeper, and **Eustoyriax the shadow demon keeps it.** The way on is two secret doors, one behind the other, twenty feet up the wall of the Deskari hall.
+2. **WHAT IS WHISPERING.** A low, continuous, wordless whisper began in the prison rows and **did not stop** when Chorussina died, her demons died, the crystal shattered, or the candles went out. Everyone assumed it was the ritual. It was not. **No direction, no source, no theory. (New, Ch 17 — and the most immediate unknown in the campaign.)**
+3. **Jordan Vhane's fate** — he cooperated past self-interest, came back down the stair unasked, led them through the forge, took a bone claw in the back for it, and **lost the ability to cast healing magic.** Cause unknown: the claw, the ritual, the crystal, or Droskar. *(Korroc's thread.)*
+4. **THE CORRUPTION FORGE — DESTROY IT OR KEEP IT.** Thane wants it broken; Caleth wants it kept in case the ruin can be run backwards and a hundred families' stolen relics restored. Jordan, asked whether corruption can be reversed, said *"I don't know."* **The argument was interrupted and never finished. Neither has conceded. First real fracture between these two.**
+5. **FOUR NAHYNDRIAN ELIXIRS ARE UNACCOUNTED FOR.** Eustoyriax brought five from the Ivory Sanctum; Staunton drank one and it made him what the party fought. A dragon and a xacarba died of theirs; **Soltengrebbe** survived as something else. This is the enemy's mythic power, and there are four doses of it loose. *(New, Ch 17.)*
+6. **Arueshalae** — a succubus heretic who spent years carving butterflies and a prayer to Desna into a warded cell below Drezen, asking to be made clean, and **escaped**. Aponavicius wanted her badly enough to prepare an oubliette in the **Rasping Rifts**; Staunton's hunters and a Sifkesh-sworn annis hag never found her. She cannot teleport and cannot become ethereal. **The party has her name and her prayer and has never met her.** *(New, Ch 17.)*
+7. **Six caged vampire spawn in crusader rags** were left alive below Drezen because the party was on a timetable, and **Idrian Vosner** was left hidden in a dead vampire's coffin chamber with a promise to return. **Two outstanding debts in the same dungeon.** *(New, Ch 17.)*
+8. **The Ivory Sanctum and Xanthir Vang** — master of the regional Templars and the Blackflame Adepts; the place that "changed" Staunton and the source of the elixirs. Staunton met Vang once and was revolted by him.
+9. **Aponavicius, the Marilith** — Drezen's actual master, away to the south. She keeps trophies, refused to let the Banner be corrupted, and captured Arueshalae personally. Nothing says she stays away.
+10. **Aravashnial wants to talk to Caleth** about pushing charge back into spent items. *"We should talk later."* Not yet had.
+11. **Korroc's gold-and-mithral armor** — fits him as though forged for him; he feels he should know why and cannot.
+12. **Areelu Vorlesh and Minagho** remain at large; Minagho personally ran Nurah — and **personally gave Staunton the opportunity to take the Sword of Valor** seventy years ago.
+13. **Investigate the broader Templar infiltration** — the chain died with Staunton, over Thane's objection. *(The journal recovered part of it back: Vang, Eustoyriax, the Sanctum. **Not the Stonevein fathers.**)*
+14. **Resolve Khar-Zadûn for Thane** (late campaign) — *note the new rhyme: Staunton chased his own lost Sky Citadel, **Jormurdun**, and it is what brought him north.*
+15. **Find what happened to Caleth's Riftwarden parents in the Worldwound** (gradual revelation)
+16. **Understand Nageru's celestial heritage and purpose** (gradual revelation)
+17. **Defeat Khorramzadeh, the Storm King** (late campaign)
+18. **Close the Worldwound** (campaign endgame)

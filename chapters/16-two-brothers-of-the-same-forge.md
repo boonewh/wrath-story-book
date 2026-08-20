@@ -256,7 +256,7 @@ Korroc found himself speaking before he'd decided to. "After that, if you want t
 
 It was the natural thing to say. It was, he would think later, the exact hinge of the whole day, and it swung so easily he never heard it move.
 
-The man frowned. "I would prefer to find Chorussian, and repay her for what she did to me."
+The man frowned. "I would prefer to find Chorussina, and repay her for what she did to me."
 
 "Who is that?" Thane said.
 
@@ -284,7 +284,7 @@ Thane hesitated. Korroc watched him do it — watched his cousin's hands want th
 
 "No. Not unless you leave this citadel."
 
-"I am going to find Chorussian whether you give me my sword back or not."
+"I am going to find Chorussina whether you give me my sword back or not."
 
 And Korroc — because a man walking unarmed into a demon-held fortress was a man walking into a grave, because the swordsman had come back clean under a paladin's eye, because there was a thing in him that had never once in fifty-one years been able to leave a wrong tool in a working man's hand or a right one out of it — shook his head and said the words.
 
