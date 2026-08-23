@@ -365,15 +365,15 @@ Caleth's voice didn't change. "Where do we find Staunton Vhane?"
 
 Caleth and Nageru traded a look. "Anything. Like a weapon. Like the Banner."
 
-"The Banner's below." She said it plainly, no bargaining in it. "I know that much. And Jordan Vhane's down there often."
+"The Banner's below." She said it plainly, no bargaining in it. "I know that much. And Joran Vhane's down there often."
 
-Thane's head came around. "Wait. *Jordan* Vhane."
+Thane's head came around. "Wait. *Joran* Vhane."
 
 "Staunton's brother."
 
 "He has a brother." Thane heard his own voice go somewhere he hadn't sent it. The cold slow turn in his stomach came back, harder. Two Vhanes. A brother. He looked — he didn't mean to, but he looked — across the barracks at Korroc. His cousin. His father's brother's son. Two brothers who had built this place dreaming of a sky-city and died together, loyal, in the same season, in the same lost cause, never once turning on each other. And somewhere under this floor were two other brothers off the same forge, and one of them had grown up into the monster whose name Thane had carried north like a stone in his boot. He filed it. He didn't say a word of it. Some doors you note and leave shut.
 
-"Yes," Jestak said, "and he's not happy with how his brother treats him. Find Jordan and he might help you."
+"Yes," Jestak said, "and he's not happy with how his brother treats him. Find Joran and he might help you."
 
 Thane spat on the stone. "You really think he'd turn on his own blood for us."
 

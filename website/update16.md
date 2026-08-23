@@ -1,6 +1,6 @@
 # Session 16 — Two Brothers of the Same Forge
 **Date:** 2026-08-09
-**Driven by:** Chapter 16 written (Korroc POV). The upper citadel finished — brimoraks on the northern parapet, a nabasu feeding on its own garrison's dead, a staged "rescue" that was the succubus Kiranda all along, thoxels at the arrow slits, fiendish minotaurs, babaus — and then the map room: **Staunton Vhane killed**, Kiranda destroyed, and **Jordan Vhane surrendered** to Korroc in exchange for the Sword of Valor's location. **Party leveled: Level 9, Mythic Tier 2.**
+**Driven by:** Chapter 16 written (Korroc POV). The upper citadel finished — brimoraks on the northern parapet, a nabasu feeding on its own garrison's dead, a staged "rescue" that was the succubus Kiranda all along, thoxels at the arrow slits, fiendish minotaurs, babaus — and then the map room: **Staunton Vhane killed**, Kiranda destroyed, and **Joran Vhane surrendered** to Korroc in exchange for the Sword of Valor's location. **Party leveled: Level 9, Mythic Tier 2.**
 **Live page:** `/wrath`
 
 ## What Changed

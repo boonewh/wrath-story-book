@@ -55,13 +55,13 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 
 **Known members (from the campaign so far):**
 - **Hosilla** (dead, Chapter 3) — Templar contact in Kenabres, killed by Korroc's hammer
-- **Staunton Vhane** — *identified as S. V. in Ch 8; **KILLED in Ch 16** in Citadel Drezen.* Hosilla's superior and commander at Drezen; a Fourth Crusade traitor who sat at the Stonevein fathers' table. His brother **Jordan Vhane** has surrendered to the party.
+- **Staunton Vhane** — *identified as S. V. in Ch 8; **KILLED in Ch 16** in Citadel Drezen.* Hosilla's superior and commander at Drezen; a Fourth Crusade traitor who sat at the Stonevein fathers' table. His brother **Joran Vhane** has surrendered to the party.
 - **Areelu Vorlesh** — the witch who opened the Worldwound; the operative who "finished with the wardstone"
 - **Nurah Dendiwhar** — *caught and confessed, Ch 14.* Long-term saboteur planted at Queen Galfrey's elbow; recruited and vetted by **Minagho** at Raliscrad, run for years inside the crusade. Now a bound prisoner.
 - **Kiranda** (dead, Ch 16) — a **succubus**; Nurah's handler. Wore a rescued prisoner's shape to walk at the party's backs before knifing Caleth.
 - Several unnamed Templars killed in the underdark — the wizard at the campfire, the two at the spore cougher, the two in the ritual chamber
 
-**The Ivory Sanctum** — named for the first time in Ch 16 by Jordan Vhane: *"Staunton was never the same since he came back from the Ivory Sanctum."* A place within the cult's reach that **changes the people sent to it.** Nothing more is known. **Do not invent its nature — wait for the GM.**
+**The Ivory Sanctum** — named for the first time in Ch 16 by Joran Vhane: *"Staunton was never the same since he came back from the Ivory Sanctum."* A place within the cult's reach that **changes the people sent to it.** Nothing more is known. **Do not invent its nature — wait for the GM.**
 
 **Known safe houses in Kenabres:**
 - **Nyserian Manor** — *DESTROYED (Chapter 4).* A demon's path ran straight through the property; the manor is unsalvageable. One safe house off the list without the party having to fight for it.
@@ -99,7 +99,7 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 
 **Type:** A dwarven deity — and for a paladin of Torag, a wound in the family.
 
-**What the campaign has established (Ch 16):** **Jordan Vhane** carries Droskar's mark on his shield, and confirmed the faith aloud when Korroc asked him plainly. Korroc recognized the symbol instantly because it is *almost* his own: the same hammer-and-anvil bones, the proportions gone greedy, the whole design bent toward **toil** where Torag's is bent toward **craft**. The Dark Smith's gospel is work without end, without joy, and without the moment at the end where a smith sets down the hammer, looks at what he has made, and finds it good.
+**What the campaign has established (Ch 16):** **Joran Vhane** carries Droskar's mark on his shield, and confirmed the faith aloud when Korroc asked him plainly. Korroc recognized the symbol instantly because it is *almost* his own: the same hammer-and-anvil bones, the proportions gone greedy, the whole design bent toward **toil** where Torag's is bent toward **craft**. The Dark Smith's gospel is work without end, without joy, and without the moment at the end where a smith sets down the hammer, looks at what he has made, and finds it good.
 
 **Why it matters:** it gives Korroc a theological antagonist that is not a demon — a corruption of his own trade and his own god's work, walking around inside a dwarf he has just decided to try to save. **This is Korroc's thread.** Handle Droskar as the perversion of a craftsman's faith, not as generic evil.
 
@@ -237,8 +237,8 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 **Live now:**
 1. **Recover the Sword of Valor** — both Banners found so far were decoys. The true one is deeper, and **Eustoyriax the shadow demon keeps it.** The way on is two secret doors, one behind the other, twenty feet up the wall of the Deskari hall.
 2. **WHAT IS WHISPERING.** A low, continuous, wordless whisper began in the prison rows and **did not stop** when Chorussina died, her demons died, the crystal shattered, or the candles went out. Everyone assumed it was the ritual. It was not. **No direction, no source, no theory. (New, Ch 17 — and the most immediate unknown in the campaign.)**
-3. **Jordan Vhane's fate** — he cooperated past self-interest, came back down the stair unasked, led them through the forge, took a bone claw in the back for it, and **lost the ability to cast healing magic.** Cause unknown: the claw, the ritual, the crystal, or Droskar. *(Korroc's thread.)*
-4. **THE CORRUPTION FORGE — DESTROY IT OR KEEP IT.** Thane wants it broken; Caleth wants it kept in case the ruin can be run backwards and a hundred families' stolen relics restored. Jordan, asked whether corruption can be reversed, said *"I don't know."* **The argument was interrupted and never finished. Neither has conceded. First real fracture between these two.**
+3. **Joran Vhane's fate** — he cooperated past self-interest, came back down the stair unasked, led them through the forge, took a bone claw in the back for it, and **lost the ability to cast healing magic.** Cause unknown: the claw, the ritual, the crystal, or Droskar. *(Korroc's thread.)*
+4. **THE CORRUPTION FORGE — DESTROY IT OR KEEP IT.** Thane wants it broken; Caleth wants it kept in case the ruin can be run backwards and a hundred families' stolen relics restored. Joran, asked whether corruption can be reversed, said *"I don't know."* **The argument was interrupted and never finished. Neither has conceded. First real fracture between these two.**
 5. **FOUR NAHYNDRIAN ELIXIRS ARE UNACCOUNTED FOR.** Eustoyriax brought five from the Ivory Sanctum; Staunton drank one and it made him what the party fought. A dragon and a xacarba died of theirs; **Soltengrebbe** survived as something else. This is the enemy's mythic power, and there are four doses of it loose. *(New, Ch 17.)*
 6. **Arueshalae** — a succubus heretic who spent years carving butterflies and a prayer to Desna into a warded cell below Drezen, asking to be made clean, and **escaped**. Aponavicius wanted her badly enough to prepare an oubliette in the **Rasping Rifts**; Staunton's hunters and a Sifkesh-sworn annis hag never found her. She cannot teleport and cannot become ethereal. **The party has her name and her prayer and has never met her.** *(New, Ch 17.)*
 7. **Six caged vampire spawn in crusader rags** were left alive below Drezen because the party was on a timetable, and **Idrian Vosner** was left hidden in a dead vampire's coffin chamber with a promise to return. **Two outstanding debts in the same dungeon.** *(New, Ch 17.)*

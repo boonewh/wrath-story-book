@@ -68,13 +68,13 @@ Caleth privately recognized that ache as his own — the mark he has carried sin
 
 **Status: NOT YET RECOVERED. The one in the citadel's upper treasury is a decoy** — a sword-before-a-sunburst worked in once-fine thread, hanging from a rod in a statue's hands, and **Caleth's sight read it as entirely ordinary** (Ch 15). Korroc's read: *"This is a decoy. Or just what they left when they took the real one down."*
 
-**Where the true one is:** **below.** Two independent sources agree — **Jestak** (Ch 14: *"I know the Banner is down below"*) and **Jordan Vhane** (Ch 16), who agreed to tell the party its location as the first act of his surrender. It is in the **new chambers beneath the citadel — a dungeon that appears on no dwarven map**, including the Stonevein blueprints.
+**Where the true one is:** **below.** Two independent sources agree — **Jestak** (Ch 14: *"I know the Banner is down below"*) and **Joran Vhane** (Ch 16), who agreed to tell the party its location as the first act of his surrender. It is in the **new chambers beneath the citadel — a dungeon that appears on no dwarven map**, including the Stonevein blueprints.
 
 **THE SECOND DECOY (Ch 17) — the crueler one.** At the end of a hall thirty feet high, lit by pulsing red lichen, lined with alcoves of **Deskari mutilating six gods** (Iomedae, Sarenrae, Torag, Desna, Irori, Shelyn), the Banner hangs in a massive iron framework: red cloth, Iomedae's sunburst in gold. **The whole room is a trap.** Thane felt it, could not locate the trigger (*"The whole damn room"*), worked the flagstones on his knees, failed, and set it off. Fire erupted from every mural, gathered into six burning shapes of the demon lord, and slammed inward. And then **the cloth went black and the sunburst reformed into Deskari's mark** in front of them.
 
 It is a staged humiliation, built and waited on for years, for the exact moment crusaders finally reached the bottom. Caleth's read: *"It's a joke. It's an extremely expensive joke."*
 
-**Who has the real one:** **Eustoyriax**, a shadow demon, per both Jordan Vhane and Staunton's journal. Aponavicius gave him one job. Staunton: *"I do not envy anyone foolish enough to try taking it from him."*
+**Who has the real one:** **Eustoyriax**, a shadow demon, per both Joran Vhane and Staunton's journal. Aponavicius gave him one job. Staunton: *"I do not envy anyone foolish enough to try taking it from him."*
 
 **Why it still exists at all:** Staunton repeatedly begged Aponavicius to let the corruption forge remake the Banner in Baphomet's image, and **she refused every time** — *"some prizes are more valuable intact."* He thought she lacked imagination. Her vanity is the only reason the Sword of Valor was not destroyed seventy years ago.
 
@@ -394,7 +394,7 @@ It is a staged humiliation, built and waited on for years, for the exact moment 
 
 **⚠ The absence is the point.** He catalogued every relic and invited the reader to know *every name.* **Thorek and Borin Stonevein are not in it. Do not retcon an entry in.**
 
-**Custody:** the party has it. Korroc offered it to Jordan Vhane, who would not read it.
+**Custody:** the party has it. Korroc offered it to Joran Vhane, who would not read it.
 
 ---
 
@@ -402,9 +402,9 @@ It is a staged humiliation, built and waited on for years, for the exact moment 
 
 **What it is:** A forge of black and red metal squatting in a pit below Citadel Drezen, in a chamber whose walls glow dull red and whose floor gives off vapor. **Salamanders** tend the coals and have done for decades. A caged lift on chains and pulleys runs from a terrace above, across the pit, to double doors on the far side; the terrace is oddly cool while the pit is not. Access is through a hidden wall-panel south of the stair-room — **you cannot reach the deep chambers without passing through it.**
 
-**What it does:** strips the holiness out of captured relics and makes them unholy. **Jordan Vhane** has worked it for forty years and is, per Staunton, the only one who understands it. His own description: *"I don't make. I change."*
+**What it does:** strips the holiness out of captured relics and makes them unholy. **Joran Vhane** has worked it for forty years and is, per Staunton, the only one who understands it. His own description: *"I don't make. I change."*
 
-**⚠ THE OPEN QUESTION:** Korroc asked Jordan whether corruption can be reversed. Jordan thought a long time and said **"I don't know."** That single answer is the whole live argument between Caleth (keep it — a hundred families' stolen steel could be restored) and Thane (destroy it — *"It will not lead to good things"*). **The party interrupted itself and never settled it. Do not settle it without the GM.**
+**⚠ THE OPEN QUESTION:** Korroc asked Joran whether corruption can be reversed. Joran thought a long time and said **"I don't know."** That single answer is the whole live argument between Caleth (keep it — a hundred families' stolen steel could be restored) and Thane (destroy it — *"It will not lead to good things"*). **The party interrupted itself and never settled it. Do not settle it without the GM.**
 
 **Physical state:** intact and burning as of the end of Ch 17. Nobody has laid a hand on it.
 
@@ -414,9 +414,9 @@ It is a staged humiliation, built and waited on for years, for the exact moment 
 
 **What it is:** A curved spike or claw, about a forearm long, off some insectile creature. Chorussina used it as a touch weapon; the effect resembled *vampiric touch.*
 
-**What it did:** she put it into **Jordan Vhane's** back as her last act. He tried to heal himself and **could not, and has not been able to since.**
+**What it did:** she put it into **Joran Vhane's** back as her last act. He tried to heal himself and **could not, and has not been able to since.**
 
-**⚠ Korroc pulled it out and felt it reach for his own life through his gauntlet, and dropped it immediately.** It is still lying on the floor of the ritual chamber. **Nobody picked it up.** Whether it caused Jordan's loss is unknown — the other candidates are the ritual, the crystal's destruction, and Droskar. **Do not resolve.**
+**⚠ Korroc pulled it out and felt it reach for his own life through his gauntlet, and dropped it immediately.** It is still lying on the floor of the ritual chamber. **Nobody picked it up.** Whether it caused Joran's loss is unknown — the other candidates are the ritual, the crystal's destruction, and Droskar. **Do not resolve.**
 
 ---
 

@@ -16,11 +16,11 @@ So: a book of the Dark Smith, left open on a desk like a plate at a table, by a 
 
 He knelt and set the book on the bare stone floor — because he was not a fool, and because you do not start a fire on good wood — and struck the flint.
 
-Behind him, Jordan Vhane made a sound.
+Behind him, Joran Vhane made a sound.
 
-Thane had been half-listening to that dwarf since the fighting stopped. It was habit. A man on his knees in the middle of a room where his brother has just died is a man you keep in the corner of your eye, and Jordan had knelt there through all of it, hands empty, hammer on the stone beside him, staring at Korroc with an expression Thane could not get the bottom of. Not fear. Not hate. Something closer to the way men looked at something they had heard about all their lives and never seen.
+Thane had been half-listening to that dwarf since the fighting stopped. It was habit. A man on his knees in the middle of a room where his brother has just died is a man you keep in the corner of your eye, and Joran had knelt there through all of it, hands empty, hammer on the stone beside him, staring at Korroc with an expression Thane could not get the bottom of. Not fear. Not hate. Something closer to the way men looked at something they had heard about all their lives and never seen.
 
-Now Jordan was looking at the book.
+Now Joran was looking at the book.
 
 "Wait, Thane."
 
@@ -28,17 +28,17 @@ Korroc's voice. Thane looked over, frowning, the steel still in his fist.
 
 "It's a Droskar text," he said.
 
-"I know." His cousin had not raised his voice at all. "But we're talking to Jordan. Not trying to upset him."
+"I know." His cousin had not raised his voice at all. "But we're talking to Joran. Not trying to upset him."
 
-*Talking.* Thane put the flint down slowly. Not because he agreed. Because there was no argument he could make in front of Jordan Vhane that he would want Jordan Vhane to hear.
+*Talking.* Thane put the flint down slowly. Not because he agreed. Because there was no argument he could make in front of Joran Vhane that he would want Joran Vhane to hear.
 
-Jordan stood up.
+Joran stood up.
 
 He did it carefully — an old dwarf's care, all knees — and he came toward the book, and Thane was on his feet with mother's blade out and his body between the dwarf and the book before the second step landed.
 
 "Hey." Caleth, from across the room, mild as a man commenting on the weather. "What are you doing?"
 
-Jordan stopped. He did not look at the dagger. He looked past it, at the book on the floor, the way a man looks at a coat he has left somewhere he cannot go back to.
+Joran stopped. He did not look at the dagger. He looked past it, at the book on the floor, the way a man looks at a coat he has left somewhere he cannot go back to.
 
 "Please let me have the book."
 
@@ -52,7 +52,7 @@ Caleth had come up on Thane's left, and Thane felt rather than saw the half-elf'
 
 Which was not the same as *harmless*, and Thane noted that Caleth had not said *harmless*, and filed it.
 
-Jordan Vhane's eyes came up and found Thane's, and he asked the question flat, the way a man asks the price of something he has already decided he cannot afford.
+Joran Vhane's eyes came up and found Thane's, and he asked the question flat, the way a man asks the price of something he has already decided he cannot afford.
 
 "What are you going to do with me, if you aren't going to kill me?"
 
@@ -68,7 +68,7 @@ He told the story plain and short, the way his mother told things. Of two dwarve
 
 "They were in your brother's company," Thane said. "Or near enough that it makes no difference."
 
-Jordan Vhane shrugged.
+Joran Vhane shrugged.
 
 Not cruelly. That was the worst of it — there was nothing in the shrug at all, no defiance, no dismissal. It was the shrug of a man being asked about a road he had never walked.
 
@@ -80,7 +80,7 @@ He stood with that for a moment. Seventy years, a fortress, a war, two dead fath
 
 "Then why are you here?"
 
-"I listened to my brother." Jordan said it to the floor. "He talked me into coming here. To work the forge."
+"I listened to my brother." Joran said it to the floor. "He talked me into coming here. To work the forge."
 
 "What do you make?"
 
@@ -88,7 +88,7 @@ He stood with that for a moment. Seventy years, a fortress, a war, two dead fath
 
 Thane frowned so deeply he felt it in his jaw.
 
-"I use the forges to change things," Jordan said. "At the instruction of my brother. Or of Aponavicius."
+"I use the forges to change things," Joran said. "At the instruction of my brother. Or of Aponavicius."
 
 Caleth stepped up. "What kind of things do you change?"
 
@@ -110,7 +110,7 @@ Thane watched the half-elf take that answer, and hold it, and set it down withou
 
 Caleth nodded slowly, and his eyes had gone somewhere else and come back. "What will we find when we go to the rooms below?"
 
-Jordan thought about it. Genuinely thought — Thane could see the calculation, and it was not the calculation of a man deciding how much to give. It was a man trying to remember.
+Joran thought about it. Genuinely thought — Thane could see the calculation, and it was not the calculation of a man deciding how much to give. It was a man trying to remember.
 
 "That banner is down there."
 
@@ -128,13 +128,13 @@ Thane's turn. "Who's down there that's going to give us trouble?"
 
 "Anything else we need to know?"
 
-"Nul." Jordan's mouth thinned. "He'll be down there before Eustoyriax. He's a vampire."
+"Nul." Joran's mouth thinned. "He'll be down there before Eustoyriax. He's a vampire."
 
 Thane nodded once and put the name where he put names.
 
 "Anything else?"
 
-Jordan Vhane shook his head, and then he looked past all of them at the thing on the floor that had been his brother, and asked the only question he had actually come to ask.
+Joran Vhane shook his head, and then he looked past all of them at the thing on the floor that had been his brother, and asked the only question he had actually come to ask.
 
 "Can I at least take care of my brother's body?"
 
@@ -144,7 +144,7 @@ Jordan Vhane shook his head, and then he looked past all of them at the thing on
 
 Which was a bad answer, and a true one, and everyone in the room knew both.
 
-Jordan moved toward the book. Thane stepped in the way again.
+Joran moved toward the book. Thane stepped in the way again.
 
 "Just give him the book, Thane."
 
@@ -162,7 +162,7 @@ Thane stood there a moment longer, because the shape of the room had changed and
 
 Then he stepped aside.
 
-Jordan Vhane slipped past him, picked up the Droskar text, carried it to his brother's body, and knelt.
+Joran Vhane slipped past him, picked up the Droskar text, carried it to his brother's body, and knelt.
 
 And began, in a low cracked voice, to give the traitor of Drezen his last rites.
 
@@ -268,7 +268,7 @@ He made himself finish the page. He made himself read the line at the bottom, in
 
 There was more, and most of it was worth having, and none of it was what he wanted.
 
-The brother. Pages on the brother — Thane read those with his eyes going flat, aware of the low murmur of last rites still going twenty feet behind him. *Jordan was at his prayers again tonight. Droskar. After everything we have seen. After everything we have become.* And then, further down, in the same paragraph, thrown away like a coin into a fountain: *I have brought cousins into the fold with less effort. Thurl needed only direction.*
+The brother. Pages on the brother — Thane read those with his eyes going flat, aware of the low murmur of last rites still going twenty feet behind him. *Joran was at his prayers again tonight. Droskar. After everything we have seen. After everything we have become.* And then, further down, in the same paragraph, thrown away like a coin into a fountain: *I have brought cousins into the fold with less effort. Thurl needed only direction.*
 
 Thane's eye caught on the word *cousins* for half a beat before his head supplied the obvious: *his.* Vhane blood, somewhere in the Five Kings Mountains, strangers. He let it go.
 
@@ -276,13 +276,13 @@ Thane's eye caught on the word *cousins* for half a beat before his head supplie
 
 *Finally he asked whether I ever thought of home. The Five Kings Mountains. After all these years. I laughed at him. I should not have.*
 
-*His faith is failing him. I can see it even if he refuses to admit it. Perhaps Droskar has finally disappointed him. Perhaps Jordan has finally disappointed Droskar. I do not particularly care which.*
+*His faith is failing him. I can see it even if he refuses to admit it. Perhaps Droskar has finally disappointed him. Perhaps Joran has finally disappointed Droskar. I do not particularly care which.*
 
 *Months ago, I considered having him killed. There. I have written it.*
 
-*But Jordan is useful. No one else understands the corruption forge as he does. No one else has his hands. That is reason enough. It must be.*
+*But Joran is useful. No one else understands the corruption forge as he does. No one else has his hands. That is reason enough. It must be.*
 
-*I have stationed three babaus with him. I told Jordan they were there to protect the forge. He knew I was lying. I knew that he knew. Neither of us said anything.*
+*I have stationed three babaus with him. I told Joran they were there to protect the forge. He knew I was lying. I knew that he knew. Neither of us said anything.*
 
 Korroc's jaw worked.
 
@@ -340,11 +340,11 @@ Nobody answered him, which was correct, because there was no answer.
 
 Korroc picked the book up off the desk.
 
-Thane watched his cousin carry it across the room to where Jordan Vhane knelt over his brother's body, and crouch, and hold it out.
+Thane watched his cousin carry it across the room to where Joran Vhane knelt over his brother's body, and crouch, and hold it out.
 
 "Read what your brother thought of you."
 
-Jordan did not take it. He looked at the cover for a long moment, and at Korroc, and then away.
+Joran did not take it. He looked at the cover for a long moment, and at Korroc, and then away.
 
 "I know he only kept me here because I can work the forge."
 
@@ -364,7 +364,7 @@ Caleth's head came up. "Not if we can use it."
 
 "What?"
 
-"If the corruption can be reversed —" the half-elf gestured at Jordan, at the book, at the whole rotten fortress — "then that forge is the only thing in the world that can do it. Every relic on that list. Every shield. There are men still alive who would give an arm to have their family's steel back the way it was." He said it reasonably. He always said things reasonably. "We need it."
+"If the corruption can be reversed —" the half-elf gestured at Joran, at the book, at the whole rotten fortress — "then that forge is the only thing in the world that can do it. Every relic on that list. Every shield. There are men still alive who would give an arm to have their family's steel back the way it was." He said it reasonably. He always said things reasonably. "We need it."
 
 Thane's face clouded and he did not try to stop it.
 
@@ -374,13 +374,13 @@ Thane's face clouded and he did not try to stop it.
 
 "No."
 
-It was Jordan Vhane who had injected the "no." He had stopped mid-rite.
+It was Joran Vhane who had injected the "no." He had stopped mid-rite.
 
 He had been murmuring the whole time, steady, the old dwarven cadence going under the argument like water under a bridge — and he had stopped in the middle of a phrase, hand raised over his brother's chest, gone rigid.
 
 Korroc was closest. "What?"
 
-"Chorussina speaks through telepathy." Jordan's voice had gone thin. "She just spoke to me. She's gone down into the rooms below and she demands I follow her." His eyes came up, and there was nothing in them now but plain animal fear. "She tried to reach Staunton. He didn't answer. She's assuming — correctly — that he's dead."
+"Chorussina speaks through telepathy." Joran's voice had gone thin. "She just spoke to me. She's gone down into the rooms below and she demands I follow her." His eyes came up, and there was nothing in them now but plain animal fear. "She tried to reach Staunton. He didn't answer. She's assuming — correctly — that he's dead."
 
 "And?" Thane said.
 
@@ -388,29 +388,29 @@ Korroc was closest. "What?"
 
 Thane felt his own eyes go wide and hated the tell. "Which half of the citadel?"
 
-"No." Jordan shook his head. "*Half of Drezen.* The city."
+"No." Joran shook his head. "*Half of Drezen.* The city."
 
 The city. Where Irabeth's army was, right now, coming up the Ahari and through the streets and winning.
 
 "Chorussina is below?"
 
-Jordan nodded.
+Joran nodded.
 
 "If we find her, can we interrupt it?"
 
 "I don't know."
 
-Caleth looked at Korroc. "What do we do with Jordan?"
+Caleth looked at Korroc. "What do we do with Joran?"
 
 Thane watched his cousin cross to the kneeling dwarf and go down to his level and look him full in the face, and he watched Korroc do the thing Korroc did, and for once he could not find it in himself to grudge him it.
 
-"Jordan. That book says you're losing your faith in Droskar — or Droskar is losing his faith in you, and either way it's the same thing." Korroc's voice was low and entirely without softness. "This is your chance. I truly want to see you redeem yourself and turn to Torag. He's waiting for you."
+"Joran. That book says you're losing your faith in Droskar — or Droskar is losing his faith in you, and either way it's the same thing." Korroc's voice was low and entirely without softness. "This is your chance. I truly want to see you redeem yourself and turn to Torag. He's waiting for you."
 
 He let that sit exactly one heartbeat.
 
 "Understand this. If we see you again and you are not in the Queen's custody, willingly facing her judgment — we *will* kill you. Do you understand?"
 
-Jordan Vhane nodded.
+Joran Vhane nodded.
 
 Korroc stood and turned and started walking.
 
@@ -806,11 +806,11 @@ They were checking their kit to move on when they heard boots in the passage.
 
 Every one of them stopped dead. Thane went to the doorframe with both blades out, low, and Korroc set his shield, and Nageru's hands came up.
 
-Jordan Vhane walked through the door.
+Joran Vhane walked through the door.
 
 He looked at the four of them — at the dead spawn, at the blood on the carpet, at Nageru's axe — and Thane watched Korroc's shoulders go tight and watched him not swing.
 
-Jordan spoke fast.
+Joran spoke fast.
 
 "You've gone the wrong way."
 
@@ -818,7 +818,7 @@ He turned around and started back out. "You need to follow me."
 
 Thane found his voice. "What?"
 
-Jordan stopped in the doorway and looked back at them with an expression of pure exhausted impatience, the look of a foreman watching apprentices carry a beam the long way around a yard.
+Joran stopped in the doorway and looked back at them with an expression of pure exhausted impatience, the look of a foreman watching apprentices carry a beam the long way around a yard.
 
 "You're going the wrong way. You have to go through the forge to get there."
 
@@ -836,7 +836,7 @@ They followed him.
 
 ---
 
-Jordan led them back to the stair-room, and south of it, and behind the entrance of a chamber that ended in a blank wall.
+Joran led them back to the stair-room, and south of it, and behind the entrance of a chamber that ended in a blank wall.
 
 He walked up to the blank wall and pushed a particular place on it.
 
@@ -854,11 +854,11 @@ It was well made. That was the thing that got into him. Whoever had built the th
 
 *No one else understands the corruption forge as he does. No one else has his hands.*
 
-Jordan stepped onto the lift.
+Joran stepped onto the lift.
 
 Caleth stared at him for a moment, measuring — Thane could see the half-elf doing arithmetic on the old dwarf, the same arithmetic Thane had been doing since the doorway — and then stepped on. Korroc went next. Nageru after him. Thane last, with his back to the cage door and one hand on it.
 
-Jordan worked the controls with the fluency of forty years.
+Joran worked the controls with the fluency of forty years.
 
 The cage went out along the top rail, over the pit, and the heat came up through the floor of it. Thane looked down through the bars. Down in the red, things moved among the coals — long, glistening, coiled, tending the fires with a slow attentiveness that had no urgency in it at all. Salamanders. Outsiders who had been keeping this fire lit for longer than Thane had been alive, and would keep it lit after.
 
@@ -870,7 +870,7 @@ He glanced at them. Caleth's jaw. Nageru's hands. Korroc's whole face.
 
 The cage came down at the far side and stopped in front of two doors.
 
-"I don't have keys to these," Jordan said. "I've never been allowed through."
+"I don't have keys to these," Joran said. "I've never been allowed through."
 
 Thane knelt.
 
@@ -908,7 +908,7 @@ Four figures stood beneath it. Three were schir — hairy, horned, goat-legged, 
 
 "Chorussina?" Caleth said.
 
-Jordan nodded.
+Joran nodded.
 
 They spent one moment on themselves, because they were not fools and the ritual was still going and a moment was what they could afford. Thane put the blessing over all four of them. Caleth threw up a ward against chaos that settled on Thane's skin like a coat out of a cold room. Korroc raised his faith around himself. Nageru breathed out and became fractionally harder to touch.
 
@@ -944,7 +944,7 @@ Chorussina took one step back — and Thane saw two auras drag at her as she mov
 
 It did not hold her.
 
-She went out of the world and came back into it forty feet away, standing directly behind Jordan Vhane.
+She went out of the world and came back into it forty feet away, standing directly behind Joran Vhane.
 
 Korroc took one step toward Nageru instead of toward her, because he was feeling the aasimar's wounds through the thread and could not do everything, and sent a wave of gold rolling out over all of them. Thane felt the ragged places along his ribs close.
 
@@ -966,17 +966,17 @@ Because the whispering was still going.
 
 Thane heard it in the ringing aftermath and did not, at first, understand what he was hearing. He stood in the middle of the chamber with both daggers out and turned in a slow circle looking for the thing that had died and had not stopped.
 
-Jordan Vhane took two steps back from the group and went down on his knees.
+Joran Vhane took two steps back from the group and went down on his knees.
 
 There was a curved bone spike standing out of his back.
 
 Thane had not seen it happen. He put that together a half-second later — the tiefling's last act, the thing in her hand as Nageru reached her, some pale claw off an insect the length of a forearm — and by then Korroc was already there.
 
-Jordan tried to heal himself. Thane watched him do it: the hand going to the wound, the old words starting, the whole practiced motion of a man who has done this ten thousand times.
+Joran tried to heal himself. Thane watched him do it: the hand going to the wound, the old words starting, the whole practiced motion of a man who has done this ten thousand times.
 
 Nothing happened.
 
-Korroc carefully pulled the claw out of him, and Thane saw his cousin's face change as he touched it — saw him drop the thing on the flagstones like a hot coal — and then Korroc's hand was on Jordan's back and the gold went in and the wound closed.
+Korroc carefully pulled the claw out of him, and Thane saw his cousin's face change as he touched it — saw him drop the thing on the flagstones like a hot coal — and then Korroc's hand was on Joran's back and the gold went in and the wound closed.
 
 "Korroc," Thane said. "Don't touch that again."
 
@@ -1020,7 +1020,7 @@ He put a hand on the doorframe of the next door without thinking about it at all
 
 ---
 
-Jordan Vhane was staring at his hands.
+Joran Vhane was staring at his hands.
 
 "It failed," he said.
 
@@ -1030,17 +1030,17 @@ Korroc crouched next to him and put a hand on his shoulder.
 
 "Listen. It can be all right. Torag will take you in."
 
-Jordan looked at him.
+Joran looked at him.
 
 That was all. He did not answer and he did not argue and he did not weep. He looked at Korroc for a while, with an old dwarf's face gone completely blank, and then went back to looking at his hands.
 
 Thane, watching from the doorway with the whisper going in the dark behind him, thought: *there it is.*
 
-Because he had spent the whole morning being told there was a road out of this for Jordan Vhane. Korroc had offered it in the map room with a death sentence tied to it, and offered it again over a book, and offered it again now, and Thane had listened to every offer with the flat certainty of a man watching someone try to bail a boat with a colander.
+Because he had spent the whole morning being told there was a road out of this for Joran Vhane. Korroc had offered it in the map room with a death sentence tied to it, and offered it again over a book, and offered it again now, and Thane had listened to every offer with the flat certainty of a man watching someone try to bail a boat with a colander.
 
 And it turned out he had been wrong about the shape of the thing.
 
-Jordan had not refused. Jordan had *turned around* — had walked down a stair into a dungeon full of people who wanted him dead, to tell them they were going the wrong way. Whatever that was, it was a step, and he had taken it on his own.
+Joran had not refused. Joran had *turned around* — had walked down a stair into a dungeon full of people who wanted him dead, to tell them they were going the wrong way. Whatever that was, it was a step, and he had taken it on his own.
 
 And somewhere between that step and this room, the hands had stopped working.
 
@@ -1140,7 +1140,7 @@ He walked up to it — carefully, checking every flagstone, and finding nothing,
 
 It was good cloth. Somebody had taken trouble. Somebody had hung a false Sword of Valor in the deepest hall of this fortress and rigged a room around it so that when the crusaders finally came, all this way, through all of that, up all those stairs and down all those stairs, the last thing they would get was the sight of their own symbol turning into the enemy's while the walls burned them.
 
-*Aponavicius likes trophies,* Jordan had said. *Things she can show off and brag about.*
+*Aponavicius likes trophies,* Joran had said. *Things she can show off and brag about.*
 
 "It's not the banner," Thane said. "It was never the banner."
 

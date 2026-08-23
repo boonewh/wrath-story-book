@@ -452,9 +452,9 @@ Caleth stabbed past him. The first thrust missed; the second went through the ba
 
 He looked at the back corner, where a dwarf in good plate stood alone with a warhammer in his hand and a shield on his arm.
 
-And Korroc thought about the map, and about a barracks with twenty-four pieces of a siege crew in it, and about a woman in furs saying *Jordan Vhane's down there often*, and *he's not happy with the way his brother treats him.*
+And Korroc thought about the map, and about a barracks with twenty-four pieces of a siege crew in it, and about a woman in furs saying *Joran Vhane's down there often*, and *he's not happy with the way his brother treats him.*
 
-"Jordan Vhane," he called. "Is that you?"
+"Joran Vhane," he called. "Is that you?"
 
 The dwarf said nothing.
 
@@ -464,7 +464,7 @@ Nageru was already moving.
 
 "Don't kill him," Korroc said.
 
-He said it fast and flat, and Nageru's head dipped once without breaking stride, and the aasimar crossed the room and hit Jordan Vhane hard enough to fold a lesser dwarf in half.
+He said it fast and flat, and Nageru's head dipped once without breaking stride, and the aasimar crossed the room and hit Joran Vhane hard enough to fold a lesser dwarf in half.
 
 *Not dead,* Korroc thought. *Not dead is a door that stays open.*
 
@@ -492,19 +492,19 @@ Caleth was already moving, a step and a word, and Thane vanished out of the air.
 
 What followed, Korroc could only ever afterward remember in pieces, the way you remember a fire.
 
-Jordan Vhane swung his hammer at Nageru twice and hit nothing but the space the aasimar had already left.
+Joran Vhane swung his hammer at Nageru twice and hit nothing but the space the aasimar had already left.
 
 Korroc reached into the golden well with both hands and pulled, and let a wave of healing roll out over all of them — and then, because the first one had not been enough and there was no time to be careful with himself, reached in and pulled again, and sent a second after it. He felt the well go shallower. He did not care.
 
 "*Talk to him, Nageru!*" he roared.
 
-Because the fight was going badly and Korroc had one idea and it was not a weapon. Because he had seen Jordan Vhane flinch at his own name. Because somewhere under this floor was the thing they had climbed a fortress to find and this dwarf knew where it was and would not tell it to a corpse.
+Because the fight was going badly and Korroc had one idea and it was not a weapon. Because he had seen Joran Vhane flinch at his own name. Because somewhere under this floor was the thing they had climbed a fortress to find and this dwarf knew where it was and would not tell it to a corpse.
 
 Nageru did not break stride and did not raise his voice.
 
 "We know your brother treats you badly," he said, to a man he was in the middle of fighting. "We have good dwarves. Join us, and we will help you."
 
-Korroc, bleeding, watching from twenty feet away, saw Jordan Vhane's face come apart and put itself back together wrong. Conflict, plain as a crack in a casting.
+Korroc, bleeding, watching from twenty feet away, saw Joran Vhane's face come apart and put itself back together wrong. Conflict, plain as a crack in a casting.
 
 "If you want," Nageru added, "you may simply stay here until we are finished. We will not hurt you."
 
@@ -536,7 +536,7 @@ Then Staunton Vhane was in front of him and there was no more room for any of it
 
 The glaive came twice. Korroc's shield was up and his stance was set and it did not matter; the blows went through the guard and through the plate and through him, pure crushing force, and two wounds opened in him and his own blood ran down inside the gold-and-mithral.
 
-Behind Staunton, Jordan Vhane cast, and there were suddenly two of him, and then three, and the copies moved apart.
+Behind Staunton, Joran Vhane cast, and there were suddenly two of him, and then three, and the copies moved apart.
 
 Korroc reached down into the well one more time and gave the last of what he could spare to the others — the gold going out across the room to Thane's unseen hurts and Nageru's chest and the frost-ruin in Caleth's back — and then he reached past the well and down, into the stone, and further, and took hold of the thing he had touched exactly once before in his life, in a library in Kenabres with a dead half-elf at his feet.
 
@@ -582,7 +582,7 @@ Radiance lit.
 
 Korroc could see it from across the room — the white blaze running the length of the leaf-blade as Caleth called his goddess into a weapon that was already holy — and the half-elf drove it into the succubus three times, and she screamed, and the scream did not sound like a woman at all. It came out of the same much older mouth the false Iomedae had screamed with, that morning, in a chapel one floor and a whole lifetime ago. Then she came apart in holy light and was gone.
 
-And Jordan Vhane, who had been standing back doing nothing at all, raised his hand and cast a healing on his brother.
+And Joran Vhane, who had been standing back doing nothing at all, raised his hand and cast a healing on his brother.
 
 Korroc saw it and swore.
 
@@ -642,13 +642,13 @@ Nageru stood up.
 
 Korroc sent one more wave of healing over the room because his hands did it before his head caught up, and the gold rolled out and found all of them, and the fire he was wearing began, slowly, to think about going out.
 
-Jordan Vhane stood alone at the back of the chamber with his hammer hanging in his hand.
+Joran Vhane stood alone at the back of the chamber with his hammer hanging in his hand.
 
 He looked at his brother's body. He looked around the room — at the dead babaus, at the dead minotaur, at the place on the floor where a succubus had been. Then he looked at Korroc, who was still burning.
 
 He looked for a long time.
 
-And then Jordan Vhane dropped to his knees.
+And then Joran Vhane dropped to his knees.
 
 Not a surrender-gesture. Nothing that formal. His legs simply stopped holding him, the way legs do at the end of something long, and he knelt among the wreckage of his brother's household with his hammer on the stone beside him.
 
@@ -656,7 +656,7 @@ Korroc walked over and as he did, he let go of the fire.
 
 He looked down and saw exhaustion. That was all that was there. Not defiance, not fear, not even much grief. Just a man who had been tired for a very long time and had finally been allowed to stop.
 
-"Staunton was never the same after he came back from the Ivory Sanctum," Jordan said, to the floor. Then he raised his head. "I assume my fate will be the same as his."
+"Staunton was never the same after he came back from the Ivory Sanctum," Joran said, to the floor. Then he raised his head. "I assume my fate will be the same as his."
 
 Korroc looked at him and, because his eyes could not stop reading, looked at the shield lying beside him.
 
@@ -670,7 +670,7 @@ He asked the plain question, because plain questions were what he had.
 
 "Droskar. Is that your god?"
 
-Jordan Vhane's eyes came up. There was a long pause in which Korroc could see the man deciding whether lying was worth the effort.
+Joran Vhane's eyes came up. There was a long pause in which Korroc could see the man deciding whether lying was worth the effort.
 
 "Yes."
 
@@ -686,7 +686,7 @@ Because that was the work. Not the striking. He had known it since before he cou
 
 He looked the man in the eyes when he said it, and he did not soften it, and he did not promise anything he could not forge.
 
-Doubt went across Jordan Vhane's face — doubt, and something under the doubt that had not been allowed out in a long time and did not quite trust the door.
+Doubt went across Joran Vhane's face — doubt, and something under the doubt that had not been allowed out in a long time and did not quite trust the door.
 
 So Korroc gave him a place to put his hands. A first small task, the way you hand an apprentice a simple job to steady him.
 
@@ -696,6 +696,6 @@ And Korroc watched it happen: recognition, and then, behind it, coming up slow a
 
 Hope.
 
-Jordan Vhane nodded.
+Joran Vhane nodded.
 
 *[To be continued.]*

@@ -1,6 +1,6 @@
 # Session 17 — Every Name But Two
 **Date:** 2026-08-16
-**Driven by:** Chapter 17 written (Thane POV). The aftermath in the map room — Jordan Vhane's Droskar text, and **Staunton Vhane's journal** — then the descent into the chambers below: prison rows and two risen paladins, the antimagic interrogation block, **Arueshalae's abandoned cell**, six caged vampire spawn left alive, a torture chamber, the vampire **Nul** destroyed and the crusader **Idrian Vosner** rescued, the corruption forge, **Chorussina's ritual broken**, **Jordan's healing lost**, and the **decoy Sword of Valor** at the end of a hall of murdered gods. **No level-up this session.**
+**Driven by:** Chapter 17 written (Thane POV). The aftermath in the map room — Joran Vhane's Droskar text, and **Staunton Vhane's journal** — then the descent into the chambers below: prison rows and two risen paladins, the antimagic interrogation block, **Arueshalae's abandoned cell**, six caged vampire spawn left alive, a torture chamber, the vampire **Nul** destroyed and the crusader **Idrian Vosner** rescued, the corruption forge, **Chorussina's ritual broken**, **Joran's healing lost**, and the **decoy Sword of Valor** at the end of a hall of murdered gods. **No level-up this session.**
 **Live page:** `/wrath`
 
 ## What Changed
@@ -21,7 +21,7 @@
 
 - **Session header:** "Session XVI — Sword of Valor" → **"Session XVII — Sword of Valor"**; gold title → **"Every Name But Two"**.
 - **Narrative paragraph:** replaced entirely. The journal and its three loadbearing admissions (he took the Sword himself; Minagho gave the opportunity and the choice was his; the ledger, and the invitation to read every name in it), then the descent — standing paladins in their cells, the warded block, the butterfly cell and the thing that prayed its way out, the vampire, the forge, the conjurer six words into a ritual meant to level half the city. Closes on the whispering that did not stop.
-- **Terendelev card:** quote refreshed — **and then rewritten**, because the first attempt had drifted into recounting the session's plot (the butterfly cell, Jordan's hands) instead of being about Terendelev. **This card is a tribute, not a recap.** The shipped version is entirely about her: that she could have been anywhere and chose a city and a plain grey face, that she did not leave when the sky opened, that she spent the last thing she had slowing four strangers' fall — and that those four are underground in a fortress that has not heard her name in seventy-five years, still carrying her scales and still spending them one at a time, the way she spent herself. **Guideline going forward: the Fallen Guardian card may take its emotional color from the current session, but its subject is always Terendelev.**
+- **Terendelev card:** quote refreshed — **and then rewritten**, because the first attempt had drifted into recounting the session's plot (the butterfly cell, Joran's hands) instead of being about Terendelev. **This card is a tribute, not a recap.** The shipped version is entirely about her: that she could have been anywhere and chose a city and a plain grey face, that she did not leave when the sky opened, that she spent the last thing she had slowing four strangers' fall — and that those four are underground in a fortress that has not heard her name in seventy-five years, still carrying her scales and still spending them one at a time, the way she spent herself. **Guideline going forward: the Fallen Guardian card may take its emotional color from the current session, but its subject is always Terendelev.**
 - **Party contribution cards:** all four replaced. `name` and `classes` unchanged; **all four `role` labels changed:**
   - **Caleth** — *The Answering Blade* → **The Case for Mending.** The forge argument (unfinished, deliberately), the antimagic cell he would not go near, and the mythic lightning that ended the ritualist.
   - **Nageru** — *The Word Before the Fist* → **The One Who Makes Sure.** Found the journal; gave the day its four-word prophecy; the full stake-axe-holy-water liturgy on Nul. Ends on the crystal crack nobody noticed.
@@ -44,10 +44,10 @@
   - **Arueshalae is described but not named** — "a thing born of the Abyss… begging a goddess of stars for a spirit made clean." She is a major future NPC; the page keeps its cast tight and lets the name land in prose first. Same reasoning applies to **Eustoyriax** (the shadow demon keeping the true Banner), who is not mentioned at all, and to **Idrian Vosner**, the rescued crusader.
   - **Chorussina** appears only as "the conjurer" / "the ritualist." Style choice, consistent with prior sessions; no spoiler reason.
 - **Caleth's dread of the antimagic cell is shown and NOT explained** — the card says he walked wide around it *and would not say why.* His Chapter 15 wound is still unspoken in-fiction and stays unspoken here.
-- **Jordan Vhane's lost healing is stated without a cause**, matching canon: claw, ritual, crystal, or god — the table has not decided and the page does not guess.
+- **Joran Vhane's lost healing is stated without a cause**, matching canon: claw, ritual, crystal, or god — the table has not decided and the page does not guess.
 - **The crystal-crack causation is presented as unnoticed, not as fact** — "and nobody noticed" is true of the party either way.
 - REPLACE-not-append honored throughout; no cards added, no archive block.
-- Name spellings verified: Staunton Vhane, Jordan Vhane, Korroc, Caleth, Nageru, Thane, Iomedae, Radiance, Torag, Minagho, Drezen.
+- Name spellings verified: Staunton Vhane, Joran Vhane, Korroc, Caleth, Nageru, Thane, Iomedae, Radiance, Torag, Minagho, Drezen.
 
 ## Verification
 

@@ -96,7 +96,7 @@ Established POVs so far:
 - Chapter 13: **Nageru** (*The Sound the Thunder Makes* — the cemetery, the Ahari, the stillness breaking)
 - Chapter 14: **Thane** (*Who Has Business Inside / The False Credential* — Nurah caught, the watchtowers, into the citadel)
 - Chapter 15: **Caleth** (*Beauty Has Teeth / What Wore the Inheritor's Face* — the false Iomedae, "knowing wasn't enough")
-- Chapter 16: **Korroc** (*Two Brothers of the Same Forge / The Price of Working with Demons* — Staunton dies, Jordan kneels)
+- Chapter 16: **Korroc** (*Two Brothers of the Same Forge / The Price of Working with Demons* — Staunton dies, Joran kneels)
 
 POV remains a stakes decision, not a rotation — choose whoever has the most at stake in a given session.
 
@@ -126,7 +126,7 @@ Who knows what. The POV character can only narrate what they know — never let 
 - **Terendelev** — the silver dragon
 - **Nageru** — the aasimar; **bronze skin** (NOT golden), amber eyes, subtle golden *aura* only
 - **Chorussina** — the tiefling conjurer below Drezen. *(Ch 16 originally spelled her "Chorussian" off a mishearing; corrected across all files 2026-08-16. Only `sessions/session16.md`, the raw GM note, still carries the old spelling — leave it, source records are not edited.)*
-- **Jordan Vhane** — Staunton's brother. NOT "Joron" *(the Nageru player's after-action reports call him Joron; the GM's notes are correct)*
+- **Joran Vhane** — Staunton's brother. **Joran**, not Jordan and not Joron. *(The GM's session notes write "Jordan" and some player after-action reports write "Joron" — both wrong. Corrected across all files 2026-08-11 at the table's request. The raw `sessions/*.md` notes still carry "Jordan"; source records are not edited.)*
 
 ### Party State at End of Chapter 16
 
@@ -134,7 +134,7 @@ Who knows what. The POV character can only narrate what they know — never let 
 - **The four are inside Citadel Drezen**, clearing it from the roof downward, while Irabeth's army fights up the Ahari below and appears to be winning.
 - **STAUNTON VHANE IS DEAD** (Ch 16) — killed by Caleth, after Thane's daggers broke him and Korroc refused Thane's request to take him alive. The Templar chain he could have named died with him.
 - **The saboteur is caught:** **Nurah** confessed in Ch 14 — a Templar agent recruited by Minagho — and is bound and gagged under guard, awaiting return to the Queen. *The "keep her ambiguous" rule is retired.*
-- **Jordan Vhane**, Staunton's ill-used brother and a **worshipper of Droskar the Dark Smith**, has **surrendered to Korroc personally** and agreed to reveal where the Sword of Valor is. Unproven; Korroc owns this thread.
+- **Joran Vhane**, Staunton's ill-used brother and a **worshipper of Droskar the Dark Smith**, has **surrendered to Korroc personally** and agreed to reveal where the Sword of Valor is. Unproven; Korroc owns this thread.
 - **The Sword of Valor is NOT recovered.** The upper-citadel Banner was a decoy. The true one is **below**, in new chambers that appear on no dwarven map — including the Stonevein blueprints.
 - **Korroc wears gold-and-mithral Iomedaean armor** (Ch 15) that fits him as though forged for him. **He feels he ought to know why and cannot. Do not explain it.**
 - **Caleth carries an unhealed wound from Ch 15:** a succubus wearing Iomedae's face compelled him past his own correct judgment and drained him. His refrain is *"knowing wasn't enough."* **No one in the party has ever spoken of it.**

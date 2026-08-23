@@ -219,7 +219,7 @@
 
 ## Inside Citadel Drezen (Sessions 14–16)
 
-### Jordan Vhane
+### Joran Vhane
 **Status:** Living. **Surrendered to Korroc in Ch 16; cooperating as of Ch 17.** Last seen kneeling in the ritual chamber past the corruption forge, staring at his hands, having just discovered **he can no longer cast healing magic.** He is not with the party by force and is not in custody. He was told to come along if he wanted; the party moved on and left him sitting.
 
 **Role:** Dwarf. **Staunton Vhane's younger brother**, and by every account badly used by him. A spellcaster and hammer-fighter; he opened the map-room fight with a burst of sound that stunned Thane, tried to blind and deafen Korroc, and split himself into illusory copies.
@@ -227,24 +227,24 @@
 **Faith: DROSKAR, the Dark Smith.** His shield bears the Dark Smith's symbol — near-kin to Torag's hammer and anvil, and wrong: the proportions greedy, the design bent toward *toil* where Torag's bends toward *craft*. **This is the load-bearing detail of his character and of Korroc's interest in him.**
 
 **Key moments (Ch 16):**
-- Foreshadowed by **Jestak** in Ch 14: *"Jordan Vhane is also down there often... he is not happy with the way his brother is treating him. Find him and he might help you."*
-- **Korroc recognized him by name off a single flinch** — *"Jordan Vhane, is that you?"* — and immediately called *"Don't kill him."*
+- Foreshadowed by **Jestak** in Ch 14: *"Joran Vhane is also down there often... he is not happy with the way his brother is treating him. Find him and he might help you."*
+- **Korroc recognized him by name off a single flinch** — *"Joran Vhane, is that you?"* — and immediately called *"Don't kill him."*
 - **Nageru talked to him in the middle of the fight** on Korroc's shout, offering both the crusade (*"We have some great dwarves, join us and we'll help you"*) and a smaller door (*"If you want, you can stay here until we're done. We won't hurt you."*). His face showed real conflict.
 - **He held back for the rest of the fight — and then healed his brother anyway.** Even after everything. Korroc read that as the thing Droskar's toil could not burn out of a dwarf.
-- When Staunton fell, Jordan dropped to his knees, looked at the body, and looked at the burning Korroc: *"Staunton was never the same since he came back from the Ivory Sanctum. I assume that my fate will be the same as his."*
+- When Staunton fell, Joran dropped to his knees, looked at the body, and looked at the burning Korroc: *"Staunton was never the same since he came back from the Ivory Sanctum. I assume that my fate will be the same as his."*
 - **Korroc offered him submission to Queen Galfrey for judgment — *"You don't have to die"* — and a first task to steady him: tell them where the Sword of Valor is.** Recognition and **hope** crossed his face. He nodded.
 
 **Key moments (Ch 17) — the thread was tested, and the answer is complicated:**
-- **His holy text nearly burned.** Thane set flint and steel to a Droskar book on a desk; Korroc stopped him (*"we're talking to Jordan, not trying to upset him"*), and eventually overrode Thane a second time to hand it over. Jordan asked for it plainly — *"It's mine"* — took it to his brother's body and **gave Staunton the last rites.**
+- **His holy text nearly burned.** Thane set flint and steel to a Droskar book on a desk; Korroc stopped him (*"we're talking to Joran, not trying to upset him"*), and eventually overrode Thane a second time to hand it over. Joran asked for it plainly — *"It's mine"* — took it to his brother's body and **gave Staunton the last rites.**
 - **He does not know who was in his brother's company.** Thane told him the Stonevein fathers' story and got a shrug — not cruelty, genuine ignorance. He came north because his brother talked him into it, to work the forge.
-- **What the forge is, in his own words:** *"I don't make. I change."* He strips the blessing out of captured relics — *"I can make a holy weapon unholy, for example."* Caleth: *"So you corrupt them."* Jordan: ***"I change them."*** The word he chooses is the whole confession.
+- **What the forge is, in his own words:** *"I don't make. I change."* He strips the blessing out of captured relics — *"I can make a holy weapon unholy, for example."* Caleth: *"So you corrupt them."* Joran: ***"I change them."*** The word he chooses is the whole confession.
 - **He gave up everything he knew about below**, unprompted: the Banner is down there, so are the forge and the cells; **Eustoyriax** keeps the Banner (he has never met him, has never been past the forge); and **Nul**, a vampire, comes first.
 - **Korroc offered him the journal to read and he refused it** — *"I know he only kept me here because I can work the forge."*
 - **Asked whether corruption can be reversed, he said "I don't know"** — after thinking about it a long time. **This is the seed of the whole Caleth-vs-Thane forge argument. Do not resolve it without the GM; it is worth an arc.**
 - **Chorussina reached him by telepathy** mid-scene and demanded he follow her below, announcing the ritual. He told the party immediately. **He did not go to her.**
 - **Korroc's terms:** Torag is waiting, this is your chance — *and* if we see you again outside the Queen's custody, **we will kill you.** He nodded.
 - **He came back.** Left alone in a room with his brother's corpse and a clear route out, he instead **walked down the stair after four people who had promised to kill him** to tell them they had taken a wrong turn, and then led them through the secret passage, the lift, and the forge he had worked for forty years. **Nobody made him do this.**
-- **Then Chorussina put a bone claw in his back**, and he reached for his own healing — the practiced motion of a man who has done it ten thousand times — and **nothing happened.** *"It failed."* Korroc healed him and said *"Listen, it can be okay. Torag will take you in."* **Jordan looked at him, said nothing at all, and went back to staring at his hands.**
+- **Then Chorussina put a bone claw in his back**, and he reached for his own healing — the practiced motion of a man who has done it ten thousand times — and **nothing happened.** *"It failed."* Korroc healed him and said *"Listen, it can be okay. Torag will take you in."* **Joran looked at him, said nothing at all, and went back to staring at his hands.**
 
 **⚠ HIS LOST HEALING IS UNEXPLAINED AND MUST STAY THAT WAY.** Four live possibilities, per the table: the claw, Chorussina's ritual, the crystal's destruction, or **Droskar** closing the door on a priest who had begun to look at another one. **The GM has explicitly left this open. Do not pick one.**
 
@@ -279,7 +279,7 @@ Everything the party "found" was part of the staging. **Korroc's paladin sight f
 **What she gave the party (all of it load-bearing):**
 - **New chambers below the citadel** — a dungeon, not on the Stonevein blueprints. *"Anything important goes down there and happens down there."*
 - **The Banner is below.**
-- **Jordan Vhane** — Staunton's brother, mistreated, and possibly willing to help.
+- **Joran Vhane** — Staunton's brother, mistreated, and possibly willing to help.
 - That there are people in the citadel who would gladly turn if someone got them clear of the demons.
 
 **Why she matters to Thane's arc:** she is the hunch he threw a hand out for against his own reading and against Korroc's — *"Look at the bodies. What if she killed them for the same reason we are?"* — and she paid off completely. Korroc's caveat still stands unproven: *"If we come up against something strong down there, I can't promise she holds."*
@@ -305,11 +305,11 @@ The real Maranse Delaskru is a **famous swashbuckler who disappeared about two y
 
 **Role:** A **tiefling conjurer** working under Staunton Vhane in the chambers below Citadel Drezen. Real after all, despite the name reaching the party first through a demon's mouth in Ch 16.
 
-**What she did (Ch 17):** She **spoke to Jordan Vhane by telepathy** mid-scene, tried Staunton first and correctly concluded from his silence that he was dead, demanded Jordan follow her below, and announced she would begin **a ritual to destroy half of Drezen — the city, not the citadel.** She was six words into it, under a horse-sized pulsing purple crystal on a chain, guarded by three schir demons, when the party arrived. **The ritual was stopped and the city saved.**
+**What she did (Ch 17):** She **spoke to Joran Vhane by telepathy** mid-scene, tried Staunton first and correctly concluded from his silence that he was dead, demanded Joran follow her below, and announced she would begin **a ritual to destroy half of Drezen — the city, not the citadel.** She was six words into it, under a horse-sized pulsing purple crystal on a chain, guarded by three schir demons, when the party arrived. **The ritual was stopped and the city saved.**
 
 **Her kit, for reference:** *displacement* (Korroc's first swing went through an afterimage), *stinking cloud*, *dimension door* (escaped Korroc and Caleth despite two anchoring paladin auras), and a **curved bone claw off some insectile thing** used as a touch weapon that drained life like *vampiric touch.*
 
-**⚠ The claw is still down there.** Korroc pulled it out of Jordan's back and **felt it reach for him through his gauntlet** and dropped it immediately. Nobody picked it up. **It may or may not be what took Jordan's healing.**
+**⚠ The claw is still down there.** Korroc pulled it out of Joran's back and **felt it reach for him through his gauntlet** and dropped it immediately. Nobody picked it up. **It may or may not be what took Joran's healing.**
 
 **⚠ The whispering is NOT hers.** A low wordless whisper began in the prison rows and **did not stop** when she died, when her demons died, when the crystal shattered, or when the candles went out. Korroc: *"I thought that was the ritual."* **Source unknown and unresolved.**
 
@@ -322,21 +322,21 @@ The real Maranse Delaskru is a **famous swashbuckler who disappeared about two y
 
 **Role:** A **shadow demon**; commander of the force that destroyed Lord Axilar Trezbot's legion in the Fourth Crusade and accepted **Nurah's** surrender, sending her to Raliscrad to be processed (Ch 14 confession). A named rung on the Templar ladder above her and below Minagho.
 
-**CONFIRMED (Ch 17 — Jordan Vhane and Staunton's journal, independently):**
+**CONFIRMED (Ch 17 — Joran Vhane and Staunton's journal, independently):**
 - **He is the keeper of the Sword of Valor.** Aponavicius gave him one responsibility and that is it. Staunton: *"The shadow seems pleased with the assignment. I do not envy anyone foolish enough to try taking it from him."*
 - He is the **courier from the Ivory Sanctum** — he brought Staunton the five vials of Nahyndrian elixir, and Staunton designated him to receive any further "gifts" so as never to deal with Xanthir Vang again.
 - **He once wore the face of a crusader named Maranse** — *"The shadow arrived wearing a crusader named Maranse. An amusing disguise, though apparently not amusing enough to save Maranse once Kiranda received him."* This is the party's written proof that the man they freed in Ch 16 was never a man, and that a real Maranse Delaskru existed and was killed.
-- **Jordan Vhane has never met him** and has never been past the forge.
+- **Joran Vhane has never met him** and has never been past the forge.
 
 ---
 
 ### Aponavicius
-**Status:** Living. Off-screen, to the south. Named to the party by the Queen; named again by Jordan Vhane and all through Staunton's journal (Chs 16–17).
+**Status:** Living. Off-screen, to the south. Named to the party by the Queen; named again by Joran Vhane and all through Staunton's journal (Chs 16–17).
 
-**Role:** A **Marilith** — a demon general commanding to the south, and **Drezen's actual master.** Staunton held the citadel *for* her. Recognized by Korroc immediately when Jordan named her.
+**Role:** A **Marilith** — a demon general commanding to the south, and **Drezen's actual master.** Staunton held the citadel *for* her. Recognized by Korroc immediately when Joran named her.
 
 **Established (Ch 17):**
-- **She keeps trophies.** Jordan on why the Banner was moved below: *"Aponavicius likes trophies. Things she can show off and brag about."* The Sword of Valor is hung, not hidden.
+- **She keeps trophies.** Joran on why the Banner was moved below: *"Aponavicius likes trophies. Things she can show off and brag about."* The Sword of Valor is hung, not hidden.
 - **She refused to let Staunton corrupt the Banner**, repeatedly, over his objections — *"She says some prizes are more valuable intact."* He thought she lacked imagination. **Her restraint is the only reason the Sword of Valor still exists.**
 - **She captured Arueshalae personally** and ordered her held below Drezen pending transfer to a prepared oubliette in the Rasping Rifts. She would not say why the succubus warranted it. When Arueshalae escaped on Staunton's watch, he was terrified enough of her finding out that he hired hunters and an annis hag rather than report it.
 - She was away from Drezen through Chs 14–17. **Nothing says she is staying away.**
@@ -346,7 +346,7 @@ The real Maranse Delaskru is a **famous swashbuckler who disappeared about two y
 ### Nul
 **Status: DESTROYED — Chapter 17**, permanently.
 
-**Role:** A **half-orc vampire** with a library and a plush carpet in the cells below Drezen, named to the party in advance by Jordan Vhane as the thing they would meet before Eustoyriax. Found feeding on a shackled crusader (**Idrian Vosner**) with a single vampire spawn in attendance.
+**Role:** A **half-orc vampire** with a library and a plush carpet in the cells below Drezen, named to the party in advance by Joran Vhane as the thing they would meet before Eustoyriax. Found feeding on a shackled crusader (**Idrian Vosner**) with a single vampire spawn in attendance.
 
 **The fight:** Nageru tumbled under the hostage and opened with a critical. Nul tried to **dominate Thane** and failed against the doorkeeper's refusal. Caleth killed the spawn with Radiance; the four boxed Nul in; and when Radiance went through him he **burst into gaseous form and fled through a crack** to a coffin behind a secret door. Thane picked the door in under twenty seconds. **Nageru staked him, took his head off with the adamantine battleaxe, and poured holy water slowly over head and body both.**
 
@@ -547,9 +547,9 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
 
 - **He was chasing a lost Sky Citadel: Jormurdun.** He came north because he could not spend his life under the same mountain. *A direct structural rhyme with Thorek Stonevein and Khar-Zadûn — two dwarves, two lost holds, two roads to the same crusade. Thane felt it and hated it.*
 - **HE TOOK THE SWORD OF VALOR HIMSELF, AND HE OWNS IT.** *"It was me. I took the Sword of Valor from Drezen… Minagho knew exactly what to say. By the time I understood what I had done, Drezen's protection was gone… For years I told myself Minagho deceived me. That is true. It is also a coward's answer. **She gave me the opportunity. I made the choice.**"* **Seventy years of crusade scholarship on how Drezen fell is answered in the traitor's own hand.**
-- **The corruption ledger** — pages of relics unmade at Jordan's forge, each marked COMPLETE. Named entries include the **Blade of Saint Edran** (Iomedae), the **Shield of the Dawn Vigil** (Sarenrae), **a Torag breastplate with the markings removed**, a crusader officer's longsword, a dwarven warhammer, and **three Eagle Watch shields.** Closing line: *"They bring their relics to the Worldwound believing holiness makes them untouchable. Everything can be broken."*
+- **The corruption ledger** — pages of relics unmade at Joran's forge, each marked COMPLETE. Named entries include the **Blade of Saint Edran** (Iomedae), the **Shield of the Dawn Vigil** (Sarenrae), **a Torag breastplate with the markings removed**, a crusader officer's longsword, a dwarven warhammer, and **three Eagle Watch shields.** Closing line: *"They bring their relics to the Worldwound believing holiness makes them untouchable. Everything can be broken."*
 - **He recruited relatives** — *"I have brought cousins into the fold with less effort. **Thurl** needed only direction."* **These are Staunton's own kin, strangers to Korroc and Thane.** Table furniture; do not make it land on the Stoneveins.
-- **On Jordan:** contempt, dependence, and something he refused to name. Jordan prayed to Droskar through all of it; Staunton found that unbearable. He stationed **three babaus** on his own brother as watchers and they both knew it. *"Months ago, I considered having him killed. There. I have written it."* And: *"But Jordan is useful. No one else has his hands. That is reason enough. It must be."*
+- **On Joran:** contempt, dependence, and something he refused to name. Joran prayed to Droskar through all of it; Staunton found that unbearable. He stationed **three babaus** on his own brother as watchers and they both knew it. *"Months ago, I considered having him killed. There. I have written it."* And: *"But Joran is useful. No one else has his hands. That is reason enough. It must be."*
 - **THE NAHYNDRIAN ELIXIRS.** **Eustoyriax** brought **five vials** from the **Ivory Sanctum** — "distilled power," made from powdered **Nahyndrian crystal**. Aponavicius wanted a test subject; Staunton volunteered. *"Not borrowed. Not granted. **Mine.** Something inside me opened."* The other subjects: **a dragon died screaming**, a **xacarba** lived somewhat longer, and only **Soltengrebbe** survived — as something that "can scarcely be called the same creature." ***"There are four elixirs remaining. I would not drink another. Not yet."* FOUR ARE UNACCOUNTED FOR. This is the mechanical explanation of the enemy's mythic power and a standing plot object.**
 - **Xanthir Vang** — master of the regional Templars and the Blackflame Adepts; see his entry.
 - **Eustoyriax guards the Sword of Valor** — see his entry.
@@ -557,9 +557,9 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
 - **On Irabeth Tirabade:** a full page of what he intended to do to her when Kenabres fell. *"I have spent seventy years learning what suffering can accomplish. She will receive the benefit of my education."* **Thane read it once, did not read it again, did not read it aloud, and has never told her. Keep it that way unless the story earns it.**
 - **The last page is addressed to whoever finds it.** *"Let them read every name. Every relic broken upon our forge. Every crusader who screamed beneath these walls… I have no children. There will be no sons or daughters to carry the name of Staunton Vhane. My allies will compose no songs for me. So let this book serve instead. And if the heroes of Kenabres are the ones reading these words — Welcome to Drezen. Come and see what your victory has bought you."*
 
-**⚠ THE THING THE BOOK DOES NOT CONTAIN.** He catalogued every relic he ever broke and invited the reader to know **every name** — and **Thorek and Borin Stonevein are not in it.** Jordan, asked directly, did not know who was in his brother's company. **This is Thane's wound for the rest of the book, and it cannot be closed by finding a page. Do not retcon an entry into this journal.**
+**⚠ THE THING THE BOOK DOES NOT CONTAIN.** He catalogued every relic he ever broke and invited the reader to know **every name** — and **Thorek and Borin Stonevein are not in it.** Joran, asked directly, did not know who was in his brother's company. **This is Thane's wound for the rest of the book, and it cannot be closed by finding a page. Do not retcon an entry into this journal.**
 
-**Physical custody:** the party has the book. Korroc offered it to Jordan, who refused to read it.
+**Physical custody:** the party has the book. Korroc offered it to Joran, who refused to read it.
 
 **Revealed by his brother:** *"Staunton was never the same since he came back from the Ivory Sanctum."* The Ivory Sanctum is now a named place in the campaign and a thing that changes people.
 
