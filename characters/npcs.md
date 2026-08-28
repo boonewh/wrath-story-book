@@ -3,7 +3,7 @@
 ## Allies in the Underdark Escape
 
 ### Anevia Tirabade
-**Status:** Living. Marching with the company toward Drezen as scout.
+**Status:** Living. **⚠ SPYMASTER OF DREZEN (Interlude 2)** — she did not take a post so much as invent one when Irabeth took the citadel. Spends most of her time **in disguise**, working the market rows and taverns of the reclaimed city, watching for the two things it will grow again the moment anyone looks away: demonic influence and treason. *(Note the rhyme: this is the Eagle Watch contract she and Thane were hired for in Kenabres, now with a city behind it and a title on it. Thane has said nothing about that and watches the stairs on the days she is out.)*
 
 **Role:** Eagle Watch contract agent and spymaster. Thane's **partner-in-work** — NOT romantic. They have a genuine professional friendship. Irabeth's wife.
 
@@ -30,7 +30,9 @@
 ---
 
 ### Aravashnial
-**Status:** Living. Eyesight fully restored (Ch 9 — Queen's cleric cast Regenerate). Marching with the company toward Drezen.
+**Status:** Living. Eyesight fully restored (Ch 9). **⚠ REBUILDING THE RIFTWARDENS FROM DREZEN (Interlude 2).** With the Kenabres chapter destroyed alongside the Blackwing Library, he asked Irabeth for a building on the second day and had it on the third — sound stone off the west courtyard, good cellar, one door — and is **establishing a new Riftwarden safe house** there: rebuilding the order's membership and holdings, bringing in books that were not in Drezen a month ago. **He also oversees Drezen's magical defenses**, alongside Aron's physical ones.
+- **⚠ HE HAS NOT HIDDEN THIS.** His Riftwarden identity has been party-public since Ch 11 and he said it at a war table: *"the order is not dead while one of us is standing, and I am standing."* Any POV may narrate the safe house.
+- **⚠ BUT THE DEEPER LAYERS STILL HOLD** — his elder rank, the order's link to Caleth's parents, and that Caleth has known since Ch 4. **Caleth keeps turning up at that door without ever asking to be involved, and Korroc has noticed and does not understand it.** That is the correct amount for a non-Caleth POV to carry: the pattern, not the reason.
 
 **Role:** Elder wizard. **Riftwarden elder** — same secret order as Caleth's biological parents. *(Party knows he is a Riftwarden as of Ch 11; the deeper layers stay secret — see "Riftwarden Identity" below.)*
 
@@ -73,7 +75,7 @@
 ---
 
 ### Horgus Gwerm
-**Status:** Living. Marching with the company toward Drezen as quartermaster/logistician.
+**Status:** Living. **⚠ TREASURER OF DREZEN (Interlude 2).** He saw the opportunity in a reclaimed city and took it — organizing the entire logistics of supplying the place, three clerks and a slate at a trestle table before first light. **And he is becoming genuinely pleasant.** Whether that is the party's influence or a long-delayed chance to show his real colors, the sneering has stopped; he thanks quartermasters who bring him bad numbers. **Korroc finds this deeply suspicious and Thane does not.** *(His arc is paying off. Let it — do not walk it back for a cheap joke.)*
 
 **Role:** Wealthy Kenabres noble. Owns warehouses south of the cathedral and is rumored to own the magistrates as well. Now serves as the company's supply-master.
 
@@ -137,9 +139,9 @@
 ---
 
 ### Aron Kir
-**Status:** Living. Marching with the company as tactics advisor.
+**Status:** Living. In Citadel Drezen. **⚠ NAMED *WARDEN OF DREZEN* BY IRABETH after the citadel fell (Interlude 2).** New canon from the GM — the title comes from the adventure path, where Irabeth appoints him. Use it going forward; "the warden" is now a valid way to refer to him in prose.
 
-**Role:** Tactics advisor assigned by the Queen. A survivor.
+**Role:** Tactics advisor assigned by the Queen, **now Warden of Drezen** — the man responsible for the reclaimed fortress itself. A survivor.
 
 **Appearance:** Lean, plain. A face that has lost too much and stopped expecting anything good.
 
@@ -156,7 +158,7 @@
 ---
 
 ### Sosiel Vaenic
-**Status:** Living. Marching with the company as morale officer and healer.
+**Status:** Living. **⚠ IN CHARGE OF DREZEN'S SPIRITUAL CARE (Interlude 2).** He turned the old cathedral on Paradise Hill into a **multi-denominational temple** — Iomedae, Torag, Shelyn, Sarenrae, Irori, Cayden Cailean, Desna — rather than a house of Shelyn, **which he would have been entitled to and refused.** Small shrines and shared space, so that soldiers who marched three hundred miles together would stop arguing about which god had earned the best roof. **This is the most important thing he has done in the campaign; treat it as character, not set dressing.**
 
 **Role:** Cleric of Shelyn. Assigned by the Queen to tend to the soldiers' spirits and wounds.
 
@@ -709,7 +711,7 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
 ---
 
 ### Irabeth Tirabade
-**Status:** Living. Commanding the company on the march to Drezen. Knighted by Queen Galfrey (Ch 9).
+**Status:** Living. **⚠ COMMANDS CITADEL DREZEN (Interlude 2).** She went from running an army to running a fortress and **nobody argued** — there were officers with older commissions in that citadel and not one of them opened his mouth, because she had been doing the job for a month already and had simply never stopped to be given it. Knighted by Queen Galfrey (Ch 9).
 
 **Role:** Commander of the Drezen expedition. **Anevia's wife.** Knight of the Fifth Crusade.
 
