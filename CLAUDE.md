@@ -1,5 +1,16 @@
 # CLAUDE.md — Wrath of the Righteous Campaign Blog
 
+## ⚠ WHO IS YOUR USER? (check this first)
+
+This repo has two kinds of contributor and they get different instructions.
+
+- **The author (Will).** Everything below this section is for you. Proceed.
+- **The GM (campaign Game Master, repo contributor).** **Stop and read [CLAUDE-GM.md](CLAUDE-GM.md) instead, and follow it — it overrides this file wherever they conflict.** She does not write chapters; she supplies session notes, settles the canon questions this project has deliberately left open, and corrects the game-world facts. The chapter-writing pipeline below is **not** her workflow.
+
+If you do not know which one you're talking to, **ask before writing anything.** The clone is identical either way; only the person differs.
+
+---
+
 ## Model Architecture Rule
 
 **ONE agent does everything. Opus reads, researches, decides, and writes. No hand-offs.**
