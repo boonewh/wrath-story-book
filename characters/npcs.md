@@ -52,6 +52,12 @@
 
 - **Chapter 14:** Drew the party a **brimorak** in his own book and briefed them on it — *"Fire does not hurt them. And neither does electricity"* (said pointedly to Caleth) — *"But they mislike the cold."* / *"It **hurts** them."* Plus the warning that a brimorak's touch burns through a fire ward. **And the live thread: he watched Caleth push charge back into a dead wand, went still, took the wand, turned that same attention on Caleth, and asked *"How did you do this?"* — then said *"We should talk later."*** Thane clocked the whole exchange as a door with more behind it than the frame shows. **The conversation has not happened yet. Do not resolve it without the GM.** That night the saboteur cut into his tent and left a bomb in it; he walked out unhurried a half-second before it detonated and did not turn around to look.
 
+- **⚠ Chapter 18 — his best week of the campaign.** **He reversed Nurah's escape-teleport** and put her down twenty feet from where she started, in a camp full of people who knew what she had done *(see Nurah Dendiwhar)*. He then **led the cleansing of the corruption forge**: stood at the pit rail reading it with open delight (*"Extraordinary… the single most sophisticated piece of applied transmutative theory I have ever stood in front of"*), spotted the closed cycle under the lip, called for Joran when the party hit the limit of its understanding, worked the Abyssal manual for four days with Caleth and Joran, **did not sleep on the third night and had to be shouted at**, and finished it.
+  - **He ruled arcane over holy, to a paladin's face, and made the case in the paladin's own language:** consecration would *drive the evil out* and leave the design intact, but the forge is *"a machine that was built wrong on purpose, in a language, by someone who knew what they were doing."* *"You do not shout a bad weld into a good one, Korroc Stonevein. You cut it out and you lay it in again correctly."*
+  - **He named it the Purity Forge**, swaying with exhaustion and visibly pleased with himself: *"One should name a thing when one has changed what it is. Otherwise people go on calling it by the old name, and the old name is a kind of gravity."*
+  - **Voice note:** the zeal the restored sight gave him is at full flood here. He is funny in this chapter — *"That's the surface. That's the least of it. Don't celebrate, fetch me the green case."* Do not lose that register; the dry scholar now has enthusiasm.
+- **⚠ THE "WE SHOULD TALK LATER" CONVERSATION STILL HAS NOT HAPPENED.** Four days at one table with Caleth over an Abyssal manual and it never came up on the page. **Still unresolved. Do not resolve without the GM.**
+
 **Relationship anchor:** A mentor-figure to Caleth — and now, as of Chapter 4, an acknowledged fellow Riftwarden. He knows something about Caleth's past that he will not share. When Caleth has let something slip and pressed carefully, the door shuts every time. *(See Riftwarden note below.)*
 
 **Riftwarden Identity — PARTLY PUBLIC as of Ch 11:**
@@ -165,7 +171,15 @@
 ---
 
 ### Nurah Dendiwhar
-**Status:** Living. **CAUGHT AND CONFESSED (Ch 14).** Bound, gagged, and under guard in the camp below Drezen, to be returned to Queen Galfrey for judgment. **The sabotage arc is closed.**
+**Status:** **DEAD (Ch 18).** She never reached the Queen.
+
+**⚠ HOW SHE DIED — reported by Irabeth, not witnessed by the party.** Four nights before the prisoners were moved up into the citadel's own cells, she got herself out of the irons and out of the tent in the small hours and **had got far enough to begin a teleport.** **Aravashnial was close and reversed it** — the same working he used on the Abyssal rift — and she came down about twenty feet from where she had started, in the middle of a camp full of people who knew exactly what she had done. **She was called on to surrender. She chose to fight. She was killed.**
+
+**How it was discovered:** the prisoners were moved from the makeshift camp pens into Drezen's own prisons, and **Thane went down and counted.** He found Korroc in Torag's chapel to say she was not there, and the two of them went to Irabeth together.
+
+**Thane's response, entire:** *"She made her choice."* He looked satisfied. **Korroc could not fault him for it and did not much like the taste of it either.** Neither of them said anything else about her. *(This is the man who caught her, took acid across the face doing it, led with both pommels because you cannot question the dead — and who felt no satisfaction at the time. Ch 14: "Being right, he was learning, was a cold room." He got something colder here and it did not warm him.)*
+
+**CAUGHT AND CONFESSED (Ch 14).** The sabotage arc closed then; this closes the woman.
 
 **CAUGHT (Ch 14):** She threw shadowblood into the prisoner cage as a distraction, rifled the party's tents while the camp ran to the seizing prisoner, and was cutting into Aravashnial's tent — invisible, with a bomb already inside it — when **Thane dropped conjured water on the empty air and soaked her.** She acid-splashed him, tried a spell on him that slid off, and was hammered by Korroc, dropped by Nageru's fist, and held rigid by Caleth. Thane turned back the hood with the point of his mother's blade: *"Nurah."*
 
@@ -220,7 +234,7 @@
 ## Inside Citadel Drezen (Sessions 14–16)
 
 ### Joran Vhane
-**Status:** Living. **Surrendered to Korroc in Ch 16; cooperating as of Ch 17.** Last seen kneeling in the ritual chamber past the corruption forge, staring at his hands, having just discovered **he can no longer cast healing magic.** He is not with the party by force and is not in custody. He was told to come along if he wanted; the party moved on and left him sitting.
+**Status:** Living. **IN CUSTODY IN CITADEL DREZEN (Ch 18)** — and working the Purity Forge under guard alongside Korroc and Thane. Still cannot cast healing magic.
 
 **Role:** Dwarf. **Staunton Vhane's younger brother**, and by every account badly used by him. A spellcaster and hammer-fighter; he opened the map-room fight with a burst of sound that stunned Thane, tried to blind and deafen Korroc, and split himself into illusory copies.
 
@@ -248,7 +262,32 @@
 
 **⚠ HIS LOST HEALING IS UNEXPLAINED AND MUST STAY THAT WAY.** Four live possibilities, per the table: the claw, Chorussina's ritual, the crystal's destruction, or **Droskar** closing the door on a priest who had begun to look at another one. **The GM has explicitly left this open. Do not pick one.**
 
-**Open thread — still Korroc's.** The man has cooperated past the point of self-interest and been broken further for it. Whether he follows the party down, waits, or walks is unresolved; the last thing said to him was *"We'll be back."*
+**Key moments (Ch 18) — he stayed, and Korroc changed tactics:**
+- **He was still sitting on the steps when they came back up.** Left alone again — a dead tiefling, an open road, nobody watching — he had got up, walked to the steps below the forge, sat down, and waited. He was looking at his hands. Korroc's only instruction was *"Come on then. We're going up."*
+- **He worked the lift honestly** while Caleth and Thane stood at either shoulder openly counting his movements on the controls. He noticed, did not make it hard for them, and said nothing about it.
+- **He chose the tower.** Asked where to go, he looked at the folded banner on Caleth's arm and said: *"The tall tower. If you want them all to see it. There's nothing higher in Drezen."*
+- **Korroc told Irabeth the whole story standing in the courtyard, at volume**, when hands went to hilts at the name Vhane — *"he's the reason the banner's up there and not down a hole under this rock, and I'd have that heard before anyone gets clever."* **Nageru put in the pieces Korroc left out**, including, flatly: *"He was not made to come."*
+- **Irabeth took him into custody** with no roughness. **Korroc's pledge, out loud: *"I'll speak on his behalf when the time comes."*** Irabeth: *"I know you will."* He went where he was put without a word, and did not look back — he was looking at his hands.
+- **⚠ HE TALKED ABOUT THE FORGE FOR FOUR HOURS AND IT IS THE MOST ALIVE ANYONE HAS SEEN HIM.** Sequences, timings, how the heat ran, what it could and could not do, the three times it failed and why he thought so — leaning forward, using his hands, **getting irritated when he was interrupted.** Korroc's read: *he's not confessing, he's talking shop. Nobody has asked him about his work in seventy years except to tell him to do more of it.*
+- **He named the Abyssal manual** that made the cleansing possible, and then sat at a table with Aravashnial and Caleth for days as a prisoner in a borrowed chair, **putting two fingers on the page and saying *no*, flatly, and being right.**
+- **⚠ KORROC STOPPED TRYING TO HAMMER HIM.** On the first morning at the cleansed forge, Korroc took a worn cross-peen off the rack and held it out haft-first. Joran looked at it and did not take it. *"I know. The other thing's gone. Your hands don't do what they did."* — *"They don't."* — and then Korroc's actual retreat: ***"I'm not going to tell you what you are. I've been at that four days and I've had a think about it and I was wrong to. I can't hammer a man into a shape. A smith doesn't make the iron into steel — he gets the heat right and the time right and then he waits, and if there's steel in it, it comes."*** **Joran took the hammer. He did not say thank you. He did not say anything.** He set his feet and began.
+
+**⚠ HIS LOST HEALING IS STILL UNEXPLAINED AND MUST STAY THAT WAY (see above).** Ch 18 did **not** restore it and did **not** diagnose it.
+
+**Open thread — still Korroc's, and the terms have changed.** He is no longer being argued at; he is being given work and left to become whatever he is. Thane volunteered to share the guard duty **before Korroc could ask** — *"He's a Vhane, he's been down there seventy years, and he knows that forge better than the elf does. Somebody who isn't fond of him should be standing there. You do your bit and I'll do mine."* That is as close to a blessing as Thane gives.
+
+---
+
+### Rennick
+**Status:** Living. In Citadel Drezen. **Minor NPC, introduced Ch 18 — kept deliberately small.**
+
+**Role:** A young human paladin of Iomedae, second company. Bandaged forearm.
+
+**Why he exists:** he is the man who **told Korroc his armor had changed.** He had noticed the gold-and-mithral in the courtyard the day before and privately thought Torag-on-the-shield and Iomedae-on-the-chest *didn't match*; the next dawn he found Korroc praying in Torag's ruined chapel with the Father's hammer and anvil on the breastplate, and stood there a while working out whether to say anything. *"Wasn't that Iomedae's mark? Sir."*
+
+**What he did next:** got handed a bucket. Korroc, on the strength of a paladin of another god standing politely in a dwarven chapel at dawn: *"How are you with a bucket?"* He turned up again on the second evening with **two friends and a barrel of clean water** and did not make anything of it.
+
+**⚠ He is a thread, not a character yet.** He is the first named face of the thing the chapter closes on — two shrines on two sides of one courtyard being scrubbed by two sets of hands, with nobody having given the order. Use him again or don't; he does not need a backstory.
 
 ---
 
@@ -318,12 +357,24 @@ The real Maranse Delaskru is a **famous swashbuckler who disappeared about two y
 ---
 
 ### Eustoyriax
-**Status:** Living (presumed). Off-screen. **Now the most important named enemy remaining below Drezen.**
+**Status:** **DEAD — destroyed in Ch 18**, in the chamber past the marilith pit where the Sword of Valor was kept. Killed by Nageru, who came down on it with both fists the instant the shattered crystal expelled it from Thane's body.
+
+**⚠ How the fight actually went — it was the hardest single enemy of the campaign so far:**
+- **It opened by attacking Korroc's soul before it had a shape at all** — reached past plate, skin, meat and bone, took hold of the thing underneath and *pulled*. Korroc went to one knee and held on the ancestor-stone. *"That went deep. It tried to take my soul."*
+- **It was barely corporeal.** Nageru's kicks landed; his punches went through. Physical weapons found it roughly half the time.
+- **It teleported constantly** and could not be pinned until **Korroc anchored it** with a green ray — *"I've anchored it! It's not going anywhere now! It's stuck in this room with us!"*
+- **It tried to draw Nageru's soul out of him from three feet away** and Nageru simply declined: *"Not today."*
+- **It brought two shadows out of the walls** — one emerged *through* one of the fake crystals — which fought alongside it until Caleth, Thane and Korroc destroyed them.
+- **Its claws carried cold**, which hit Korroc's Elemental Imbalance vulnerability hard.
+- **⚠ IT POSSESSED THANE.** Cornered and failing, it came apart into smoke and poured itself into Thane's mouth, nose, ears and eyes, and stood him up wearing his face wrong. It had all of Thane's craft and none of his restraint. See `characters/thane.md`.
+- **The counter was the crystal, not the body.** Caleth worked out that Thane's *soul* was held in the seventh crystal and that destroying it would break the hold. He was right. Radiance cracked it; **Korroc's adamantine warhammer shattered it in two blows** and the demon was violently expelled.
+
+**Role (historical):** A **shadow demon**; commander of the force that destroyed Lord Axilar Trezbot's legion in the Fourth Crusade and accepted **Nurah's** surrender, sending her to Raliscrad to be processed (Ch 14 confession). A named rung on the Templar ladder above her and below Minagho.
 
 **Role:** A **shadow demon**; commander of the force that destroyed Lord Axilar Trezbot's legion in the Fourth Crusade and accepted **Nurah's** surrender, sending her to Raliscrad to be processed (Ch 14 confession). A named rung on the Templar ladder above her and below Minagho.
 
 **CONFIRMED (Ch 17 — Joran Vhane and Staunton's journal, independently):**
-- **He is the keeper of the Sword of Valor.** Aponavicius gave him one responsibility and that is it. Staunton: *"The shadow seems pleased with the assignment. I do not envy anyone foolish enough to try taking it from him."*
+- **He was the keeper of the Sword of Valor** — and he kept it, until Ch 18, in a heap on a marble slab in a room where light did not work. Aponavicius gave him one responsibility and that is it. Staunton: *"The shadow seems pleased with the assignment. I do not envy anyone foolish enough to try taking it from him."*
 - He is the **courier from the Ivory Sanctum** — he brought Staunton the five vials of Nahyndrian elixir, and Staunton designated him to receive any further "gifts" so as never to deal with Xanthir Vang again.
 - **He once wore the face of a crusader named Maranse** — *"The shadow arrived wearing a crusader named Maranse. An amusing disguise, though apparently not amusing enough to save Maranse once Kiranda received him."* This is the party's written proof that the man they freed in Ch 16 was never a man, and that a real Maranse Delaskru existed and was killed.
 - **Joran Vhane has never met him** and has never been past the forge.
@@ -355,11 +406,15 @@ The real Maranse Delaskru is a **famous swashbuckler who disappeared about two y
 ---
 
 ### Idrian Vosner
-**Status:** Alive, badly hurt, **left hidden in Nul's coffin chamber below Drezen** with a waterskin and his own dagger, behind a secret door pulled shut on him. Korroc: *"Stay here. We'll be back."*
+**Status:** **Alive and recovered from the dungeon (Ch 18).** Under the crusade's surgeons in Citadel Drezen.
 
-**Role:** A crusader found shackled in the vampire's library, being used as a blood source. Gave his name weakly under Korroc's hands and drank a healing potion a swallow at a time. **He could not stand, let alone walk out of a citadel with a battle in it.**
+**Role:** A crusader found shackled in the vampire's library, being used as a blood source. Gave his name weakly under Korroc's hands and drank a healing potion a swallow at a time. **He could not stand, let alone walk out of a citadel with a battle in it** — so he was left hidden in Nul's coffin chamber behind a secret door with a waterskin and his own dagger. Korroc: *"Stay here. We'll be back."*
 
-**⚠ OUTSTANDING OBLIGATION.** The party owes him a return trip. The safest room in that dungeon was a vampire's bedroom because it was the only one that locked from the inside and nothing knew about it. **Do not forget he is down there.**
+**⚠ THE DEBT WAS PAID, AND IT MATTERS WHO PAID IT.** On the evening Drezen fell, with all four of them collapsed against a wall and Nageru already asleep sitting upright, **Thane stood back up and said the name.** He would not sit down. He refused to wake Caleth or Nageru — *"Two's enough. And they've earned it"* — and he and Korroc went back down through a fortress that was still not entirely taken, with a stretcher and two volunteers who did not ask why.
+
+It took an hour and a half. **Nobody else on that rock knew the room existed** — the only reason he was findable at all is that four people remembered a door. Korroc had to say his own name twice before Vosner would put the dagger down. **He wept when they came in**, which Korroc has no intention of repeating to anyone. Korroc laid hands on him going up the first flight and again on the third.
+
+**Available beat:** he is a living crusader who owes these four his life and has not yet had a conversation with any of them while conscious and safe.
 
 ---
 
@@ -673,7 +728,14 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
 - **Ch 13:** Let the bridge-or-cemetery argument burn down to coals, then called the vote (*"Enough. We vote."*). Heard the four's blood-soaked report standing, asked the right questions in the right order, and had the army moving before the telling was done — by evening the Crusade stood camped at the Ahari's south edge with engineers shoring the span
 
 - **Ch 14:** Came through the tent-row "like a portcullis dropping" when the saboteur was taken — *"What is going on in my camp."* Ran the interrogation, named what Nurah had betrayed (*"You were sent to us by the Queen. By Galfrey herself"*), and made the hard practical call: **no men could be spared to send the prisoner back mid-assault**, so Nurah would be held under guard, components confiscated and **mouth bound** — because Irabeth had watched her cast and knew **she sings to do it.** *"You'll not sing your way out of my camp, advisor."*
-- **Ch 14–16:** Commanding the army up the Ahari and into Drezen while the four clear the citadel from the roof down. As of the end of Ch 16 the crusade appeared to be winning the field below.
+- **Ch 14–17:** Commanding the army up the Ahari and into Drezen while the four clear the citadel from the roof down.
+- **⚠ Ch 18 — SHE TOOK CITADEL DREZEN.** Her wedge was at the worst of the fighting on the gate road when the Banner came down the tower and the demons' escape-roads shut; the shield wall broke into a run and the gates went in within the hour. The four found her afterward standing in the main courtyard **covered in blood, only some of it hers,** helm under one arm and sword still in her fist because she had not got round to putting either down.
+- **Ch 18 — the line, and the timing of it.** She looked at Korroc's gold-and-mithral and grinned: ***"That mark looks good on you, Korroc. You sure you're not converting?"*** *(⚠ She said this the afternoon **before** the sunburst became Torag's hammer and anvil. The joke has a different weight now and nobody has re-litigated it on the page — an available beat.)*
+- **Ch 18 — Joran Vhane.** Heard the whole story out standing in the courtyard, from Korroc with Nageru filling in, then made the call in one sentence: *"He'll need to be taken into custody."* Took **Korroc's pledge to speak for him** without argument — *"I know you will."* Two fingers, two crusaders, no roughness.
+- **Ch 18 — the standing order.** On learning four Nahyndrian elixirs were unaccounted for: *"Every room. Every crate. Anything in glass gets brought to me and nobody drinks anything they find in this fortress, and I want that said out loud to every company by noon."*
+- **Ch 18 — she let Korroc log the whisper as unresolved.** He put both fists on the war table and refused to let it be written down as finished. She held his eye and said ***"Noted, and not resolved,"*** and the clerk wrote it. **She does not tidy away what she cannot explain.**
+- **Ch 18 — she ended the forge argument without knowing it existed.** *"We need to see if we can turn that."* See `lore/items.md` → The Purity Forge.
+- **Ch 18 — she is the one who woke them for dinner**, nudging each of the four with her boot where they had collapsed against a wall. *"Hey. Dinner's on. Get some food in you."*
 
 **Relationship anchor:** The company's field commander. Her bluntness and Korroc's stoicism form a natural mutual respect. She leads by being where the worst of it is.
 

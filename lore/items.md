@@ -46,19 +46,33 @@ Items of importance to the campaign — magical, plot-relevant, or symbolic. Upd
 
 ---
 
-## The Gold-and-Mithral Armor of Iomedae (Korroc's)
+## The Armor of the Pious (Korroc's) *(was: The Gold-and-Mithral Armor of Iomedae)*
+
+> **⚠ RENAMED Ch 18 — the sunburst is gone.** It bore Iomedae's mark for as long as Korroc had worn it and it does not any more. Calling it "the Armor of Iomedae" is now wrong. See **THE ANSWER** below.
 
 **Origin:** Unknown. Found in Chapter 15 in a hidden treasury deep inside Citadel Drezen, standing on one of four statues flanking the room — **the only magical thing in the chamber**, per Caleth's sight.
 
 **Description:** **Gold plated over mithral**, the two metals married by someone who knew exactly what they were doing, with **the sunburst sigil of Iomedae etched deep, clean, and reverent** into the breastplate. Caleth's iconographer's eye found no forgery in the work at all: a genuinely holy object, made by someone who loved both the metal and the goddess, and ending up in a demon's hoard like a candle in a sewer.
 
-**The mystery — DO NOT RESOLVE WITHOUT THE GM:** the suit **settled onto Korroc as though it had been forged for him and no one else.** Every buckle sat true; a breastplate that had hung loose on a statue fit his barrel chest as if a master had measured him for it. Korroc took it over Thane's warning (*"Could be cursed. It's sitting in a demon's trophy room, cousin. Everything in here's a mouth."*) on the plainest possible reasoning — *"It feels right"* — and then said the thing that matters: ***"There's something about this armor. Something I feel like I should know. And I can't quite get it."***
+**The mystery (Ch 15–17) — NOW ANSWERED, see below:** the suit **settled onto Korroc as though it had been forged for him and no one else.** Every buckle sat true; a breastplate that had hung loose on a statue fit his barrel chest as if a master had measured him for it. Korroc took it over Thane's warning (*"Could be cursed. It's sitting in a demon's trophy room, cousin. Everything in here's a mouth."*) on the plainest possible reasoning — *"It feels right"* — and then said the thing that matters: ***"There's something about this armor. Something I feel like I should know. And I can't quite get it."***
 
 Caleth privately recognized that ache as his own — the mark he has carried since birth, the dragon that knew him in a crowd — and said nothing. *He's carrying one too. His shaped like armor. Mine shaped like a scale I've never spent.*
 
 **Ch 16:** it does not creak (his old plate always did), and **Staunton Vhane's killing glaive-thrust went through it and was stopped inside him** — by the Stonelord's ancestor-stone, *not* by the armor. Do not credit the save to the armor in prose.
 
-**Symbolic significance:** Korroc now wears **Torag's hammer-and-anvil on his shield and Iomedae's sunburst on his chest** — the two gods he thanked together over the adamantine warhammer in Ch 7, now carried openly and read by strangers at a glance (Ch 16, the man in the chains). A dwarf of the Father who has been claimed, twice, by the Inheritor.
+**⚠ THE ANSWER (Ch 18) — IT IS ARMOR OF THE PIOUS.**
+
+At dawn in Torag's ruined chapel, after prayers, a young paladin of Iomedae named **Rennick** pointed at Korroc's chest and asked why the mark had changed — *"Wasn't that Iomedae's? I remember thinking it didn't match."* **Torag's hammer and anvil were cut deep into the gold over Korroc's heart, where the sunburst had been.** Not scratched over the old mark. Not filed and re-struck. **No ghost of a sunburst underneath** — the gold simply has the hammer and anvil in it now, as though it always had.
+
+**What it is:** *Armor of the pious* — very old craft. **It does not belong to a god. It belongs to whoever is inside it.** It reads the wearer and takes their mark, and it does not ask leave first. Put a Sarenite in it and it goes Sarenrae's; put a Shelynite in it and it puts up the bird.
+
+**What "the thing he should know" actually was:** **smith-lore, not a hidden past.** It came back to him whole — a bench, a low ceiling, quench-oil and coal smoke, the old smith who ran the shop where he finished his apprenticeship, turning a piece of scrap over and over while he talked. Korroc was twenty-two and thought about girls through most of it.
+
+**⚠ WHAT IS STILL OPEN — DO NOT RESOLVE:** **whose suit it was**, who made it, how it came to be standing on a statue in a demon's treasury, and **whether anyone Korroc knew ever saw it.** The armor answers *why it fits*; it answers nothing else. There is no lost ancestor, no chain of intention reaching seventy years down to put the right dwarf in the right harness — **it fit him because it decided to**, after four days of sitting on his shoulders taking his measure.
+
+**How Korroc holds it:** *not* the same as the shield. Iomedae *gave* him the shield's sigil as a courtesy, and he knelt in the mud and wept and thanked her. **Nobody gave him this.** The suit came to its own conclusion and said so, and nobody hammered it — which becomes the thesis of his whole chapter: *you can't make a thing be what it is; you can only get out of the way and let it say so.* He applies it directly to Joran Vhane the same week.
+
+**Symbolic significance (REVISED):** Korroc previously wore **Torag on the shield and Iomedae on the chest** — a dwarf of the Father claimed twice by the Inheritor, and strangers read both at a glance (Ch 16, the man in the chains; Ch 18, Irabeth's *"That mark looks good on you, Korroc. You sure you're not converting?"* — said the afternoon **before** the change). **From Ch 18 forward he wears Torag on both.** The two-gods reading is over; write him as the Father's, on shield and chest alike.
 
 ---
 
@@ -66,19 +80,33 @@ Caleth privately recognized that ache as his own — the mark he has carried sin
 
 **What it is:** The banner of the Fifth Crusade's founding — the objective Queen Galfrey sent the company to Drezen to reclaim (Ch 9).
 
-**Status: NOT YET RECOVERED. The one in the citadel's upper treasury is a decoy** — a sword-before-a-sunburst worked in once-fine thread, hanging from a rod in a statue's hands, and **Caleth's sight read it as entirely ordinary** (Ch 15). Korroc's read: *"This is a decoy. Or just what they left when they took the real one down."*
+**⚠ STATUS: RECOVERED (Ch 18). THE OBJECTIVE OF BOOK 2 IS COMPLETE.**
 
-**Where the true one is:** **below.** Two independent sources agree — **Jestak** (Ch 14: *"I know the Banner is down below"*) and **Joran Vhane** (Ch 16), who agreed to tell the party its location as the first act of his surrender. It is in the **new chambers beneath the citadel — a dungeon that appears on no dwarven map**, including the Stonevein blueprints.
+**How it was found:** not hanging, not framed, not guarded. It was lying **crumpled in a heap on a low marble slab**, in the seventh alcove of a chamber where light did not work, between two demon statues — thrown down like a rag on a bench. After two decoys, the real one was the piece of cloth nobody was invited to look at.
+
+**Caleth could not read it.** His sight returned *nothing* — and he named the distinction himself, which is why he picked it up: *"Upstairs I looked at it and saw a banner with no more magic in it than a bedsheet, and it told me the truth — it was a bedsheet. This tells me nothing. There's a difference between an empty room and a locked door."*
+
+**What happened when he touched it:** a silent white-gold detonation that came *down* rather than up (Korroc's contrast with the wardstone). It healed the room, blew **all six fake crystals apart at once**, and **shredded the manufactured darkness out of the chamber entirely.** The cloth came up unfaded after seventy years in a demon's trophy room.
+
+**⚠ AND THE WHISPERING STOPPED.** In the same moment. **Do not treat this as an explanation** — nobody in the party will claim the banner did it, and Korroc says so out loud: *"I'll not pretend I understand it. I'll take it. But I'll not pretend I understand it."* See the whisper entry in `memory/whisper-below-drezen.md`.
+
+**What it did to the battle (Ch 18):** Caleth unfurled it from the **tallest tower in Citadel Drezen.** The cheer came off the field like weather — and **every demonic escape-road in the city closed at once.** Demons that tried to teleport out simply could not, and stood there while the crusade walked into them. The shield wall stopped grinding and started running; the gates went in within the hour. **Seventy-five years of demon occupation ended in an afternoon.** This is the Banner's actual power and it should be treated as enormous.
+
+**Effect on Radiance:** at the moment the Banner flew, **Radiance flared brighter than it ever has** — one hard pulse Korroc felt on his face like sun through cloud — and **did not fully dim afterward.** Yaniel's blade came home to the gates where she fell, with the banner she died under. It has an opinion about that.
+
+**Where the true one had been:** the **new chambers beneath the citadel — a dungeon on no dwarven map**, including the Stonevein blueprints. Two independent sources had said so: **Jestak** (Ch 14) and **Joran Vhane** (Ch 16), who gave up the location as the first act of his surrender. Both were telling the truth.
 
 **THE SECOND DECOY (Ch 17) — the crueler one.** At the end of a hall thirty feet high, lit by pulsing red lichen, lined with alcoves of **Deskari mutilating six gods** (Iomedae, Sarenrae, Torag, Desna, Irori, Shelyn), the Banner hangs in a massive iron framework: red cloth, Iomedae's sunburst in gold. **The whole room is a trap.** Thane felt it, could not locate the trigger (*"The whole damn room"*), worked the flagstones on his knees, failed, and set it off. Fire erupted from every mural, gathered into six burning shapes of the demon lord, and slammed inward. And then **the cloth went black and the sunburst reformed into Deskari's mark** in front of them.
 
 It is a staged humiliation, built and waited on for years, for the exact moment crusaders finally reached the bottom. Caleth's read: *"It's a joke. It's an extremely expensive joke."*
 
-**Who has the real one:** **Eustoyriax**, a shadow demon, per both Joran Vhane and Staunton's journal. Aponavicius gave him one job. Staunton: *"I do not envy anyone foolish enough to try taking it from him."*
+**Who had the real one:** **Eustoyriax**, a shadow demon, per both Joran Vhane and Staunton's journal. Aponavicius gave him one job. Staunton: *"I do not envy anyone foolish enough to try taking it from him."* **He is dead (Ch 18)** — and Staunton was not wrong about the cost: taking it required Korroc anchoring the thing in the room, Thane being possessed and used against his own cousin, and a warhammer through the crystal holding Thane's soul.
 
 **Why it still exists at all:** Staunton repeatedly begged Aponavicius to let the corruption forge remake the Banner in Baphomet's image, and **she refused every time** — *"some prizes are more valuable intact."* He thought she lacked imagination. Her vanity is the only reason the Sword of Valor was not destroyed seventy years ago.
 
-**Route as of end of Ch 17:** past the decoy, up a rope to a seam **twenty feet up a blank wall** behind the Deskari shrine, through one secret door, down a short passage — to **another secret door.**
+**The full route it took to reach it:** past the upper-treasury decoy (Ch 15), down the unmapped stair through the prison rows and the forge (Ch 17), past the black-banner decoy in the hall of murdered gods, up a rope to a seam **twenty feet up a blank wall** behind the Deskari shrine, through one secret door, down a short passage, through **a second secret door**, across a circular pit under the idol of Aponavicius, and into the room where light did not work (Ch 18).
+
+**Current custody:** the crusade's. It flies over Citadel Drezen.
 
 ---
 
@@ -398,15 +426,27 @@ It is a staged humiliation, built and waited on for years, for the exact moment 
 
 ---
 
-## The Corruption Forge
+## The Purity Forge *(formerly the Corruption Forge — cleansed Ch 18)*
+
+> **⚠ NAME NOTE (file pass, 2026-08-23):** Aravashnial renamed it after the cleansing — *"One should name a thing when one has changed what it is. Otherwise people go on calling it by the old name, and the old name is a kind of gravity."* **Use "the Purity Forge" for anything from Ch 18 forward; "the corruption forge" only when referring to what it was.**
 
 **What it is:** A forge of black and red metal squatting in a pit below Citadel Drezen, in a chamber whose walls glow dull red and whose floor gives off vapor. **Salamanders** tend the coals and have done for decades. A caged lift on chains and pulleys runs from a terrace above, across the pit, to double doors on the far side; the terrace is oddly cool while the pit is not. Access is through a hidden wall-panel south of the stair-room — **you cannot reach the deep chambers without passing through it.**
 
 **What it does:** strips the holiness out of captured relics and makes them unholy. **Joran Vhane** has worked it for forty years and is, per Staunton, the only one who understands it. His own description: *"I don't make. I change."*
 
-**⚠ THE OPEN QUESTION:** Korroc asked Joran whether corruption can be reversed. Joran thought a long time and said **"I don't know."** That single answer is the whole live argument between Caleth (keep it — a hundred families' stolen steel could be restored) and Thane (destroy it — *"It will not lead to good things"*). **The party interrupted itself and never settled it. Do not settle it without the GM.**
+**⚠ THE OPEN QUESTION IS STILL OPEN.** Korroc asked Joran whether corruption can be **reversed**. Joran thought a long time and said **"I don't know."** **Cleansing the forge did NOT answer this.** The forge has been made honest; whether it can run the ruin *backwards* and give a hundred families their stolen steel back is a completely separate question that nobody has tested. **Do not resolve without the GM.**
 
-**Physical state:** intact and burning as of the end of Ch 17. Nobody has laid a hand on it.
+**⚠ AND THE ARGUMENT WAS NEVER WON.** Caleth wanted it kept (the stolen steel could be restored); Thane wanted it destroyed (*"It will not lead to good things"*). They were cut off mid-sentence in Ch 17 and **still had not resumed four days later** — Korroc's read is that both were waiting to reach the argument first with someone who outranked the other. Then **Irabeth walked in from outside and took the decision away from both of them without ever knowing the argument existed**: *"We need to see if we can turn that."* Thane's answer was **"You're the commander"** — which is not agreement, and everyone at the table who knew him heard it. **Neither has conceded. The fracture is still there, now with a grievance attached.**
+
+**THE CLEANSING (Ch 18) — four days.** Worked from **an Abyssal manual** Joran told them about (*"a book that spells out its secrets, how it was created and how it can be used"*) — readable only by Aravashnial, Caleth, or Joran, which put the three of them at one table arguing technique for days. Joran was the most alive anyone had seen him: not confessing, **talking shop**, leaning forward, getting irritated at interruptions, and being right.
+
+**Arcane, not holy — and this was a real decision.** Aravashnial's ruling: consecration would *drive the evil out* and leave the design intact, but the forge is *"a machine that was built wrong on purpose, in a language, by someone who knew what they were doing"* and had to be argued with in its own grammar. *"You do not shout a bad weld into a good one, Korroc Stonevein. You cut it out and you lay it in again correctly."* **Korroc wanted it done by holy hands — he and Thane are the two most likely to stand at that anvil someday — weighed it honestly, and stood aside.** *"I want it redeemed. I don't get to want it redeemed and also want it redeemed by me."*
+
+**Timeline of the cleansing:** by **day two** the evil and chaos pulsing off the metal was gone (Korroc felt it go from the rail before anyone below noticed; Aravashnial: *"That's the surface. That's the least of it."*). By **day four** it was finished.
+
+**Physical state now:** still black and red — the metal is the metal and will not change. But inert, patient, dumb. Korroc put his bare palm on the flank of it without asking permission and it was **only warm.** His verdict: ***"It's a forge. That's all. It's a forge."***
+
+**Who works it:** **Joran Vhane**, under guard, with **Korroc and Thane** — Korroc trying to redeem the man as the forge was redeemed, Thane there to watch him. See `characters/npcs.md` → Joran Vhane.
 
 ---
 

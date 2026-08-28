@@ -5,6 +5,6 @@
 - [Aravashnial is a Riftwarden elder (SECRET)](aravashniel-riftwarden.md) — same order as Caleth's parents; Caleth knows as of Ch 4; rest of party does NOT
 - [Pre-session-4 character file pass](session-4-prep.md) — most archetypes and corrections landed during the May file pass; new canon may still emerge
 - [Chapter 1 origin and the accidental song-doubling](chapter-1-origin.md) — Ch 1 predates the POV-per-character + song-per-POV idea; its title shares Korroc's song name on purpose now
-- [The whisper below Drezen (Ch 17)](whisper-below-drezen.md) — it is NOT Chorussina's ritual; it survived her, her demons, and the crystal. Source unknown. Do not explain it.
-- [Joran Vhane's lost healing (Ch 17)](joran-vhane-lost-healing.md) — claw, ritual, crystal, or Droskar; the GM left all four live. Do not pick one.
+- [The whisper below Drezen (Ch 17–18)](whisper-below-drezen.md) — NOT Chorussina's ritual; it survived her, her demons, and the crystal. **STOPPED in Ch 18 when the Banner went up — that is a coincidence in time, not a cause.** Source still unknown. Do not explain it.
+- [Joran Vhane's lost healing (Ch 17)](joran-vhane-lost-healing.md) — claw, ritual, crystal, or Droskar; the GM left all four live. Do not pick one. *(Ch 18 neither restored nor diagnosed it; he now works the Purity Forge in custody.)*
 - [Blog page Campaign Arc Status section](webpage-session-section.md) — the `{/* SESSION I: CHARACTER PROGRESS */}` block in games repo's wrath/page.tsx is a current-state window. REPLACE per session, never accumulate. Design pattern + update process documented.
