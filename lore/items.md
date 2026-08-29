@@ -38,6 +38,10 @@ Items of importance to the campaign — magical, plot-relevant, or symbolic. Upd
 
 **Recent history:** Stolen from the Kenabres museum approximately two months before the campaign began by Templars of the Ivory Labyrinth, who intended to **corrupt** it for their own purposes per the S. V. letter.
 
+**⚠ A SECOND WORKING WAS LAID INTO IT (Interlude 2).** Caleth brought Radiance to the Purity Forge and asked Thane to build something into it. **Thane cut the physical channels; Caleth's own casting could not bind them** — three attempts, the third throwing the working back out with a crack that put Caleth back half a step. Thane's diagnosis, in doorkeeper's terms: *"It's got a latch already. You're asking it to let you fit another, and it's holding the frame shut while you do it."*
+- **It took Aravashnial to seat it.** The elf found Thane's third binding point inverted (*"you are thinking like a smith"* / *"I* am *a smith"* / *"Yes. I had noticed"*), they settled it in six chalk lines, and then the elf laid the working in **like a weld — pressure, heat, patience, no force** — while Thane adjusted the steel under him. Radiance glowed deep and steady rather than flaring, and when Caleth picked it up it brightened once and **accepted him.**
+- **⚠ WHAT THE WORKING ACTUALLY DOES IS NOT ESTABLISHED.** The prose deliberately keeps Caleth's explanation off the page (*"Caleth told him"*). **This needs the GM to specify before anything references it.**
+
 **Current custody:** **Caleth.** The blade **chose him in Chapter 6** — it woke in his hand at the Defender's Heart and reshaped into a **glaive**, and has not changed back for him since. (It takes a different form for whoever holds it: a longsword for Nageru, a warhammer for Korroc, a glaive for Caleth — each sized to the wielder's reach.) Korroc returned it to him with plain reasoning: the blade keeps finding your hand. Caleth has carried and fought with it since Chapter 6, its holy edge blazing white on a smite. **No longer with Thane.**
 
 **Session 10 — Powered up.** When Caleth consecrated the Chapel of Shelyn (clearing Kabriri's desecration and casting a consecration scroll), **Radiance flared with light and grew stronger** — heavier in the right way, as if the restored chapel had put something of itself into the weapon. Exact mechanical upgrade TBD with GM, but the blade is narratively and magically more potent now.
@@ -69,6 +73,8 @@ At dawn in Torag's ruined chapel, after prayers, a young paladin of Iomedae name
 **What "the thing he should know" actually was:** **smith-lore, not a hidden past.** It came back to him whole — a bench, a low ceiling, quench-oil and coal smoke, the old smith who ran the shop where he finished his apprenticeship, turning a piece of scrap over and over while he talked. Korroc was twenty-two and thought about girls through most of it.
 
 **⚠ WHAT IS STILL OPEN — DO NOT RESOLVE:** **whose suit it was**, who made it, how it came to be standing on a statue in a demon's treasury, and **whether anyone Korroc knew ever saw it.** The armor answers *why it fits*; it answers nothing else. There is no lost ancestor, no chain of intention reaching seventy years down to put the right dwarf in the right harness — **it fit him because it decided to**, after four days of sitting on his shoulders taking his measure.
+
+**⚠ HE IS MODIFYING IT (Interlude 2).** At the Purity Forge he has the breastplate and shoulder pieces off the stand and is **opening one of the old enchantment channels to make room for something he intends to add.** He works it slower than the metal requires — *"faintly like trimming a friend's beard,"* the way you go carefully with a thing that might have an opinion. **What he is adding is not established. This needs the GM.**
 
 **How Korroc holds it:** *not* the same as the shield. Iomedae *gave* him the shield's sigil as a courtesy, and he knelt in the mud and wept and thanked her. **Nobody gave him this.** The suit came to its own conclusion and said so, and nobody hammered it — which becomes the thesis of his whole chapter: *you can't make a thing be what it is; you can only get out of the way and let it say so.* He applies it directly to Joran Vhane the same week.
 
@@ -445,6 +451,10 @@ It is a staged humiliation, built and waited on for years, for the exact moment 
 **Timeline of the cleansing:** by **day two** the evil and chaos pulsing off the metal was gone (Korroc felt it go from the rail before anyone below noticed; Aravashnial: *"That's the surface. That's the least of it."*). By **day four** it was finished.
 
 **Physical state now:** still black and red — the metal is the metal and will not change. But inert, patient, dumb. Korroc put his bare palm on the flank of it without asking permission and it was **only warm.** His verdict: ***"It's a forge. That's all. It's a forge."***
+
+**⚠ IT REFUSES PEOPLE — AND KILLS SOME OF THEM (Interlude 2).** Joran Vhane, under questioning: ***"The forge doesn't accept everyone."*** Others were put to it before him. Some could not make it work. **Some did not survive.** Staunton sent for his brother specifically because there were plenty of smiths in Drezen and *"not for that forge."*
+- **How Joran was tested:** they put **a holy sword taken from a crusader** in front of him and told him to work it. He did. **He has no idea why it took him and not the others** — *"If I knew that, lad, I'd have charged them more."*
+- **⚠ NOBODY HAS ASKED WHETHER IT STILL CHOOSES.** The cleansing changed what the forge *does.* Whether it changed what it *accepts* is untested and unraised. Korroc and Thane have both been working it daily without incident, and neither has thought about this. **Open. Do not resolve.**
 
 **Who works it:** **Joran Vhane**, under guard, with **Korroc and Thane** — Korroc trying to redeem the man as the forge was redeemed, Thane there to watch him. See `characters/npcs.md` → Joran Vhane.
 

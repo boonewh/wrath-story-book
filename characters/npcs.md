@@ -58,7 +58,12 @@
   - **He ruled arcane over holy, to a paladin's face, and made the case in the paladin's own language:** consecration would *drive the evil out* and leave the design intact, but the forge is *"a machine that was built wrong on purpose, in a language, by someone who knew what they were doing."* *"You do not shout a bad weld into a good one, Korroc Stonevein. You cut it out and you lay it in again correctly."*
   - **He named it the Purity Forge**, swaying with exhaustion and visibly pleased with himself: *"One should name a thing when one has changed what it is. Otherwise people go on calling it by the old name, and the old name is a kind of gravity."*
   - **Voice note:** the zeal the restored sight gave him is at full flood here. He is funny in this chapter — *"That's the surface. That's the least of it. Don't celebrate, fetch me the green case."* Do not lose that register; the dry scholar now has enthusiasm.
-- **⚠ THE "WE SHOULD TALK LATER" CONVERSATION STILL HAS NOT HAPPENED.** Four days at one table with Caleth over an Abyssal manual and it never came up on the page. **Still unresolved. Do not resolve without the GM.**
+- **⚠ THE "WE SHOULD TALK LATER" CONVERSATION FINALLY HAPPENED (Interlude 2).** It took a forge floor with nothing urgent on it. Korroc handed Caleth a low wand in front of him, and **Aravashnial went perfectly still — not surprised. Recognising.** *"Oh."* Then Caleth, a beat later, in a very different voice: *"Oh."*
+  - **He had never forgotten it.** *"I have seen him do this before." / "Aye. On the road." / "I remember"* — said in a way that made plain forgetting was never among the options.
+  - **He made Caleth do it under observation**, insisting only that the process not be altered because he was watching. Then interrogated him: which objects, how much, according to what, does it tire you, does it diminish your casting, can you do it twice. **Caleth's answers were almost entirely *I don't know*,** and the one that interested the elf most was that a second attempt in a day produces *nothing at all.*
+  - **Then it became comedy and Caleth fled up the stairs**, pursued by proposed experiments — recovery interval, partial versus total depletion, arcane versus divine wands, staves, rods. *"That was not permission." / "Excellent."* Nageru: *"You should stop answering him."*
+  - **⚠ WHAT HE ACTUALLY WANTS IS STILL UNSAID.** He asked about *mechanism* for twenty minutes and never once asked the question underneath it. **He knows something and has still not said it. Do not resolve without the GM.**
+- **⚠ Interlude 2 — the name that took the warmth out of him.** Joran named **Xanthir Vang** as master of the Ivory Sanctum. Aravashnial's face barely moved; **his grip on the table edge went white to the knuckle.** He wrote *Ivory Sanctum* and underlined it twice. *(He has personal history there — the worm that walks brought down the Blackwing's upper floors. Let it sit.)*
 
 **Relationship anchor:** A mentor-figure to Caleth — and now, as of Chapter 4, an acknowledged fellow Riftwarden. He knows something about Caleth's past that he will not share. When Caleth has let something slip and pressed carefully, the door shuts every time. *(See Riftwarden note below.)*
 
@@ -274,7 +279,20 @@
 - **He named the Abyssal manual** that made the cleansing possible, and then sat at a table with Aravashnial and Caleth for days as a prisoner in a borrowed chair, **putting two fingers on the page and saying *no*, flatly, and being right.**
 - **⚠ KORROC STOPPED TRYING TO HAMMER HIM.** On the first morning at the cleansed forge, Korroc took a worn cross-peen off the rack and held it out haft-first. Joran looked at it and did not take it. *"I know. The other thing's gone. Your hands don't do what they did."* — *"They don't."* — and then Korroc's actual retreat: ***"I'm not going to tell you what you are. I've been at that four days and I've had a think about it and I was wrong to. I can't hammer a man into a shape. A smith doesn't make the iron into steel — he gets the heat right and the time right and then he waits, and if there's steel in it, it comes."*** **Joran took the hammer. He did not say thank you. He did not say anything.** He set his feet and began.
 
-**⚠ HIS LOST HEALING IS STILL UNEXPLAINED AND MUST STAY THAT WAY (see above).** Ch 18 did **not** restore it and did **not** diagnose it.
+**Key moments (Interlude 2) — the formal reckoning, and a threshold:**
+- **Brought before the council without chains**, two mornings after Irabeth named her officers. Guards either side; wrists free. **He looks smaller above ground** — he fits a forge the way a tool fits a worn hand, and a stone hall in daylight leaves him looking left out in the weather.
+- **He held up under Aron's questioning.** Irabeth never asked the same question twice; **Aron always did** — ten minutes later, half an hour later, different words, different corner of the map. *The words changed. The answers had better not.* **Joran's did not.**
+- **Why he came north at all:** *"My brother needed a smith."* — *"There were smiths in Drezen."* — *"Not for that forge."*
+- **⚠ THE FORGE REFUSED PEOPLE.** *"The forge doesn't accept everyone."* Others tried. Some could not make it work. **Some did not survive.** He was tested on **a holy sword taken from a crusader**, succeeded, and cannot say why: *"If I knew that, lad, I'd have charged them more."*
+- **He gave up the whole elixir account** — see Aponavicius and Staunton Vhane. The three days of his brother's screaming is the most he has ever said about anything, and he said it looking through the wall.
+- ***"I tried spells. Back when Droskar still answered me."*** — placed years before Ch 17's claw. **Do not read this as the cause of his lost healing; it is a separate, older grief.**
+- **⚠ HE ASKED TO VISIT TORAG'S CHAPEL.** Unprompted, at the end of the session, visibly regretting it the instant it left him. Irabeth granted it under permanent escort. **He asked for Korroc by looking at him.**
+- **⚠ AND HE WENT IN CARRYING DROSKAR'S PRAYER BOOK OVER HIS HEART.** He stopped dead at the threshold, took the book out, and said *"He doesn't answer. Hasn't for a while now. I keep carrying it. I don't know why."* He offered Korroc three ways to tell him to get rid of it and got **no** to all three, and then *"Don't put words in the Father's mouth."*
+  - ***"Deskari gave Staunton power. Droskar gave me work. Neither of them gave us anything worth the having."***
+  - ***"I've seen Torag answer you. That's the only reason I'm listening to any of this."***
+  - **Nothing happened when he crossed.** No thunder, no warmth in the stone, no sign of any kind. **Nageru handed him a rag and said "West wall,"** and he knelt down and scrubbed. **Do not make this a conversion. It is a man being given something to do in a room he was afraid of.**
+
+**⚠ HIS LOST HEALING IS STILL UNEXPLAINED AND MUST STAY THAT WAY (see above).** Ch 18 and Interlude 2 did **not** restore it and did **not** diagnose it.
 
 **Open thread — still Korroc's, and the terms have changed.** He is no longer being argued at; he is being given work and left to become whatever he is. Thane volunteered to share the guard duty **before Korroc could ask** — *"He's a Vhane, he's been down there seventy years, and he knows that forge better than the elf does. Somebody who isn't fond of him should be standing there. You do your bit and I'll do mine."* That is as close to a blessing as Thane gives.
 
@@ -394,6 +412,15 @@ The real Maranse Delaskru is a **famous swashbuckler who disappeared about two y
 - **She captured Arueshalae personally** and ordered her held below Drezen pending transfer to a prepared oubliette in the Rasping Rifts. She would not say why the succubus warranted it. When Arueshalae escaped on Staunton's watch, he was terrified enough of her finding out that he hired hunters and an annis hag rather than report it.
 - She was away from Drezen through Chs 14–17. **Nothing says she is staying away.**
 
+**⚠ SHE IS MYTHIC (Interlude 2). THIS IS THE SINGLE MOST IMPORTANT ENEMY FACT IN THE CAMPAIGN RIGHT NOW.**
+
+Joran Vhane, under questioning: **she drank the fifth Nahyndrian elixir, and she survived it.** She waited until Soltengrebbe lived through hers, and then took it herself.
+
+- **She trusted none of it.** Joran: *"Aponavicius didn't trust them. Didn't trust Eustoyriax, didn't trust Vang, didn't trust anything she hadn't put a knife into herself."* She let a dragon, a xacarba, a chimera and a rival's brother test it for her, in that order, and only then drank.
+- **That is a completely different character from Staunton**, who volunteered out of a need to prove himself and screamed for three days. She ran an experiment. **Write her as patient and methodical, not hungry.**
+- **The party has already fought one of the survivors** — Soltengrebbe nearly killed all four of them at the Ahari. Aponavicius took the same draught and commands an army.
+- **They do not know she is mythic in the way they are.** Joran does not have the word; nobody in the room offered him one. Korroc, Caleth and Nageru all recognised the description of what it did to Staunton (*"a door inside him that had always been there"*) and **said nothing aloud.** Keep it that way until someone chooses to say it.
+
 ---
 
 ### Nul
@@ -432,6 +459,12 @@ It took an hour and a half. **Nobody else on that rock knew the room existed** �
 **Nageru named her** off the journal. Thane could not work out how to hold it: his whole understanding of demons is *trespassers, no exceptions*, and nobody carves a lie for ten years.
 
 **⚠ Handle with care.** The party has her name, her prayer, and the fact that she got out. They have never met her. **Do not have her turn up without the GM.**
+
+**Established (Interlude 2 — Joran Vhane under questioning):**
+- **She is a heretic *to the Abyss*.** Sosiel asked "heretic to whom" and got that answer flat. It landed on the whole council table.
+- **Aponavicius captured her and ordered her held** pending a prepared oubliette in the **Rasping Rifts**. Joran did not ask why and was not told. Aravashnial's face at the word *oubliette* told Korroc he did not want it explained.
+- **⚠ SHE HAS LOST ABILITIES.** Staunton believed he could still catch her because she can no longer **teleport** and can no longer go **ethereal**. He sent hunters out into the Wounded Lands on exactly that reasoning. *(Whether the loss is a punishment, a consequence of the heresy, or something she did to herself is unstated. Do not resolve.)*
+- **Staunton was terrified of her escape**, not of her — Drezen was his, she went out of his prison, and he knew what the marilith would do when she learned. He never reported it. Aponavicius marched south without finding out. Joran: *"Didn't work out."*
 
 ---
 
@@ -607,7 +640,9 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
 - **The corruption ledger** — pages of relics unmade at Joran's forge, each marked COMPLETE. Named entries include the **Blade of Saint Edran** (Iomedae), the **Shield of the Dawn Vigil** (Sarenrae), **a Torag breastplate with the markings removed**, a crusader officer's longsword, a dwarven warhammer, and **three Eagle Watch shields.** Closing line: *"They bring their relics to the Worldwound believing holiness makes them untouchable. Everything can be broken."*
 - **He recruited relatives** — *"I have brought cousins into the fold with less effort. **Thurl** needed only direction."* **These are Staunton's own kin, strangers to Korroc and Thane.** Table furniture; do not make it land on the Stoneveins.
 - **On Joran:** contempt, dependence, and something he refused to name. Joran prayed to Droskar through all of it; Staunton found that unbearable. He stationed **three babaus** on his own brother as watchers and they both knew it. *"Months ago, I considered having him killed. There. I have written it."* And: *"But Joran is useful. No one else has his hands. That is reason enough. It must be."*
-- **THE NAHYNDRIAN ELIXIRS.** **Eustoyriax** brought **five vials** from the **Ivory Sanctum** — "distilled power," made from powdered **Nahyndrian crystal**. Aponavicius wanted a test subject; Staunton volunteered. *"Not borrowed. Not granted. **Mine.** Something inside me opened."* The other subjects: **a dragon died screaming**, a **xacarba** lived somewhat longer, and only **Soltengrebbe** survived — as something that "can scarcely be called the same creature." ***"There are four elixirs remaining. I would not drink another. Not yet."* FOUR ARE UNACCOUNTED FOR. This is the mechanical explanation of the enemy's mythic power and a standing plot object.**
+- **THE NAHYNDRIAN ELIXIRS.** **Eustoyriax** brought **five vials** from the **Ivory Sanctum** — "distilled power," made from powdered **Nahyndrian crystal**. Aponavicius wanted a test subject; Staunton volunteered. *"Not borrowed. Not granted. **Mine.** Something inside me opened."* The other subjects: **a dragon died screaming**, a **xacarba** lived somewhat longer, and only **Soltengrebbe** survived — as something that "can scarcely be called the same creature." ***"There are four elixirs remaining. I would not drink another. Not yet."***
+  - **⚠ RESOLVED (Interlude 2) — ALL FIVE ARE ACCOUNTED FOR. NONE ARE LOOSE.** Joran Vhane gave the full ledger under questioning: **Staunton** (survived), **a dragon** (died — *"tore itself open"*), **a xacarba** (died — *"lasted longer"*; Aron asked for detail and Joran declined to give it), **Soltengrebbe** (survived), and **Aponavicius** (survived). The hunt for four loose vials is over. **What replaces it is worse: the marilith is mythic.**
+  - **What the elixir does, in Joran's words:** *"the draught could wake something in a person. Power that was already there. Hidden."* Then three days of fever, locked muscles, and screaming past the end of his voice — **no healing, restoration or spell touched it, because it was not a sickness.** Then: *"He woke."* Not recovered. **Woke.**
 - **Xanthir Vang** — master of the regional Templars and the Blackflame Adepts; see his entry.
 - **Eustoyriax guards the Sword of Valor** — see his entry.
 - **Arueshalae** — see her entry.
@@ -737,6 +772,10 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
 - **Ch 18 — the standing order.** On learning four Nahyndrian elixirs were unaccounted for: *"Every room. Every crate. Anything in glass gets brought to me and nobody drinks anything they find in this fortress, and I want that said out loud to every company by noon."*
 - **Ch 18 — she let Korroc log the whisper as unresolved.** He put both fists on the war table and refused to let it be written down as finished. She held his eye and said ***"Noted, and not resolved,"*** and the clerk wrote it. **She does not tidy away what she cannot explain.**
 - **Ch 18 — she ended the forge argument without knowing it existed.** *"We need to see if we can turn that."* See `lore/items.md` → The Purity Forge.
+- **⚠ Interlude 2 — SHE BUILT A CITY GOVERNMENT IN ONE MORNING, and opened by admitting she had been wrong.** *"I made a mistake. I thought taking Drezen would be the difficult part."* Five days after the Banner rose, she named **Sosiel High Priest** (of all faiths, *"provided their god isn't actively trying to eat the rest of us"*), **Aron Warden**, **Horgus Treasurer** (over his flat refusal, which she simply ignored), ratified **Anevia as Spymaster**, and charged **Aravashnial** with Drezen's magical defenses *and* with rebuilding the Riftwardens.
+  - **She deliberately gave the four of them nothing.** *"You are not getting offices… I need the four of you able to move."* Her stated reasons were Thane at administrative meetings, Korroc approving requisitions, and Nageru settling a merchants' dispute — *"I could settle it." / "That is what worries me."*
+  - **Korroc closed it with *"Aye, Commander,"* and for once she did not correct him.**
+- **Interlude 2 — she ran Joran Vhane's formal questioning** and never asked the same question twice, leaving the repetition to Aron. Granted his request to enter Torag's chapel under permanent escort, and cut off his *"if you attempt to escape—"* with *"I prefer to finish my own sentences."*
 - **Ch 18 — she is the one who woke them for dinner**, nudging each of the four with her boot where they had collapsed against a wall. *"Hey. Dinner's on. Get some food in you."*
 
 **Relationship anchor:** The company's field commander. Her bluntness and Korroc's stoicism form a natural mutual respect. She leads by being where the worst of it is.
