@@ -487,3 +487,43 @@ Chorussina and three schir were performing a ritual beneath it that she claimed 
 Below Drezen, behind a plush carpet and four walls of well-stocked shelves: **real histories of every crusade going back to the First**, chronicles, campaign records, three separate accounts of Drezen's founding, and a shelf of tagged scroll-cases. Something down there read steadily for years about the people it was eating.
 
 **The party took the four oldest volumes and the scrolls and left the rest.** The room is intact and Caleth has not been let near it properly. **Idrian Vosner is hidden in the coffin chamber behind its secret door.**
+
+---
+
+## Korroc's Returning Throwing Axe *(new, Ch 19)*
+
+A magic throwing axe Korroc turned up in Citadel Drezen's stores in the weeks after the fortress fell, and was quietly pleased about for a week before he got to use it. **It returns to his hand after a throw.** Its first real outing was across fifty feet of lava chasm at the shachath in Delamere's tomb — a critical hit, and the axe came back turning "as though it had been on a string."
+
+It gives Korroc something he has never had: **a ranged option that is his own craft rather than a spell.** Worth remembering in fights that separate him from what he wants to hit. *(Distinct from the **adamantine battleaxe** Caleth threw Nageru in Ch 15, which Nageru still carries and has now used for six vampire spawn.)*
+
+---
+
+## Thane's Punch Dagger *(forged Interlude 2 — first blooded Ch 19)*
+
+Forged by Thane at the Purity Forge in the weeks after Drezen fell: short, broad at the base, tapering hard, with the grip set crosswise so the blade stands forward between his knuckles. No ornament, no filework, not a chamfer that isn't earning its keep. **Joran Vhane checked its balance and told him to take another fraction off the inside of the grip, and Thane did.** It is his **fourth** blade — mother's dagger, father's knife, the wrist sheath, and this.
+
+**First used in anger in Ch 19**, in Delamere's tomb, and the chapter is built so that it matters: Thane spent the whole session at the wrong distance (a shortbow he despises against a flying derakni, then fifty feet of pit). When Caleth finally folded him across, he opened with **mother's blade into the shachath's wing root** and then **stepped straight through into the chest with the punch dagger and drove it in to the grip** — no arc, no wind-up, nothing to see coming. *"That is what it's for."*
+
+**He wiped it afterward**, the first time that blade had ever been wiped, and felt it as a small private occasion. *No Stonevein has ever sheathed a wet blade.*
+
+---
+
+## Radiance — the second working *(Ch 18.5; used Ch 19)*
+
+⚠ **What the working Thane cut and Aravashnial seated actually does has never been stated on the page, and Ch 19 did not state it either.** Keep it that way until the table says otherwise.
+
+**Do not credit the Ch 19 night-march daylight to it.** That was **a wand**, applied by Caleth to the tip of the glaive — flat, ordinary, midsummer-noon daylight in a globe over his head, deliberately visible for six miles. *"I would rather be attacked in the light than ambushed in the dark."*
+
+Radiance's own light continues to have opinions: it has not fully dimmed since the Banner rose over Drezen, and in Delamere's tomb, on the killing smite, **it lit brighter than a river of molten rock.**
+
+---
+
+## Delamere's Grave Goods — LEFT IN PLACE *(Ch 19)*
+
+At the bottom of a 200-foot chasm in the **Weeping Hills**, in a cavern of lava and venting gas, **Delamere's body lies inside a slab of smoky crystal** on a ledge — a woman on her back, hands crossed, about two-thirds visible through the smoke. Visible with her: something at the throat that might be a torc, a band on one finger, and **something laid along her side with the length and taper of a bow.** Thane flagged them: *"She's wearing magic items."*
+
+**The party deliberately left every piece of it untouched**, on Nageru's ruling and with Korroc's and Thane's agreement: *"We are not followers of Erastil. It is not our tomb, and she is not our dead, and there is no one here to ask. Somebody may come who has the right to decide it. It should be them."*
+
+**Also of note: the heat stops near the crystal.** Thane found the boundary by hand — furnace on one side, merely very hot on the other — and dragged Jesker Helton across it. **Nobody established why, and nobody asked.**
+
+⚠ **Open, and deliberately so.** Thane's private conclusion was *"nobody's going to come. Not for years. Maybe never"* — and he found he minded that less than he expected. **Do not have the party go back for it without the table.**

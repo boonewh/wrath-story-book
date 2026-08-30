@@ -79,6 +79,9 @@ Think of it like grain in wood: the grain gives the piece its character and is g
 - **Repetition of established traits.** Don't remind us every chapter that Korroc wears plate. We know. New chapters add new dimensions to existing characters, not restatements.
 - **Overworking the POV voice.** A character's signature register (Nageru's stillness, Thane's tactical reads) should flavor the prose, not dominate every paragraph. Establish it early, then let it become an undercurrent. See *POV Voice Calibration* above.
 - **Backstory dumps.** Backstory enters through specific in-the-moment triggers — a sight, a smell, a phrase — not block infodumps.
+- **British spellings.** This project is written in **American English.** The recurring offender is **`gray`, never `grey`** — check it every time. Also: *color* not colour, *armor* not armour, *honor* not honour, *humor* not humour, *rumor* not rumour, *labor/laborer* not labour/labourer, *civilization* not civilisation, *recognize / apologize / organize / realize* not -ise, *defense* not defence, *center* not centre, *curb* not kerb, *sulfur* not sulphur, *traveled / traveling* not travelled/travelling, *acknowledgment* not acknowledgement. This applies to **everything you write** — chapters, character and lore files, songs, image prompts, and website changelogs alike.
+
+> **NOTE (spelling pass, 2026-08-30):** the rule above was added at the table's request after `grey` and `civilisation` kept surfacing in the prose. **Chapter 19 onward is clean. Chapters 1–18.5 and the older canon files were deliberately left as they are** — roughly ninety instances, mostly `grey` — because published chapters are minimum-touch and some of the rest (songs already rendered in Suno, website changelogs) are records of what happened. Do not sweep them without asking. `Gray Garrison` was already correct everywhere and is not part of this.
 
 ## Specific Tonal Notes
 

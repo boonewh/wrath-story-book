@@ -8,3 +8,8 @@
 - [The whisper below Drezen (Ch 17–18)](whisper-below-drezen.md) — NOT Chorussina's ritual; it survived her, her demons, and the crystal. **STOPPED in Ch 18 when the Banner went up — that is a coincidence in time, not a cause.** Source still unknown. Do not explain it.
 - [Joran Vhane's lost healing (Ch 17)](joran-vhane-lost-healing.md) — claw, ritual, crystal, or Droskar; the GM left all four live. Do not pick one. *(Ch 18 neither restored nor diagnosed it; he now works the Purity Forge in custody.)*
 - [Blog page Campaign Arc Status section](webpage-session-section.md) — the `{/* SESSION I: CHARACTER PROGRESS */}` block in games repo's wrath/page.tsx is a current-state window. REPLACE per session, never accumulate. Design pattern + update process documented.
+- [The fathers survived (Ch 19)](the-fathers-survived.md) — Thorek and Borin were captured, not killed; Staunton arranged the ambush; they dug 20 feet out over a year and vanished into the riverbed. **Where they went is open. Keep it open.**
+- [The Stonevein mothers (Ch 19)](stonevein-mothers-status.md) — **Helja is DEAD** (files said "still living"); **Dagna is ALIVE in Nerosyan** (files said "do not mark her alive or dead"). Drezen was the family's home.
+- [The lost fane of Irori (Ch 19)](fane-of-irori.md) — Sister Lyra's charge to Nageru; its founders "were waiting for something. Or perhaps someone." Unlocated, unresolved — and this is his next POV chapter.
+- [Thane has never said he was possessed](thane-unspoken-possession.md) — Ch 19 put the opening in front of him and he couldn't take it. Do not resolve off-screen.
+

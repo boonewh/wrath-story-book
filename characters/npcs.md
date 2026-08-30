@@ -106,7 +106,9 @@
 ---
 
 ### Klarah
-**Status:** Living. With the party as of Chapter 4. Currently sheltering at Gwerm Manor.
+**Status:** Living. **⚠ IN KENABRES, in the household of Caleth's foster parents (corrected Ch 19).** This entry previously said "sheltering at Gwerm Manor," and CLAUDE.md said she was with the company at camp; both were stale. **Caleth took her to his foster parents, and she has been living with them since.** She wrote to him in Ch 19 — a short letter in a child's hand, badly folded.
+
+**Where she is now (Ch 19):** safe, and visibly settling. She was frightened at first and kept everything she owned close enough that she could gather it quickly; **she has stopped doing that.** Caleth's foster father has invented a supply of small household jobs that apparently require her assistance, and she follows him around asking questions about all of them; she likes being taken to the gate to see the soldiers and the Queen's banners. She asked whether the fall of Drezen meant Caleth was coming home, and was told nobody knew. Her own words on the party: *"I like Korroc. He tells good stories. Thane is funny. Nageru is kind and has a nice smile."* And: *"I'll keep taking care of things here. I'll be good."*
 
 **Role:** Orphaned child, perhaps six or seven years old. Rescued by the party in Chapter 4 from three corrupted Sarenrae knights who had taken her for the demon-slayer-blade folk-legend ritual (sheath a holy sword in the body of a virgin). Her parents were found dead in their nightshirts in the rubble of the family home — they had been asleep when the roof came down. She is now traveling with the company.
 
@@ -870,3 +872,82 @@ These NPCs exist in canon but are not yet on-screen. They are named, motivated, 
 **Role:** Nageru's father. Groundskeeper and artisan at the monastery; crafts and maintains the order's many intricate mechanisms. Elderly but content in his service to Irori.
 
 **Plot relevance:** Same as Elara — off-screen anchor; threat-to-monastery = threat-to-Kaelen. The "many intricate mechanisms" of the Sunken Fist are his life's work; their fate is bound to him.
+
+---
+
+## New in Session 19
+
+### Dagna Stonevein
+**Status:** **Living.** In **Nerosyan.** *(Previously flagged "do not mark her alive or dead" — Ch 19 settles it.)*
+
+**Role:** Korroc's mother, Thane's aunt, and **the last surviving member of the four young dwarves who met in Drezen and became a family** — herself, Helja, Thorek, and Borin. She and Helja knew Drezen's streets before either man did. She is a Fourth Crusade generation dwarf living out the war in Nerosyan, and she intends to come south: *"After seventy-five years, I think it is time I went home."*
+
+**Voice:** Dry, direct, unsentimental in exactly the way both her boys are, and warmer than either of them would admit. Anticipates arguments and closes them in advance (*"before you decide you can simply read his and save yourself the trouble, you cannot"*). Writes in an upright, small hand, bearing down hard on the downstrokes, in one sitting without stopping to think.
+
+**Key facts established (Ch 19):**
+- **She has said "disappeared," never "died," about Thorek and Borin for forty years — and she has been right the entire time. She does not know that yet.** Thane intends to be the one to tell her.
+- Drezen was home, not a posting. She stopped calling the flight from it an evacuation *"because you evacuate when you expect to return."*
+- She wrote to both cousins **separately**, and asked them the same thing from two directions: walk out into Drezen together, find old stone away from the repairs, put their hands on it, and tell the city she remembers it. To Thane she added: *"try not to make fun of him for talking to a wall."*
+- On Thane specifically: he stopped being the boy at her table and became *"another son I worried about."* She worries about both of them **equally** and says so.
+- The line that hit Thane hardest: ***"Your mother should be the one writing this letter."***
+- *"There has been enough Stonevein blood given to that war. I will not willingly give it yours."*
+
+**Relationship anchor:** She is the only living link to the generation the campaign has been excavating for nineteen chapters, and she is a letter-writer rather than a presence. **Do not bring her south without the table.**
+
+---
+
+### Helja Stonevein
+**Status:** **DEAD (established Ch 19).** *(`thane.md` previously said "still living (presumed)." That was wrong.)*
+
+Thane's mother. Fourth Crusade veteran; fought alongside Thorek and came home when he did not. One of the twelve signatories of the reconstructed Drezen blueprints letter. Taught Thane the lockpicking mantra that is also Alseta's liturgy, and gave him his first dagger with *"If you're going to be a knife, son, be a true one."* **The blade Thane wipes after every kill is hers.**
+
+**Order of the losses, per Dagna:** the flight from Drezen, then decades, then the fathers disappeared, and *"eventually your mother was gone too."* **⚠ When and how she died is NOT established. Do not invent it.** Dagna knows and did not put it in a letter.
+
+**She loved Drezen** in a way Dagna never did — could stand in its mud and see everything good about the place, and always believed they would go back.
+
+---
+
+### Jesker Helton
+**Status:** **Living. Rescued (Ch 19).** Traveling back toward Drezen with the party, injured and exhausted, under Korroc's care.
+
+**Role:** A young human cleric of **Erastil**, and the first person in this campaign the party has saved *from* something rather than avenged. He came north out of genuine scholarly interest in the **old Sarkorian worship of Erastil** — the pre-crusade, local shape of it — and set up a small shrine in a house in Drezen's eastern quarter, cleaning most of the block himself.
+
+**What happened:** he was **possessed by a shachath**, progressively, over about a month. The signs everyone noticed and explained away: a consecration that would not take, holy symbols lost and damaged, mud appearing on prayer books, a longbow falling off its pegs mid-sermon and breaking. **He gave the congregation a phrase for it — *"the shrine spent a great many years in demonic hands; a few unquiet echoes are bound to remain"* — and they took it and stopped looking.** Also: encounters that struck parishioners as inappropriately flirtatious and left them feeling unclean afterward without being able to quote a single word; and stretches of black moodiness alternating with brightness. **All of this was a change, not his nature.** He also recently lost his mother's wedding ring, which he wore on a cord, and grieved it for a week. *(⚠ The ring is an unpaid plant. It has not been found or explained.)*
+
+**He desecrated his own shrine** — animal blood, Abyssal blasphemies scratched into every wall at one man's reach with a nail pulled out of the building, the Erastil statue smashed and the pieces smashed again, and *"JUST AS DELAMERE NOW WEEPS TEARS OF FIRE, SO SHALL THOSE WHO FOLLOW GO TO THE PYRE!"* fingered in blood across the altar. He then went to Delamere's tomb in the Weeping Hills and sat on her coffin for five days.
+
+**State at rescue:** armor caked with days of dried vomit, five days of severe heat, cracked ribs, and a sincere, articulate intent to throw himself into a lava river — *"I've only brought shame upon my family, my god, and all the people who loved and trusted me."* Thane read the possession off him first (his heels arguing with his knees) and named it under his breath. Caleth's hold person flushed the demon out.
+
+**⚠ HE STILL RADIATES CHAOTIC EVIL.** Korroc examined him after the fight and ruled it correctly and out loud: **the aura is residue of the possession, not evidence that Jesker embraced anything.** Korroc offered him **atonement** — *"just because a demon has warped your mind doesn't mean you're beyond redemption"* — and Jesker, shaking and silent, nodded. **The atonement has not been performed. Open thread.**
+
+**How to apply:** he is a man who will have to face a congregation whose shrine his own hands wrecked. **Do not have him bounce back.** And note the structural rhyme the chapter is built on: he was ridden and is being offered a road out in public, while **Thane was ridden three weeks earlier and has never told anybody.**
+
+---
+
+### Kamilo Dann *(update)*
+Living, at **Vilareth Ford**. One of the prisoners the party freed from the tiefling camp there in Ch 9; Thane first saw her in a rope pen with her wrists tied. In Ch 19 she recognized them on the road, organized their entire resupply inside an evening (*"Anything for the Queen's heroes"*), and had a horse and two wagons waiting in the morning at an hour Thane had not expected her to be up.
+
+**She gave them the warning, and Thane logged that she had:** demon patrols move through the country west of the ford and come close some weeks, and **there are reports of demons taking up residence in Eagle Rock itself.** Caleth: *"Luck? Do we need luck?"* — *"Anyone heading west needs luck."*
+
+---
+
+### Sister Lyra, Order of Irori
+**Status:** Living, at the **Sunken Fist**. *(Previously listed in `nageru.md` only as one of "Masters Borin and Lyra.")*
+
+Nageru's mentor, and the voice of his order in the wider campaign. Writes with respect rather than authority, congratulates and immediately withholds — *"pride in an accomplishment is not the same as pride in oneself. There is always another step"* — and ends by putting the weight on him: *"You have spent years preparing yourself to make such decisions without a teacher standing beside you. It appears the time has come to discover whether we taught you well."*
+
+**She assigned the fane of Irori quest (Ch 19). Full details in `nageru.md`. Do not resolve any part of it.**
+
+---
+
+### Elara and Kaelen
+**Status:** Living, elderly, at the **Sunken Fist**. Nageru's parents; they wrote to him in Ch 19 alongside Lyra's letter.
+
+**Elara** — his mother, a scribe; wept at the news of Drezen, *"not from fear, but from hope fulfilled,"* and has already copied out every account of it she could find. **Kaelen** — his father, groundskeeper and artisan; has repaired the monastery's old waterwheel again although it did not need it, *"because a good craftsman is never truly finished."* Their blessing: *"strength without serenity is only force, but serenity with strength can change the world."* **"The door of the Sunken Fist is always open to you."**
+
+---
+
+### Delamere *(historical — long dead)*
+An **old Sarkorian priestess of Erastil**, pre-Worldwound. Taught that cities were the greatest blight humanity ever conceived and that any settlement of more than **fifty-three** people was inherently evil — the number derived from a diagram rather than arithmetic (a family of five at the center of six families of five), making the **fifty-fourth person in any settlement an outsider to the family and therefore a likely traitor to it**. Caleth's summary: *"Known for what?" / "Being wrong, mostly."* Controversial, but popular enough in the small towns of northeastern Sarkoris that she was buried in a sizable tomb, and the families of her followers have been assured places in it ever since. Her teachings survive in a near-heretical green-leather book, ***The Stag King's Bride***.
+
+**Her tomb** is in the **Weeping Hills**, at the bottom of a 200-foot chasm with a river of molten rock running through it. **Her body lies in a slab of smoky crystal on a ledge, wearing magic items, with what appears to be a bow laid alongside her.** The party **deliberately left all of it untouched** on Nageru's ruling. *(An unclaimed debt of a different kind: nobody with the right to decide is likely to come for years, if ever.)*
