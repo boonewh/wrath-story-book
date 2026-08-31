@@ -36,9 +36,10 @@ wrath-story-book/
 ├── CLAUDE.md                    # This file
 ├── README.md                    # Project brief + chapter-writing process
 ├── style-guide.md               # Prose rules (READ BEFORE writing creative prose)
-├── chapters/                    # Published chapters (NN-short-title.md)
+├── chapters/                    # Published chapters (NN-short-title.md; interludes are NN.5-)
 ├── characters/                  # PC + NPC reference files (canon source-of-truth)
-├── lore/                        # factions.md, items.md, kenabres.md, worldwound.md
+│                                #   + chapter19-letters.md (the Ch 19 letters, full text)
+├── lore/                        # factions.md, items.md, kenabres.md, worldwound.md, timeline.md
 ├── sessions/                    # Raw GM session notes (input to chapters)
 ├── songs/                       # Suno song lyrics per session
 ├── images/                      # Image generation prompts per session
@@ -52,7 +53,7 @@ The live blog lives in a **separate repository** at `G:\Projects\games\`. Built 
 
 When the blog page is updated, a matching `website/updateN.md` changelog file is written in *this* repo. Pattern set by `website/update4.md` — top matter, what changed (grouped by file path), files NOT touched, verification steps, cross-references.
 
-The Vanguard section on the same page (around line 125) displays Level/Mythic Tier; that line **must stay in sync** with the Status Box footer at the bottom of the Campaign Arc Status section. An inline code comment marks it.
+The Vanguard section on the same page (`page.tsx:126`) displays Level/Mythic Tier; that line **must stay in sync** with the milestone footer at the bottom of the Campaign Arc Status section (`page.tsx:549–553`). An inline code comment marks it. **Both currently read Level 9 Gestalt / Mythic Tier 3** and were verified in sync during the Session 19 pass. Changelogs exist for sessions 4, 7, 9, 10, 11, 12, 13, 16, 17, 18 and 19.
 
 ## Canon Hierarchy
 
@@ -72,15 +73,27 @@ If any of these contradict each other, **flag it to the user**; do not silently 
 
 There is also a machine-local Claude memory store at `C:\Users\boone\.claude\projects\G--Projects-wrath-story-book\memory\`. It is NOT backed up and was wiped by the August 2026 Windows reinstall — treat it as scratch. **Anything that matters to the campaign goes in the repo's `memory/`.**
 
-Current repo memory files:
+Current repo memory files (14). **`memory/MEMORY.md` is the authoritative index and is kept current — read it, not this list, for the live wording.**
+
+*Character and craft:*
 - `aravashniel-riftwarden.md` — Aravashnial's Riftwarden identity is PUBLIC to the party as of Ch 11; the deeper layers (elder rank, Caleth connection, Caleth's Ch 4 knowledge) stay secret. *(Filename misspells his name; the file's content is correct.)*
 - `korroc-stonelord.md` — Korroc's Stonelord paladin archetype + literal stone-in-veins
 - `nageru-not-golden-skin.md` — Nageru's skin is bronze, NOT golden (recurring image-prompt error)
-- `stonevein-family-question.md` — **superseded:** the cousins DO share the Stonevein name; all four parents named in Ch 11 (Thorek + Helja are Thane's, Borin + Dagna are Korroc's)
-- `thane-father-timeline.md` — the fathers died when the sons were children; the sons KNEW them. The blueprints predate the sons' births; the deaths do not.
 - `chapter-1-origin.md` — Ch 1 predates the POV-by-stakes system; quirks are intentional
 - `webpage-session-section.md` — Design pattern for the live blog Campaign Arc Status section
 - `session-4-prep.md` — Notes from the May 2026 character-file canon-correction pass
+
+*The Stonevein family (read all four together — they supersede each other in sequence):*
+- `stonevein-family-question.md` — **superseded:** the cousins DO share the Stonevein name; all four parents named in Ch 11 (Thorek + Helja are Thane's, Borin + Dagna are Korroc's)
+- `thane-father-timeline.md` — the sons KNEW their fathers; the blueprints predate the sons' births. **⚠ PARTLY SUPERSEDED by `the-fathers-survived.md` — this file still says the fathers *died*. They did not.**
+- `the-fathers-survived.md` — **⚠ THE BIGGEST CANON CHANGE SINCE THE WARDSTONE (Ch 19).** Thorek and Borin were captured, not killed; Staunton arranged the ambush; they dug twenty feet out over a year and vanished into the riverbed. **Where they went is open. Keep it open.**
+- `stonevein-mothers-status.md` — Ch 19 settles both, and both files were wrong in opposite directions: **Helja is DEAD** (how and when is NOT established — do not invent it); **Dagna is ALIVE in Nerosyan** and means to come south. Drezen was the family's home.
+
+*Open threads that must STAY open — do not explain, do not resolve off-screen:*
+- `whisper-below-drezen.md` — NOT Chorussina's ritual. **Stopped in Ch 18 when the Banner went up — a coincidence in time, not a cause.** Source unknown. Nobody gets retroactive credit for stopping it.
+- `joran-vhane-lost-healing.md` — four live causes (claw / ritual / crystal / Droskar); the GM left all four open. Do not pick one. *(Filename is `joran-vhane-lost-healing.md`; the front-matter `name:` inside still reads `jordan-`.)*
+- `thane-unspoken-possession.md` — Thane has **never told anyone** he was possessed in Ch 18. Ch 19 walked him to the door and he could not open it. Must cost him something to say.
+- `fane-of-irori.md` — Sister Lyra's charge to Nageru; its founders *"were waiting for something. Or perhaps someone."* Unlocated. **⚠ This is his next POV chapter, and do NOT make him the answer.**
 
 **Lost in the August 2026 reinstall** (referenced by older docs, never committed, not recoverable): `drezen-geography-session12.md`, `staunton-sv-delayed-reveal.md`, `suno-song-constraints.md`, `korroc-thane-stonevein.md`. Their substance survives in `style-guide.md` (Suno rules) and the character files (Stonevein parents, Staunton reveal). Do not go looking for them.
 
@@ -108,8 +121,14 @@ Established POVs so far:
 - Chapter 14: **Thane** (*Who Has Business Inside / The False Credential* — Nurah caught, the watchtowers, into the citadel)
 - Chapter 15: **Caleth** (*Beauty Has Teeth / What Wore the Inheritor's Face* — the false Iomedae, "knowing wasn't enough")
 - Chapter 16: **Korroc** (*Two Brothers of the Same Forge / The Price of Working with Demons* — Staunton dies, Joran kneels)
+- Chapter 17: **Thane** (*Every Name But Two* — Staunton's ledger, the butterfly cell, Chorussina, Joran's hands stop working)
+- Chapter 18: **Korroc** (*The Mark It Chose* — Eustoyriax, Thane possessed, the true Sword of Valor, the armor takes Torag's mark)
+- Interlude 2 / Ch 18.5: **Korroc** (*He Wouldn't Have to Ask* — the Purity Forge, Joran at the anvil, the working laid into Radiance)
+- Chapter 19: **Thane** (*Twenty Feet of Stone* — the fathers survived, the letters from home, Jesker Helton in Delamere's tomb)
 
 POV remains a stakes decision, not a rotation — choose whoever has the most at stake in a given session.
+
+**⚠ NAGERU IS SIX CHAPTERS OVERDUE.** His last POV was Ch 13. He is also the only PC without a character song. `memory/fane-of-irori.md` flags the Irori fane as his chapter — but note its own warning: **receiving a summons is not the same as answering it.** A POV chapter about getting a letter is a chapter about waiting. Spend him when they actually go.
 
 ### Secrets Matrix
 
@@ -126,6 +145,12 @@ Who knows what. The POV character can only narrate what they know — never let 
 | Thane + Anevia's Eagle Watch contract | Thane, Anevia, Caleth (Ch 3 reveal), Korroc (partial) | Nageru |
 | Anevia + Irabeth are married | Party learned in Ch 4 (Anevia knew always) | Public NPCs |
 | Nageru's Lawbringer / Sunken Fist origin | Mostly internal to Nageru | Party doesn't have the full shape |
+| **Thane was possessed by Eustoyriax in Ch 18 — and was conscious inside it the whole time** | The party saw the possession; **NOBODY knows he was awake in there, because he has never said one word about it** | Everyone. He made himself unaskable on purpose, in about four seconds. |
+| **Caleth's Ch 15 wound** (the succubus wore Iomedae's face and compelled him past his own correct judgment) | Happened in front of the party | **No one has ever spoken of it, including him.** Refrain: *"knowing wasn't enough."* |
+| Nageru's charge from Sister Lyra (the lost fane of Irori) | Nageru | The party knows only *"they also gave me something else to do."* **Thane deliberately did not ask, and offered hands instead. That debt is outstanding.** |
+| Caleth can push charge back into spent items | **Now semi-public** — demonstrated on a forge floor in front of Korroc, Nageru and Aravashnial (Interlude 2) | Nobody understands the mechanism, **Caleth least of all** |
+
+**⚠ The strongest unused material in the campaign:** two men in this party are carrying an unspoken thing a demon did to them — Thane (Ch 18) and Caleth (Ch 15) — **and neither knows about the other's.**
 
 ### Name Spellings (verify against `characters/` before writing)
 
@@ -138,20 +163,48 @@ Who knows what. The POV character can only narrate what they know — never let 
 - **Nageru** — the aasimar; **bronze skin** (NOT golden), amber eyes, subtle golden *aura* only
 - **Chorussina** — the tiefling conjurer below Drezen. *(Ch 16 originally spelled her "Chorussian" off a mishearing; corrected across all files 2026-08-16. Only `sessions/session16.md`, the raw GM note, still carries the old spelling — leave it, source records are not edited.)*
 - **Joran Vhane** — Staunton's brother. **Joran**, not Jordan and not Joron. *(The GM's session notes write "Jordan" and some player after-action reports write "Joron" — both wrong. Corrected across all files 2026-08-11 at the table's request. The raw `sessions/*.md` notes still carry "Jordan"; source records are not edited.)*
+- **Thorek** + **Helja** — Thane's father and mother. **Borin** + **Dagna** — Korroc's father and mother. All four are **Stonevein**.
+- **Eustoyriax** — the shadow demon who held the true Sword of Valor and possessed Thane (Ch 18)
+- **Aponavicius** — the marilith who held Drezen; it was her vanity that spared the Banner
+- **Chorussina** — the tiefling conjurer below Drezen *(see the correction note above)*
+- **Jesker Helton** — the Erastilian priest recovered from **Delamere's** tomb (Ch 19)
+- **Sister Lyra** — of the Order of Irori, at the Sunken Fist; **Elara** + **Kaelen** are Nageru's parents (Ch 19 letters)
+- **Rennick** — the young paladin of Iomedae who spotted the changed mark on Korroc's breastplate (Ch 18)
 
-### Party State at End of Chapter 16
+### Party State at End of Chapter 19
 
-- All four PCs are **Knights of the Fifth Crusade** and **mythic** — **Level 9, Mythic Tier 2** as of Session 16. *(The live blog page still shows Level 8 in two places; both update with the Session 16 web pass.)*
-- **The four are inside Citadel Drezen**, clearing it from the roof downward, while Irabeth's army fights up the Ahari below and appears to be winning.
-- **STAUNTON VHANE IS DEAD** (Ch 16) — killed by Caleth, after Thane's daggers broke him and Korroc refused Thane's request to take him alive. The Templar chain he could have named died with him.
-- **The saboteur is caught:** **Nurah** confessed in Ch 14 — a Templar agent recruited by Minagho — and is bound and gagged under guard, awaiting return to the Queen. *The "keep her ambiguous" rule is retired.*
-- **Joran Vhane**, Staunton's ill-used brother and a **worshipper of Droskar the Dark Smith**, has **surrendered to Korroc personally** and agreed to reveal where the Sword of Valor is. Unproven; Korroc owns this thread.
-- **The Sword of Valor is NOT recovered.** The upper-citadel Banner was a decoy. The true one is **below**, in new chambers that appear on no dwarven map — including the Stonevein blueprints.
-- **Korroc wears gold-and-mithral Iomedaean armor** (Ch 15) that fits him as though forged for him. **He feels he ought to know why and cannot. Do not explain it.**
-- **Caleth carries an unhealed wound from Ch 15:** a succubus wearing Iomedae's face compelled him past his own correct judgment and drained him. His refrain is *"knowing wasn't enough."* **No one in the party has ever spoken of it.**
-- **Caleth can push charge back into spent magic items** (Ch 14) — and **Aravashnial said "We should talk later." That conversation has not happened.**
-- The Drezen blueprints still ride folded in Caleth's spellbook and have been navigating the citadel since Ch 14.
-- Klarah, Horgus, Anevia, Aron, Sosiel remain with the company at camp. Queen Galfrey stayed at Kenabres.
+*(Ch 19 is the last written chapter. Sessions 17, 18, 18.5 and 19 are all published; `sessions/` has notes through session 19.)*
+
+**Advancement:** All four PCs are **Knights of the Fifth Crusade** and mythic — **Level 9 Gestalt, Mythic Tier 3.** The tier came in Session 18 with the taking of Drezen; **Session 19 granted no advancement.** The live blog page (Vanguard line + milestone footer) is verified in sync at Level 9 / Tier 3.
+
+**Where they are and what they're doing:**
+- **DREZEN IS TAKEN.** The citadel is held, the **Sword of Valor is RECOVERED (Ch 18)** and flies over it. **The objective of Book 2 is complete.**
+- **The Queen's new mandate (Ch 19):** use Drezen as a base of operations and **explore the Wounded Lands to the south and west** for anything usable against the demons. Consult Sosiel, Aron, Irabeth on the region's history and legends. Reinforcements came north with the letter.
+- At the close of Ch 19 the four are on a **night wagon ride back to Drezen** from Delamere's tomb, with the rescued Erastilian priest **Jesker Helton** asleep in the bed and Korroc sitting up over him.
+
+**The Stonevein arc — the campaign's live engine:**
+- **⚠ THE FATHERS SURVIVED (Ch 19).** Thorek and Borin were **captured, not killed**; **Staunton Vhane arranged the ambush**; they were put to work on the citadel they had helped build, dug **twenty feet** to a pre-fall water tunnel over better than a year, and escaped into the dry riverbed east of Drezen. **Neither is on the list of the dead. Neither was recorded as recaptured. WHERE THEY WENT IS OPEN — do not resolve it, do not kill them off-page, do not bring them back.**
+- **The riverbed east of the walls is now a standing location with a claim on the party.** Aravashnial had the eastern bridge repairs moved up the list for exactly one reason: *"if you intend to find out where your fathers went, this is where their trail begins."* Aron's engineers open that ground over the following month.
+- **Helja Stonevein is DEAD** (Thane's mother — *how and when is NOT established; do not invent it*). **Dagna Stonevein is ALIVE in Nerosyan**, wrote to both cousins in Ch 19, and intends to come south after seventy-five years. **Drezen was the family's home** — Dagna and Helja knew its streets first; the four met and became a family there.
+- **Thane's banked flame has changed shape a third time.** Not vengeance, not the wrong record — *his father was a nuisance in a ledger for a year and dug his way out*, and Thane's private, unshared conclusion is ***"I could not have done that."*** Do not let him make peace with it quickly.
+- **Thane means to write to Dagna about the fathers and has not yet.** Korroc owns the grief; Thane owns the investigation. Keep that split.
+- **Staunton arranged the ambush and Staunton is dead** — killed in Ch 16 over Thane's explicit objection after he asked for the man alive (*"Three days,"* was his estimate). **That disagreement is now permanently unresolvable and neither cousin has spoken of it. Live thread.**
+
+**Per character:**
+- **Korroc** wears **the Armor of the Pious** — *not* "the Armor of Iomedae" any more. It is old craft that **takes the mark of whoever is inside it**, and in Ch 18 the sunburst became **Torag's hammer and anvil** with no ghost of the old mark underneath. The "something I should know" was **smith-lore, not a hidden past.** From Ch 18 he wears **Torag on shield and chest alike** — the two-gods reading is over. *(Whose suit it was, who made it, and how it reached a demon's treasury are all still open.)* He is modifying it at the Purity Forge; **what he is adding is not established — needs the GM.**
+- **Thane** carries **his mother's blade, his father's knife, and a punch dagger he made himself** at the Purity Forge. The blade he wipes after every kill **is a dead woman's knife, and has been for some time.** He was **possessed by Eustoyriax in Ch 18** and has told no one he was awake inside it.
+- **Caleth** carries **Radiance**, which now holds **a second working laid in at the Purity Forge** — Thane cut the channels, Caleth's own casting failed three times (*"It rejected an incompatible structure"* / *"It's got a latch already"*), and **Aravashnial seated it like a weld.** **⚠ WHAT THE WORKING DOES IS NOT ESTABLISHED — needs the GM before anything references it.** He still carries the Ch 15 wound (*"knowing wasn't enough"*), unspoken by anyone. The Drezen blueprints still ride folded in his spellbook.
+- **The *"we should talk later"* conversation FINALLY HAPPENED (Interlude 2) — and settled nothing.** Aravashnial interrogated the recharging mechanism and Caleth answered *"I don't know"* to nearly all of it; a second attempt in one day produces nothing at all. The elf proposed a testing programme and **Caleth fled up a staircase to escape it.**
+- **Nageru** received two letters in Ch 19 — one from his parents **Elara and Kaelen**, one from **Sister Lyra** charging him to find **a lost fane of Irori** near Drezen. He has told the party almost nothing. Lyra's line ***"There is always another step"*** has escaped into the story: he said it aloud on the night march, **Thane overheard and it landed hard, and Nageru does not know that.**
+
+**NPCs and prisoners:**
+- **STAUNTON VHANE IS DEAD** (Ch 16). **NURAH DENDIWHAR IS DEAD (Ch 18)** — she got out of her irons, began a teleport, **Aravashnial reversed it**, she was called on to surrender, chose to fight, and was killed. **She never reached the Queen.** Reported by Irabeth, not witnessed by the party. Thane: *"She made her choice."*
+- **Joran Vhane** is **in custody in Drezen, working the Purity Forge under guard.** He **can no longer cast healing magic (Ch 17)** — four live causes, **do not pick one.** Korroc changed tactics after watching his own armor decide what it belonged to: *"I can't hammer a man into a shape."* He handed him a hammer instead. **He is not being redeemed by argument; he is being left alone next to an anvil.**
+- **Jesker Helton** — Erastilian priest, rescued from Delamere's tomb in Ch 19, was possessed, and **Korroc offered him atonement, which has been offered and NOT yet performed.**
+- **Queen Galfrey** is not at Drezen; her mandate arrived by letter. Irabeth, Anevia, Aravashnial, Aron, Sosiel, Horgus and Klarah are with the company.
+
+**⚠ Threads deliberately left open — do NOT close any of these without the table:**
+the whisper below Drezen (stopped, unexplained, no retroactive credit) · where the fathers went · how Helja died · Joran's lost healing · what Radiance's new working does · whose armor Korroc is wearing · the lost fane of Irori and what its founders were waiting for · four loose vials from Ch 19 · Thane's silence about the possession.
 
 ## Workflow Patterns
 
@@ -164,7 +217,7 @@ Who knows what. The POV character can only narrate what they know — never let 
 5. **Skim** relevant lore (factions, items, places mentioned in the session)
 6. **Check** `memory/MEMORY.md` for secrets, open questions, and any "previous-Claude fabrication" warnings
 7. **Write the chapter yourself**, in one sustained pass, with all of the above in context
-8. **Save** the result as `chapters/NN-short-title.md` (chapter number matches session number)
+8. **Save** the result as `chapters/NN-short-title.md` (chapter number matches session number; **interludes take the previous chapter's number plus `.5`** — see `08.5-` and `18.5-`)
 9. **Canon-update pass:** update character files (Established Moments + Current State), lore files, npcs.md as needed
 10. **Web-update pass:** update `games/src/app/wrath/page.tsx` Campaign Arc Status section + write `website/updateN.md`
 11. **Song:** write `songs/sessionN.md`
@@ -191,6 +244,11 @@ Past canon corrections worth knowing:
 - Nageru has bronze skin, NOT golden (golden aura is separate, subtle)
 - Aravashnial is a Riftwarden (Ch 4 reveal — secret from rest of party)
 - Klarah's name — was briefly typo'd as Klareth in earlier drafts
+- **Joran Vhane**, not Jordan/Joron (2026-08-11); **Chorussina**, not Chorussian (2026-08-16)
+- **The Stonevein fathers did not die** (Ch 19) — eighteen chapters of "fallen, bodies never recovered" turned out to be a cover story the enemy built on purpose
+- **Helja is dead / Dagna is alive** (Ch 19) — the character files had both wrong, in opposite directions
+- **Korroc's armor is the Armor of the Pious**, not "the Armor of Iomedae" (Ch 18) — it wears Torag's mark now
+- **American English** enforced from Ch 19 onward (2026-08-30); earlier files deliberately left alone
 
 ## The Jobs (all done by the one agent)
 
@@ -211,6 +269,7 @@ These are phases of work, **not** sub-agents to delegate to. Same agent, same co
 - **Do NOT update the live web page's Campaign Arc Status section by appending.** Always REPLACE the content; the section is a current-state window, not an archive.
 - **Do NOT skip writing the matching `website/updateN.md`** when the page is updated.
 - **Do NOT batch chapter writing + canon updates without checking with the user** — they often want these in separate turns.
+- **Do NOT write British spellings.** This project is **American English** — `gray`, never `grey`, plus *color / armor / honor / recognize / defense / traveling*. It applies to chapters, canon files, songs, image prompts and website changelogs alike. **Ch 19 onward is clean; Chapters 1–18.5 and older canon files were deliberately left alone (~90 instances) — do not sweep them without asking.** See `style-guide.md`.
 - **Do NOT trust character names from your own memory alone.** Especially Klarah, Aravashnial, Khar-Zadûn. Always verify against the character file before writing.
 - **Do NOT delete or rewrite chapter prose without the user's explicit approval.** Chapters are published; treat them as canon.
 - **Do NOT use Korroc, Thane, or Nageru's POV to narrate Caleth's Riftwarden origin or the Caleth–Aravashnial connection.** Aravashnial being *a Riftwarden* is party-public as of Ch 11 — but his elder rank, the order's link to Caleth's parents, and the fact that Caleth knew since Ch 4 remain private to Caleth (and Aravashnial).
