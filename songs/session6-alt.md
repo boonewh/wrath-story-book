@@ -42,7 +42,7 @@ I change my shape, but not my name.
 
 Target: under 2 minutes 30 seconds total. No instrumental padding between sections — move directly section to section. No fade-out.
 
-1980s retrowave synthwave pop, pulsing and euphoric. Driving arpeggiated analog synth hook cycling through the whole song — bright, melodic, hypnotic. Four-on-the-floor electronic kick drum, punchy gated reverb snare, warm pulsing bass. Emotional male tenor vocal — longing and slightly desperate in the verses, soaring and open on the chorus. The [Chorus] lifts: synths bloom brighter, drums hit harder, "Raise me higher" delivered like a stadium moment bathed in neon light. Nostalgic 80s electronic energy — New Order, Depeche Mode, Kavinsky — warm and cinematic, NOT dark or gritty, NOT acoustic, NOT country, NOT folk. The [Bridge] strips back to synth and vocal only before the final chorus erupts. End on a bright synth chord and drum hit — sharp, not faded.
+1980s retrowave synthwave pop, pulsing and euphoric. Driving arpeggiated analog synth hook cycling through the whole song — bright, melodic, hypnotic. Four-on-the-floor electronic kick drum, punchy gated reverb snare, warm pulsing bass. Emotional male tenor vocal — longing and slightly desperate in the verses, soaring and open on the chorus. The [Chorus] lifts: synths bloom brighter, drums hit harder, "Raise me higher" delivered like a stadium moment bathed in neon light. Nostalgic 80s electronic energy — analog synths, drum machines, neon-lit melancholy — warm and cinematic, NOT dark or gritty, NOT acoustic, NOT country, NOT folk. The [Bridge] strips back to synth and vocal only before the final chorus erupts. End on a bright synth chord and drum hit — sharp, not faded.
 
 🎯 If the First Generation Misses
 

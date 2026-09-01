@@ -108,6 +108,10 @@ These constraints apply every time an Opus sub-agent writes a Suno song.
 
 **Section tag discipline:** Keep tags like `[Verse 1]`, `[Refrain]`, `[Bridge]`, `[Outro]`, `[Spoken]` short — usually just the label, with instrumentation, tempo, voice type, and register instructions living in the **style box only** (NOT `[Verse 1 - quiet baritone, close-mic'd, cello underneath]`). Exception: a *short* performance cue inside a tag (e.g. `[Verse - double time]`) is allowed when it's needed to force a specific delivery Suno keeps missing.
 
+**⚠ NO ARTIST OR SONG NAMES ANYWHERE IN THE STYLE BOX.** Suno **rejects the generation outright** with *"Your tags contain artist name … we don't reference specific artists on Suno, please change your tags and try again."* Naming a band, a singer, or a track title as shorthand for a sound will fail. **Describe the sound by its parts instead** — tempo and feel, the lead instrument and what it's doing, the drum pattern, the bass movement, the vocal register and delivery, the mix character. That is more useful to Suno than the name was anyway, because the name is a pointer and the parts are instructions.
+
+> **NOTE (spelling/style pass, 2026-09-01):** this was found the hard way when a style box referencing a well-known 2019 synth-pop single was refused. **Four older files carried the same hazard and were corrected the same day** — `songs/session1.md`, `songs/session6.md`, `songs/session6-alt.md`, and `songs/character-radiance.md`. The filter has tightened over time: some of those style boxes generated successfully when they were first written and would be refused now. If you regenerate an old song and it bounces, check the style box for a band name first.
+
 **Single register.** Suno cannot handle four-stage builds or genre transitions. Pick one register and stay in it start to finish.
 
 **No hard runtime cap.** The old "under 2:30" rule is lifted — let the song run its natural length. Only ask for "no instrumental padding between sections" when you actually want a tight, lean track.
