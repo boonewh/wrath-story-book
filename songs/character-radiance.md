@@ -1,4 +1,4 @@
-🗡️ "Only the Light" — Retro-Synthwave (Driving / "Blinding Lights" energy)
+🗡️ "Only the Light" — Retro-Synthwave (Driving / Neon Synth-Pop)
 
 **CHARACTER ANTHEM for RADIANCE** — the sword of Yaniel, sung in the weapon's own voice. The direct **sequel to "Raise Me Higher"** ([songs/session6-alt.md](session6-alt.md) — the Chapter 6 track Suno auto-titled *"Carry Me"* off the chorus when the title field was left blank, and the name stuck).
 
@@ -91,9 +91,9 @@ And he still calls me Radiance.
 
 ## Style (paste into Suno style box)
 
-Propulsive 1980s retro-synthwave in the vein of The Weeknd's "Blinding Lights" — fast, urgent, neon, relentlessly driving. ONE register throughout, no genre change. Bright saw-lead synth hook cycling as the main melody the whole way, punchy four-on-the-floor kick, huge gated-reverb snare on 2 and 4, warm pulsing analog bass, glittering arpeggios underneath. Emotional male vocal pushed high and urgent — tight and close in the verses, belting wide open on the chorus, near-spoken in the outro. Retro-futurist and cinematic, with real ache under the brightness: hope and cost braided together, NOT an empty party track. Dynamic swells WITHIN the one register — verses driving and contained, chorus blooming enormous, bridge stripped to bass pulse and vocal before the last lift. No tempo changes, no key changes. No acoustic guitar, no strummed strings, no country, no folk, no metal. Synthesizers only. No instrumental padding between sections. End sharp on one bright synth hit, not a fade.
+Propulsive 1980s neon synth-pop — fast, urgent, retro-futurist, cinematic. ONE register throughout, no genre change. Bright saw-lead synth hook cycling as the main melody from the first bar to the last. Relentless four-on-the-floor kick, huge gated-reverb snare on 2 and 4, driving eighth-note analog bass pulse, glittering arpeggios underneath. Emotional male vocal pushed high and urgent — tight, close and breathy in the verses, belted wide open on the chorus, near-spoken in the outro. Bright major-key surface with real ache under it: hope and cost braided together, NOT an empty party track. Dynamic swells WITHIN the one register — verses driving and contained, chorus blooming enormous, bridge stripped to bass pulse and vocal before the last lift. No tempo changes, no key changes. No acoustic guitar, no strummed strings, no country, no folk, no metal. Synthesizers only. No instrumental padding between sections. End sharp on one bright synth hit, not a fade.
 
-*(993 characters — at the ceiling. If you edit it, cut before you add.)*
+*(970 characters — under the ~1,000 cap. **Contains no artist or song names**; Suno rejects tags that name real artists. If you edit it, cut before you add.)*
 
 ---
 

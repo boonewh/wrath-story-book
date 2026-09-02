@@ -41,11 +41,11 @@ Take me up. We go in.
 
 Target: under 2 minutes 30 seconds total. No instrumental padding between sections — move directly section to section. No fade-out, no Suno-generated extensions.
 
-Symphonic gothic rock, dark fantasy, Nightwish and Within Temptation and Evanescence energy. Soaring female soprano lead vocal — operatic edge, powerful and anthemic, NOT soft, NOT restrained. Sweeping orchestral strings underneath crunching distorted electric guitar, thundering drums with a heavy kick and crashing cymbals. Full choir enters on the chorus — strings, choir, and guitar all hit at once, "I'm the blade that chooses" lands as a cathedral-and-stadium moment together. Male choir doubles the hook underneath the soprano. Gothic grandeur meets electric power — dark, lush, blood-stirring. Verse builds tension under strings and rhythm guitar; bridge strips back to strings only before the final chorus explodes. NO acoustic guitar, NO country, NO folk. Hard ending — final orchestral hit and drum crash, no fade.
+Symphonic gothic rock, dark fantasy, orchestral-metal grandeur with an operatic female lead. Soaring female soprano lead vocal — operatic edge, powerful and anthemic, NOT soft, NOT restrained. Sweeping orchestral strings underneath crunching distorted electric guitar, thundering drums with a heavy kick and crashing cymbals. Full choir enters on the chorus — strings, choir, and guitar all hit at once, "I'm the blade that chooses" lands as a cathedral-and-stadium moment together. Male choir doubles the hook underneath the soprano. Gothic grandeur meets electric power — dark, lush, blood-stirring. Verse builds tension under strings and rhythm guitar; bridge strips back to strings only before the final chorus explodes. NO acoustic guitar, NO country, NO folk. Hard ending — final orchestral hit and drum crash, no fade.
 
 🎯 If the First Generation Misses
 
-**If Suno drifts to country / folk / acoustic:** Front-load `symphonic gothic rock, Nightwish, Within Temptation, Evanescence, distorted electric guitar, orchestral strings, NO acoustic guitar, NO folk, NO country`. If you hear any strummed acoustic string, regenerate immediately.
+**If Suno drifts to country / folk / acoustic:** Front-load `symphonic gothic rock, operatic female soprano, orchestral metal, distorted electric guitar, orchestral strings, NO acoustic guitar, NO folk, NO country`. If you hear any strummed acoustic string, regenerate immediately.
 
 **If the soprano comes out soft or restrained:** Push `powerful operatic soprano, anthemic and soaring, full voice, NOT breathy, NOT gentle, NOT indie folk`. If it sounds like a lullaby or a folk ballad, it's wrong — this is a cathedral moment, not a hearth song.
 
