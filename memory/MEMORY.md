@@ -13,3 +13,9 @@
 - [The lost fane of Irori (Ch 19)](fane-of-irori.md) — Sister Lyra's charge to Nageru; its founders "were waiting for something. Or perhaps someone." Unlocated, unresolved — and this is his next POV chapter.
 - [Thane has never said he was possessed](thane-unspoken-possession.md) — Ch 19 put the opening in front of him and he couldn't take it. Do not resolve off-screen.
 
+- [The Wintersun bone spikes are worn, not grown (Ch 20)](grunhuld-wintersun-bone-spikes.md) — only Marhevok grew them, and only raging; everyone else lashes bone to their armor. **Jestak was Grunhuld-Wintersun.** Korroc is now their clanliege.
+- [The drake, Jerribeth, and the language (Ch 20)](the-drake-and-jerribeth.md) — three open items, possibly one item. **The party believes Jerribeth is an elf and must keep believing it.** Do not identify the language Marhevok screamed.
+- [Caleth chose the hammer (Ch 20)](caleth-chose-the-hammer.md) — Terendelev's charge inverted on him and he told nobody; he now carries the party's one true resurrection. **Radiance's working is *spell storing* — ⚠ retired.**
+- [Nageru's Ch 20 absence was the atonement, NOT the fane](nageru-went-for-the-atonement.md) — the fane is still completely untouched; do not credit this trip to it. He is now **seven chapters** without a POV.
+- [The GM commits to this repo too](gm-is-a-repo-contributor.md) — she sometimes writes the session song herself. **Check `songs/` — and consider pulling — before writing one.**
+- [Image prompts are deprecated](image-prompts-deprecated.md) — **do not write `images/sessionN.md`** as part of a session pass or offer it at the end of one; only if explicitly asked. The practice lapsed after session 6 and was formally dropped 2026-09-06.

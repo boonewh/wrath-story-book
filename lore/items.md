@@ -508,9 +508,15 @@ Forged by Thane at the Purity Forge in the weeks after Drezen fell: short, broad
 
 ---
 
-## Radiance — the second working *(Ch 18.5; used Ch 19)*
+## Radiance — the second working: SPELL STORING *(Ch 18.5; ✔ established Ch 20)*
 
-⚠ **What the working Thane cut and Aravashnial seated actually does has never been stated on the page, and Ch 19 did not state it either.** Keep it that way until the table says otherwise.
+✔ **RESOLVED (Ch 20). The working Thane cut and Aravashnial seated is *spell storing*** — it holds a spell against the day the blade finds flesh, and releases it on a hit.
+
+**Table note:** Radiance is not supposed to be alterable. The GM allowed it as a ruling specifically because the work was done on the **Purity Forge**. Treat that as the in-fiction explanation if anyone asks: *the forge is why it took at all.*
+
+**How Caleth handles it:** he keeps it loaded as a matter of habit, *"the way you load a crossbow you do not expect to fire,"* and **has not yet discharged one.** In the Ch 20 duel the flat of the blade touched Marhevok's shoulder and he deliberately let it pass — *three attempts; he touches me or he does not; that was the whole of the offer and the offer is the point.*
+
+**What is still true:** his own casting **could not bind the channels, three times running**, and it took Aravashnial to seat it. *"It rejected an incompatible structure." / "It's got a latch already."* **Why Caleth could not do it himself remains unexplained.**
 
 **Do not credit the Ch 19 night-march daylight to it.** That was **a wand**, applied by Caleth to the tip of the glaive — flat, ordinary, midsummer-noon daylight in a globe over his head, deliberately visible for six miles. *"I would rather be attacked in the light than ambushed in the dark."*
 
@@ -527,3 +533,54 @@ At the bottom of a 200-foot chasm in the **Weeping Hills**, in a cavern of lava 
 **Also of note: the heat stops near the crystal.** Thane found the boundary by hand — furnace on one side, merely very hot on the other — and dragged Jesker Helton across it. **Nobody established why, and nobody asked.**
 
 ⚠ **Open, and deliberately so.** Thane's private conclusion was *"nobody's going to come. Not for years. Maybe never"* — and he found he minded that less than he expected. **Do not have the party go back for it without the table.**
+
+---
+
+## The True Resurrection Potion *(identified Ch 20)* — ⚠ THE PARTY'S ONE UNDO
+
+**What it is:** an oil drawn from the **quicksilver at the center of a philosopher's stone**. Poured on a dead body, it functions as ***true resurrection***. Aravashnial: *"It is one of the more difficult things in the world to make."*
+
+**Where it came from:** **Staunton Vhane's quarters**, recovered among a great deal of other loot after Ch 16, and **sat unregarded in a bag for the better part of a month** because it looked like eight hundred other things that look like it. Caleth's sight read *cure potion* at first glance and he refused the reading — *"It looks like a cure potion at first. But it isn't."*
+
+**⚠ THE CONSTRAINT IS THE WHOLE POINT: once opened it loses potency within 24 hours.** Aravashnial spelled out the consequence deliberately: *"It cannot be prepared in advance, or carried opened, or used carefully. It will be used in a hurry by whoever happens to be holding it, or it will not be used at all."*
+
+**Who has it:** **Caleth.** Nobody discussed it; they all looked at him. He put it in the innermost pocket of his coat, against the folded Stonevein blueprints, over his heart.
+
+**Aravashnial's reason for giving it to them:** *"Korroc does a good job of keeping everyone in the fight. But what happens if he falls?"* **Korroc snorted. Aravashnial smiled and let it pass.**
+
+**⚠ How to apply.** This is a loaded gun on the wall and it should stay loaded until the table fires it. It is one use, on one corpse, decided in a bad minute by whoever is still standing. **Caleth cannot run the future it belongs to** — every road comes back the same shape and he cannot tell which of the four it will be — and there is a second thought under it he has never spoken: *there are two people it could never have been spent on, and he does not know where their bodies are.* **Do not resolve, do not spend off-screen, and do not let anyone make a plan out of it.**
+
+---
+
+## Jesker Helton's Parting Gifts *(Ch 20)*
+
+Pressed on the party over their objections as he left Drezen for his home temple:
+- **A magic bow and arrows.** Good work, beautiful, with a working Caleth read off it from six feet away. *(Specifics not established — needs the GM.)*
+- **The symbols of his god.**
+
+**The resonance the prose leans on and never explains:** **Erastil's holy symbol is a bow.** A man gave away the shape of his own god on his way out of a city his hands had wrecked — and it was **the second bow of the week.** The first is still lying beside Delamere's corpse at the bottom of a chasm because nobody had the right to take it. *Caleth: "One we wouldn't take, and one we couldn't refuse."*
+
+---
+
+## Korroc's Boots of Speed *(Ch 20)*
+Found in Citadel Drezen's stores after the fortress fell; he was quietly pleased about them for weeks before they mattered. **First use on the page: against the bebilith on the night road**, switched on mid-fight before he rooted into the gravel and put three hammer blows into it.
+
+---
+
+## Jerribeth's Token — DISPOSED OF *(Ch 20)*
+A cast **unholy symbol of Baphomet** on a cord — horned head, worked labyrinth, good craft — taken from Marhevok Grunhuld-Wintersun's neck. **Engraved on the reverse: *Jerribeth*.**
+
+**Caleth identified it as a scrying focus benefiting the giver** — a pretty gift that made its wearer easy to find and easier to watch, worn day and night by a man who believed it made him important. *"He was on a leash and he thought it was a medal."*
+
+**He considered keeping it as a thread and rejected it, because it ran the wrong way**, and **dropped it into the ice-rimed pool inside Wintersun Hall.** *"Let her look at the bottom of a pond, and wonder."*
+
+⚠ **It is at the bottom of that pool right now.** Nobody destroyed it. See `characters/npcs.md` → Jerribeth.
+
+---
+
+## The Sealed Chest for Aravashnial — UNOPENED *(Ch 20)*
+Roughly eighteen by ten inches, banded, good lock, **an intact wax seal Caleth did not recognize**, heavier than it looked. Delivered to **Kamilo Dann** at Vilareth Ford by a courier with orders to get it to Drezen, addressed to *"a Master Aravashnial."* Caleth carried it a hundred and forty miles, weighed it, turned it, noted the balance and what the balance implied — **and did not open it, and noted precisely how much he wanted to.**
+
+Aravashnial took it, said *"How did you get this?"*, put both palms flat on the lid, **said nothing else about it**, and dismissed them.
+
+⚠ **CONTENTS AND SENDER UNKNOWN. DO NOT RESOLVE.** Caleth's own observation is the hook: somebody routed a chest by courier to a fortress that has been in friendly hands for three weeks — which means they were either confident very early, **or they sent it before Drezen fell.**

@@ -21,9 +21,13 @@ Her own warning about it: *"Do not allow those words to shape what you expect to
 
 **Do not resolve any of it.** Not the fane's location, not its fate, not what its founders were waiting for, and above all **not whether it was Nageru.** The temptation to make an aasimar born as "a minor miracle" into the answer is obvious and is exactly why it should stay closed until the table opens it.
 
+## ⚠ STATUS AFTER Ch 20: STILL COMPLETELY UNTOUCHED
+
+**Nageru left the party in Session 20 and went back to Drezen — and it was NOT for this.** His business was **Jesker Helton's atonement**; see [[nageru-went-for-the-atonement]]. **He has not begun looking for the fane, has not asked anyone about it, and has not mentioned it to a soul since Ch 19.** Do not retroactively credit that trip to the Irori quest, and do not have him make quiet off-screen progress.
+
 ## How to apply
 
-- ⚠ **THIS IS NAGERU'S NEXT POV CHAPTER.** He has not had one since Ch 13 — six chapters — and he is the only PC without a character song. **Receiving a summons is not the same as answering it**; a POV chapter about getting a letter is a chapter about waiting. Spend him when they actually go.
+- ⚠ **THIS IS NAGERU'S NEXT POV CHAPTER.** He has not had one since Ch 13 — **seven chapters as of Session 20, which he was not even present for** — and he is still the only PC without a character song. **Receiving a summons is not the same as answering it**; a POV chapter about getting a letter is a chapter about waiting. Spend him when they actually go.
 - **He has told the party almost nothing**, which is in character (`nageru.md`: the Sunken Fist, Irori, and the Lawbringer designation are still mostly internal to him). All he said in Ch 19: his order is pleased about Drezen, *"they also gave me something else to do,"* and *"it has waited seventy-five years. It can wait for the priest."*
 - **Thane deliberately did not ask what it was** — *"a man who volunteers half a thing has decided exactly how much of it he is giving you"* — and offered hands instead: *"If you need hands for it, say so." / "I will."* **That debt is outstanding and is a good door into the arc.**
 - **Lyra's line has already escaped into the wider story.** She wrote ***"There is always another step,"*** and on the Ch 19 night march Nageru said it aloud to Caleth and named it as something written to him. **Thane overheard, did not ask, and it landed on him harder than on anyone** — against four thousand of his father's steps in the dark. Nageru does not know that. **Do not have Thane learn the source unless Nageru tells him.**

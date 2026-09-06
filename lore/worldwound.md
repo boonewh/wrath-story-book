@@ -199,3 +199,22 @@ Somewhere **in the lands near Drezen** there was once a small, isolated fane ded
 **Sister Lyra has charged Nageru with finding it (Ch 19).** The oldest surviving records contain a passage that appears in no later account, suggesting the fane was founded not merely as a place of worship — **that those who established it were waiting for something, or someone.** The surviving text is unclear.
 
 **Do not locate it, populate it, or explain it.** Full detail in `characters/nageru.md`.
+
+---
+
+## Places West of Vilareth Ford *(established Ch 20)*
+
+### The Grunhuld-Wintersun steading (Wintersun Hall)
+The clan's **ancestral home**, abandoned decades ago when the family finally fled into Mendev, and reoccupied by **Marhevok Grunhuld-Wintersun** roughly two months before the siege of Kenabres.
+
+**Distance:** reachable from **Vilareth Ford** in a single day's ride on sturdy horses. On foot it is a **two-day march** — that is how long the resettlement column took, moving as one body with about four dozen people, unmolested the whole way. *(A useful campaign fact in itself: the whole clan moving together through the Worldwound with a dozen armed men and three Knights of the Fifth Crusade were not touched once. Caleth noticed and drew the obvious conclusion about how the crusade has been traveling.)*
+
+**Terrain on the way:** the color goes out of the country first, then the shapes — low broken hills the color of a bruise under the flat sick orange sky that means you are well inside the Wound.
+
+**The steading itself:** stone foundations of a real town, knocked down to their footings, **with hide tents pitched inside the old room-outlines** so the whole settlement reads as a ghost of a floor plan with cloth growing out of it. **Wintersun Hall** is the only building left standing and is in remarkably good repair — squat stone, peaked roof, **no windows at all**, smoke vents under the roofline, one pair of heavy doors barred from inside, and fifty feet of ground cleared by axe on every side.
+
+**⚠ Its defenses are one refuse heap.** A mound of broken weapons, armor, kitchen bones and **human body parts** lies against the east wall, swarming with vermin and diseased scavengers. **Anyone approaching sets the scavengers shrieking and flapping into the air, and that noise is the clan's entire early-warning system.** They rely on it completely and post no sentries.
+
+**Inside**, in order: a painted entry hall (landscapes of a pre-Worldwound Sarkoris — forests, a lake with wading birds, proud Kellids in hides — flanked by a **stuffed rearing bear** and a **mounted golden eagle**, both old, both clumsily and lovingly repaired more than once); a common hall with a fire pit and **murals of ceremonial combat whose combatants' faces have been gouged out while the painted audience was left intact**; and a throne room ringed with carved columns of men and women gazing down in judgment, holding a fur-covered stone throne and **a pool of standing water rimed with ice in a windowless hall with a fire in the next room.** A blue drake lived in that pool.
+
+**Status now:** **empty.** The entire clan was resettled to Vilareth Ford in Ch 20. **Marhevok was burned outside it without rites.** **Jerribeth's scrying token is at the bottom of the pool.** Nobody has been back.

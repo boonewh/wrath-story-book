@@ -15,7 +15,7 @@ If you do not know which one you're talking to, **ask before writing anything.**
 
 **ONE agent does everything. Opus reads, researches, decides, and writes. No hand-offs.**
 
-- The main agent is **Opus**. It does the session-note reading, the canon research, the POV decision, the continuity checking, the chapter prose, the songs, the image prompts, the canon updates, and the web updates — all of it, in one continuous context.
+- The main agent is **Opus**. It does the session-note reading, the canon research, the POV decision, the continuity checking, the chapter prose, the songs, the canon updates, and the web updates — all of it, in one continuous context. *(Image prompts used to be on this list and are now deprecated — see step 12 below.)*
 - **Do NOT spawn sub-agents for creative work.** Do not spawn a "chapter-writer," a "song-writer," a "canon-keeper," or a "continuity-checker." The hand-off was the problem: the writing agent arrived with less context than the agent that did the reading, and the prose paid for it.
 - Only use the Agent tool if the user explicitly asks for it.
 
@@ -73,7 +73,7 @@ If any of these contradict each other, **flag it to the user**; do not silently 
 
 There is also a machine-local Claude memory store at `C:\Users\boone\.claude\projects\G--Projects-wrath-story-book\memory\`. It is NOT backed up and was wiped by the August 2026 Windows reinstall — treat it as scratch. **Anything that matters to the campaign goes in the repo's `memory/`.**
 
-Current repo memory files (14). **`memory/MEMORY.md` is the authoritative index and is kept current — read it, not this list, for the live wording.**
+Current repo memory files (18). **`memory/MEMORY.md` is the authoritative index and is kept current — read it, not this list, for the live wording.**
 
 *Character and craft:*
 - `aravashniel-riftwarden.md` — Aravashnial's Riftwarden identity is PUBLIC to the party as of Ch 11; the deeper layers (elder rank, Caleth connection, Caleth's Ch 4 knowledge) stay secret. *(Filename misspells his name; the file's content is correct.)*
@@ -93,7 +93,13 @@ Current repo memory files (14). **`memory/MEMORY.md` is the authoritative index 
 - `whisper-below-drezen.md` — NOT Chorussina's ritual. **Stopped in Ch 18 when the Banner went up — a coincidence in time, not a cause.** Source unknown. Nobody gets retroactive credit for stopping it.
 - `joran-vhane-lost-healing.md` — four live causes (claw / ritual / crystal / Droskar); the GM left all four open. Do not pick one. *(Filename is `joran-vhane-lost-healing.md`; the front-matter `name:` inside still reads `jordan-`.)*
 - `thane-unspoken-possession.md` — Thane has **never told anyone** he was possessed in Ch 18. Ch 19 walked him to the door and he could not open it. Must cost him something to say.
-- `fane-of-irori.md` — Sister Lyra's charge to Nageru; its founders *"were waiting for something. Or perhaps someone."* Unlocated. **⚠ This is his next POV chapter, and do NOT make him the answer.**
+- `fane-of-irori.md` — Sister Lyra's charge to Nageru; its founders *"were waiting for something. Or perhaps someone."* Unlocated. **⚠ This is his next POV chapter, and do NOT make him the answer.** **⚠ STILL COMPLETELY UNTOUCHED after Ch 20.**
+- `nageru-went-for-the-atonement.md` — **⚠ Nageru's Ch 20 absence was Jesker's atonement, NOT the fane.** Do not credit that trip to the Irori quest. He is now **seven chapters** without a POV.
+- `the-drake-and-jerribeth.md` — Ch 20's three open items: **Jerribeth** (the party believes she is an elf and must keep believing it), the **drake that flew west**, and the **language Marhevok screamed that nobody knew**. Do not resolve any of them.
+
+*New in Session 20:*
+- `grunhuld-wintersun-bone-spikes.md` — **the clan's bone spikes are WORN, not grown.** Only Marhevok grew them, and only raging. **Jestak was Grunhuld-Wintersun.** Korroc is now their clanliege.
+- `caleth-chose-the-hammer.md` — Terendelev's charge inverted on Caleth in Ch 20 and he told nobody; he now carries the party's one true resurrection. **Radiance's working is *spell storing*.**
 
 **Lost in the August 2026 reinstall** (referenced by older docs, never committed, not recoverable): `drezen-geography-session12.md`, `staunton-sv-delayed-reveal.md`, `suno-song-constraints.md`, `korroc-thane-stonevein.md`. Their substance survives in `style-guide.md` (Suno rules) and the character files (Stonevein parents, Staunton reveal). Do not go looking for them.
 
@@ -125,10 +131,11 @@ Established POVs so far:
 - Chapter 18: **Korroc** (*The Mark It Chose* — Eustoyriax, Thane possessed, the true Sword of Valor, the armor takes Torag's mark)
 - Interlude 2 / Ch 18.5: **Korroc** (*He Wouldn't Have to Ask* — the Purity Forge, Joran at the anvil, the working laid into Radiance)
 - Chapter 19: **Thane** (*Twenty Feet of Stone* — the fathers survived, the letters from home, Jesker Helton in Delamere's tomb)
+- Chapter 20: **Caleth** (*The Kind One / Three Attempts* — the Wintersun clan, the broken duel, Korroc inherits a tribe, and the charge Terendelev actually gave him)
 
 POV remains a stakes decision, not a rotation — choose whoever has the most at stake in a given session.
 
-**⚠ NAGERU IS SIX CHAPTERS OVERDUE.** His last POV was Ch 13. He is also the only PC without a character song. `memory/fane-of-irori.md` flags the Irori fane as his chapter — but note its own warning: **receiving a summons is not the same as answering it.** A POV chapter about getting a letter is a chapter about waiting. Spend him when they actually go.
+**⚠ NAGERU IS SEVEN CHAPTERS OVERDUE — AND HE WAS ABSENT FROM SESSION 20 ENTIRELY** (player out; in fiction he went back to Drezen to see Jesker Helton's atonement performed, **not** to pursue the fane). His last POV was Ch 13. He is also the only PC without a character song. `memory/fane-of-irori.md` flags the Irori fane as his chapter — but note its own warning: **receiving a summons is not the same as answering it.** A POV chapter about getting a letter is a chapter about waiting. Spend him when they actually go.
 
 ### Secrets Matrix
 
@@ -170,17 +177,24 @@ Who knows what. The POV character can only narrate what they know — never let 
 - **Jesker Helton** — the Erastilian priest recovered from **Delamere's** tomb (Ch 19)
 - **Sister Lyra** — of the Order of Irori, at the Sunken Fist; **Elara** + **Kaelen** are Nageru's parents (Ch 19 letters)
 - **Rennick** — the young paladin of Iomedae who spotted the changed mark on Korroc's breastplate (Ch 18)
+- **Marhevok Grunhuld-Wintersun** — the Kellid clanliege killed in Ch 20. The clan is the **Grunhuld-Wintersun** (hyphenated).
+- **Beverach** — his successor as the clan's acting leader, appointed by Korroc. **NOT "Beverick"** — that is what Marhevok called him for years, wrongly, and the error is a character beat. *(The raw session notes use both; source records are not edited.)*
+- **Jerribeth** — the "beautiful elf woman" who gave Marhevok a Baphomet scrying token. **⚠ The party must not learn what she actually is.**
+- **Jestak** — the siege-captain spared in Ch 14. **⚠ Established in Ch 20 as Grunhuld-Wintersun.**
+- **Kamilo Dann** — the quartermaster at **Vilareth Ford**; **Eagle Rock** is the escarpment west of it
 
-### Party State at End of Chapter 19
+### Party State at End of Chapter 20
 
-*(Ch 19 is the last written chapter. Sessions 17, 18, 18.5 and 19 are all published; `sessions/` has notes through session 19.)*
+*(Ch 20 is the last written chapter. Sessions 17 through 20 are all published; `sessions/` has notes through session 20.)*
 
-**Advancement:** All four PCs are **Knights of the Fifth Crusade** and mythic — **Level 9 Gestalt, Mythic Tier 3.** The tier came in Session 18 with the taking of Drezen; **Session 19 granted no advancement.** The live blog page (Vanguard line + milestone footer) is verified in sync at Level 9 / Tier 3.
+**Advancement:** All four PCs are **Knights of the Fifth Crusade** and mythic — **Level 9 Gestalt, Mythic Tier 3.** The tier came in Session 18 with the taking of Drezen; **neither Session 19 nor Session 20 granted advancement.** The live blog page (Vanguard line + milestone footer) was verified in sync at Level 9 / Tier 3 during the Session 19 pass and **needs no change for Session 20.**
 
 **Where they are and what they're doing:**
 - **DREZEN IS TAKEN.** The citadel is held, the **Sword of Valor is RECOVERED (Ch 18)** and flies over it. **The objective of Book 2 is complete.**
 - **The Queen's new mandate (Ch 19):** use Drezen as a base of operations and **explore the Wounded Lands to the south and west** for anything usable against the demons. Consult Sosiel, Aron, Irabeth on the region's history and legends. Reinforcements came north with the letter.
-- At the close of Ch 19 the four are on a **night wagon ride back to Drezen** from Delamere's tomb, with the rescued Erastilian priest **Jesker Helton** asleep in the bed and Korroc sitting up over him.
+- **The party is back in Drezen at the close of Ch 20**, having spent roughly five days on the western road. **Nageru rejoined them there** — he was away for almost the whole session.
+- **⚠ KORROC IS CLANLIEGE OF THE GRUNHULD-WINTERSUN (Ch 20)** — a Kellid clan of about four dozen, won by killing **Marhevok Grunhuld-Wintersun** in a challenge the man broke, and **resettled at Vilareth Ford**, where they doubled the size of the camp. **Beverach** leads them in his absence. Korroc promised them that **when the war ends they go wherever they want.** Irabeth: *"It won't be a problem unless it becomes a problem."*
+- **The raids on Vilareth Ford have stopped.** That was Korroc's first order as their liege.
 
 **The Stonevein arc — the campaign's live engine:**
 - **⚠ THE FATHERS SURVIVED (Ch 19).** Thorek and Borin were **captured, not killed**; **Staunton Vhane arranged the ambush**; they were put to work on the citadel they had helped build, dug **twenty feet** to a pre-fall water tunnel over better than a year, and escaped into the dry riverbed east of Drezen. **Neither is on the list of the dead. Neither was recorded as recaptured. WHERE THEY WENT IS OPEN — do not resolve it, do not kill them off-page, do not bring them back.**
@@ -191,20 +205,27 @@ Who knows what. The POV character can only narrate what they know — never let 
 - **Staunton arranged the ambush and Staunton is dead** — killed in Ch 16 over Thane's explicit objection after he asked for the man alive (*"Three days,"* was his estimate). **That disagreement is now permanently unresolvable and neither cousin has spoken of it. Live thread.**
 
 **Per character:**
-- **Korroc** wears **the Armor of the Pious** — *not* "the Armor of Iomedae" any more. It is old craft that **takes the mark of whoever is inside it**, and in Ch 18 the sunburst became **Torag's hammer and anvil** with no ghost of the old mark underneath. The "something I should know" was **smith-lore, not a hidden past.** From Ch 18 he wears **Torag on shield and chest alike** — the two-gods reading is over. *(Whose suit it was, who made it, and how it reached a demon's treasury are all still open.)* He is modifying it at the Purity Forge; **what he is adding is not established — needs the GM.**
+- **Korroc** now carries **boots of speed** (found in Drezen's stores) and can **widen the life-bond to take half** of a companion's wounds. He wears **the Armor of the Pious** — *not* "the Armor of Iomedae" any more. It is old craft that **takes the mark of whoever is inside it**, and in Ch 18 the sunburst became **Torag's hammer and anvil** with no ghost of the old mark underneath. The "something I should know" was **smith-lore, not a hidden past.** From Ch 18 he wears **Torag on shield and chest alike** — the two-gods reading is over. *(Whose suit it was, who made it, and how it reached a demon's treasury are all still open.)* He is modifying it at the Purity Forge; **what he is adding is not established — needs the GM.**
 - **Thane** carries **his mother's blade, his father's knife, and a punch dagger he made himself** at the Purity Forge. The blade he wipes after every kill **is a dead woman's knife, and has been for some time.** He was **possessed by Eustoyriax in Ch 18** and has told no one he was awake inside it.
-- **Caleth** carries **Radiance**, which now holds **a second working laid in at the Purity Forge** — Thane cut the channels, Caleth's own casting failed three times (*"It rejected an incompatible structure"* / *"It's got a latch already"*), and **Aravashnial seated it like a weld.** **⚠ WHAT THE WORKING DOES IS NOT ESTABLISHED — needs the GM before anything references it.** He still carries the Ch 15 wound (*"knowing wasn't enough"*), unspoken by anyone. The Drezen blueprints still ride folded in his spellbook.
+- **Caleth** carries **Radiance**, whose second working — laid in at the Purity Forge, Thane cutting the channels, Aravashnial seating it after Caleth's own casting failed three times — **✔ is *spell storing*, established in Ch 20.** *(Table ruling: Radiance is not normally alterable; it took because the work was done on the Purity Forge.)* **He keeps it loaded and has never discharged one.** He still carries the Ch 15 wound (*"knowing wasn't enough"*), unspoken by anyone. The Drezen blueprints still ride folded in his spellbook — and **the party's one true resurrection potion now rides against them**, in his innermost coat pocket, over his heart.
+- **⚠ CALETH'S PRIVATE Ch 20 REALIZATION, TOLD TO NOBODY:** Terendelev's *"be the kind one — even when the others choose the hammer"* was about **him**. In Session 20 he was the one who chose the hammer, and Korroc was the kind one. **Never says it aloud; nobody else may name it.**
 - **The *"we should talk later"* conversation FINALLY HAPPENED (Interlude 2) — and settled nothing.** Aravashnial interrogated the recharging mechanism and Caleth answered *"I don't know"* to nearly all of it; a second attempt in one day produces nothing at all. The elf proposed a testing programme and **Caleth fled up a staircase to escape it.**
-- **Nageru** received two letters in Ch 19 — one from his parents **Elara and Kaelen**, one from **Sister Lyra** charging him to find **a lost fane of Irori** near Drezen. He has told the party almost nothing. Lyra's line ***"There is always another step"*** has escaped into the story: he said it aloud on the night march, **Thane overheard and it landed hard, and Nageru does not know that.**
+- **Nageru** received two letters in Ch 19 — one from his parents **Elara and Kaelen**, one from **Sister Lyra** charging him to find **a lost fane of Irori** near Drezen. He has told the party almost nothing. **⚠ HE WAS ABSENT FOR SESSION 20 AND IT WAS NOT THE FANE** — he went back to Drezen to see **Jesker Helton's atonement performed**, because *"a patient is a thing that waits."* **The fane remains entirely untouched; do not credit that trip to it.** Lyra's line ***"There is always another step"*** has escaped into the story: he said it aloud on the night march, **Thane overheard and it landed hard, and Nageru does not know that.**
 
 **NPCs and prisoners:**
 - **STAUNTON VHANE IS DEAD** (Ch 16). **NURAH DENDIWHAR IS DEAD (Ch 18)** — she got out of her irons, began a teleport, **Aravashnial reversed it**, she was called on to surrender, chose to fight, and was killed. **She never reached the Queen.** Reported by Irabeth, not witnessed by the party. Thane: *"She made her choice."*
 - **Joran Vhane** is **in custody in Drezen, working the Purity Forge under guard.** He **can no longer cast healing magic (Ch 17)** — four live causes, **do not pick one.** Korroc changed tactics after watching his own armor decide what it belonged to: *"I can't hammer a man into a shape."* He handed him a hammer instead. **He is not being redeemed by argument; he is being left alone next to an anvil.**
-- **Jesker Helton** — Erastilian priest, rescued from Delamere's tomb in Ch 19, was possessed, and **Korroc offered him atonement, which has been offered and NOT yet performed.**
+- **Jesker Helton** — **✔ ATONED (Ch 20) and GONE.** **Sosiel Vaenic** performed the rite over most of a morning with **Nageru witnessing**; Jesker is clean, knows it, and is explicit that it settles nothing (*"a god forgives you in a morning"*). He has left for his home temple to **atone through deeds** and intends to come back, leaving someone to finish cleaning the Drezen shrine. He gave the party a **magic bow, arrows, and the symbols of Erastil.** His parting line — ***"Absolution's a beginning. A man can be forgiven and still owe"*** — was said in front of Thane, **who went still and said nothing.** *(His mother's lost wedding ring is still unfound and unexplained.)*
+- **NEW NPCs (Ch 20): Beverach** (acting leader of the Wintersuns at the Ford), **Kamilo Dann** (now feeding a doubled camp), and **⚠ Jerribeth** — a name off the back of a Baphomet scrying token, whom the party believes to be *"a beautiful elf woman"* and a Templar. **They must keep believing it. See `characters/npcs.md`.**
 - **Queen Galfrey** is not at Drezen; her mandate arrived by letter. Irabeth, Anevia, Aravashnial, Aron, Sosiel, Horgus and Klarah are with the company.
 
 **⚠ Threads deliberately left open — do NOT close any of these without the table:**
-the whisper below Drezen (stopped, unexplained, no retroactive credit) · where the fathers went · how Helja died · Joran's lost healing · what Radiance's new working does · whose armor Korroc is wearing · the lost fane of Irori and what its founders were waiting for · four loose vials from Ch 19 · Thane's silence about the possession.
+the whisper below Drezen (stopped, unexplained, no retroactive credit) · where the fathers went · how Helja died · Joran's lost healing · whose armor Korroc is wearing · the lost fane of Irori and what its founders were waiting for · four loose vials from Ch 19 · Thane's silence about the possession.
+
+**New from Session 20, and equally closed to invention:**
+**who Jerribeth really is** (the party must go on believing she is an elf) · **who sent the drake and where it flew** · **what language Marhevok screamed** (not Hallit, not Common, **not Abyssal** — his own clan did not know it either) · **what is in Aravashnial's sealed chest and who sent it** · **what became of Jestak**, now known to have been Grunhuld-Wintersun · **the shape that crossed the moon** on the night road · **Jesker's mother's wedding ring.**
+
+**✔ Closed by Session 20** *(recorded so nobody re-opens them by accident)*: Radiance's second working is **spell storing** · Jesker Helton's atonement was **performed** · the Wintersun bone spikes are **worn, not grown** — only Marhevok grew them, and only raging.
 
 ## Workflow Patterns
 
@@ -221,7 +242,7 @@ the whisper below Drezen (stopped, unexplained, no retroactive credit) · where 
 9. **Canon-update pass:** update character files (Established Moments + Current State), lore files, npcs.md as needed
 10. **Web-update pass:** update `games/src/app/wrath/page.tsx` Campaign Arc Status section + write `website/updateN.md`
 11. **Song:** write `songs/sessionN.md`
-12. **Image prompt:** write `images/sessionN.md`
+12. ~~**Image prompt:** write `images/sessionN.md`~~ — **⚠ DEPRECATED (2026-09-06). Do not do this.** Image prompts are no longer kept in the repo. Do not write one as part of a session pass and do not offer it at the end of one; write one only if the author explicitly asks. See `memory/image-prompts-deprecated.md`.
 
 **The user often wants steps 8-12 spread across multiple turns, not done all at once.** Check before bundling.
 
@@ -256,7 +277,7 @@ These are phases of work, **not** sub-agents to delegate to. Same agent, same co
 
 - **Chapter.** Session notes + POV decision + style guide + previous chapter for voice + relevant canon → the full chapter in one sustained pass. **Do not split a chapter across passes or agents — voice fractures.**
 - **Song.** A Suno song for the session, or for a character. **THE ONE HARD LIMIT IS THE STYLE BOX: ~1,000 characters MAX, spaces included — Suno rejects anything over (tested: 1,054 was over).** The **lyrics box is NOT capped at 1,000** — that old rule was wrong. Suno accepts full-length lyrics (3,000+ chars confirmed in testing), so write the song to its proper length and do not truncate. Keep section tags short and put instrumentation/voice/tempo in the style box — but a *short* performance cue inside a tag (e.g. `[Verse - double time]`) is fine when it's needed to force a specific delivery. Single-register beats a four-stage build (Suno can't handle genre transitions). **No hard runtime cap** — let the song run its natural length; only ask for "no instrumental padding" if you actually want it tight. See `style-guide.md` → "Song Writing Rules (Suno)".
-- **Image prompt.** A cinematic image-generation prompt for the session. Follow the format in `images/session3.md` and `images/session4.md`.
+- ~~**Image prompt.**~~ **⚠ DEPRECATED — not part of the pipeline any more (2026-09-06).** `images/` stopped at session 6 and the practice was formally dropped after session 20. **Do not write one unless asked.** If asked, the old format in `images/session3.md` and `images/session4.md` still applies. The four existing files stay where they are as a record. See `memory/image-prompts-deprecated.md`.
 - **Web update.** Update the `wrath/page.tsx` Campaign Arc Status section + write `website/updateN.md`. Follow `memory/webpage-session-section.md`.
 - **Canon pass.** Update affected character files, lore files, and `npcs.md`. Targeted edits; no creative prose.
 - **Continuity check.** Verify the finished chapter against the canon files; flag contradictions to the user.

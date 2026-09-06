@@ -30,6 +30,10 @@
 ---
 
 ### Aravashnial
+**⚠ SOMEONE SENT HIM A LOCKED CHEST (Ch 20) AND HE DID NOT OPEN IT IN FRONT OF THE PARTY.** Roughly eighteen inches by ten, banded, good lock, an intact wax seal Caleth did not recognize, heavier than it looked. It reached Vilareth Ford by courier with orders to forward it to Drezen; Kamilo Dann handed it to Caleth; Caleth carried it a hundred and forty miles without opening it and noted precisely how much he wanted to. Aravashnial's reaction was *"How did you get this?"*, then both palms flat on the lid for a moment, then **nothing at all** — followed by one of the most efficient dismissals Caleth has ever received: *"Thank you. Oh — Irabeth will want to speak with you as soon as possible."*
+- **⚠ CONTENTS UNKNOWN AND SENDER UNKNOWN. DO NOT RESOLVE.** Caleth's own read on it: somebody was confident enough about Drezen to route a chest there by courier, either very early or **before the fortress fell.**
+- **He also identified the true resurrection potion that evening** and told the party to keep it, with a joke at Korroc's expense that was not entirely a joke. See `lore/items.md`.
+
 **Status:** Living. Eyesight fully restored (Ch 9). **⚠ REBUILDING THE RIFTWARDENS FROM DREZEN (Interlude 2).** With the Kenabres chapter destroyed alongside the Blackwing Library, he asked Irabeth for a building on the second day and had it on the third — sound stone off the west courtyard, good cellar, one door — and is **establishing a new Riftwarden safe house** there: rebuilding the order's membership and holdings, bringing in books that were not in Drezen a month ago. **He also oversees Drezen's magical defenses**, alongside Aron's physical ones.
 - **⚠ HE HAS NOT HIDDEN THIS.** His Riftwarden identity has been party-public since Ch 11 and he said it at a war table: *"the order is not dead while one of us is standing, and I am standing."* Any POV may narrate the safe house.
 - **⚠ BUT THE DEEPER LAYERS STILL HOLD** — his elder rank, the order's link to Caleth's parents, and that Caleth has known since Ch 4. **Caleth keeps turning up at that door without ever asking to be involved, and Korroc has noticed and does not understand it.** That is the correct amount for a non-Caleth POV to carry: the pattern, not the reason.
@@ -172,6 +176,8 @@
 **Appearance:** Young. Open-faced in a way the others are not — a man who has decided not to let the war hollow him.
 
 **Note:** Caleth recognized Shelyn's symbol immediately and went very still. The connection between Caleth and this faith is private and unspoken. Do not narrate what it means from a non-Caleth POV — only note that the reaction happened.
+
+**⚠ Key moment (Ch 20): HE PERFORMED JESKER HELTON'S ATONEMENT.** Most of a morning, done properly, **with Nageru standing witness throughout** — Nageru having traveled back from Vilareth Ford specifically because Sosiel *did not know the rite had been offered* and somebody who was in that cavern had to say what was said in it. **Jesker came out of it clean and knew it.** *(Caleth offered to stay for it, partly because Sosiel wears Shelyn's symbol and Caleth has never spoken to him about it in eleven months, and was turned down.)*
 
 **Key moments (Ch 14):** Arrived at the prisoner cages with soldiers and a litter and took the shadowblood casualty to the infirmary — the party's healer-of-record for the camp while the four fight ahead of it.
 
@@ -336,6 +342,12 @@ Everything the party "found" was part of the staging. **Korroc's paladin sight f
 **Role:** Leader of Citadel Drezen's siege-engine crew. Human-ish; furred armor, wild hair, horns bolted to her pauldrons, a greatsword nearly as long as she is. **Radiates evil** — Thane and Korroc both read it clearly, and Thane spared her anyway.
 
 **Her story:** **Lord Vhane was not happy that the siege crew failed** to hold the south, so he sent tieflings to kill them. They beheaded her twelve halfling crewmen. **She killed the tieflings** — the twelve headless bodies and twelve heads the party found in the barracks were the two sides of that. She was standing alone among them when Thane rolled through the door.
+
+
+**⚠ SHE WAS GRUNHULD-WINTERSUN — ESTABLISHED (Ch 20).** The clan the party met west of Vilareth Ford. **This retro-explains her entirely and nobody in the party has said so out loud beyond confirming it to each other over a corpse at dawn.**
+- **The horns bolted to her pauldrons were the clan practice, not decoration** — the Wintersuns lash old bone and horn to their armor in imitation of their demon-blooded clanliege. Thane's memory of her: *"somebody had gone to a lot of trouble to look like something they weren't."*
+- **And this is the part that matters: she read as EVIL to two paladins in one doorway, and every single thing she told them was true.** Thane spared her on a hunch he never adequately explained, and the chambers below, the Banner below, and Joran Vhane all came out of that hunch. **Session 20 put a whole village of people in front of the party who would read exactly the same way and were victims.** Caleth's private formulation over the body: *he was raiding, and he was in costume, and neither of those facts does anything at all to the other one.*
+- **Still unaccounted for.** She went east over a battlefield with Caleth's written pass pinned over her heart and has not been seen since. **She may or may not know her clan is now resettled at Vilareth Ford under a dwarf. Open — do not resolve.**
 
 **What she gave the party (all of it load-bearing):**
 - **New chambers below the citadel** — a dungeon, not on the Stonevein blueprints. *"Anything important goes down there and happens down there."*
@@ -908,7 +920,23 @@ Thane's mother. Fourth Crusade veteran; fought alongside Thorek and came home wh
 ---
 
 ### Jesker Helton
-**Status:** **Living. Rescued (Ch 19).** Traveling back toward Drezen with the party, injured and exhausted, under Korroc's care.
+**Status:** **Living, atoned, and GONE (Ch 20).** He has left Drezen for his home country and the temple he came out of. **✔ THE ATONEMENT WAS PERFORMED** — by **Sosiel Vaenic**, over most of a morning, two days before the party returned from the Wintersun steading, **with Nageru standing witness for the whole of it** (Nageru went to Drezen expressly to see it done — see `characters/nageru.md`).
+
+**⚠ HOW TO WRITE HIM FROM HERE.** He is clean and he knows it and he says so, and he is explicit that it does not finish anything:
+> *"Clean. That's the honest word for it. Whatever was on me is off me, and I can tell, and I did not expect to be able to tell. And it doesn't finish anything. A god forgives you in a morning. It took me a month to wreck that shrine and it will take longer than a morning to be a man those people can look at."*
+
+**He is not hiding.** He said that part firmly, as a man who had argued it with himself and won: there is work at home and people who knew him before, he intends to be useful in front of them for a long time, **and then he intends to come back.** He left someone in charge of finishing the cleaning of the Drezen shrine. **His trust is being rebuilt through deeds, not restored by the rite.** His parting line — ***"Absolution's a beginning. A man can be forgiven and still owe"*** — was said in front of Thane, **who went completely still and said nothing.** *(See `characters/thane.md`. That is the strongest live use of this NPC and he is not even in the room for it.)*
+
+**The visible change:** in the cavern he could not hold anyone's eyes for more than a second and a half. In Drezen he stood up off the bed and looked all three of them full in the face, one after another, and it cost him something, and he did it anyway.
+
+**⚠ HIS PARTING GIFTS (Ch 20):** a **magic bow and arrows** and **the symbols of his god**, pressed on the party over their objections. Erastil's own holy symbol *is* a bow — Caleth noted the shape of a man giving away his god's own emblem on his way out, and noted also that it was **the second bow of the week**, the first being the one nobody would take off Delamere's corpse. **See `lore/items.md`.**
+
+**⚠ STILL UNPAID:** his **mother's wedding ring**, worn on a cord and lost during the possession, has never been found or explained. He did not raise it on his way out. *(Original plant — keep it.)*
+
+---
+
+### Jesker Helton — the possession (Ch 19 record, kept for reference)
+**Status at rescue:** injured and exhausted, under Korroc's care.
 
 **Role:** A young human cleric of **Erastil**, and the first person in this campaign the party has saved *from* something rather than avenged. He came north out of genuine scholarly interest in the **old Sarkorian worship of Erastil** — the pre-crusade, local shape of it — and set up a small shrine in a house in Drezen's eastern quarter, cleaning most of the block himself.
 
@@ -918,9 +946,9 @@ Thane's mother. Fourth Crusade veteran; fought alongside Thorek and came home wh
 
 **State at rescue:** armor caked with days of dried vomit, five days of severe heat, cracked ribs, and a sincere, articulate intent to throw himself into a lava river — *"I've only brought shame upon my family, my god, and all the people who loved and trusted me."* Thane read the possession off him first (his heels arguing with his knees) and named it under his breath. Caleth's hold person flushed the demon out.
 
-**⚠ HE STILL RADIATES CHAOTIC EVIL.** Korroc examined him after the fight and ruled it correctly and out loud: **the aura is residue of the possession, not evidence that Jesker embraced anything.** Korroc offered him **atonement** — *"just because a demon has warped your mind doesn't mean you're beyond redemption"* — and Jesker, shaking and silent, nodded. **The atonement has not been performed. Open thread.**
+**HE RADIATED CHAOTIC EVIL AT RESCUE.** Korroc examined him after the fight and ruled it correctly and out loud: **the aura was residue of the possession, not evidence that Jesker embraced anything.** Korroc offered him **atonement** — *"just because a demon has warped your mind doesn't mean you're beyond redemption"* — and Jesker, shaking and silent, nodded. **✔ PERFORMED in Ch 20 by Sosiel Vaenic, with Nageru witnessing. See the live entry above.**
 
-**How to apply:** he is a man who will have to face a congregation whose shrine his own hands wrecked. **Do not have him bounce back.** And note the structural rhyme the chapter is built on: he was ridden and is being offered a road out in public, while **Thane was ridden three weeks earlier and has never told anybody.**
+**The structural rhyme the Ch 19 chapter was built on, and it is still live:** he was ridden and was offered a road out in public, while **Thane was ridden three weeks earlier and has never told anybody.** ⚠ **Ch 20 sharpened it rather than spending it** — Jesker, atoned and leaving, said *"a man can be forgiven and still owe"* in front of Thane, and Thane went still and said nothing.
 
 ---
 
@@ -928,6 +956,14 @@ Thane's mother. Fourth Crusade veteran; fought alongside Thorek and came home wh
 Living, at **Vilareth Ford**. One of the prisoners the party freed from the tiefling camp there in Ch 9; Thane first saw her in a rope pen with her wrists tied. In Ch 19 she recognized them on the road, organized their entire resupply inside an evening (*"Anything for the Queen's heroes"*), and had a horse and two wagons waiting in the morning at an hour Thane had not expected her to be up.
 
 **She gave them the warning, and Thane logged that she had:** demon patrols move through the country west of the ford and come close some weeks, and **there are reports of demons taking up residence in Eagle Rock itself.** Caleth: *"Luck? Do we need luck?"* — *"Anyone heading west needs luck."*
+
+**⚠ SESSION 20 — SHE NOW RUNS A CAMP THAT HAS DOUBLED IN SIZE.** The Grunhuld-Wintersun raids on the Ford were her standing problem: *"Everything we can think of. They just send more."* She had taken a few alive and gotten nothing (*"they don't talk, and the first chance they get, they fight"*), knew where the settlement was, and could not spare the people — **and named her actual priority out loud, correctly, in a way that stopped Caleth from making a plan out of her: *"Our first priority is keeping the supply route open to Drezen."*** She is a quartermaster before she is anything else, and the prose respects her for it.
+
+**Then the party came back over Eagle Rock with about four dozen Kellids.** *"How many do you* **HAVE?** *"* — *"A few dozen. Not too many."* — *"Not too many. That will double the size of this camp."* She looked at every problem in the world arriving over a hill at walking pace, sighed, and said: ***"All right. We can do this."*** **She did not refuse and she did not pretend it was easy. Write her that way.**
+
+**She was wrong about the bone spikes and took it well.** Her report was *"they've got the bone spikes coming through the skin"* — which every soul in the Ford would have sworn to. Caleth corrected her off the body (drilled, pegged, sinew-whipped, ordinary skin underneath) and she laughed at herself: *"I was twenty yards off in the dark with a man coming at me, and I saw bones sticking out of him, and I did not stop to check the knots. Saints. It's amazing anybody ever learns anything true about anything."*
+
+**⚠ SHE HANDED OVER A SEALED CHEST FOR ARAVASHNIAL (Ch 20).** Brought to her at the Ford by a courier with orders to forward it to Drezen, addressed to *"a Master Aravashnial."* See the Aravashnial entry and `lore/items.md`. **She does not know what is in it.**
 
 ---
 
@@ -951,3 +987,65 @@ Nageru's mentor, and the voice of his order in the wider campaign. Writes with r
 An **old Sarkorian priestess of Erastil**, pre-Worldwound. Taught that cities were the greatest blight humanity ever conceived and that any settlement of more than **fifty-three** people was inherently evil — the number derived from a diagram rather than arithmetic (a family of five at the center of six families of five), making the **fifty-fourth person in any settlement an outsider to the family and therefore a likely traitor to it**. Caleth's summary: *"Known for what?" / "Being wrong, mostly."* Controversial, but popular enough in the small towns of northeastern Sarkoris that she was buried in a sizable tomb, and the families of her followers have been assured places in it ever since. Her teachings survive in a near-heretical green-leather book, ***The Stag King's Bride***.
 
 **Her tomb** is in the **Weeping Hills**, at the bottom of a 200-foot chasm with a river of molten rock running through it. **Her body lies in a slab of smoky crystal on a ledge, wearing magic items, with what appears to be a bow laid alongside her.** The party **deliberately left all of it untouched** on Nageru's ruling. *(An unclaimed debt of a different kind: nobody with the right to decide is likely to come for years, if ever.)*
+
+---
+
+## New in Session 20
+
+### Marhevok Grunhuld-Wintersun — DEAD (Ch 20)
+**Status:** **Dead.** Killed by Korroc's warhammer in two blows, in the challenge-circle outside Wintersun Hall, after he broke the terms of his own duel. **His body was burned without rites, at Caleth's ruling, with Caleth standing and watching it with the clan.**
+
+**Role:** Clanliege of the **Grunhuld-Wintersun**, and the reason a beaten people were living in the middle of the Worldwound.
+
+**Appearance (unraged):** tall, muscular, deeply tanned, lank black hair, gray eyes, a curt expression, a deliberate slouch on a fur-covered stone throne. **Raged:** the body swells and contorts, the skin darkens through red to arterial, great horns split up out of the brow, and **bone spurs tear up out of the flesh along the forearms, shoulders and spine.** ⚠ **The face stays his.** Caleth's read: *"There is no seam. It's him. It's all the way through him and it goes with his temper."* **He is not possessed.**
+
+**What the party knows:**
+- He worshipped **Baphomet** and wore an unholy symbol given to him by someone he called **"my mistress."**
+- He believed an army was coming *for him* — his first read of the party was *"So you weren't sent by her. You're too weak. You're not from my mistress."*
+- He ordered a stranger's throat cut in his own hall for the crime of being the smallest man present: *"Beverick, take the smallest one."* **He had his own right hand's name wrong.**
+- He accepted a challenge, lost it three times, **and then broke it.**
+
+**⚠ HIS LAST WORDS WERE IN A LANGUAGE NOBODY KNEW.** He threw his head back and screamed something that was **not Hallit, not Common, and specifically not Abyssal** — Caleth knows Abyssal and ruled it out on the spot. **Nobody else in that circle understood it either. The drake's head came up sharply at it.** ⚠ **The GM has not said what it was. DO NOT IDENTIFY IT.**
+
+**What Beverach told the party afterward (all of it hearsay from a frightened man, and all of it apparently true):** a clan curse going back to an ancestor named **Corag Grunhuld-Wintersun**, who stayed behind when the Worldwound opened and was commended for his bravery; demonic exposure that has been coming out in the bloodline ever since as deformity, and worse; Marhevok seeming to escape it, then **saving his family from demons, being gravely injured, and finding afterward that his rage brought the shape with it.** **His three brothers tried to remove him from power and he slaughtered them, and the clan fell in line.** He then marched them back into the Worldwound to reclaim the ancestral steading.
+
+⚠ **WHAT THE PARTY DOES *NOT* KNOW, AND MUST NOT LEARN ON THE PAGE WITHOUT THE TABLE:** that Marhevok had fully embraced his condition and had been an avid Baphomet worshipper for years; that Jerribeth is a **glabrezu** of the Templars of the Ivory Labyrinth rather than an elven woman; and that she had **no plans for him at all** — he was one more entry in her hobby of destroying families. *(GM background, supplied out-of-character. Beverach's version is the party's version.)*
+
+---
+
+### Beverach — acting leader of the Grunhuld-Wintersun
+**Status:** Living, at **Vilareth Ford**. **⚠ KORROC'S APPOINTED RIGHT HAND**, over his own protest — *"What? I'm not sure I—"* / *"You'll be my right hand. Lead them while I'm away."*
+
+**Role:** The big bearded warrior Marhevok ordered to cut Thane's throat, **who hesitated for a full beat before unslinging his axe.** He did most of the clan's talking afterward.
+
+**⚠ THE THING TO REMEMBER ABOUT HIM.** He is not brave in the ordinary way and the prose is careful about it. He was visibly terrified — hands, face, the flinch of a man who has learned what happens when you contradict an armed man in this village — **and he walked up to a lit holy blade and argued with Caleth anyway, on behalf of a man he had hated for years, for the sake of children not yet born.** *"He held a curse. Our family's curse. He had no children of his own. If the body burns, we hoped it might go out of the line with him."* **That argument is what turned Caleth, and Caleth knew perfectly well it was not the reasoning that had turned him.**
+
+**Also his:** *"The raids were never what we wanted. We only did what our leader ordered."* And the clan's history: *"Generations ago, before the Worldwound, this was our tribe's home. We left. He made us come back."*
+
+**Name note:** **Beverach**, not *Beverick.* Marhevok called him Beverick for years and nobody corrected him. **Use Beverach.**
+
+---
+
+### Jerribeth — "my mistress"
+**Status:** Living, unlocated, unmet. ⚠ **A LIVE THREAD AND THE BEST ENEMY LEAD OUT OF SESSION 20.**
+
+**What the party has:** a name engraved on the back of a Baphomet unholy symbol, and Beverach's account — **"a beautiful elf woman"** who visited Wintersun Hall two or three times, gave Marhevok the symbol, called herself his mistress, and **promised him a place as a leader of her armies** if he raided the eastern border until she sent for him. She never sent for him.
+
+**What Caleth worked out and the clan did not:** the symbol was **a scrying focus for the giver**, not a gift to the wearer. *"He was on a leash and he thought it was a medal."* **Caleth threw it into the ice-rimed pool inside the hall rather than carry an open window on his own back** — *"Let her look at the bottom of a pond, and wonder."*
+
+⚠ **THE PARTY BELIEVES SHE IS AN ELVEN WOMAN AND A TEMPLAR. KEEP THEM BELIEVING IT.** *(GM background — do not write it, do not hint it, do not let a paladin's sight or an elf's scholarship stumble into it: she is a **glabrezu** and one of the leaders of the **Templars of the Ivory Labyrinth**, and Marhevok was never going to be given anything. The author has asked that this stay entirely off the page.)*
+
+---
+
+### The Drake at Wintersun Hall — UNRESOLVED
+**Status:** **Alive, at large, flew west.** Never named, never spoken to, never explained.
+
+A blue dragon-like creature about the length of a cart horse, which lay in a **pool of standing water rimed with ice** in a windowless stone hall with a fire in the next room. It came outside to watch the duel and settled in the dirt like a dog. **⚠ ITS BREATH IS A BURST, NOT A CONE.** It detonates like a fireball made of ice — *"a blossoming explosion of glittering white"* — and leaves the ground it lands on sheeted over. **Do not write it as a dragon's cone.** *(Corrected 2026-09-06 at the table's word; the chapter says burst.)*
+
+**It breathed twice** — the first burst caught both dwarves, iced the ring, and went straight into Korroc's Elemental Imbalance; **the second was rewritten into a ball of fire in mid-air by Caleth's standing inversion ward**, which is the only reason Korroc walked out of that ring.
+
+**⚠ TWO THINGS ABOUT IT, BOTH OPEN:**
+1. **It understood Marhevok's final scream** — or at least reacted to it. Its head came up sharply while the whole clan looked at each other in blank incomprehension.
+2. **When Marhevok died it did not flee. It left.** Spread its wings, took two steps, went up, and flew **west** over the tents without hurrying. Thane, wiping a dagger: ***"That's off to tell somebody."*** Caleth did not argue, having been hoping to be talked out of the same thought. **A cold-blooded thing lying in a heated hall in an iced pool did not live in that room by accident. Somebody put it there.**
+
+⚠ **Do not resolve who sent it or where it went.** The obvious inference is Jerribeth. The obvious inference has been wrong before in this campaign and the prose has not committed to it.

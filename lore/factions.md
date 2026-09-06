@@ -59,6 +59,7 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 - **Areelu Vorlesh** — the witch who opened the Worldwound; the operative who "finished with the wardstone"
 - **Nurah Dendiwhar** — *caught and confessed, Ch 14; **dead, Ch 18**.* Long-term saboteur planted at Queen Galfrey's elbow; recruited and vetted by **Minagho** at Raliscrad, run for years inside the crusade. She broke out of the camp, began a teleport, had it reversed by Aravashnial, and **chose to fight rather than surrender.** She never reached the Queen.
 - **Kiranda** (dead, Ch 16) — a **succubus**; Nurah's handler. Wore a rescued prisoner's shape to walk at the party's backs before knifing Caleth.
+- **⚠ Jerribeth** — *new, Ch 20; alive, unlocated, never met.* Recruited **Marhevok Grunhuld-Wintersun** by visiting his hall two or three times, gave him a Baphomet symbol that was in fact **a scrying focus for her own use**, called herself his mistress, promised him command in her armies, and then left him raiding the crusade's eastern supply road for a year and never sent for him. **The party has her name off the back of that symbol and Beverach's description — "a beautiful elf woman" — and nothing else.** ⚠ **GM background the party must not learn on the page: she is a *glabrezu* and one of the Templars' leaders, and she had no plans for Marhevok at all.** See `characters/npcs.md`.
 - Several unnamed Templars killed in the underdark — the wizard at the campfire, the two at the spore cougher, the two in the ritual chamber
 
 **The Ivory Sanctum** — named for the first time in Ch 16 by Joran Vhane: *"Staunton was never the same since he came back from the Ivory Sanctum."* A place within the cult's reach that **changes the people sent to it.** Nothing more is known. **Do not invent its nature — wait for the GM.**
@@ -229,7 +230,7 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 
 ## Active Plot Threads
 
-*Updated through Session 18 + Interlude 2.*
+*Updated through Session 20.*
 
 **Closed:**
 - ~~Deliver the S. V. letter to the surface~~ (Ch 5) · ~~Identify S. V.~~ (Ch 8 — Staunton Vhane) · ~~Burn the Kenabres safe houses~~ (Chs 4–5) · ~~Reach Irabeth and the Eagle Watch~~ (Ch 5) · ~~Wield Radiance~~ (Ch 6 — it chose Caleth) · ~~Find the saboteur~~ (Ch 14 — Nurah, caught and confessed) · ~~Kill Staunton Vhane~~ (Ch 16) · ~~Learn how Drezen actually fell~~ (Ch 17 — Staunton's journal; **he took the Sword of Valor himself and says the choice was his**) · ~~Stop the ritual under Drezen~~ (Ch 17 — Chorussina dead, half the city saved) · **~~RECOVER THE SWORD OF VALOR~~ (Ch 18 — the Book 2 objective, complete)** · **~~TAKE CITADEL DREZEN~~ (Ch 18 — seventy-five years ended in an afternoon)** · ~~Kill Eustoyriax~~ (Ch 18) · ~~The two dungeon debts~~ (Ch 18 — Idrian Vosner carried out alive; the six spawn given the full rite) · ~~Nurah's judgment~~ (Ch 18 — she ran, Aravashnial reversed her teleport, she chose to fight and was killed)
@@ -257,7 +258,46 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 17. **Defeat Khorramzadeh, the Storm King** (late campaign)
 18. **Close the Worldwound** (campaign endgame)
 
+**New from Session 20:**
+22. **⚠ JERRIBETH.** A name engraved on the back of a Baphomet symbol taken off a dead clanliege, and a description — *"a beautiful elf woman"* — from a frightened barbarian. She recruited **Marhevok Grunhuld-Wintersun**, gave him a scrying token he thought was an honor, promised him command in her armies, and left him raiding the crusade's supply road for a year without ever sending for him. **Caleth threw the token in a pool rather than carry an open window on his back.** ⚠ *The party believes she is an elf. Keep them believing it — see `characters/npcs.md`.* **This is the clearest new enemy lead out of Book 2's aftermath.**
+23. **⚠ THE DRAKE FLEW WEST.** The blue drake that lay in an iced pool inside Wintersun Hall reacted to Marhevok's untranslatable last words, and when he died it **did not flee — it left**, unhurried, westward. Thane: *"That's off to tell somebody."* **Somebody put that creature in that room. Unresolved.**
+24. **⚠ THE LANGUAGE MARHEVOK SCREAMED.** Not Hallit, not Common, **and specifically not Abyssal** — Caleth knows Abyssal and ruled it out. **His own people did not understand it either — the entire clan looked at each other in blank incomprehension.** The drake did. ⚠ **The GM has not said what it was. Do not identify it.**
+25. **⚠ A LOCKED CHEST REACHED ARAVASHNIAL BY COURIER**, forwarded from Vilareth Ford, sealed with a mark Caleth did not recognize. He did not open it in front of the party and said nothing about it. **Sender and contents unknown.** Caleth's read: either somebody was confident about Drezen very early, **or it was sent before the fortress fell.**
+26. **KORROC HAS FOUR DOZEN DEPENDENTS AND MADE THEM A PROMISE.** The Grunhuld-Wintersun are resettled at Vilareth Ford under **Beverach**, doubling the camp, and Korroc told them that **when the war ends they are free to go wherever they want.** Irabeth's verdict: *"It won't be a problem unless it becomes a problem."*
+27. **THE PARTY HOLDS ONE TRUE RESURRECTION.** One corpse, one use, potency gone within a day of opening. **Caleth carries it.** *(See `lore/items.md`. Do not spend it off-screen.)*
+28. **JESKER HELTON HAS GONE HOME TO ATONE THROUGH DEEDS** — the rite performed, the man clean, the trust still to be earned, and an intention to come back. **His mother's wedding ring is still lost and still unexplained.**
+
 **New from Interlude 2:**
 19. **⚠ ARAVASHNIAL HAS FOUND SOMETHING CONCERNING THE STONEVEIN FATHERS.** He assembled maps and ledgers — including a survey old enough for the edges to have gone soft and brown, showing passages and foundations beneath the western side of the citadel that appear on nothing the party has seen. He had **Aron and Irabeth verify it before he would say a word**, then asked both of them to leave. Irabeth's word was ***found***, not *suspected*. Aron: *"I think you should hear all of it before you decide what it means."* **This is the direct answer to Thane's Ch 17 wound — *the record is wrong and no one is coming to fix it.* Someone is now coming to fix it.**
 20. **The Purity Forge refused people, and killed some of them.** *"The forge doesn't accept everyone."* Joran passed a test on a stolen holy sword and cannot say why he passed. **Nobody has asked what "accept" means now that it has been cleansed, or whether it still chooses.**
 21. **Joran Vhane crossed into Torag's chapel carrying Droskar's book** and nothing happened, and he stayed and scrubbed a wall. **His god stopped answering him years before the claw took his healing** — two separate losses, and he has named neither as the important one.
+
+---
+
+## The Grunhuld-Wintersun *(Kellid clan — new, Session 20)*
+
+**Type:** A Sarkorian Kellid clan. **⚠ As of Ch 20 they are allied to Queen Galfrey and their clanliege is KORROC STONEVEIN.**
+
+**⚠ HOW MANY THEY ARE — GET THIS RIGHT.** **About four dozen people in total.** Beverach's own count to Korroc: ***"About a dozen warriors. A few dozen more who are not."*** This is a **small village**, not a horde — a few dozen souls in hide tents. Do not inflate it; do not write crowds of hundreds into the challenge circle or the march.
+
+**Where they are now:** resettled at **Vilareth Ford**, where they roughly **doubled the size of the camp.** **Beverach** leads them in Korroc's absence.
+
+**History (as the party has it, from Beverach):** they fled Sarkoris when the Worldwound opened, like everyone else — but an ancestor, **Corag Grunhuld-Wintersun**, stayed behind to resist the first wave and was commended for it. The exposure got into the bloodline. Children have been born wrong ever since: a vestigial tail, a turned foot, and sometimes far worse. **Marhevok Grunhuld-Wintersun** appeared to escape the curse until he was gravely wounded defending his family from demons, after which his rages brought a demonic shape with them. He killed the three brothers who tried to unseat him, and marched the whole clan **back west into the Worldwound** to reclaim the ancestral steading.
+
+**⚠ THE BONE SPIKES ARE WORN, NOT GROWN. THIS IS THE CLAN'S SINGLE MOST IMPORTANT CANON DETAIL AND IT IS EASY TO GET WRONG.**
+- **Only Marhevok ever grew them, and only when he raged.**
+- **Everyone else lashes old bone and horn to their armor in imitation of him** — drilled at the base, pegged through boiled leather, whipped down with sinew, the bone old and worn smooth where a nervous hand goes.
+- Caleth established it off a corpse at dawn: the spike **turned in his fingers**, and there was ordinary scarred shoulder underneath.
+- **Jestak's horns were *bolted* to her pauldrons — the same practice** *(retro-established Ch 20; see `characters/npcs.md`)*.
+- **Caleth's conclusion: camouflage, not worship.** *"They dress as the thing that eats them so it will look past them, and they have been doing it so long that everyone downriver believes the whole clan is what he is."* Nobody in the challenge-ring was cheering when their clanliege transformed; they watched it the way you watch weather come over a hill.
+- ⚠ **Every account outside the clan gets this wrong**, including Kamilo Dann's and, by extension, the crusade's. *"It's amazing anybody ever learns anything true about anything."*
+
+**Their condition when the party arrived:** squalid, frightened, and beaten. Tents pitched inside the stone footprints of the town their grandparents abandoned. Adults who backed away from strangers; children who were silent and knew to be. **A midden of broken weapons, refuse and human body parts on the east side of the hall — which doubled as the village's entire early-warning system**, because the scavengers on it shriek and scatter when anyone approaches. Two women were found **chained to a wall inside the hall** and freed. **The raids on Vilareth Ford were Marhevok's orders and nobody's wish:** *"The raids were never what we wanted. We only did what our leader ordered."*
+
+**Wintersun Hall** — the one building of the old steading still standing, and in remarkably good repair. Squat stone, peaked roof, **no windows**, only smoke vents under the roofline, one pair of heavy barred doors, fifty feet of ground cleared by axe all around. Inside: an entry hall painted floor-to-beam with landscapes of a Sarkoris that no longer exists (forests, a lake with birds standing in the shallows, proud Kellids in hides with bows and spears), flanked by **a stuffed rearing bear and a mounted golden eagle**, both old, both repaired more than once, badly and with great care. **They carried those a hundred miles out of this country and a hundred miles back into it.** A common hall with **murals of ceremonial combat whose combatants' faces have been gouged out** while the painted audience was left untouched — *a house that objects to the idea of a fight with a judge in it.* And a throne room ringed by carved columns of men and women looking down in judgment, with a fur-covered stone throne and **a pool of standing water rimed with ice.**
+
+**⚠ Live threads out of this clan:**
+- **Korroc's promise:** when the war is over, they go wherever they want. *He said it out loud to all of them.*
+- **Jestak** is Grunhuld-Wintersun and is still unaccounted for, somewhere east.
+- **Jerribeth** knows where the steading is and had a client there. **The drake flew west.**
+- **Kamilo Dann now has to feed and employ them**, and said *"it won't be a problem unless it becomes a problem"* is Irabeth's version of the same worry.

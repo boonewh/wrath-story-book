@@ -97,9 +97,24 @@ His blood manifests in:
 - Charge: **Divine Smite empowerment for one fight** — for a duration, his unarmed strikes count as good-aligned, magic, and overcome demonic resistances.
 - Used in Chapter 3 against the dretches, and again in Chapter 7 to unmake more of them.
 
-## Current State (End of Session 19)
+## Current State (End of Session 20)
 
-### ⚠ THE FANE OF IRORI — HIS OWN QUEST, ASSIGNED IN Ch 19. THIS IS THE BIG ONE.
+### ⚠ SESSION 20: HE WAS ABSENT — AND THE FANE WAS *NOT* WHY
+**⚠ READ THIS BEFORE WRITING ANYTHING THAT TOUCHES THE FANE.** Nageru left the party at Vilareth Ford on the first morning of Session 20 and returned to Drezen. **His business was the atonement, not the fane. He has not begun looking for the fane, has not asked anyone about it, and has not mentioned it to a soul since Ch 19.** *(Player was absent from the session; the in-fiction reason is entirely his own and entirely in character. Do not retroactively credit this trip to the Irori quest.)*
+
+**What he actually did, and it is the best thing he has ever done off-screen.** Korroc had offered **Jesker Helton** atonement in Delamere's cavern and the rite had not been performed. Nageru worked out what nobody else had:
+
+> *"In an hour he will be in a bed in that fortress, being cared for by people who know exactly what he did to their shrine, and he will stop being a man who was offered something and start being a patient. A patient is a thing that waits. Nobody is unkind to him. Nobody refuses him. It simply moves down the list every morning, because there is always something bleeding, and a day becomes a week, and a week becomes the spring."*
+
+And the reason it had to be **him**: *"Sosiel Vaenic can do it... But he does not know it was offered. Somebody has to be there who was in that room, and say what was said in it, and stand up when it is done."*
+
+**✔ THE ATONEMENT WAS PERFORMED.** Sosiel Vaenic, over most of a morning, with Nageru witnessing throughout. Jesker is clean and says so. **This closes an open thread of Korroc's, and Nageru is the one who closed it.**
+
+**The line to keep:** Caleth offered to stay for the rite and was refused — ***"It does not require an audience. It requires a witness. There is a difference, and one is enough."***
+
+*(Note for POV work: Caleth felt a small ignoble sting over this — Nageru had done a sum about a **man**, in a place Caleth had not thought to look, while Caleth was being efficient about wagons. Nageru does not know that and must not be told.)*
+
+### ⚠ THE FANE OF IRORI — HIS OWN QUEST, ASSIGNED IN Ch 19. STILL UNTOUCHED.
 **Sister Lyra of the Order of Irori wrote to him** after word of Drezen reached the Sunken Fist. She opened with congratulation and immediately took it back: *"Remember that pride in an accomplishment is not the same as pride in oneself. **There is always another step.**"*
 
 **The charge:** there was once a **fane dedicated to Irori in the lands near Drezen** — never a large temple; a small, isolated place kept by brothers and sisters devoted to contemplation, discipline, and the pursuit of perfection. **When Drezen fell seventy-five years ago, all contact ceased. No member of the order returned. No reliable account of what happened there ever reached the Sunken Fist.** Until now there was no reason to look — the region was Abyssal ground and confirming the destruction of an abandoned temple was not worth lives. **Drezen is now held, and one of Irori's own stands inside its walls.**
@@ -129,7 +144,10 @@ Lyra's instructions, in her order: **find the fane. If it was destroyed, learn i
 - **⚠ Ch 19 — he made the ruling on Delamere's tomb, and it held.** Thane flagged the magic items on the corpse in the crystal, including a bow. Nageru: *"I do not think we touch the body... We are not followers of Erastil. It is not our tomb, and she is not our dead, and there is no one here to ask. Somebody may come who has the right to decide it. It should be them."* **Korroc agreed; Thane took it without a fight and privately confirmed to himself that it was an honest ruling and not the other kind.** *(Note the shape: the Lawbringer's answer to loot is jurisdiction, not scruple.)*
 - **Ch 19 — he found *The Stag King's Bride*** in the rubble of the smashed Erastil statue, and went very still inside the desecrated shrine before anyone read a word of the Abyssal on the walls.
 - **Ch 19 — he called Thane's cost by its right name.** On being told that being publicly known had destroyed a craft Thane spent three months learning: *"That is a real cost."* No comfort offered. He does not do comfort; he does accurate.
-- **⚠ HE HAS NOT HAD A POV CHAPTER SINCE Ch 13** — six chapters. Ch 18's beats are strong but all *witnessed from outside*, which is exactly the wrong way round for this character. **He is overdue, and he is the only PC without a character song.** ⚠ **As of Ch 19 he now has a named, personal, forward-looking quest of his own (the fane) — that is the chapter.**
+- **Ch 20 — he was in the first fight and then he left.** When the horse went up in the traces on the night road he was **at its head before anyone saw him move**, both hands on the cheekstraps, his face six inches from a rolling white eye, talking it down onto four feet while a bebilith came out of the dark at forty feet. Afterward he stroked its neck twice and stepped back, and the horse put its head down and looked for grass. **Then he asked leave, named his reason plainly, apologized for the timing (*"It is a poor time to be one man short"*), was told by Korroc that it was exactly the right time, and went.** He bowed the full bow to Caleth in a Drezen corridor and walked away barefoot on cold stone without looking back.
+- **Ch 20 — he stood against the wall for the whole of a stranger's atonement**, and was still there days later when the party came to say goodbye, and said nothing about any of it. Jesker named him unprompted: *"Your friend was there for all of it."* Korroc: *"He would be."*
+
+- **⚠ HE HAS NOT HAD A POV CHAPTER SINCE Ch 13** — **seven chapters as of Session 20**, and Session 20 he was not even present for. Ch 18's and Ch 20's beats are strong but all *witnessed from outside*, which is exactly the wrong way round for this character. **He is badly overdue, and he is still the only PC without a character song.** ⚠ **The fane remains the natural spine of that chapter — and it is still true that receiving a summons is not the same as answering it. Spend him when they actually go.**
 - **Level 9 · Mythic Tier 3** — tier gained in Session 18 with the taking of Drezen. *(Level unchanged at 9.)*
 
 - **Knight of the Fifth Crusade**, knighted by Queen Galfrey (Ch 9). Carries the **Righteous Medal of Agility** — given for delivering a death-blow to a demon before the demon acts. Earned again in Session 13 (a crossbow bolt caught from the air and returned through its owner) and again in Session 15 (the same trick, in a gallery of archers).
