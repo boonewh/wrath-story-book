@@ -11,80 +11,81 @@ The through-line a first-time listener needs, with no knowledge of the story: **
 ## Lyrics (paste into Suno lyrics box)
 
 [Intro]
-(one low chord, an anvil struck far off, let it ring out)
 
 [Verse 1]
-I read men the way I read metal
-Held him up against the light
-Looked for the black and there was none there
-Told my own blood to stand aside
-I have never in my life been able
-To leave the wrong tool in a hand
-Or the right one lying out of reaching
-That is the whole of what I am
+I read a man like iron
+I held him to the light
+There was no black inside him
+So I called the reading right
+I've never left a bad tool
+In a working man's hand
+I gave the dark its blade back
+Now I understand
 
 [Pre-Chorus]
-It came back clean.
-There was nothing there to find.
-Nothing there at all.
+It came back clean, it came back clear
+There was nothing there to find
+The reading was true, the reading was fair
+And the hole in it was mine
 
 [Chorus]
-They will tell you there's a bargain
-There's no bargain. There's a mouth.
+There's no bargain with the hungry
+There's no deal, there's just a mouth
 And a fool who's standing nearest
 With his good hand opened out
-I gave the dark its blade back
-And it waited, and it turned
-I opened it. I opened it.
-And I got what I had earned.
+I opened it, I opened it
+I gave the dark a blade
+I opened it, I opened it
+And I'll carry what I made
 
 [Verse 2]
-I have carried a live forge in me
-Since the day the great stone broke
-And I poured it out on every one of them
-Till there was nothing left to pour
-Then I stood in front of that old face
-The one that drank at my father's board
-And I went looking for the mercy
-And the well was cold and bare
+Been burning since the great stone broke
+I poured it out all day
+Gave a piece to every one of them
+And gave the rest away
+Then I looked into the old face
+That sat at my father's board
+And I went to find some mercy
+And there wasn't any more
 
 [Pre-Chorus]
-Not a scrap.
-I had handed it all out by noon.
-Not a scrap left for him.
+Not a scrap, not a grain
+I had given it all away
+The one man I could not forgive
+Came last in line that day
 
 [Chorus]
-They will tell you there's a bargain
-There's no bargain. There's a mouth.
+There's no bargain with the hungry
+There's no deal, there's just a mouth
 And a fool who's standing nearest
 With his good hand opened out
-I gave the dark its blade back
-And it waited, and it turned
-I opened it. I opened it.
-And I got what I had earned.
+I opened it, I opened it
+I gave the dark a blade
+I opened it, I opened it
+And I'll carry what I made
 
 [Bridge]
-(near-spoken, flat, the band down to a drone)
-My cousin wanted him breathing.
-He was right. He is right so often.
-I said: he dies here.
-I knew what it cost while I was saying it.
-I would say it again.
+He wanted the man breathing
+And he's right more than he's wrong
+I said the man dies here
+And I'd say it all night long
+I'd say it all night long
 
 [Final Chorus]
 Any fool can break a casting
-That has already gone wrong
+That was ruined from the start
 The craft is in the beaten iron
-Somebody else was cruel to
+That somebody tore apart
 So the hand that got bit twice today
-Comes open, slow, and then —
-No. You don't have to die, man.
-So I open it again.
+Comes open, slow, and then
+You don't have to die, man
+I'll open it again
 
 [Outro]
-Open it again.
-Open it again.
-(spoken) You could start by telling me where it is.
+Open it again
+Open it again
+Open it again
+You don't have to die
 
 ---
 
@@ -102,5 +103,5 @@ Slow doom-metal dirge, 62 BPM, funeral pace, never speeding up. Enormously heavy
 2. **If the chorus comes back triumphant:** Wrong emotion entirely. The chorus is a man admitting he caused something. Add "chorus is heavier but not uplifting, no major-key lift, no anthem."
 3. **If a choir or cathedral pad appears:** Same fix as the character anthem — "solo male vocal only, no choir, no church organ." Korroc's faith is a forge, not a cathedral.
 4. **If the vocal comes back clean or melodic:** "Gruff solo male baritone, gravel grit, spoken-edge delivery, low register" up front. Do not push to a death-growl — the words have to land.
-5. **If the spoken bridge gets sung:** Add (spoken) inline after each bridge line. The bridge is the disagreement with Thane and it has to sound like a man stating a decision he already knows he'll carry.
+5. **If the bridge loses its flatness:** The bridge is the disagreement with Thane, and it should be delivered level and stubborn — a man stating a decision he already knows he'll carry, not emoting. Add "bridge delivered flat and level, near-spoken, no vibrato" if it gets melodramatic.
 6. **Keep it distinct from "The Anvil Does Not Move."** That one is drums-forward, stomping, 100 BPM, certain. This one is slow, guitar-weight-forward, and the whole point is that the anvil moved.
