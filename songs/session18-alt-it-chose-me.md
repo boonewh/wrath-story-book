@@ -1,6 +1,6 @@
 🔨 "It Chose Me" — Driving Hard Rock *(alternate — not the session 18 keeper)*
 
-> **This is an alternate, kept on file.** The Session 18 song is [session18.md](session18.md) ("Give Him Back"). This version was built on the Armor of the Pious taking Torag's mark — right about the chapter, wrong about the table, where the armor read as a magic-item footnote and a song about it plays as a riddle. The musical direction here is the one that carried over.
+> **This is an alternate, kept on file.** The Session 18 song is [session18.md](session18.md) ("Get Out of My Skin"). This version was built on the Armor of the Pious taking Torag's mark — right about the chapter, wrong about the table, where the armor read as a magic-item footnote and a song about it plays as a riddle. The musical direction here is the one that carried over.
 
 An alternate **Session 18** song for [chapters/18-the-mark-it-chose.md](../chapters/18-the-mark-it-chose.md). Korroc's second per-session song, and the loud one — where [songs/session16.md](session16.md) ("Open It Again") is slow and guilty, this is uptempo riff rock with a gang-shout bridge and a guitar solo.
 

@@ -40,7 +40,7 @@ When a session ends and a new chapter is written:
 6. Update the **session header** (the small top label) — bump the session number
 7. Possibly update the **big gold title** — match the most recent chapter title, or use a narrative title that captures the current arc moment
 8. The **Terendelev card** can usually stay, but check whether its quote still feels current; refresh if needed
-9. **CHECK THE VANGUARD SECTION'S LEVEL/MYTHIC TIER LINE.** Earlier in the same page (under `{/* THE VANGUARD (CHARACTERS) */}`, around line 125) there is a span reading something like *"Level 3 Gestalt • Mythic Tier 0"*. This number must **stay in sync** with the Book/Tier/Level footer in the Campaign Arc Status milestone box. If a session levels the party up or grants a new Mythic Tier, **both places must update together.** There is an inline code comment at the Vanguard line warning about this; honor it.
+9. **⚠ UPDATED Session 21 — TIERS ARE PER CHARACTER NOW.** The Vanguard header shows **level only**; each Vanguard card carries its own `tier`; the milestone footer shows the **tier range** plus level. When a tier changes, update that card and the footer range together; when a level changes, update the header and footer together. See `memory/mythic-tiers-personal-quests.md`. *(Original instruction follows, kept for record.)* **CHECK THE VANGUARD SECTION'S LEVEL/MYTHIC TIER LINE.** Earlier in the same page (under `{/* THE VANGUARD (CHARACTERS) */}`, around line 125) there is a span reading something like *"Level 3 Gestalt • Mythic Tier 0"*. This number must **stay in sync** with the Book/Tier/Level footer in the Campaign Arc Status milestone box. If a session levels the party up or grants a new Mythic Tier, **both places must update together.** There is an inline code comment at the Vanguard line warning about this; honor it.
 10. **Write a per-session update note to `website/updateN.md`** (where N matches the session number). After landing the page edits, create a markdown file in `wrath-story-book/website/` that serves as the user's personal changelog of live-site changes. **Always write one when the section is updated.** Filename is `updateN.md` matching the session number; if a session has multiple edits over time, append to the existing file rather than creating new ones.
 
    **Format pattern** (set by `website/update4.md` — use this as the template):
@@ -67,6 +67,13 @@ hanging in an iron frame — and it was a joke.
 ```
 
 Do this for **every** inline span you add to a wrapped paragraph, even when the source looks like it has a space. Grep `</span> [a-zA-Z]` after editing to catch strays. *(The hero title around line 99 is an exception — it is a single unwrapped line and renders fine.)*
+
+**Theater of War map gotchas (added Session 21):**
+- **The map carries the per-session state in its hover pins.** Update the pin tooltips every session along with Campaign Arc Status. Current art: `worldwound-map3-1.jpg` (1000×667, framed `aspect-[3/2]`).
+- **Pin positions are percentages of the source art.** When the map art changes, re-derive them by drawing markers onto a copy of the image and checking each one visually. Never carry positions over from a previous map.
+- **Tooltips on pins below ~70% must be anchored `bottom-0`** (they open upward), or the frame's `overflow-hidden` clips them.
+- **The browser pane can report a 0×0 viewport**, which makes screenshots blank and layout measurements garbage. Resize it (e.g. 1400×950) before measuring, and reset it after.
+- **On mobile the 192px tooltips overflow the small frame.** This is pre-existing and not yet fixed; a `hidden lg:block` on each pin wrapper would solve it.
 
 **Other page.tsx notes:**
 - Apostrophes in **JSX text** must be escaped as `&apos;`; apostrophes inside the **card-array JS strings** are ordinary string content and need no escaping (typographic `’` is used there).

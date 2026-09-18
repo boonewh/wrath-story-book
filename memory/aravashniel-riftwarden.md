@@ -9,6 +9,8 @@ Aravashnial is a **Riftwarden elder** — the same secret order as Caleth's biol
 
 **Blackwing Library was a Riftwarden stronghold** — the order maintained the most extensive collection of writings on demons in Golarion there. Its destruction (revealed in Chapter 4) is Aravashnial's grief for the *order's loss*, not only for the books.
 
+**⚠ STATUS (Ch 21): TAKEN BY A SIX-LEGGED DRAGON; FATE UNKNOWN.** See [[aravashnial-taken]]. Everything below about the secret still holds, and his absence makes Caleth's unasked questions heavier, not lighter.
+
 **Status of the secret (post-Chapter 4):**
 - **Caleth knows** — revealed in a whispered conversation at Gwerm Manor.
 - **Korroc, Thane, Nageru, Anevia, Horgus, Klareth do NOT know.**

@@ -7,7 +7,7 @@ metadata:
 
 ## The charge inverted, and he told nobody
 
-For two years Caleth has carried Terendelev's cliff-dream line from Ch 2 — ***"There is one of yours coming who will need you to be the kind one. Be the kind one, Spireborn. Even when the others choose the hammer."*** — and read it as an instruction **about the others**: Korroc's theology, Thane's grudge, himself as the counterweight. He was rather pleased with himself for it.
+For almost a year Caleth has carried Terendelev's cliff-dream line from Ch 2 — ***"There is one of yours coming who will need you to be the kind one. Be the kind one, Spireborn. Even when the others choose the hammer."*** — and read it as an instruction **about the others**: Korroc's theology, Thane's grudge, himself as the counterweight. He was rather pleased with himself for it.
 
 **In Session 20 he was the one who chose the hammer.** He threatened a room (*"Touch my friend and be obliterated"*), won a duel three times over and enjoyed the winning, and ruled that a corpse deserved no rites.
 

@@ -30,6 +30,11 @@
 ---
 
 ### Aravashnial
+**⚠⚠ STATUS: TAKEN BY A DRAGON (Ch 21) — WHEREABOUTS AND FATE UNKNOWN.** The day after the party left Drezen for the western temple, **a six-legged flying dragon** attacked the citadel and concentrated on the courtyard. To draw it off while the courtyard was evacuated, **Aravashnial went up a tower with four soldiers and began summoning creatures.** It worked: the dragon turned on the tower, **the tower half-collapsed under them, and the dragon caught all five men in the air as they fell and carried them off.** No one has found them since. Recovered and laid on Irabeth's table: **his staff, broken in two**, with a helm, a sword and pieces of armor. *(Reported by Aron Kir; the party was away and saw none of it.)*
+- ⚠ **DO NOT RESOLVE:** whether he is alive, where he was taken, what the dragon is or who sent it, or whether the four soldiers survived. **Do not connect the dragon to the shape that crosses the moon.**
+- ⚠ **Left behind and now ownerless:** his **unopened chest** (Ch 20) and the **Riftwarden safe house** he was building in Drezen. Nobody has gone through either. Don't have anyone do so without the table.
+- **Caleth's reaction was one small sound.** The reason it lands so hard on him, as the elder of his parents' order and the man who still has not told him what he knows, **stays private to Caleth.**
+
 **⚠ SOMEONE SENT HIM A LOCKED CHEST (Ch 20) AND HE DID NOT OPEN IT IN FRONT OF THE PARTY.** Roughly eighteen inches by ten, banded, good lock, an intact wax seal Caleth did not recognize, heavier than it looked. It reached Vilareth Ford by courier with orders to forward it to Drezen; Kamilo Dann handed it to Caleth; Caleth carried it a hundred and forty miles without opening it and noted precisely how much he wanted to. Aravashnial's reaction was *"How did you get this?"*, then both palms flat on the lid for a moment, then **nothing at all** — followed by one of the most efficient dismissals Caleth has ever received: *"Thank you. Oh — Irabeth will want to speak with you as soon as possible."*
 - **⚠ CONTENTS UNKNOWN AND SENDER UNKNOWN. DO NOT RESOLVE.** Caleth's own read on it: somebody was confident enough about Drezen to route a chest there by courier, either very early or **before the fortress fell.**
 - **He also identified the true resurrection potion that evening** and told the party to keep it, with a joke at Korroc's expense that was not entirely a joke. See `lore/items.md`.
@@ -462,6 +467,9 @@ It took an hour and a half. **Nobody else on that rock knew the room existed** �
 ---
 
 ### Arueshalae
+**⚠ JERRIBETH HAS PUT A BOUNTY ON HER (Ch 21).** Among documents in a trapped cabinet at the western temple (the fane of Irori): **one thousand platinum** for the capture of *"a traitor succubus who escaped from the prisons in Drezen."* **The document does not name her.** The party is certain anyway and said so: Nageru named her out loud; Korroc: *"But it's her."* Caleth: *"How many succubi do you think have escaped from under Drezen?... A thousand platinum is not what you pay for a deserter. It is what you pay for something you are afraid of."* Thane, flatly: *"So she's walking. Somewhere out there. On foot. With that on her head. Good luck to her."*
+- ⚠ **Still never met, and still: do not have her turn up without the GM.**
+
 **Status:** At large somewhere in the Worldwound. **Never seen. Her cell was.**
 
 **Role:** A **succubus** — and, per Staunton's own journal, an **apostate**: *"Arueshalae. Succubus. Heretic. Apparently even the Abyss has apostates."* Captured personally by **Aponavicius**, imprisoned below Drezen in a magically warded cell, and slated for transfer to a specially prepared oubliette in the **Rasping Rifts**. Aponavicius would not say why she rated that much attention.
@@ -1049,3 +1057,25 @@ A blue dragon-like creature about the length of a cart horse, which lay in a **p
 2. **When Marhevok died it did not flee. It left.** Spread its wings, took two steps, went up, and flew **west** over the tents without hurrying. Thane, wiping a dagger: ***"That's off to tell somebody."*** Caleth did not argue, having been hoping to be talked out of the same thought. **A cold-blooded thing lying in a heated hall in an iced pool did not live in that room by accident. Somebody put it there.**
 
 ⚠ **Do not resolve who sent it or where it went.** The obvious inference is Jerribeth. The obvious inference has been wrong before in this campaign and the prose has not committed to it.
+
+---
+
+## New in Session 21
+
+### The Old Monk of the Fane — unnamed
+Seen once, as the fane of Irori restored itself around the party (Ch 21). **Very old, older than any mortal should be**, lined face, thin white hair, plain robes untouched by time, **amber eyes**, and not one wasted motion. Among dozens of ghostly monks mending the temple, he was the only one who walked. **He bowed to Nageru as an equal** and said, heard by the whole party: *"Thank you. You have returned what was lost. We have waited through generations... For the day our brother would awaken. Welcome home... Son of Irori. You still have work to do, we will wait for you."* He walked behind a statue and was gone.
+- ⚠ **Do not name him, explain what he is, or bring him back without the GM.** *"We will wait for you"* is a promise with no date.
+
+### The Tattooed Woman — leader of the western temple (fate unknown)
+A **human woman in leather armor** with **the head of Baphomet tattooed on her forehead**, armed with a crossbow. She came out of a **hidden room in the base of the defiled Irori statue** (blood runes, a bed, a writing desk, and a ten-foot bone pit for her creature). Nageru caught and returned her bolt; she shrugged it off. **Nageru put her down with a five-blow mythic flurry.** Then **her body and her creature vanished together.**
+- **It was a contingency spell** (confirmed by the GM). **Caleth recognized it for what it most likely was**; the others guessed. **Whether she survived is open.** Don't kill her off-page and don't bring her back without the table. **Name unknown.**
+
+### Her Creature — winged bull-dragon (fled with her)
+**Winged, half bull and half dragon.** Gored Thane hard in the back, battered Nageru with horns and hooves without doing much, and **vanished at the same instant as its mistress.** It lived in the bone pit in her room. Nageru: *"Her pet's bed."*
+
+### The Glabrezu at the Rock — DEAD (Ch 21)
+Found ten miles west of Drezen on top of a hill-sized rock formation, where it had dragged up a wagon and smashed it, apparently in a rage at **Fiendsplitter**, which was cursing at it. Huge lobster-like pincers, two smaller clawed hands, a horned scaled head. **It cast a reverse gravity that threw Korroc, Thane and Caleth 140 feet into the air** (Caleth folded them down). It fixed on Nageru and nearly killed him. **Killed by Caleth's mythic shocking grasp.**
+- ⚠ **GM secret, unchanged:** Jerribeth is also a glabrezu. **Do not connect this demon to her on the page**, and don't let a character wonder about it.
+
+### The Six-Legged Dragon — at large
+Attacked Drezen the day after the party left; kept going for the courtyard; **carried off Aravashnial and four soldiers** after collapsing a tower beneath them. **Unidentified, unlocated.** ⚠ **Do not connect it to the shape across the moon, to Jerribeth, or to the Ch 20 drake.**

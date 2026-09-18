@@ -10,7 +10,7 @@
 - [Blog page Campaign Arc Status section](webpage-session-section.md) — the `{/* SESSION I: CHARACTER PROGRESS */}` block in games repo's wrath/page.tsx is a current-state window. REPLACE per session, never accumulate. Design pattern + update process documented.
 - [The fathers survived (Ch 19)](the-fathers-survived.md) — Thorek and Borin were captured, not killed; Staunton arranged the ambush; they dug 20 feet out over a year and vanished into the riverbed. **Where they went is open. Keep it open.**
 - [The Stonevein mothers (Ch 19)](stonevein-mothers-status.md) — **Helja is DEAD** (files said "still living"); **Dagna is ALIVE in Nerosyan** (files said "do not mark her alive or dead"). Drezen was the family's home.
-- [The lost fane of Irori (Ch 19)](fane-of-irori.md) — Sister Lyra's charge to Nageru; its founders "were waiting for something. Or perhaps someone." Unlocated, unresolved — and this is his next POV chapter.
+- [The fane of Irori (Ch 19 → FOUND Ch 21)](fane-of-irori.md) — **found thirty miles west, and Nageru IS the answer: literally the Son of Irori**, heard by the whole party. Still open: what it means for his parents, what "work" remains, what becomes of the fane.
 - [Thane has never said he was possessed](thane-unspoken-possession.md) — Ch 19 put the opening in front of him and he couldn't take it. Do not resolve off-screen.
 
 - [The Wintersun bone spikes are worn, not grown (Ch 20)](grunhuld-wintersun-bone-spikes.md) — only Marhevok grew them, and only raging; everyone else lashes bone to their armor. **Jestak was Grunhuld-Wintersun.** Korroc is now their clanliege.
@@ -19,3 +19,6 @@
 - [Nageru's Ch 20 absence was the atonement, NOT the fane](nageru-went-for-the-atonement.md) — the fane is still completely untouched; do not credit this trip to it. He is now **seven chapters** without a POV.
 - [The GM commits to this repo too](gm-is-a-repo-contributor.md) — she sometimes writes the session song herself. **Check `songs/` — and consider pulling — before writing one.**
 - [Image prompts are deprecated](image-prompts-deprecated.md) — **do not write `images/sessionN.md`** as part of a session pass or offer it at the end of one; only if explicitly asked. The practice lapsed after session 6 and was formally dropped 2026-09-06.
+- [About ONE year has passed (as of Ch 21)](campaign-elapsed-time.md) — **never write "two years"** for the party's time together; the whole Fifth Crusade lasts ~2 years. Backstory and outside timelines are exempt.
+- [Aravashnial has been taken (Ch 21)](aravashnial-taken.md) — a six-legged dragon carried him and four soldiers off from Drezen. **Alive or dead, where, and who sent it: all open.** Lands hardest on Caleth, privately.
+- [Mythic tiers are per character now (Session 21)](mythic-tiers-personal-quests.md) — party is **Level 10**; tiers diverge via personal quests. **Nageru 4** (the fane); Caleth, Thane, Korroc **3**. Caleth's quest is probably Aravashnial (a guess). Don't invent the others.

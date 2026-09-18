@@ -870,7 +870,7 @@ The second time he read it the way he read everything, which he was not proud of
 
 She had known exactly what she was going to say before she picked up the pen.
 
-He folded it along its own creases. Then he unfolded it and folded it smaller, and put it inside his chain shirt against his ribs, where a letter with his father's handwriting on it had ridden for two years.
+He folded it along its own creases. Then he unfolded it and folded it smaller, and put it inside his chain shirt against his ribs, where a letter with his father's handwriting on it had ridden since the march north.
 
 Then he looked up.
 
@@ -1618,7 +1618,7 @@ He got one hand on a rock as he fell and grabbed hold with his entire life. Than
 
 Thane put two more arrows into the air.
 
-The first missed. The second did not, and it was one of the ones he kept for demons — cold iron, and a working laid into the head by a priest in Kenabres two years ago — and it went into the shachath's flank and the thing *screamed*, which none of the rest of it had made it do.
+The first missed. The second did not, and it was one of the ones he kept for demons — cold iron, and a working laid into the head by a priest in Kenabres — and it went into the shachath's flank and the thing *screamed*, which none of the rest of it had made it do.
 
 "Korroc!" Caleth had a wand out and was dragging himself two steps to reach him. "Hold still—"
 

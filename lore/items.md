@@ -584,3 +584,24 @@ Roughly eighteen by ten inches, banded, good lock, **an intact wax seal Caleth d
 Aravashnial took it, said *"How did you get this?"*, put both palms flat on the lid, **said nothing else about it**, and dismissed them.
 
 ⚠ **CONTENTS AND SENDER UNKNOWN. DO NOT RESOLVE.** Caleth's own observation is the hook: somebody routed a chest by courier to a fortress that has been in friendly hands for three weeks — which means they were either confident very early, **or they sent it before Drezen fell.**
+
+---
+
+## Fiendsplitter — Thane's *(Ch 21)*
+An **intelligent dwarven battleaxe**, found ten miles west of Drezen on top of a hill-sized rock among a wagon a glabrezu had smashed and pieces of torn armor. **It had been cursing the demon in Dwarven, loudly and at length**; the party took it for trapped dwarves. It speaks in **many voices at once**, like a hall of old dwarves arguing, is hungry for demon blood (*"Come here! I want to drink that demon's blood!"*), and **grows calm when no demon is near.** It mutters in its sleep.
+- **Torag's hammer and anvil are embossed on the head.** Usable as a holy symbol of the Father; Korroc declined, since his shield already bears the mark.
+- **Thane picked it up, felt relief and happiness, and knew its name.** He carries it strapped across his back.
+- ⚠ **Its other powers, maker, history and previous owner are not established.** Don't invent them.
+
+## Nageru's Robes from the Fane *(Ch 21)*
+A folded bundle that appeared at the feet of the restored statue of Irori after the restoration; it had not been there before. **Simple, well made, in the cut and look of Nageru's order.** He bowed his head and thanked Irori. ⚠ **Whether they have any power is not established**, and whether he is wearing them is not stated.
+
+## Korroc's Healing Wand *(recharged again, Ch 21)*
+Used by Korroc to heal himself and Nageru after the glabrezu; **Caleth recharged it that night** by holding it until charge returned. How many charges came back is not stated.
+
+## The Western Temple Documents *(Ch 21)*
+From a trapped cabinet (it released a **four-armed mist creature that drained Thane**; Caleth destroyed it) in a side chamber of the fane:
+- Templar business, the **Ivory Sanctum**, and orders under **Xanthir Vang**.
+- **Jerribeth** as a senior figure, called *"the elven woman."* The party doubts it: Korroc, *"Elven is doubtful,"* and Caleth, *"A succubus. Probably... We don't know that."* ⚠ *(GM secret, unchanged: glabrezu. Keep it off the page.)*
+- **The Ivory Sanctum is "in the Marchlands."** Thane: *"It's all the Marchlands... It's like telling you the treasure's buried in the ground."*
+- **A bounty posted by Jerribeth: 1,000 platinum for a traitor succubus who escaped from the prisons in Drezen.** Unnamed; the party is sure it is **Arueshalae.**

@@ -106,7 +106,7 @@ Thane struck first. Caleth saw it: a wound opening on the near foreleg out of no
 
 Then it hit Korroc.
 
-Caleth had watched Korroc Stonevein take hits for two years. He had seen him take a chimera's ice full in the chest and go down to one knee and get up. This was the first time he had ever seen him *moved.* The fangs came down and skated off the shield rim with a shriek of metal. The first scythe came in on the low line and hit the shield square, and Korroc's boots plowed six inches of gravel backward and held.
+Caleth had watched Korroc Stonevein take hits for a year. He had seen him take a chimera's ice full in the chest and go down to one knee and get up. This was the first time he had ever seen him *moved.* The fangs came down and skated off the shield rim with a shriek of metal. The first scythe came in on the low line and hit the shield square, and Korroc's boots plowed six inches of gravel backward and held.
 
 The second scythe went over the top.
 
@@ -674,7 +674,7 @@ Marhevok took his place in the ring and raised both arms.
 
 And then he changed.
 
-Caleth had two years of demons behind him and he still had to make himself stand still.
+Caleth had a year of demons behind him and he still had to make himself stand still.
 
 The tall thick-bodied man swelled. There was no other word for it. The chest went out, the arms doubled, the neck went; the skin darkened through red into a deep arterial color; horns came up out of the brow with a sound like green wood splitting.
 

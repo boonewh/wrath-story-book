@@ -21,7 +21,25 @@ Her own warning about it: *"Do not allow those words to shape what you expect to
 
 **Do not resolve any of it.** Not the fane's location, not its fate, not what its founders were waiting for, and above all **not whether it was Nageru.** The temptation to make an aasimar born as "a minor miracle" into the answer is obvious and is exactly why it should stay closed until the table opens it.
 
-## ⚠ STATUS AFTER Ch 20: STILL COMPLETELY UNTOUCHED
+## ✔✔ STATUS AFTER Ch 21: FOUND. AND NAGERU IS THE ANSWER.
+
+**The table has opened this, and it supersedes the "do not resolve" guidance above and below.**
+
+- **The fane was the "active temple of Baphomet" thirty miles west of Drezen** (Will confirmed it is Lyra's lost fane). Cultists had carved Baphomet over the statue of Irori; it kept its seated pose.
+- **When the last templar fell, it restored itself.** Dozens of ghostly monks *remembered* it back into being. An ancient amber-eyed monk bowed to Nageru as an equal: *"You have returned what was lost. We have waited through generations... For the day our brother would awaken. Welcome home... Son of Irori. You still have work to do, we will wait for you."*
+- **⚠ "SON OF IRORI" IS LITERAL** (confirmed by the GM): Nageru is the son of a deity. **The whole party heard it** and got a strong hint of what he is. Nobody has discussed it.
+- **So the founders were waiting for someone, and it was him.** The warning *"above all not whether it was Nageru"* is **retired**: that call was the table's to make, and it made it.
+- Nageru received **robes of his order** at the statue's feet.
+
+### What is STILL open. Do not resolve these.
+- **What "Son of Irori" means for Elara and Kaelen.** He wonders in Ch 21 and does not know.
+- **What "work" remains, and what "we will wait for you" means.**
+- **Who the old monk was.**
+- **What becomes of the fane**, which is Lyra's last instruction: *"determine what should be done with it."*
+- **Whether Nageru writes to Lyra**, and how much he tells the party.
+- **The hidden room under the statue**: whether the restoration reached it.
+
+## ⚠ STATUS AFTER Ch 20: STILL COMPLETELY UNTOUCHED *(historical)*
 
 **Nageru left the party in Session 20 and went back to Drezen — and it was NOT for this.** His business was **Jesker Helton's atonement**; see [[nageru-went-for-the-atonement]]. **He has not begun looking for the fane, has not asked anyone about it, and has not mentioned it to a soul since Ch 19.** Do not retroactively credit that trip to the Irori quest, and do not have him make quiet off-screen progress.
 

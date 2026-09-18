@@ -222,7 +222,7 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 - **Nageru was recognized as a Lawbringer** here. He left at age 20, "called toward the storm" of the Worldwound. His Armasse-day arrival in Kenabres was not coincidence.
 - **A late-campaign possibility:** if the Sunken Fist comes under demonic siege as the Worldwound spreads, that is a wound for Nageru no celestial smite can close. A potential major emotional beat / location.
 
-**Status:** Active but distant from current events. The order has not contacted Nageru since he left; he has not contacted them.
+**Status:** Active but distant from current events. ~~The order has not contacted Nageru since he left; he has not contacted them.~~ **Updated:** Sister Lyra, Elara and Kaelen wrote to him in Ch 19, and Lyra charged him with finding the lost fane. **✔ He found it in Ch 21, and it named him Son of Irori.** Whether he has written back is not established.
 
 > **NOTE (file pass, May 2026):** The Sunken Fist was not previously documented. It is the canonical origin of Nageru per the player's character sheet and his approved background. Treat as real and reachable.
 
@@ -257,6 +257,16 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 16. **Understand Nageru's celestial heritage and purpose** (gradual revelation)
 17. **Defeat Khorramzadeh, the Storm King** (late campaign)
 18. **Close the Worldwound** (campaign endgame)
+
+**New from Session 21:**
+29. **⚠ ARAVASHNIAL HAS BEEN TAKEN.** A six-legged flying dragon attacked Drezen the day after the party left, collapsed a tower, and carried off Aravashnial and four soldiers. **Not found.** His staff came back broken. His chest and his Riftwarden safe house are left behind. *(Hardest on Caleth, for reasons only Caleth knows.)*
+30. **✔ THE FANE OF IRORI IS FOUND, AND NAGERU IS THE SON OF IRORI.** Literal, per the GM, and the whole party heard it. **Open:** what it means for his parents, what "work" remains, what the monks wait for, and what becomes of the fane.
+31. **JERRIBETH'S BOUNTY ON ARUESHALAE.** 1,000 platinum; unnamed in the document; the party is sure. **Jerribeth is linked to Drezen's prisons.**
+32. **THE PARTY SUSPECTS JERRIBETH IS A SUCCUBUS.** Suspicion only. ⚠ *(GM secret, unchanged: glabrezu.)*
+33. **THE IVORY SANCTUM IS "IN THE MARCHLANDS."** Which narrows nothing.
+34. **THE TATTOOED WOMAN ESCAPED BY CONTINGENCY**, with her bull-dragon. Fate unknown.
+35. **THE SHAPE ACROSS THE MOON HAS NOW BEEN SEEN BY ALL FOUR.** Still unidentified. Do not tie it to the six-legged dragon.
+36. **A SHARED VISION: DELAMERE'S CRYSTAL COFFIN MELTING.** All four saw it at the same instant in Drezen. Unexplained; the grave goods stay where they are.
 
 **New from Session 20:**
 22. **⚠ JERRIBETH.** A name engraved on the back of a Baphomet symbol taken off a dead clanliege, and a description — *"a beautiful elf woman"* — from a frightened barbarian. She recruited **Marhevok Grunhuld-Wintersun**, gave him a scrying token he thought was an honor, promised him command in her armies, and left him raiding the crusade's supply road for a year without ever sending for him. **Caleth threw the token in a pool rather than carry an open window on his back.** ⚠ *The party believes she is an elf. Keep them believing it — see `characters/npcs.md`.* **This is the clearest new enemy lead out of Book 2's aftermath.**

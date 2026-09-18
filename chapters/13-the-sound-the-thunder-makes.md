@@ -36,7 +36,7 @@ It should have ended there. It did not. Aron Kir came forward over the map with 
 
 Thane shook his head once, turned, and walked out.
 
-No one else marked it much. Thane came and went; it was his nature and his work. But Nageru had spent two years learning the difference between a man leaving a tent and a man *leaving*, and this was the second thing. The set of the shoulders. The particular economy in the step. A man who had stopped waiting for the talk to finish because he had already decided what the night was for.
+No one else marked it much. Thane came and went; it was his nature and his work. But Nageru had spent long enough at his side learning the difference between a man leaving a tent and a man *leaving*, and this was the second thing. The set of the shoulders. The particular economy in the step. A man who had stopped waiting for the talk to finish because he had already decided what the night was for.
 
 Nageru gave it the space of five breaths. Then he slipped out after him.
 

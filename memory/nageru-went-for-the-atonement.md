@@ -26,6 +26,6 @@ And why it had to be him: *"Sosiel Vaenic can do it... But he does not know it w
 ## Two consequences
 
 1. **Caleth felt a small ignoble sting**, examined it honestly, and named it: Nageru had done a sum about a **man**, in a place Caleth had not thought to look, while Caleth was being efficient about wagons. **Nageru does not know that and must not be told.**
-2. **⚠ NAGERU IS NOW SEVEN CHAPTERS WITHOUT A POV** and was not even present for the last one, and is still the only PC without a character song. **He is badly overdue.** The fane is still the natural spine of that chapter — and it is still true that *receiving a summons is not the same as answering it.* **Spend him when they actually go.**
+2. *(✔ Resolved by Ch 21: his POV chapter, the fane, arrived.)* **⚠ NAGERU IS NOW SEVEN CHAPTERS WITHOUT A POV** and was not even present for the last one, and is still the only PC without a character song. **He is badly overdue.** The fane is still the natural spine of that chapter — and it is still true that *receiving a summons is not the same as answering it.* **Spend him when they actually go.**
 
 Related: [[fane-of-irori]], [[thane-unspoken-possession]] (Jesker's parting line — *"a man can be forgiven and still owe"* — was said in front of Thane, who went still and said nothing).

@@ -193,7 +193,18 @@ Geothermal country south of Drezen — vents, hot springs, the ground weeping fi
 
 *(See `lore/items.md` — Delamere's grave goods were deliberately left in place. See `characters/npcs.md` for Delamere and Jesker Helton.)*
 
-### ⚠ The lost fane of Irori — UNLOCATED
+### ✔ The fane of Irori — FOUND AND RESTORED (Ch 21)
+**Location:** about **thirty miles west of Drezen**, a little over two days by wagon (the party arrived early on the third day). A wide, steep **valley or bowl** falls away from the plain, with a cut path switchbacking down the near side. The temple is **cut into the northern cliff face** at the bottom: a short flight of stairs flanked by two statues climbs to an opening about **thirty feet wide**. Inside is a great worked-stone chamber with a ceiling another thirty feet up, side rooms, and the **seated statue of Irori** on a seven-foot platform, flanked by smaller statues.
+
+**What it was when found:** reported by scouts as an **active temple of Baphomet**, held by templars and cultists under a tattooed woman. The Irori statue had been **carved over into a goat-headed demon**, still seated cross-legged. Red torches. A **hidden room in the statue's base** with fresh blood runes and a bone pit. **A ward on the building stopped invisibility from working.** *(Leave it unexplained on the page.)*
+
+**What it is now:** when the last templar fell, **the fane restored itself.** Golden light ran through every crack, and dozens of ghostly monks mended every stone and carving. **Not rebuilt, remembered.** The statue of Irori stands whole. The grief and rage that were in the stone are gone, and the place is **clean**, not merely cleared. An ancient monk named Nageru **Son of Irori**. See `characters/nageru.md`.
+
+⚠ **Open:** what becomes of the fane, whether anyone garrisons or reoccupies it, whether the hidden room was cleansed too (the chapter leaves its blood runes as they were), and what *"we will wait for you"* means.
+
+**On the way (Ch 21):** a **hill-sized rock formation about ten miles west of Drezen**, where the party killed a glabrezu and Thane recovered **Fiendsplitter**.
+
+### *(Superseded)* The lost fane of Irori — UNLOCATED *(pre-Ch 21 entry, kept for record)*
 Somewhere **in the lands near Drezen** there was once a small, isolated fane dedicated to **Irori**, kept by brothers and sisters devoted to contemplation, discipline and the pursuit of perfection. **When Drezen fell seventy-five years ago all contact ceased; no member of the order returned and no reliable account of its fate ever reached the Sunken Fist.**
 
 **Sister Lyra has charged Nageru with finding it (Ch 19).** The oldest surviving records contain a passage that appears in no later account, suggesting the fane was founded not merely as a place of worship — **that those who established it were waiting for something, or someone.** The surviving text is unclear.
@@ -218,3 +229,10 @@ The clan's **ancestral home**, abandoned decades ago when the family finally fle
 **Inside**, in order: a painted entry hall (landscapes of a pre-Worldwound Sarkoris — forests, a lake with wading birds, proud Kellids in hides — flanked by a **stuffed rearing bear** and a **mounted golden eagle**, both old, both clumsily and lovingly repaired more than once); a common hall with a fire pit and **murals of ceremonial combat whose combatants' faces have been gouged out while the painted audience was left intact**; and a throne room ringed with carved columns of men and women gazing down in judgment, holding a fur-covered stone throne and **a pool of standing water rimed with ice in a windowless hall with a fire in the next room.** A blue drake lived in that pool.
 
 **Status now:** **empty.** The entire clan was resettled to Vilareth Ford in Ch 20. **Marhevok was burned outside it without rites.** **Jerribeth's scrying token is at the bottom of the pool.** Nobody has been back.
+
+---
+
+## Named on the Marchlands map *(map 3, Session 21)*
+
+- **Abandoned Swarm Caverns**: between Drezen and the Chapel of Shelyn, on `worldwound-map3-1.jpg`. **The name is deliberate:** it is where the party fought the swarms of bugs (confirmed by Will, 2026-09-13). *(Earlier map art labeled it "Abandoned Warm Caverns," which was wrong.)*
+- **Temple of Irori**: the restored fane, west of Drezen. See the fane entry above.

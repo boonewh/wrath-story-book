@@ -15,6 +15,11 @@ Caleth identified the symbol as **a scrying focus benefiting the giver** — *"H
 
 ⚠ **THE PARTY BELIEVES SHE IS AN ELVEN WOMAN AND A TEMPLAR. THE AUTHOR HAS ASKED THAT THIS STAY THAT WAY.** *(GM background, given out-of-character and deliberately kept off the page: she is a* **glabrezu** *and one of the Templars of the Ivory Labyrinth, and she had no plans for Marhevok at all — he was one more entry in a hobby of wrecking families. Do not write it, do not hint it, and do not let paladin sight or elven scholarship stumble into it.)*
 
+### ⚠ UPDATE (Ch 21): THE PARTY NOW SUSPECTS A SUCCUBUS
+Templar documents at the western temple call her *"the elven woman."* **Korroc: *"Elven is doubtful."*** Caleth: *"A succubus. Probably."* and at once, *"We don't know that."* **The players believe she probably is a succubus. It is a suspicion, not a fact, and characters should hold it that way.** ⚠ **The GM secret is unchanged and still off the page: she is a glabrezu.** The party killed a glabrezu ten miles from Drezen the same session. **Do not let anyone connect the two.**
+
+**Also new:** Jerribeth posted a **1,000-platinum bounty on a traitor succubus who escaped from the prisons in Drezen.** The page is unnamed; the party is sure it is **Arueshalae**. This ties Jerribeth to Drezen's prisons in a way nothing did before.
+
 ## The drake flew west
 
 A blue drake the length of a cart horse lived in a **pool of standing water rimed with ice, inside a windowless hall with a fire in the next room.** It came out to watch the duel and settled in the dirt like a dog. When Marhevok died it **did not flee — it left**: wings out, two steps, up, and away west over the tents without hurrying.
@@ -26,5 +31,8 @@ Thane, wiping a dagger: ***"That's off to tell somebody."*** Caleth did not argu
 Marhevok's last act before breaking the duel was to throw his head back and scream something that was **not Hallit, not Common, and specifically not Abyssal** — Caleth knows Abyssal and ruled it out on the spot. **His own people looked at each other in blank incomprehension — the whole clan, in their own steading, hearing their own clanliege. The drake's head came up sharply.**
 
 ⚠ **The GM has not said what it was. DO NOT IDENTIFY IT.**
+
+## ⚠ Also still open (Ch 21): the shape across the moon
+**All four saw it this time** (*"See? That's what I saw!"*). Still unidentified. And in the same session **a six-legged flying dragon carried off Aravashnial.** Do not connect either to the other, or to the drake. See [[aravashnial-taken]].
 
 Related: [[grunhuld-wintersun-bone-spikes]], [[whisper-below-drezen]] (the other thing that must stay unexplained).
