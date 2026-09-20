@@ -33,6 +33,7 @@ Items of importance to the campaign — magical, plot-relevant, or symbolic. Upd
 
 **Properties:**
 - Holy weapon, almost certainly **+1 or +2 holy** at minimum
+- ✔ **GREATER DEMON BANE — established Ch 22.** Against demons the blade takes hold rather than merely cutting: it *bit* Jerribeth and the holy fire found purchase and burned. **This is a usable in-world detector** — together with a paladin's smite it told Caleth what she was in a single thrust, and he announced it across the room. *(Confirmed by Will, 2026-09-19. It may or may not be the unspecified Session 10 power-up below; nothing establishes that — do not assert the connection.)*
 - Likely has additional powers that activate as the bearer attunes (paladin levels, alignment, or specific moments)
 - Recognized Thane's bloody hand with a faint *acknowledging* warmth when he touched it in Chapter 3 — suggesting the sword recognizes lawful good intent
 
@@ -514,7 +515,9 @@ Forged by Thane at the Purity Forge in the weeks after Drezen fell: short, broad
 
 **Table note:** Radiance is not supposed to be alterable. The GM allowed it as a ruling specifically because the work was done on the **Purity Forge**. Treat that as the in-fiction explanation if anyone asks: *the forge is why it took at all.*
 
-**How Caleth handles it:** he keeps it loaded as a matter of habit, *"the way you load a crossbow you do not expect to fire,"* and **has not yet discharged one.** In the Ch 20 duel the flat of the blade touched Marhevok's shoulder and he deliberately let it pass — *three attempts; he touches me or he does not; that was the whole of the offer and the offer is the point.*
+**How Caleth handles it:** he keeps it loaded as a matter of habit, *"the way you load a crossbow you do not expect to fire."* In the Ch 20 duel the flat of the blade touched Marhevok's shoulder and he deliberately let it pass — *three attempts; he touches me or he does not; that was the whole of the offer and the offer is the point.*
+
+✔ **HE FINALLY SPENT ONE IN Ch 22 — AND IT DID NOTHING.** Four months of holding the charge, discharged into **Jerribeth** at no distance at all with Radiance already buried in her. He had loaded it with shocking grasp and **inverted it to cold on the way out**, as he almost always does. **The cold rolled off her and was simply not relevant.** His private verdict, savage and immediate: *cold is not the road.* ⚠ **The card is spent and the payoff was a failure.** Do not write him as still saving it, and do not undo the miss.
 
 **What is still true:** his own casting **could not bind the channels, three times running**, and it took Aravashnial to seat it. *"It rejected an incompatible structure." / "It's got a latch already."* **Why Caleth could not do it himself remains unexplained.**
 

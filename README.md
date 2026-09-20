@@ -39,15 +39,15 @@ Approximate POV distribution over the full 60-session campaign:
 
 Don't worry about hitting these numbers exactly. Let the story dictate.
 
-## The Three Established Songs and Style Diptych/Triptych
+## The Four Character Songs
 
-Three character songs have been written so far, each capturing one character's interior register:
+One character song exists per PC, each capturing that character's interior register:
 
 - **"When the Sky Fell on Kenabres"** — Korroc's anthem (power metal war-march)
 - **"The Spireborn's Letter"** — Caleth's vigil (orchestral, builds to release)
 - **"The Knife and the Name"** — Thane's blood-debt ballad (folk-orchestral)
 
-Nageru's song is yet to be written. When his major POV chapter lands, it will be the natural moment.
+**✔ Nageru's song has since been written** — `songs/character-nageru.md`, *"The Thunder Wakes."* **All four PCs now have character songs.** *(This section listed three for a long time after the fourth existed; corrected 2026-09-20.)*
 
 ## Style Influences
 

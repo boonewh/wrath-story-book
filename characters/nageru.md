@@ -98,7 +98,15 @@ His blood manifests in:
 - Charge: **Divine Smite empowerment for one fight** — for a duration, his unarmed strikes count as good-aligned, magic, and overcome demonic resistances.
 - Used in Chapter 3 against the dretches, and again in Chapter 7 to unmake more of them.
 
-## Current State (End of Session 21)
+## Current State (End of Session 22)
+
+### SESSION 22 — HE KILLED THE DRAGON, AND HE WENT WITH CALETH
+- **✔ HE KILLED THE WOUNDWORM WITH HIS BARE HANDS.** Left a live templar standing behind him and walked to the dragon that was standing on Korroc, with an expression Caleth had seen on him **exactly once before, in a mausoleum.** Rolled **under** its tail, came up swinging, and took it apart: ki and mythic force together, **fists sheathed in a pale flame that did not flicker**, **five separate strikes**, each one complete, landing in the same place until all six legs stopped being legs. ⚠ *Caleth's private assessment: one of the more frightening things he has ever watched a friend do.*
+- **He paid for it.** Bitten, tailed, and opened **collarbone to sternum** by three of six claws — and did not go down. **A templar put a sword in his back** as the dragon fell. **Korroc closed him up.**
+- **He opened the fight by dropping two templars in four seconds**, two strikes each, before either got a sword off his shoulder.
+- **⚠ HE FOLLOWED CALETH OUT OF THE COMMAND ROOM WITHOUT BEING ASKED**, held both hands out flat to say *I will go*, and **nobody argued.** He searched Aravashnial's study beside him **without once asking what they were looking for** — and Caleth noticed, and understood that he had never had to explain himself to Nageru in advance, and that this was probably the definition of a friend.
+- **He handed Caleth the Woundworm page**, and **he is the only person who heard *"Xanthir Vang must die."*** ⚠ **He has NOT read the note and does not know what is in it.** He stood and watched his friend until his friend stood up, and then followed him out.
+
 
 ### ⚠ SON OF IRORI (Ch 21) — THE TABLE HAS ANSWERED IT, AND IT IS LITERAL
 **This is the biggest change to Nageru in the campaign. Read it before writing him.**
@@ -179,7 +187,7 @@ Lyra's instructions, in her order: **find the fane. If it was destroyed, learn i
 - **Ch 20 — he stood against the wall for the whole of a stranger's atonement**, and was still there days later when the party came to say goodbye, and said nothing about any of it. Jesker named him unprompted: *"Your friend was there for all of it."* Korroc: *"He would be."*
 
 - ~~**⚠ HE HAS NOT HAD A POV CHAPTER SINCE Ch 13**~~ **✔ RETIRED by Ch 21 (POV).** Kept for the record: **seven chapters as of Session 20**, and Session 20 he was not even present for. Ch 18's and Ch 20's beats are strong but all *witnessed from outside*, which is exactly the wrong way round for this character. **He is badly overdue, and he is still the only PC without a character song.** ⚠ **The fane remains the natural spine of that chapter — and it is still true that receiving a summons is not the same as answering it. Spend him when they actually go.**
-- **Level 10 · ⚠ MYTHIC TIER 4** — **Level 10 as of Session 21. Tier 4 as of Session 21, and he is the only one:** it was granted for completing his **personal quest**, the recovery of the lost fane of Irori. The rest of the party is still Tier 3. See `memory/mythic-tiers-personal-quests.md`.
+- **Level 10 · Mythic Tier 4** — **Level 10 as of Session 21. Tier 4 as of Session 21**, granted for completing his **personal quest**, the recovery of the lost fane of Irori. ⚠ **He is no longer the only one: the other three reached Tier 4 in Session 22** and the party is level on tier again. ⚠ **Tiers still advance PER CHARACTER** — do not assume they stay matched. See `memory/mythic-tiers-personal-quests.md`.
 
 - **Knight of the Fifth Crusade**, knighted by Queen Galfrey (Ch 9). Carries the **Righteous Medal of Agility** — given for delivering a death-blow to a demon before the demon acts. Earned again in Session 13 (a crossbow bolt caught from the air and returned through its owner) and again in Session 15 (the same trick, in a gallery of archers).
 - **Has had four POV chapters** — Chapter 5 (*The Patient Thunder*), Chapter 9 (*The Voice That Answers*), Chapter 13 (*The Sound the Thunder Makes*), and **Chapter 21 (*What Was Lost*)**.
@@ -188,6 +196,7 @@ Lyra's instructions, in her order: **find the fane. If it was destroyed, learn i
 - **Staunton Vhane is dead** (Ch 16), killed by Caleth after Nageru's holy fists and Thane's daggers broke him.
 
 ## Established Moments
+- **Chapter 22 (Caleth POV):** *The Shadow That Cast None.* Held out both hands to say he would go, and went. Searched Aravashnial's study in silence and **found the Woundworm page.** **Heard the muttered vow and said nothing about it.** Took the hardening spell before the raid and **arrived somewhere else in himself** that Caleth could not name. Dropped two templars in four seconds. **Rolled under a dragon's tail and came up swinging**, then **killed it with five strikes of his bare hands** while it opened him to the bone. Was run through from behind as it fell, and put back together by Korroc. Finished his last templar with two strikes.
 - **Chapter 1:** Picked his silver scale. Killed cockroaches with bare hands. Caught the carrion fly and broke it. Brought the maggot-popping-from-floor moment to a definitive end with both fists down at once.
 - **Chapter 2:** Saved Horgus at the chasm with a one-handed catch. Quietly convinced Horgus to help dig out Crel by appealing to decency. Walked close to the spore cougher to check if it was dead.
 - **Chapter 3:** Took the brunt of the dretch fight after activating his silver scale. Nearly went down twice. Fists flared with celestial fire as he ended each demon. Healed himself with lay on hands when nearly dead.

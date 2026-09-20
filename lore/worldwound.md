@@ -236,3 +236,27 @@ The clan's **ancestral home**, abandoned decades ago when the family finally fle
 
 - **Abandoned Swarm Caverns**: between Drezen and the Chapel of Shelyn, on `worldwound-map3-1.jpg`. **The name is deliberate:** it is where the party fought the swarms of bugs (confirmed by Will, 2026-09-13). *(Earlier map art labeled it "Abandoned Warm Caverns," which was wrong.)*
 - **Temple of Irori**: the restored fane, west of Drezen. See the fane entry above.
+
+---
+
+## The Molten Scar and the Gray Road *(established Ch 22)*
+
+**New geography, named by Thane from the mouth of a cave, and the party has been there exactly once.**
+
+### The Molten Scar
+A **river of lava** running north-east to south-west across the whole visible width of the country, seen at night from a cave mouth high above it. It is not water and it is not quick: it moves slowly, the dull orange of a forge banked for the evening, with a **rind of black crust along the banks cracked through with light** and columns of heated air going up off it that bend as they rise. It lights the sky for miles — *"it was night out there, and it was not dark."*
+
+### The Gray Road
+**A dead river.** It was one of the major rivers of the region before the Worldwound; now there is more lava in the bed than there ever was water. Along the top of the **old levee** runs a **straight pale track** — a caravan road, from back when there were caravans.
+
+**Distance: four days from Drezen on foot**, on Thane's estimate, *"if nothing eats you."* That is how far the Woundworm carried five men in a single night.
+
+### The templars' cavern
+The party teleported into it and out again and never explored it. What is established:
+
+- **Enormous, natural, unworked**, with no far wall visible in any direction. Lit by **too few badly spaced torches**. A **steady draft** moves through it, which means it is either very large or open to somewhere.
+- A **side passage** opens onto the split in the rock overlooking the Molten Scar.
+- **Scorizscar the Woundworm died on its floor**, along with eleven templars. The party took **a cache the dragon had kept** — coin, small goods, and something long wrapped in oilcloth.
+- ⚠ **An Abyssal rift was burning at the far end of it during the scrying, and was GONE hours later when the party arrived.** Unexplained, uninvestigated, and deliberately unresolved. See `memory/the-rift-at-the-molten-scar.md`.
+
+⚠ **Nobody has been back, and the party has not discussed going.**

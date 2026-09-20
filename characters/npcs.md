@@ -30,8 +30,15 @@
 ---
 
 ### Aravashnial
-**⚠⚠ STATUS: TAKEN BY A DRAGON (Ch 21) — WHEREABOUTS AND FATE UNKNOWN.** The day after the party left Drezen for the western temple, **a six-legged flying dragon** attacked the citadel and concentrated on the courtyard. To draw it off while the courtyard was evacuated, **Aravashnial went up a tower with four soldiers and began summoning creatures.** It worked: the dragon turned on the tower, **the tower half-collapsed under them, and the dragon caught all five men in the air as they fell and carried them off.** No one has found them since. Recovered and laid on Irabeth's table: **his staff, broken in two**, with a helm, a sword and pieces of armor. *(Reported by Aron Kir; the party was away and saw none of it.)*
-- ⚠ **DO NOT RESOLVE:** whether he is alive, where he was taken, what the dragon is or who sent it, or whether the four soldiers survived. **Do not connect the dragon to the shape that crosses the moon.**
+**⚠⚠ STATUS (Ch 22): ALIVE, AND A PRISONER OF XANTHIR VANG. LOCATION UNKNOWN.** ⚠ *Alive is for LORE ONLY — see below; the party does not know it.* The day after the party left Drezen for the western temple, **a six-legged flying dragon** attacked the citadel and concentrated on the courtyard. To draw it off while the courtyard was evacuated, **Aravashnial went up a tower with four soldiers and began summoning creatures.** It worked: the dragon turned on the tower, **the tower half-collapsed under them, and the dragon caught all five men in the air as they fell and carried them off.** No one has found them since. Recovered and laid on Irabeth's table: **his staff, broken in two**, with a helm, a sword and pieces of armor. *(Reported by Aron Kir; the party was away and saw none of it.)*
+- **✔ ANSWERED IN Ch 22:** the dragon was a **Woundworm** named **Scorizscar** and is **DEAD** (Nageru killed it); **Jerribeth sent it**; **all four soldiers survived** and were rescued; and **Aravashnial is alive** — or was, twice, on the days he was scryed.
+- ⚠ **STILL DO NOT RESOLVE:** **where he is now** (teleported out of the cavern mid-fight), **who the templar was that took him** (nobody got the man's face), and **what the green-crystal collar does.**
+- ⚠⚠ **THE PARTY DOES NOT KNOW HE IS ALIVE.** They saw him alive in two scryings — but the second was **severed** by the collar, violently, mid-torture. *They know he WAS alive minutes ago. They do not know he is alive.* **Do not write any character as confident of his survival.**
+- ⚠ **Do not connect the Woundworm to the shape that crosses the moon**, or to the Ch 20 drake.
+- **⚠ VANG HAS PERSONAL BUSINESS WITH HIM, AND IT IS FAMILY.** Vang murdered another Riftwarden years ago and took his book; *"I suppose that runs in the family"* broke Aravashnial completely. **GM-confirmed: there is family there. The relationship is NOT stated — do not name it.** In a year Aravashnial has never once mentioned having anyone, and Caleth has never asked. See `memory/xanthir-vang-and-the-note.md`.
+- **⚠ HE GAVE CALETH AWAY BY PROTECTING HIM.** When Vang remarked on *"the young half-elf,"* Aravashnial went instantly and totally still — and Vang caught it. *"Interesting. Very interesting."*
+- **⚠ HE WROTE CALETH A NOTE AND NEVER HANDED IT OVER.** A Vang dossier with three lines added at the bottom in a different ink, naming Vang as the killer of Caleth's parents — **and quoting a vision Caleth has never told a living soul.** Left in a stack in his study. See `memory/xanthir-vang-and-the-note.md`.
+- **His captivity, as seen:** an **iron cage too small to stand up in**, wrists shackled, one side of his face swollen shut from a beating, and a **black metal collar with a faceted green crystal and needles driven into his neck.** He recognized the collar and showed **genuine panic** — the first Caleth has ever seen on him. He is, throughout, **controlled, dry and unbroken about himself**, and loses control exactly once, about someone else.
 - ⚠ **Left behind and now ownerless:** his **unopened chest** (Ch 20) and the **Riftwarden safe house** he was building in Drezen. Nobody has gone through either. Don't have anyone do so without the table.
 - **Caleth's reaction was one small sound.** The reason it lands so hard on him, as the elder of his parents' order and the man who still has not told him what he knows, **stays private to Caleth.**
 
@@ -634,11 +641,38 @@ It took an hour and a half. **Nobody else on that rock knew the room existed** �
 ---
 
 ### Xanthir Vang — "The Worm That Walks"
-**Status:** Active. Came to the Blackwing, did his work, and left.
+**Status:** Active. **⚠⚠ AS OF Ch 22 HE IS THE CAMPAIGN'S PRIMARY ENEMY, HE HOLDS ARAVASHNIAL, AND HE KILLED CALETH'S PARENTS.**
 
-**Role:** A **worm that walks** — Xanthir Vang. He **brought down the upper floors of the Blackwing tower**, took something from the order, and departed. The librarians do not know what he took.
+**Role:** A **worm that walks.** Blackfire Adept, servant of Deskari, **leader of the Templars of the Ivory Labyrinth**, operating from the **Ivory Sanctum** (location unknown; Templar documents in Ch 21 place it vaguely *"in the Marchlands"*). Connected to the distribution of **Nahyndrian elixirs**. Records place him in the **Third Crusade, then still a man of flesh and blood** — over seventy years ago.
 
-**Plot significance:** Tied to the destruction of the Blackwing Library — which was a **Riftwarden stronghold** (secret; Caleth/Aravashnial know — see Aravashnial's entry). Open thread: *what did he take from the order, and why?*
+**✔ Ch 22: THE PARTY HAS NOW SEEN HIM**, through a scrying, and the librarians' phrase turned out to be literal. Robes that move **without footsteps**. A **wet, soft, overlapping sound** beneath the fabric — hundreds of tiny movements at once. And in green light, **the shape of a man coming apart into thousands upon thousands of writhing worms**, holding a prisoner against iron bars with limbs made of them.
+
+**Voice — get this right.** Male, educated, *almost* human. **Warm, companionable, genuinely entertained.** He chuckles. He compliments. He builds a whole conversation out of an inch of chain movement and misses nothing. He is at his most pleased when he has hurt someone precisely: *"There you are."* **He never raises his voice and never hurries.** On the Blackwing: *"Such an unpleasant little place. So many books. So many secrets. So many people convinced that knowledge made them dangerous."* On murder: *"One kills so many people."*
+
+**⚠ WHAT Ch 22 ESTABLISHED — all canon:**
+- **He killed Caleth's parents.** Per Aravashnial's written note. **Caleth's verdict, said almost inaudibly to an empty room: *"Xanthir Vang must die."*** Only Nageru heard it.
+- **He is the Lantern Seer's third vision** — *the shadow that wore a man's shape but cast none of its own.* ⚠ **It was never Staunton Vhane**, as `characters/caleth.md` assumed for eighteen chapters.
+- **He has Aravashnial**, took his spellbook, and **collared him** with a green-crystal device specifically because a conjurer and a Riftwarden is *"an exceptionally inconvenient prisoner."* *"You may experience some discomfort."*
+- **He keeps a library of murdered people's books** and **recognizes Riftwarden marks on sight.** He has held one such book **for years**, taken off another Riftwarden he killed — **and GM-confirmed, that elf was family to Aravashnial.** ⚠ *Relationship not stated. Do not name it.*
+- **He works with Jerribeth**: *"Jerribeth suggested you might be entertaining."*
+- **⚠ HE HAS NOTICED CALETH.** *"They were rather impressive. Especially the young half-elf."*
+
+**Corroborating character, from Staunton Vhane's journal (Ch 17)** — still the strongest line the campaign has on him: *"I have stood beside demons while they butchered children… Yet there is something about Vang that revolts me. I cannot explain it."*
+
+**Plot significance:** the clearest road out of Book 2. He destroyed the Blackwing — a **Riftwarden stronghold** (the deeper layers still secret to all but Caleth and Aravashnial). **Open: what he took from the order and why; where the Ivory Sanctum is; and whether Aravashnial survives him.**
+
+---
+
+### Scorizscar — the Woundworm *(DEAD, Ch 22)*
+**Status: DESTROYED** — killed by Nageru's bare hands, five strikes, on the floor of the templars' cavern near the Molten Scar.
+
+**What she was:** a **Woundworm** — in Aravashnial's own written verdict, *"a dragon mutated by abyssal energy."* **Red scale, six legs, and an acid breath weapon**, which is the wrong breath for the color and is the whole tell. Aravashnial's working note on the category: ***"not a breed. A result."*** His collected witness accounts across decades agree on three things only: too many legs, wrong color for the breath, and that every man who saw one independently described it as having been **built.**
+
+**What she did:** attacked Citadel Drezen the day after the party left (Ch 21), concentrated on the courtyard, **collapsed the tower Aravashnial and four soldiers had climbed to draw her off, caught all five in the air, and carried them away.**
+
+**✔ Jerribeth sent her.** *"What did she bring me?"* — *she* is the dragon.
+
+**Her hoard** was found in the cavern afterward: coin, a scatter of small goods, and **something long wrapped in oilcloth.**
 
 ---
 
@@ -1035,6 +1069,16 @@ An **old Sarkorian priestess of Erastil**, pre-Worldwound. Taught that cities we
 ---
 
 ### Jerribeth — "my mistress"
+
+**✔✔ Ch 22: MET IN PERSON, CONFIRMED A DEMON, WOUNDED, ESCAPED.**
+- She was in the cavern holding Aravashnial — **dressed well, unarmored, completely at ease** among a dozen templars and a Woundworm, reading Aravashnial's spellbook while she walked. Caleth's read: beautiful *"in the deliberate, constructed way of a portrait rather than a face,"* and standing in the middle of killers *"the way a person stands in their own hall."*
+- ⚠ **SHE IS PROVABLY A DEMON AND THE PARTY KNOWS IT.** **Caleth's smite fired and Radiance's greater demon bane bit** — two confirmations in one thrust — and **he announced it across the room**: *"She's a demon. Radiance has her."* Thane: *"Of course she is."* **Do not write anyone still wondering.**
+- ⚠ **THE PARTY BELIEVES SUCCUBUS AND MUST KEEP BELIEVING IT.** *(GM secret, unchanged and still off the page: she is a* **glabrezu.***)*
+- **She identified Aravashnial as a Riftwarden** off a non-standard notation in his spellbook that she had *"seen before."* Took him; **left the four soldiers to be eaten** — *"Scorizscar can have them"* — and was disappointed not to have caught *"at least one of the knights."* When the knights did arrive: *"Oh. That was easy... I want one alive."*
+- **She fights with displacement** (outline blurring a handspan out of true), **a burst of ricocheting color**, and **reversed gravity.** ⚠ **Cold did nothing to her at all.**
+- **Caleth put Radiance through her three times**, the last into her back with holy fire lit. **She screamed, collapsed, and vanished eight inches above the floor** on what Caleth read as a **contingency spell.** **Wounded, alive, unlocated.**
+- **Her blood is on Radiance and a scrying with it FAILED anyway.** Nobody has drawn a conclusion from that.
+- **She sent Scorizscar**, and **she works with Xanthir Vang**: *"Jerribeth suggested you might be entertaining."*
 **Status:** Living, unlocated, unmet. ⚠ **A LIVE THREAD AND THE BEST ENEMY LEAD OUT OF SESSION 20.**
 
 **What the party has:** a name engraved on the back of a Baphomet unholy symbol, and Beverach's account — **"a beautiful elf woman"** who visited Wintersun Hall two or three times, gave Marhevok the symbol, called herself his mistress, and **promised him a place as a leader of her armies** if he raided the eastern border until she sent for him. She never sent for him.

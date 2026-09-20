@@ -1,6 +1,6 @@
 ---
 name: the-drake-and-jerribeth
-description: Ch 20 left three linked things open — Jerribeth (whom the party wrongly believes is an elf), the drake that flew west, and the language Marhevok screamed that nobody knew. Do not resolve any of them.
+description: Ch 20's three open items. Ch 22 met Jerribeth in person and PROVED she is a demon - the party believes succubus and must keep believing it. The drake and the language stay unresolved.
 metadata:
   type: project
 ---
@@ -14,6 +14,19 @@ A name **engraved on the back of a Baphomet unholy symbol** taken off Marhevok G
 Caleth identified the symbol as **a scrying focus benefiting the giver** — *"He was on a leash and he thought it was a medal"* — considered keeping it as a thread, rejected it because it ran the wrong way, and **dropped it in the drake's ice-rimed pool.** *"Let her look at the bottom of a pond, and wonder."* It is still there; nobody destroyed it.
 
 ⚠ **THE PARTY BELIEVES SHE IS AN ELVEN WOMAN AND A TEMPLAR. THE AUTHOR HAS ASKED THAT THIS STAY THAT WAY.** *(GM background, given out-of-character and deliberately kept off the page: she is a* **glabrezu** *and one of the Templars of the Ivory Labyrinth, and she had no plans for Marhevok at all — he was one more entry in a hobby of wrecking families. Do not write it, do not hint it, and do not let paladin sight or elven scholarship stumble into it.)*
+
+### ✔✔ UPDATE (Ch 22): SHE IS CONFIRMED A DEMON, IN PERSON, AND SHE GOT AWAY
+
+**The party has now met her.** She was in the cavern where Aravashnial was held, dressed well and completely at ease among twelve templars and a Woundworm, reading his spellbook while she walked.
+
+- ⚠ **SHE IS PROVABLY A DEMON AND THE PARTY KNOWS IT.** Caleth's **smite fired** on her and **Radiance's greater demon bane bit.** Two independent confirmations in one thrust. **He said so out loud, across the room, flatly** — *"She's a demon. Radiance has her."* Thane: *"Of course she is."* **Do not write anyone still wondering whether she is a demon.**
+- ⚠ **BUT THE PARTY STILL BELIEVES SUCCUBUS, AND MUST KEEP BELIEVING IT.** *(GM secret, unchanged and still off the page: she is a* **glabrezu.** *Nothing in Ch 22 gets near it and nothing should.)*
+- **She sent the Woundworm.** Her own line — *"What did she bring me?"* — refers to **Scorizscar**, the dragon. ⚠ *This was previously flagged as an inference not to make. The GM has now confirmed it.*
+- **She identified Aravashnial as a Riftwarden off his own spellbook**, having *"seen it before"* — a non-standard notation she recognized on sight. **She took him and left the four soldiers to be eaten** (*"Scorizscar can have them"*), and she was hoping for **one of the knights**.
+- **She fought and lost.** Caleth put Radiance into her three times — the third thrust into her back, holy fire lit — and she screamed and collapsed **and vanished eight inches above the floor.** Caleth read it as **a contingency spell** keyed to her body going down. **She is wounded, alive, and unlocated.**
+- **Displacement:** her outline blurred and doubled a handspan out of true when Caleth came at her. He aimed off the floor instead and found her.
+- **Her blood is on Radiance and Caleth used it** to try scrying her. ⚠ **IT FAILED ANYWAY.** Blood is the best focus there is and it still produced nothing — which is itself information nobody has drawn a conclusion from.
+- **Vang knows her and works with her.** *"Jerribeth suggested you might be entertaining."*
 
 ### ⚠ UPDATE (Ch 21): THE PARTY NOW SUSPECTS A SUCCUBUS
 Templar documents at the western temple call her *"the elven woman."* **Korroc: *"Elven is doubtful."*** Caleth: *"A succubus. Probably."* and at once, *"We don't know that."* **The players believe she probably is a succubus. It is a suspicion, not a fact, and characters should hold it that way.** ⚠ **The GM secret is unchanged and still off the page: she is a glabrezu.** The party killed a glabrezu ten miles from Drezen the same session. **Do not let anyone connect the two.**

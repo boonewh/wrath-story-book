@@ -53,7 +53,7 @@ The live blog lives in a **separate repository** at `G:\Projects\games\`. Built 
 
 When the blog page is updated, a matching `website/updateN.md` changelog file is written in *this* repo. Pattern set by `website/update4.md` — top matter, what changed (grouped by file path), files NOT touched, verification steps, cross-references.
 
-The Vanguard section on the same page shows **Level** in its header and **each character's Mythic Tier on that character's card** (tiers diverge as of Session 21). The Campaign Arc Status milestone footer shows the **level and the party's tier range**. An inline code comment marks both. **As of the Session 21 pass: Level 10; Nageru Tier 4, everyone else Tier 3; footer reads Mythic Tier 3–4.** See `memory/mythic-tiers-personal-quests.md`. Changelogs exist for sessions 4, 7, 9, 10, 11, 12, 13, 16, 17, 18, 19, 20 and 21.
+The Vanguard section on the same page shows **Level** in its header and **each character's Mythic Tier on that character's card** (tiers diverge as of Session 21). The Campaign Arc Status milestone footer shows the **level and the party's tier range**. An inline code comment marks both. **As of the Session 22 pass: Level 10; ALL FOUR at Mythic Tier 4; the footer range collapses to "Mythic Tier 4".** See `memory/mythic-tiers-personal-quests.md`. Changelogs exist for sessions 4, 7, 9, 10, 11, 12, 13, 16, 17, 18, 19, 20 and 21. ⚠ **Session 22's changelog has not been written yet.**
 
 ## Canon Hierarchy
 
@@ -143,7 +143,7 @@ Established POVs so far:
 
 POV remains a stakes decision, not a rotation — choose whoever has the most at stake in a given session.
 
-**✔ NAGERU'S POV DROUGHT ENDED WITH Ch 21.** He is still **the only PC without a character song**, and Ch 21 is the chapter it was waiting for. *(Historical note, pre-Ch 21:)* **NAGERU IS SEVEN CHAPTERS OVERDUE — AND HE WAS ABSENT FROM SESSION 20 ENTIRELY** (player out; in fiction he went back to Drezen to see Jesker Helton's atonement performed, **not** to pursue the fane). His last POV was Ch 13. He is also the only PC without a character song. `memory/fane-of-irori.md` flags the Irori fane as his chapter — but note its own warning: **receiving a summons is not the same as answering it.** A POV chapter about getting a letter is a chapter about waiting. Spend him when they actually go.
+**✔ NAGERU'S POV DROUGHT ENDED WITH Ch 21.** ✔ **AND HE HAS A CHARACTER SONG — `songs/character-nageru.md`, "The Thunder Wakes."** *(Older notes across this file, README.md and two memory files claimed he was the only PC without one. That was stale; corrected 2026-09-20. **All four PCs now have character songs.**)* *(Historical note, pre-Ch 21:)* **NAGERU IS SEVEN CHAPTERS OVERDUE — AND HE WAS ABSENT FROM SESSION 20 ENTIRELY** (player out; in fiction he went back to Drezen to see Jesker Helton's atonement performed, **not** to pursue the fane). His last POV was Ch 13. He is also the only PC without a character song. `memory/fane-of-irori.md` flags the Irori fane as his chapter — but note its own warning: **receiving a summons is not the same as answering it.** A POV chapter about getting a letter is a chapter about waiting. Spend him when they actually go.
 
 ### Secrets Matrix
 
@@ -198,7 +198,7 @@ Who knows what. The POV character can only narrate what they know — never let 
 
 *(Ch 21 is the last written chapter. `sessions/` has notes through session 21.)*
 
-**Advancement:** All four PCs are **Knights of the Fifth Crusade** and mythic. **⚠ As of Session 21: Level 10 Gestalt, and mythic tiers are now PER CHARACTER.** **Nageru is Tier 4**, granted for completing his personal quest (the fane of Irori); **Caleth, Thane and Korroc are Tier 3** (since Session 18). Each PC has a personal quest that grants a tier; Caleth's is probably rescuing Aravashnial (Will's guess, unconfirmed); Thane's and Korroc's are unstated. **Never write a single party tier again.** See `memory/mythic-tiers-personal-quests.md`.
+**Advancement:** All four PCs are **Knights of the Fifth Crusade** and mythic. **Level 10 Gestalt, and ✔ ALL FOUR ARE MYTHIC TIER 4 as of Session 22.** Nageru reached 4 in Session 21 for the fane; **Caleth's came in Session 22 for killing the Woundworm** (⚠ *not* for rescuing Aravashnial — that failed), and the GM brought **Korroc and Thane** up with him to level the party. ⚠ **Tiers are still granted PER CHARACTER by personal quest** — Thane's and Korroc's remain unstated — so do not assume they stay matched, and check before recording any future change. See `memory/mythic-tiers-personal-quests.md`.
 
 **Where they are and what they're doing:**
 - **DREZEN IS TAKEN.** The citadel is held, the **Sword of Valor is RECOVERED (Ch 18)** and flies over it. **The objective of Book 2 is complete.**
