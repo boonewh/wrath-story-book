@@ -38,8 +38,8 @@ The middle line is **the Lantern Seer's third vision, word for word** (see `char
 ## What it opens
 
 - **Vang has noticed Caleth.** In the second scrying, Vang says of the rescuers: *"They were rather impressive. Especially the young half-elf."* **Aravashnial's response was to stop breathing** — total, instant stillness — and Vang caught it: *"Interesting. Very interesting."* **The elf gave Caleth away by trying to protect him, and Caleth watched it happen and knew exactly what he was watching.**
-- **Vang murdered a Riftwarden years ago, took his book, and it was Aravashnial's family.** ⚠ **GM-confirmed: there is family there.** *"He was stubborn. I suppose that runs in the family."* — and Aravashnial, who has never raised his voice in Caleth's hearing, threw himself at the bars screaming **"YOU MURDERED HIM!"** ⚠ **The relationship is NOT stated. Do not name it.** In a year and four hundred conversations Aravashnial had never once mentioned having anyone, and **Caleth had never asked.**
-- ⚠ **Do not conflate the two dead Riftwardens.** Vang killed Caleth's parents *and* killed someone of Aravashnial's. **Nothing establishes they are the same event or the same people.**
+- **Vang murdered a Riftwarden years ago, took his book, and it was Aravashnial's family.** *"He was stubborn. I suppose that runs in the family."* — and Aravashnial, who has never raised his voice in Caleth's hearing, threw himself at the bars screaming **"YOU MURDERED HIM!"**
+- **✔ SUPERSEDED BY Ch 23:** Aravashnial's brother **Aelariel** was **Caleth's father**, and **Caleth now believes** the murdered Riftwarden was Aelariel. The old rules *"the relationship is NOT stated"* and *"do not conflate the two dead Riftwardens"* are **retired** for that one man. ⚠ **Still true (Will, 2026-09-27): the Riftwardens Vang killed at the Blackwing were NOT Caleth's parents** — multiple murders. See [[caleth-parents-and-uncle]].
 - **Vang is a worm that walks** — robes with no footsteps, a wet overlapping sound underneath, and a body that comes apart into thousands of writhing worms. The party has now *seen* this. It is no longer a librarian's word.
 
 ## Craft notes

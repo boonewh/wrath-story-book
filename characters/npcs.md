@@ -35,11 +35,16 @@
 - ⚠ **STILL DO NOT RESOLVE:** **where he is now** (teleported out of the cavern mid-fight), **who the templar was that took him** (nobody got the man's face), and **what the green-crystal collar does.**
 - ⚠⚠ **THE PARTY DOES NOT KNOW HE IS ALIVE.** They saw him alive in two scryings — but the second was **severed** by the collar, violently, mid-torture. *They know he WAS alive minutes ago. They do not know he is alive.* **Do not write any character as confident of his survival.**
 - ⚠ **Do not connect the Woundworm to the shape that crosses the moon**, or to the Ch 20 drake.
-- **⚠ VANG HAS PERSONAL BUSINESS WITH HIM, AND IT IS FAMILY.** Vang murdered another Riftwarden years ago and took his book; *"I suppose that runs in the family"* broke Aravashnial completely. **GM-confirmed: there is family there. The relationship is NOT stated — do not name it.** In a year Aravashnial has never once mentioned having anyone, and Caleth has never asked. See `memory/xanthir-vang-and-the-note.md`.
+- **⚠⚠ HE IS CALETH'S UNCLE (Ch 23).** His brother **Aelariel** — a Spireborn elf and Riftwarden — was **Caleth's father**; Aelariel's wife **Talia Aranor**, human and Riftwarden, was Caleth's mother. Proven by two letters Aravashnial kept sewn inside the cover of his field journal for twenty-five years (see *Aelariel* and *Talia Aranor* below). **⚠ ONLY CALETH KNOWS.** *(Retires the Ch 22 rule "the relationship is NOT stated — do not name it.")*
+- **⚠ VANG HAS PERSONAL BUSINESS WITH HIM, AND IT IS FAMILY.** Vang murdered another Riftwarden years ago and took his book; *"I suppose that runs in the family"* broke him completely — *"YOU MURDERED HIM!"* **As of Ch 23 Caleth believes that Riftwarden was Aelariel, his father** — which fits the Ch 22 note that Vang killed Caleth's parents. See `memory/caleth-parents-and-uncle.md`.
+- **⚠ HE WATCHED OVER CALETH ALL HIS LIFE (Ch 23).** His **locked personal journal** — the only thing Caleth ever saw him lock — records Caleth's birth, foster family, Kenabres Academy graduation, and the childhood fever he broke by **sending medicine anonymously.** It also held Caleth's **burned certificate of birth.** ⚠ **Why he never told Caleth is OPEN; so is whether he came home when his brother begged him to.** Caleth now carries the journal.
+- **His theory of Vang (journal, Ch 23):** a human of the Third Crusade who **died**, and was raised into what he is by **a blessing from Deskari**, earned by something Aravashnial never learned. **Untested, and labeled as such.**
+- **SCRYING HIM NOW FAILS EVERY TIME (Ch 23)** — shut off before it takes hold, and once **violently denied.** Cause open.
 - **⚠ HE GAVE CALETH AWAY BY PROTECTING HIM.** When Vang remarked on *"the young half-elf,"* Aravashnial went instantly and totally still — and Vang caught it. *"Interesting. Very interesting."*
 - **⚠ HE WROTE CALETH A NOTE AND NEVER HANDED IT OVER.** A Vang dossier with three lines added at the bottom in a different ink, naming Vang as the killer of Caleth's parents — **and quoting a vision Caleth has never told a living soul.** Left in a stack in his study. See `memory/xanthir-vang-and-the-note.md`.
 - **His captivity, as seen:** an **iron cage too small to stand up in**, wrists shackled, one side of his face swollen shut from a beating, and a **black metal collar with a faceted green crystal and needles driven into his neck.** He recognized the collar and showed **genuine panic** — the first Caleth has ever seen on him. He is, throughout, **controlled, dry and unbroken about himself**, and loses control exactly once, about someone else.
-- ⚠ **Left behind and now ownerless:** his **unopened chest** (Ch 20) and the **Riftwarden safe house** he was building in Drezen. Nobody has gone through either. Don't have anyone do so without the table.
+- ⚠ **Left behind and now ownerless:** his **unopened chest** (Ch 20) and the **Riftwarden safe house** he was building in Drezen. Nobody has gone through either. Don't have anyone do so without the table. *(Ch 23: Caleth searched his **study** — a different room — and took the journal from its locked desk drawer. The chest sat under the window, and he did not touch it.)*
+- **His field journal** was among his effects taken with him; **Vang sent it back torn apart** by quasit. The party recovered about three-quarters of the pages (wards, weather, a missed reagent shipment — nothing of use) and the cover, with the letters.
 - **Caleth's reaction was one small sound.** The reason it lands so hard on him, as the elder of his parents' order and the man who still has not told him what he knows, **stays private to Caleth.**
 
 **⚠ SOMEONE SENT HIM A LOCKED CHEST (Ch 20) AND HE DID NOT OPEN IT IN FRONT OF THE PARTY.** Roughly eighteen inches by ten, banded, good lock, an intact wax seal Caleth did not recognize, heavier than it looked. It reached Vilareth Ford by courier with orders to forward it to Drezen; Kamilo Dann handed it to Caleth; Caleth carried it a hundred and forty miles without opening it and noted precisely how much he wanted to. Aravashnial's reaction was *"How did you get this?"*, then both palms flat on the lid for a moment, then **nothing at all** — followed by one of the most efficient dismissals Caleth has ever received: *"Thank you. Oh — Irabeth will want to speak with you as soon as possible."*
@@ -848,7 +853,7 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
 ---
 
 ### Thorek Stonevein
-**Status:** Dead (Fourth Crusade).
+**Status:** ⚠ **MISSING — NOT dead.** *(This line said "Dead (Fourth Crusade)" until the Session 23 pass; Ch 19 overturned it.)* Captured in Staunton's ambush, imprisoned in Drezen, **escaped through the water tunnel with Borin** (Ch 19). **Ch 23:** a dead fellow prisoner confirmed the two of them were *"the reason we were able to escape"*, **did not know whether they got out**, and said they meant to reach **a crypt with supplies, north up the riverbed** — the waystation at the Khar-Zadûn graveyard. **Do not resolve where they went.**
 
 **Role:** Thane's father. Once a Skyguard of Khar-Zadûn, the legendary Dwarven Sky City. Dreamed of reclaiming it.
 
@@ -862,8 +867,10 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
 **Named as of Ch 11** — the second, third, and fourth signatures on the Drezen blueprints letter. The first four names on the page are the four parents of Thane and Korroc.
 
 - **Helja Stonevein** — **Thane's mother.** Still living (presumed; last known in Kenabres). Fourth Crusade veteran; "her careful upright hand" on the letter. She signed it seventy years ago and has never mentioned it to Thane — the user has chosen NOT to make her silence a story beat; do not open that thread unprompted.
-- **Borin Stonevein** — **Korroc's father.** Dead — fell in the Fourth Crusade fighting beside his brother Thorek. Shared the Khar-Zadûn dream.
-- **Dagna Stonevein** — **Korroc's mother.** **Status unknown — do not mark her alive or dead** until the table does.
+- **Borin Stonevein** — **Korroc's father.** ⚠ **MISSING, NOT dead** (Ch 19). Escaped the citadel with Thorek. **⚠ Ch 23: "Borin was injured"** when they left — how and how badly is not established. Shared the Khar-Zadûn dream.
+- **Dagna Stonevein** — **Korroc's mother.** **ALIVE, and in Drezen as of Ch 23.** See her full entry below.
+
+> **NOTE (canon pass, Session 23):** the two lines above were stale since Ch 19 (Borin "dead", Dagna "status unknown"); corrected. Helja's "still living" line below is likewise wrong — **she is dead** (see her Session 19 entry).
 
 *(Note: "Borin" also happens to be the name of Nageru's monk teacher, Master Borin — a human at the Sunken Fist. Different people; coincidence of names. Watch for confusion in prose.)*
 
@@ -887,7 +894,7 @@ These NPCs exist in canon but are not yet on-screen. They are named, motivated, 
 **The three visions they gave Caleth (already partly arriving):**
 - *A city burning under a bleeding sky.* — Armasse / Kenabres / Khorramzadeh. Already arrived.
 - *A blade wreathed in radiance.* — Radiance, Yaniel's sword. Already recovered.
-- *A shadow that wore a man's shape but cast none of its own.* — Likely **S. V.** Not yet faced.
+- *A shadow that wore a man's shape but cast none of its own.* — **XANTHIR VANG** (confirmed Ch 22; *not* S. V., as this file long assumed). Not yet faced.
 
 **Plot relevance:** Possibly still in Kenabres after the wardstone fall. If alive, the party may find them when they surface. Caleth has not told the others about the Seer. Reveal carefully.
 
@@ -946,7 +953,14 @@ These NPCs exist in canon but are not yet on-screen. They are named, motivated, 
 - The line that hit Thane hardest: ***"Your mother should be the one writing this letter."***
 - *"There has been enough Stonevein blood given to that war. I will not willingly give it yours."*
 
-**Relationship anchor:** She is the only living link to the generation the campaign has been excavating for nineteen chapters, and she is a letter-writer rather than a presence. **Do not bring her south without the table.**
+**Relationship anchor:** She is the only living link to the generation the campaign has been excavating for nineteen chapters.
+
+**⚠ Ch 23 — SHE IS IN DREZEN.** *(The table brought her; the old "do not bring her south" flag is retired.)* She answered a **call for stonemasons for the citadel** and turned up at **Horgus's** store, whom she did not think much of but respected for keeping a list; Horgus: *"Oh, thank the gods. Get her out of here."* Her opening line to the cousins: ***"Do you two NOT know how to write a letter?"*** She conducts family business in **Dwarven** (Caleth understands all of it). **A stonemason's hands.** Calls Korroc to account; he calls her **"Ma."**
+- Told to wait in the command room during the drake attack, **she went to the walls and watched**, then came down at a run through two guards to berate all four — Caleth in particular: *"What were you thinking, standing in FRONT of something you were about to kill?"*
+- **Thane told her about the fathers in person.** Her face opened and closed in an instant. **She braced him against hope** — *"We've believed them dead a very long time… if they were alive, they'd have tried to come home to us."* *"I know, dear. I know."* ⚠ *This does not contradict her forty years of saying "disappeared"; it is a mother steadying a nephew.*
+- **She identified the crypt:** north up the riverbed and a little west, **a day out** — the **graveyard of the dwarves who died when Khar-Zadûn fell**, where a **waystation for travelers** was built on the grounds. *"If it wasn't destroyed when the Worldwound came through, the station might even still be there."*
+- *"You two are definitely your fathers' sons."* / *"You'd better come back to me."* / to Caleth and Nageru: *"bring them back or I swear I'll hunt you down myself."*
+- **She wants to meet whoever worked out the escape tunnel.** Caleth: *"His name is Aravashnial… He is also missing."* — *"Well. That's about the way things go up here, isn't it?"
 
 ---
 
@@ -1123,3 +1137,30 @@ Found ten miles west of Drezen on top of a hill-sized rock formation, where it h
 
 ### The Six-Legged Dragon — at large
 Attacked Drezen the day after the party left; kept going for the courtyard; **carried off Aravashnial and four soldiers** after collapsing a tower beneath them. **Unidentified, unlocated.** ⚠ **Do not connect it to the shape across the moon, to Jerribeth, or to the Ch 20 drake.**
+
+
+## New in Session 23
+
+### Aelariel — Caleth's father *(dead; killed by Xanthir Vang)*
+**Spireborn elf. Riftwarden. Aravashnial's brother.** Named on Caleth's certificate of birth (no second name given) and in two letters Aravashnial kept sewn in his field journal's cover. **Voice (his letter):** precise, elegant, brilliant, stubborn; tries to be brief and fails; calculated the odds of his unborn child becoming a wizard and, told *"children are not equations,"* replied that *"this did not prevent them from having variables."* **He built the crib.** He wrote to his brother three days after the birth: *"His name is Caleth Aranor… The name suits him, and that is reason enough"* — and then about **the Seeker's Spiral** on the child: *"I know what the records say. I know the stories… Brother, I am afraid… Come home, Aravashnial… Then I need my brother here."* **The letter is complete and unsigned.**
+- ⚠ **What "the records" and "the stories" say about the Spiral is NOT established. Do not invent it.**
+- **Caleth believes (Ch 23) he is the Riftwarden Vang boasted of murdering in Ch 22** — *"I took it from another elf… stubborn… runs in the family."*
+- Vanished into the Worldwound with Talia **less than a month after Caleth's birth.** What the mission was, where, and how Vang killed them: **OPEN.**
+
+### Talia Aranor — Caleth's mother *(dead; killed by Xanthir Vang)*
+**Human. Riftwarden.** Caleth carries **her family name**, by his parents' choice over the objections of *"some among our people."* **Voice (her letter):** warm, teasing, dry, affectionate — *"I married a brilliant man. Sometimes I wonder if that was wise."* Plainly fond of her brother-in-law and wanted him home: *"There will always be a place for you at our table."* **She sang to Caleth, and he grew quiet when she did** (Aelariel's letter). Added the line that became Ch 23's title: ***"Children are not equations."***
+
+### Caleth's certificate of birth *(prop from the GM)*
+Burned around every edge. Found folded inside Aravashnial's locked journal. **Father: Aelariel. Mother: Talia Aranor. Child: Caleth Aranor. Birthplace: Kenabres. Recorded 14 Sarenith, 4689 AR.** Signed by a **Keeper of Records, Kenabres Archives** (*Ilvessan Aeleth*) and the **Magister of the Council, Kenabres** (*Elandor Vhosst*); seal of a tree in a ring of stars. ⚠ The prop spells the city *"Kenebras"* — an AI typo; **canon is Kenabres.** **Who burned it, and how Aravashnial came to have it: open.**
+
+### The Quasit — Vang's messenger
+Red at a distance; giggling, delighted, malicious. Hovered thirty feet off the north parapet under Irabeth's raised hand: **"Xanthir Vang, of course… He demands that you abandon Drezen within the week… if you do not, he will come and take more."** Threw **Aravashnial's torn-apart field journal** at them: *"That was only a piece of it. Stay longer, and I'll bring more."* Allowed to fly away. **The party's answer (Korroc): "Nope."**
+
+### The Rift-Drake Riders — cultists *(Ch 23)*
+Five **rift drakes** — dirty red, membranous wings, barbed whip-tails, **acid spit that bursts into a caustic cloud** — each carrying a **cultist with a lance that discharges lightning** on a hit. They hit the eastern bridge excavation as **a target of opportunity**, not a planned strike. Riders dismounted; drakes harried from the air. **Result:** one drake dead (Caleth), **three cultists dead (Nageru), one dead (Thane), one escaped on a drake; four drakes fled.** One drake carried Thane off and was killed doing it.
+
+### The Prisoner in the Tunnel *(dead; unnamed; human)*
+One of the skeletons in the pre-fall water tunnel east of Drezen — **none of which are dwarven.** Sitting against the wall, legs out. **Sosiel spoke with him** (Ch 23). Five questions: *knew Borin and Thorek* (*"They are the reason we were able to escape"*); **stayed behind to give them a chance**; ***did not know whether they got out***; **Borin was injured**; they told the others that if separated, **follow the riverbed north to a crypt with supplies.** ⚠ **Unnamed. Do not name him.**
+
+### The Khar-Zadûn Graveyard and Waystation *(unvisited)*
+Per Dagna: **north up the old riverbed and a little west, about a day from Drezen.** A graveyard for **the dwarves who died when Khar-Zadûn fell**, sheltered, with **a waystation for travelers** built on its grounds — food, water, a roof. **Whether it survived the Worldwound is unknown.** The party rode for it at nightfall on day four of Vang's week. **No proper name established — do not invent one.**

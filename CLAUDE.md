@@ -73,7 +73,7 @@ If any of these contradict each other, **flag it to the user**; do not silently 
 
 There is also a machine-local Claude memory store at `C:\Users\boone\.claude\projects\G--Projects-wrath-story-book\memory\`. It is NOT backed up and was wiped by the August 2026 Windows reinstall — treat it as scratch. **Anything that matters to the campaign goes in the repo's `memory/`.**
 
-Current repo memory files (23). **`memory/MEMORY.md` is the authoritative index and is kept current — read it, not this list, for the live wording.**
+Current repo memory files (27, plus the index). **`memory/MEMORY.md` is the authoritative index and is kept current — read it, not this list, for the live wording.**
 
 *Character and craft:*
 - `aravashniel-riftwarden.md` — Aravashnial's Riftwarden identity is PUBLIC to the party as of Ch 11; the deeper layers (elder rank, Caleth connection, Caleth's Ch 4 knowledge) stay secret. *(Filename misspells his name; the file's content is correct.)*
@@ -95,6 +95,9 @@ Current repo memory files (23). **`memory/MEMORY.md` is the authoritative index 
 - `thane-unspoken-possession.md` — Thane has **never told anyone** he was possessed in Ch 18. Ch 19 walked him to the door and he could not open it. Must cost him something to say.
 - `fane-of-irori.md` — Sister Lyra's charge to Nageru; its founders *"were waiting for something. Or perhaps someone."* **✔ FOUND in Ch 21, and the table made Nageru the answer: he is literally the Son of Irori, and the whole party heard it.** Still open: what it means for his parents, what "work" remains, what becomes of the fane.
 - `nageru-went-for-the-atonement.md` — **⚠ Nageru's Ch 20 absence was Jesker's atonement, NOT the fane.** Do not credit that trip to the Irori quest. *(His POV drought ended with Ch 21.)*
+*New in Session 23:*
+- `caleth-parents-and-uncle.md` — **Caleth's parents were Aelariel (Spireborn elf) and Talia Aranor (human), both Riftwardens, both killed by Vang. Aelariel was Aravashnial's brother — ARAVASHNIAL IS CALETH'S UNCLE.** Only Caleth knows. Why the elf never told him, and what the Spiral means, stay open.
+
 - `the-drake-and-jerribeth.md` — Ch 20's three open items: **Jerribeth** (the party believes she is an elf and must keep believing it), the **drake that flew west**, and the **language Marhevok screamed that nobody knew**. Do not resolve any of them.
 
 *Timeline:*
@@ -141,6 +144,7 @@ Established POVs so far:
 - Chapter 20: **Caleth** (*The Kind One / Three Attempts* — the Wintersun clan, the broken duel, Korroc inherits a tribe, and the charge Terendelev actually gave him)
 - Chapter 21: **Nageru** (*What Was Lost / The Fane That Waited* — Fiendsplitter, the fane restored, "Son of Irori," Aravashnial taken)
 - Chapter 22: **Caleth** (*The Shadow That Cast None / What the Water Showed* — the note in Aravashnial's study, the failed rescue, and the name of the man who killed his parents)
+- Chapter 23: **Caleth** (*Children Are Not Equations / Runs in the Blood* — the locked journal, the letters in the cover, Aravashnial is his uncle; Dagna arrives; the tunnel and the dead prisoner; north toward the Khar-Zadûn graveyard)
 
 POV remains a stakes decision, not a rotation — choose whoever has the most at stake in a given session.
 
@@ -165,6 +169,8 @@ Who knows what. The POV character can only narrate what they know — never let 
 | **Caleth's Ch 15 wound** (the succubus wore Iomedae's face and compelled him past his own correct judgment) | Happened in front of the party | **No one has ever spoken of it, including him.** Refrain: *"knowing wasn't enough."* |
 | Nageru's charge from Sister Lyra (the lost fane of Irori) | Nageru; **the fane itself is now public** (Ch 21), since they were all in it | The party knows the temple was Irori's and that it welcomed Nageru. **The letter and Lyra's instructions are still his alone.** Thane never asked; his offered hands came anyway. |
 | **Nageru is literally the Son of Irori** (Ch 21, GM-confirmed) | **The whole party heard the monk say it**, and got a strong hint of what he is | **Nobody has spoken of it**, including Nageru. What it means for his parents is unknown to everyone. |
+| **Aravashnial is Caleth's UNCLE** (Ch 23); Caleth's parents were **Aelariel and Talia Aranor** | **Caleth only** (and Aravashnial) | Everyone. Nageru found the letters and does not know what they say. |
+| **Caleth's Spiral dreams** (Ch 23) — a shadowless man; Aravashnial behind an iron door; the mark burning | The party heard him say *"I think Aravashnial is trying to send me a message"* after the second | **Nobody has seen the Spiral.** Nobody knows of the first dream. |
 | Caleth can push charge back into spent items | **Now semi-public** — demonstrated on a forge floor in front of Korroc, Nageru and Aravashnial (Interlude 2) | Nobody understands the mechanism, **Caleth least of all** |
 
 **⚠ The strongest unused material in the campaign:** two men in this party are carrying an unspoken thing a demon did to them — Thane (Ch 18) and Caleth (Ch 15) — **and neither knows about the other's.**
@@ -180,7 +186,8 @@ Who knows what. The POV character can only narrate what they know — never let 
 - **Nageru** — the aasimar; **bronze skin** (NOT golden), amber eyes, subtle golden *aura* only
 - **Chorussina** — the tiefling conjurer below Drezen. *(Ch 16 originally spelled her "Chorussian" off a mishearing; corrected across all files 2026-08-16. Only `sessions/session16.md`, the raw GM note, still carries the old spelling — leave it, source records are not edited.)*
 - **Joran Vhane** — Staunton's brother. **Joran**, not Jordan and not Joron. *(The GM's session notes write "Jordan" and some player after-action reports write "Joron" — both wrong. Corrected across all files 2026-08-11 at the table's request. The raw `sessions/*.md` notes still carry "Jordan"; source records are not edited.)*
-- **Thorek** + **Helja** — Thane's father and mother. **Borin** + **Dagna** — Korroc's father and mother. All four are **Stonevein**.
+- **Thorek** + **Helja** — Thane's father and mother. **Borin** + **Dagna** — Korroc's father and mother. All four are **Stonevein**. *(The Session 23 notes write "Boren"; source records are not edited.)*
+- **Aelariel** + **Talia Aranor** — Caleth's father and mother (Ch 23). Aelariel has no second name. **Kenabres**, never "Kenebras" (the GM's prop certificate carries that AI typo).
 - **Eustoyriax** — the shadow demon who held the true Sword of Valor and possessed Thane (Ch 18)
 - **Aponavicius** — the marilith who held Drezen; it was her vanity that spared the Banner
 - **Chorussina** — the tiefling conjurer below Drezen *(see the correction note above)*
@@ -195,9 +202,18 @@ Who knows what. The POV character can only narrate what they know — never let 
 - **Fiendsplitter** — Thane's intelligent dwarven axe (Ch 21)
 - **Xanthir Vang** — **Xanthir**, not "Xanther" *(the Session 21 notes spell it Xanther; source records are not edited)*
 
-### Party State at End of Chapter 22
+### Party State at End of Chapter 23
 
-*(Ch 22 is the last written chapter. `sessions/` has notes through session 22.)*
+*(Ch 23 is the last written chapter. `sessions/` has notes through session 23.)*
+
+**⚠ SESSION 23 IN BRIEF — read this first; the Ch 22 state below still holds except where this overrides it:**
+- **ARAVASHNIAL IS CALETH'S UNCLE.** His brother **Aelariel** (Spireborn elf, Riftwarden) and **Talia Aranor** (human, Riftwarden) were Caleth's parents; Caleth was born in **Kenabres**, 14 Sarenith 4689 AR (~25 now). Found in Aravashnial's **locked journal** (with Caleth's burned birth certificate) and **two letters sewn in his field journal's cover.** **Caleth has told no one.** He now **believes the Riftwarden Vang boasted of murdering in Ch 22 was his father.** See `memory/caleth-parents-and-uncle.md`.
+- **VANG'S ULTIMATUM, by quasit:** abandon Drezen within the week or *"he will come and take more."* Korroc: *"Nope."* Irabeth is fortifying. **The party left on day four with ~three days left.**
+- **Scrying Aravashnial now fails every time** — once violently denied. **Caleth's Spiral burns in dreams** of a shadowless man and of Aravashnial behind an iron door; he believes Aravashnial is reaching for him. Nobody has seen the mark.
+- **DAGNA STONEVEIN IS IN DREZEN**, working as a stonemason. **Thane told her about the fathers in person** — the unwritten-letter thread is closed.
+- **The escape tunnel is open; none of the bones are dwarven.** Via Sosiel's speak-with-dead: the fathers made the escape work; **the dead man does not know if they got out**; **Borin was injured**; they aimed for **a crypt with supplies, north up the riverbed** — Dagna: **the Khar-Zadûn graveyard and waystation, a day north and a little west.**
+- **✔ WHERE THEY ARE AT THE CLOSE OF Ch 23: camped several hours north of Drezen along the dry riverbed, the four of them alone**, riding for the waystation. Thane: *"I need a horse."*
+- **A rift-drake raid** (five drakes, lance-riding cultists) hit the excavation as a target of opportunity; Thane was carried off and got back. **Thane's scale was used (levitation; 3/day).**
 
 **Advancement:** All four PCs are **Knights of the Fifth Crusade** and mythic. **Level 10 Gestalt, and ✔ ALL FOUR ARE MYTHIC TIER 4 as of Session 22.** Nageru reached 4 in Session 21 for the fane; **Caleth's came in Session 22 for killing the Woundworm** (⚠ *not* for rescuing Aravashnial — that failed), and the GM brought **Korroc and Thane** up with him to level the party. ⚠ **Tiers are still granted PER CHARACTER by personal quest** — Thane's and Korroc's remain unstated — so do not assume they stay matched, and check before recording any future change. See `memory/mythic-tiers-personal-quests.md`.
 
@@ -217,9 +233,9 @@ Who knows what. The POV character can only narrate what they know — never let 
 **The Stonevein arc — the campaign's live engine:**
 - **⚠ THE FATHERS SURVIVED (Ch 19).** Thorek and Borin were **captured, not killed**; **Staunton Vhane arranged the ambush**; they were put to work on the citadel they had helped build, dug **twenty feet** to a pre-fall water tunnel over better than a year, and escaped into the dry riverbed east of Drezen. **Neither is on the list of the dead. Neither was recorded as recaptured. WHERE THEY WENT IS OPEN — do not resolve it, do not kill them off-page, do not bring them back.**
 - **The riverbed east of the walls is now a standing location with a claim on the party.** Aravashnial had the eastern bridge repairs moved up the list for exactly one reason: *"if you intend to find out where your fathers went, this is where their trail begins."* Aron's engineers open that ground over the following month.
-- **Helja Stonevein is DEAD** (Thane's mother — *how and when is NOT established; do not invent it*). **Dagna Stonevein is ALIVE in Nerosyan**, wrote to both cousins in Ch 19, and intends to come south after seventy-five years. **Drezen was the family's home** — Dagna and Helja knew its streets first; the four met and became a family there.
+- **Helja Stonevein is DEAD** (Thane's mother — *how and when is NOT established; do not invent it*). **Dagna Stonevein is ALIVE and, as of Ch 23, IN DREZEN** (she wrote to both cousins in Ch 19; she intended to come south after seventy-five years, and did). **Drezen was the family's home** — Dagna and Helja knew its streets first; the four met and became a family there.
 - **Thane's banked flame has changed shape a third time.** Not vengeance, not the wrong record — *his father was a nuisance in a ledger for a year and dug his way out*, and Thane's private, unshared conclusion is ***"I could not have done that."*** Do not let him make peace with it quickly.
-- **Thane means to write to Dagna about the fathers and has not yet.** Korroc owns the grief; Thane owns the investigation. Keep that split.
+- ~~Thane means to write to Dagna about the fathers and has not yet.~~ **✔ Closed Ch 23: he told her in person.** Korroc owns the grief; Thane owns the investigation. Keep that split.
 - **Staunton arranged the ambush and Staunton is dead** — killed in Ch 16 over Thane's explicit objection after he asked for the man alive (*"Three days,"* was his estimate). **That disagreement is now permanently unresolvable and neither cousin has spoken of it. Live thread.**
 
 **Per character:**
@@ -237,6 +253,8 @@ Who knows what. The POV character can only narrate what they know — never let 
 - **⚠ JERRIBETH HAS NOW BEEN MET (Ch 22), AND SHE IS PROVABLY A DEMON.** Caleth's smite fired and Radiance's demon bane bit; **he said so out loud** and Thane answered *"Of course she is."* She had the prisoners, took Aravashnial off his spellbook notation, left the soldiers for the dragon, fought, and **escaped wounded on a contingency.** ⚠ **The party's conclusion is SUCCUBUS and must stay succubus** *(GM secret, unchanged and off the page: glabrezu)*. **Her blood is on Radiance and a scrying with it still failed.** — Also from Ch 20: **Beverach** (acting leader of the Wintersuns at the Ford) and **Kamilo Dann** (feeding a doubled camp).
 - **Queen Galfrey** is not at Drezen; her mandate arrived by letter. Irabeth, Anevia, Aron, Sosiel, Horgus and Klarah are with the company. **Aravashnial was taken (Ch 21).**
 - **NEW (Ch 21):** a **tattooed woman** who led the western temple, **escaped by contingency spell** with her winged bull-dragon (fate unknown); an **unnamed ancient monk** of the fane; the **six-legged dragon**. Jerribeth has posted a **1,000-platinum bounty on Arueshalae** (unnamed in the document; the party is sure), and **the party now suspects Jerribeth is a succubus** (suspicion only; the GM secret, that she is a glabrezu, stays off the page).
+
+**New from Session 23, closed to invention:** **why Aravashnial never told Caleth** · **whether he came home when Aelariel begged him to** · **what the Riftwardens' records and stories say about the Spiral** · **what the dreams are** · **what is denying the scrying** · **who burned the birth certificate** · **whether the fathers got out, and how badly Borin was hurt** · **what Vang does when the week runs out.** ⚠ **Flagged for Will:** `lore/factions.md` calls the Mordant Spire half-elven, but Aelariel is a Spireborn *elf*.
 
 **⚠ Threads deliberately left open — do NOT close any of these without the table:**
 the whisper below Drezen (stopped, unexplained, no retroactive credit) · where the fathers went · how Helja died · Joran's lost healing · whose armor Korroc is wearing · the lost fane of Irori and what its founders were waiting for · four loose vials from Ch 19 · Thane's silence about the possession.
@@ -266,16 +284,24 @@ the whisper below Drezen (stopped, unexplained, no retroactive credit) · where 
 4. **Read** the POV character's file in `characters/`
 5. **Skim** relevant lore (factions, items, places mentioned in the session)
 6. **Check** `memory/MEMORY.md` for secrets, open questions, and any "previous-Claude fabrication" warnings
-7. **Write the chapter yourself**, in one sustained pass, with all of the above in context
-8. **Save** the result as `chapters/NN-short-title.md` (chapter number matches session number; **interludes take the previous chapter's number plus `.5`** — see `08.5-` and `18.5-`)
-9. **Canon-update pass:** update character files (Established Moments + Current State), lore files, npcs.md as needed
-10. **Web-update pass:** update `games/src/app/wrath/page.tsx` Campaign Arc Status section + write `website/updateN.md`
-11. **Song:** write `songs/sessionN.md`
-12. ~~**Image prompt:** write `images/sessionN.md`~~ — **⚠ DEPRECATED (2026-09-06). Do not do this.** Image prompts are no longer kept in the repo. Do not write one as part of a session pass and do not offer it at the end of one; write one only if the author explicitly asks. See `memory/image-prompts-deprecated.md`.
+7. **⚠⚠ SURFACE THE INTERPRETIVE CALLS — BEFORE WRITING A WORD.** Go back through the session notes and list every place the prose will have to **commit to something the notes do not state**, then put them to the author in one batch. **This step was added after Ch 22, where six preventable errors were caught one at a time in a finished draft.** Ask about: anything identified by appearance rather than name (a colored light, a shape, a sound); **who moved and who stayed** (teleports and "the group went" are chronically ambiguous); what a *repeated* action was aimed at; any number the prose must state; **any proper noun the prose wants and the notes lack — do not invent one**; and anyone's status, plus who in the party believes which. ⚠ **A batch of questions before drafting is cheap and welcome. A batch of corrections after drafting is expensive.** See `memory/chapter-drafting-pitfalls.md`.
+8. **Write the chapter yourself**, in one sustained pass, with all of the above in context
+9. **⚠ GREP THE DRAFT BEFORE HANDING IT OVER.** Six checks, all cheap:
+   - `(two|three|several) years` — see `memory/campaign-elapsed-time.md`
+   - British spellings — `\bgrey|colour|armour|honour|defence|centre|travell|recognis|realis`
+   - **Name spellings** against the list above
+   - **⚠ Character-trait violations.** For every character with real page time, open their file and grep their hard rules. Current cast: `old (man|elf)|elderly` (Aravashnial is **not** old), `Torag` near Thane (his god is **Alseta**), `golden` near Nageru's skin (**bronze**).
+   - **⚠ Invented proper nouns.** Grep capitalized place/person names; confirm each against `characters/`, `lore/` or the session notes. Anything unmatched is invented — cut it or ask.
+   - **⚠ Finality language about open-thread characters.** `dead|died|corpse|body|grave|mourn|grief` near anyone **missing** rather than confirmed dead — currently **Aravashnial**, the **Stonevein parents**, **Jerribeth**.
+10. **Save** the result as `chapters/NN-short-title.md` (chapter number matches session number; **interludes take the previous chapter's number plus `.5`** — see `08.5-` and `18.5-`)
+11. **Canon-update pass:** update character files (Established Moments + Current State), lore files, npcs.md as needed
+12. **Web-update pass:** update `games/src/app/wrath/page.tsx` Campaign Arc Status section + write `website/updateN.md`
+13. **Song:** write `songs/sessionN.md`
+14. ~~**Image prompt:** write `images/sessionN.md`~~ — **⚠ DEPRECATED (2026-09-06). Do not do this.** Image prompts are no longer kept in the repo. Do not write one as part of a session pass and do not offer it at the end of one; write one only if the author explicitly asks. See `memory/image-prompts-deprecated.md`.
 
-**The user often wants steps 8-12 spread across multiple turns, not done all at once.** Check before bundling.
+**The user often wants steps 10-14 spread across multiple turns, not done all at once.** Check before bundling.
 
-**Never skip step 9 to get to the next chapter.** The canon files are the only durable record of what the prose established; a chapter written against stale character files loses the previous session's gains. (Sessions 14–15 were written and the canon pass was lost in a disk failure — it had to be reconstructed from the chapter prose.)
+**Never skip step 11 (the canon pass) to get to the next chapter.** The canon files are the only durable record of what the prose established; a chapter written against stale character files loses the previous session's gains. (Sessions 14–15 were written and the canon pass was lost in a disk failure — it had to be reconstructed from the chapter prose.)
 
 ### Canon-Correction Process
 
@@ -315,7 +341,11 @@ These are phases of work, **not** sub-agents to delegate to. Same agent, same co
 ## What NOT to Do
 
 - **Do NOT hand creative work to a sub-agent.** One agent — you — does the reading, the deciding, and the writing. See *Model Architecture Rule*.
-- **Do NOT invent canon.** If a session note is unclear, ASK the user; do not fill gaps with plausible invention.
+- **Do NOT invent canon.** If a session note is unclear, ASK the user; do not fill gaps with plausible invention. ⚠ **The hard part is noticing a note IS unclear** — in Ch 22 three notes read as facts while drafting and only became questions when the author pushed back. **Run step 7 before writing.** See `memory/chapter-drafting-pitfalls.md`.
+- **⚠ Do NOT invent proper nouns.** No place names, titles, ranks or surnames that are not in `characters/`, `lore/` or the session notes. A *vague* detail is safe; a *specific and wrong* one gets quoted back as canon later. Write around it or ask. *(Ch 22 invented "Ramson's Ford" for one clause.)*
+- **⚠ Do NOT write finality the POV character has no grounds for.** Aravashnial is **taken, not dead**; the Stonevein fathers are **missing, not dead**. Narration must not bury someone the story has not buried. *(Ch 22 wrote "a dead man's office" about a man the chapter was actively trying to rescue.)*
+- **⚠ Do NOT call Aravashnial old.** He is an elf, long-lived but **not elderly**, and would be insulted. `characters/npcs.md` has said so in bold for months and the Ch 22 draft did it fourteen times anyway. **Reading a canon file is not the same as checking the draft against it.**
+- **Do NOT let in-scene durations go unchecked.** Sanity-test any stated time against what the table actually did. *(Ch 22 gave the party eleven minutes to cast buffs; it is a round or two.)*
 - **Do NOT reveal secrets through narration.** The POV character can only narrate what they know.
 - **Do NOT update the live web page's Campaign Arc Status section by appending.** Always REPLACE the content; the section is a current-state window, not an archive.
 - **Do NOT skip writing the matching `website/updateN.md`** when the page is updated.

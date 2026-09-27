@@ -260,3 +260,11 @@ The party teleported into it and out again and never explored it. What is establ
 - ⚠ **An Abyssal rift was burning at the far end of it during the scrying, and was GONE hours later when the party arrived.** Unexplained, uninvestigated, and deliberately unresolved. See `memory/the-rift-at-the-molten-scar.md`.
 
 ⚠ **Nobody has been back, and the party has not discussed going.**
+
+
+
+## The Dry Riverbed East of Drezen, and the Khar-Zadûn Graveyard *(established Ch 23)*
+
+- **The escape tunnel is open (Ch 23).** Aron's engineers broke through the last of the fill at the eastern bridge excavation into the **pre-fall dwarven water tunnel** the Stonevein fathers dug to. Round, smooth-walled, dry, straight. **Skeletons lie along it — none of them dwarven.** One wore a cut ankle-chain.
+- **The riverbed** runs north from Drezen: a long pale scar of cracked mud and river stones where a real river once ran, with dwarves on its banks.
+- **The Khar-Zadûn graveyard** — per Dagna Stonevein: north up the riverbed and **a little west, about a day from Drezen.** Where the dwarves who died **when Khar-Zadûn fell** were buried. Sheltered; a **waystation for travelers** was built on its grounds (food, water, a roof). **Whether it survived the Worldwound is unknown.** It is the **"crypt with supplies"** the escaped prisoners were told to make for. ⚠ **No proper name established — do not invent one.** Unvisited as of the end of Ch 23; the party rode for it at nightfall and camped several hours out.

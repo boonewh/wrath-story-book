@@ -25,3 +25,5 @@
 
 - [Xanthir Vang killed Caleth's parents (Ch 22)](xanthir-vang-and-the-note.md) — **and Aravashnial wrote it down and never handed it over.** The note quotes the Lantern Seer's third vision **verbatim**, which Caleth has never told a soul. ⚠ **Unexplained; do not resolve.** Vang has now noticed Caleth.
 - [The rift at the Molten Scar (Ch 22)](the-rift-at-the-molten-scar.md) — an **Abyssal rift** burning in the templars' cavern at midday and **gone by evening.** Rifts do not go out. ⚠ Not Nahyndrian — the Ch 11 rift is the comparison. Do not resolve.
+- [Caleth's parents, and Aravashnial is his uncle (Ch 23)](caleth-parents-and-uncle.md) — **father Aelariel (Spireborn elf), mother Talia Aranor (human), both Riftwardens, both killed by Vang; Aelariel was Aravashnial's brother.** Only Caleth knows. Why the elf never told him, and what the Spiral means, stay OPEN.
+- [Chapter drafting pitfalls (after Ch 22)](chapter-drafting-pitfalls.md) — the seven corrections Will made to the Ch 22 draft, sorted by cause. **Six were preventable.** Carries the pre-draft "surface the interpretive calls" step and the pre-handoff grep checklist. **Read before writing any chapter.**

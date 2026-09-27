@@ -17,7 +17,11 @@ When asked to write a new chapter, follow this order:
 5. Skim relevant character files from `characters/` for the POV character and any whose history is directly relevant to this session's events.
 6. Check `lore/timeline.md` for where we are in the larger arc and what's been established.
 7. Check `lore/factions.md` and `lore/items.md` if the session involves Templars, Vescavor, the silver scales, Radiance, or any other established lore element.
-8. Write the chapter as a new markdown file in `chapters/`, named `NN-short-title.md` where NN is the chapter number.
+8. **⚠ Before writing a word: surface the interpretive calls.** Go back through the session notes and list every place the prose will have to commit to something the notes do not state — a light or shape identified by appearance rather than name, who moved and who stayed, what a repeated action was aimed at, any number you'd have to invent, any proper noun the notes lack, anyone's status. **Put them to the author in one batch and wait.** A batch of questions before drafting is cheap; a batch of corrections after drafting is expensive. See `memory/chapter-drafting-pitfalls.md`.
+9. Write the chapter as a new markdown file in `chapters/`, named `NN-short-title.md` where NN is the chapter number.
+10. **⚠ Grep the draft before handing it over** — elapsed time, British spellings, name spellings, character-trait violations, invented proper nouns, and finality language about characters who are missing rather than dead. Full checklist in `CLAUDE.md`.
+
+*(This list is the short form. **`CLAUDE.md` holds the authoritative 14-step process**, including the canon, web and song passes that follow. If the two ever disagree, CLAUDE.md wins.)*
 
 After writing, suggest 1-2 sentences for `lore/timeline.md` summarizing what was established.
 

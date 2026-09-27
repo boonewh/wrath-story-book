@@ -98,7 +98,15 @@ His blood manifests in:
 - Charge: **Divine Smite empowerment for one fight** — for a duration, his unarmed strikes count as good-aligned, magic, and overcome demonic resistances.
 - Used in Chapter 3 against the dretches, and again in Chapter 7 to unmake more of them.
 
-## Current State (End of Session 22)
+## Current State (End of Session 23)
+
+### SESSION 23 — HE FOUND THE SEAM
+- **✔ HE FOUND THE LETTERS.** Holding the torn cover of Aravashnial's field journal on the parapet, he felt a second seam along one edge and handed it over: *"There is something inside this cover, my friend."* **He does not know what the letters say.** *(Nor the Ch 22 note. He has now been present for both of Caleth's biggest discoveries and read neither.)*
+- Asked whether the quasit was carrying *"a bomb of some sort."*
+- Spent the following days on the walls with Irabeth — carried a beam up a ladder four men were failing at.
+- At the excavation: first to move; **three cultists killed**; took two lightning-lances (half through Korroc's bond); **dropped flat under a drake's acid ball.**
+- Refused a horse for the night ride — *"I am fine"* — and ran alongside. **Promised Dagna** (*"Yes"*, with a bow) to bring the dwarves back.
+
 
 ### SESSION 22 — HE KILLED THE DRAGON, AND HE WENT WITH CALETH
 - **✔ HE KILLED THE WOUNDWORM WITH HIS BARE HANDS.** Left a live templar standing behind him and walked to the dragon that was standing on Korroc, with an expression Caleth had seen on him **exactly once before, in a mausoleum.** Rolled **under** its tail, came up swinging, and took it apart: ki and mythic force together, **fists sheathed in a pale flame that did not flicker**, **five separate strikes**, each one complete, landing in the same place until all six legs stopped being legs. ⚠ *Caleth's private assessment: one of the more frightening things he has ever watched a friend do.*
@@ -196,6 +204,7 @@ Lyra's instructions, in her order: **find the fane. If it was destroyed, learn i
 - **Staunton Vhane is dead** (Ch 16), killed by Caleth after Nageru's holy fists and Thane's daggers broke him.
 
 ## Established Moments
+- **Chapter 23 (Caleth POV):** *Children Are Not Equations.* On the parapet at Irabeth's shoulder; *"Not a bomb of some sort, is it?"* **Found the seam in the field-journal cover.** Went to the walls with Irabeth. First into the fight; killed three cultists; stepped out of a ring of lances and dropped under acid. Lifted a dead drake off Caleth with a shoulder under its neck. Bowed to Dagna. Ran north beside the horses.
 - **Chapter 22 (Caleth POV):** *The Shadow That Cast None.* Held out both hands to say he would go, and went. Searched Aravashnial's study in silence and **found the Woundworm page.** **Heard the muttered vow and said nothing about it.** Took the hardening spell before the raid and **arrived somewhere else in himself** that Caleth could not name. Dropped two templars in four seconds. **Rolled under a dragon's tail and came up swinging**, then **killed it with five strikes of his bare hands** while it opened him to the bone. Was run through from behind as it fell, and put back together by Korroc. Finished his last templar with two strikes.
 - **Chapter 1:** Picked his silver scale. Killed cockroaches with bare hands. Caught the carrion fly and broke it. Brought the maggot-popping-from-floor moment to a definitive end with both fists down at once.
 - **Chapter 2:** Saved Horgus at the chasm with a one-handed catch. Quietly convinced Horgus to help dig out Crel by appealing to decency. Walked close to the spore cougher to check if it was dead.

@@ -32,6 +32,14 @@ metadata:
 
 **Xanthir Vang has him, and Vang has noticed Caleth.** See [[xanthir-vang-and-the-note]] — that file carries the whole of it: the dossier, the three lines, the murdered Riftwarden, and the moment Aravashnial gave Caleth away by going still.
 
+## ⚠ SESSION 23
+
+- **HE IS CALETH'S UNCLE.** See [[caleth-parents-and-uncle]]. Only Caleth knows.
+- **Vang sent back his field journal, torn apart, by quasit**, with a one-week ultimatum to abandon Drezen. Letters from his brother and sister-in-law were sewn in the cover.
+- **Scrying him now fails every time** — shut off before it takes hold each day, and on the fifth morning **connected and was violently denied.** ⚠ Cause open. **The party still does not know he is alive.**
+- **Caleth dreams of him** behind an iron door at the end of a corridor, saying *"No,"* while a manless shadow grips Caleth's wrist; the Spiral burns. **Caleth told the party he believes Aravashnial is trying to send him a message, and he believes it.** ⚠ Do not confirm or deny.
+- Caleth has taken the **locked journal** from his study. **The Vilareth Ford chest and the safe house are still untouched.**
+
 ## Why it lands hardest on Caleth, and why that stays private
 
 Caleth went completely still and **made one small sound** over the broken staff in Ch 21. That is all a non-Caleth POV may show. The reason is Caleth's secret: Aravashnial is **the Riftwarden elder of his parents' order**, recognized his lineage in the underdark, and **still has not told him what he knows about them.** **Only a Caleth POV may narrate any of this.** See [[aravashniel-riftwarden]].

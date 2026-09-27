@@ -23,7 +23,7 @@ Dagna gives the order of the losses plainly: they fled Drezen; years became deca
 
 `characters/korroc.md` and `characters/thane.md` both said **"do not mark her alive or dead."** That is retired: she wrote to both cousins, separately, and said so (*"before you decide you can simply read his and save yourself the trouble, you cannot"*).
 
-She is **the last of the four**, and she intends to come south: *"After seventy-five years, I think it is time I went home."* **Do not bring her to Drezen without the table.**
+She is **the last of the four.** **✔ Ch 23: SHE IS IN DREZEN** — the table brought her. She answered a call for stonemasons, arrived at Horgus's store, and opened with *"Do you two NOT know how to write a letter?"* Thane told her about the fathers in person; **she braced him against hope** (*"if they were alive, they'd have tried to come home to us"*) — a mother steadying a nephew, not a contradiction of her forty years of "disappeared." She knew where the crypt was. She stays in Drezen, working the citadel's stone, while the four ride north.
 
 ## Drezen was their home
 

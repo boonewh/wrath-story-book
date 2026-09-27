@@ -149,7 +149,9 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 **Description:** A community of half-elves who maintain physical and academic training of extraordinary depth. Spireborn agents are sometimes sent into the world on long missions whose purposes are rarely shared with those agents. The Spire keeps its own counsel and shares little with the wider world.
 
 **Plot relevance for the campaign:**
-- **Caleth is Spireborn by blood** — both his biological parents were Spireborn — **but he was not raised at the Spire.** His parents fled the Spire when he was an infant to join the Riftwardens (see entry below).
+- **Caleth is Spireborn by blood — through his father, Aelariel, a Spireborn elf — but he was not raised at the Spire.** His mother, **Talia Aranor**, was **human.** Both were Riftwardens (see entry below). **Caleth was born in Kenabres.**
+
+> **NOTE (canon pass, Session 23, 2026-09-27):** this line previously said *both* parents were Spireborn and fled the Spire with him as an infant. Corrected at the table: father Spireborn, mother human. ⚠ **Open inconsistency, flagged for Will:** this entry describes the Spire as *"a community of half-elves,"* but Aelariel is an **elf** (brother to the elf Aravashnial, writing in an *"unmistakably elven"* hand) and his letter refers to *"our people"* objecting to a human family name. Left as-is pending a ruling.
 - Caleth visited the Spire briefly later in life (a "season," as he sometimes calls it) and there absorbed some martial techniques, a calligraphic hand, and certain formal mannerisms (the bow-for-elder-peers; the long-level look the Spire used on a student speaking out of turn). He has a sister-instructor he has not heard from in seven years.
 - **The Spire is not directing his presence in Kenabres.** Whether the Spire's masters know what became of his Riftwarden parents — and whether they would want him back if they did — is unknown and likely unresolved until later in the campaign.
 
@@ -168,9 +170,9 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 **Mark:** The **Seeker's Spiral** — a spiraling sigil carried by members and (sometimes) by their bloodline. Not a tattoo. Not a scar. Something *deeper.*
 
 **Plot relevance for the campaign:**
-- **Caleth's biological parents were Riftwardens** who vanished into the Worldwound on an unexplained mission less than a month after Caleth's birth.
-- **Caleth carries the Seeker's Spiral on his shoulder blade** — a birthmark since the day he was born, marking him as a Riftwarden's child. His campaign trait is **Riftwarden Orphan.**
-- **Aravashnial is a Riftwarden elder.** He recognized Caleth's lineage from the day they met in the underdark. The whispered conversation at Gwerm Manor in Chapter 4 was where Aravashnial revealed his identity to Caleth. *(See characters/npcs.md.)*
+- **Caleth's biological parents were Riftwardens** — **Aelariel** (Spireborn elf) and **Talia Aranor** (human) — who vanished into the Worldwound on an unexplained mission less than a month after Caleth's birth. **Xanthir Vang killed them** (Ch 22). **Aelariel was Aravashnial's brother** (Ch 23).
+- **Caleth carries the Seeker's Spiral on his shoulder blade** — a birthmark since the day he was born, marking him as a Riftwarden's child. His campaign trait is **Riftwarden Orphan.** ⚠ **Ch 23: it meant more than lineage to his father**, who wrote *"I know what the records say. I know the stories… Brother, I am afraid."* **What the order's records and stories say about the Spiral is NOT established — do not invent it.** Since Ch 23 **it aches and burns in Caleth's dreams** of a shadowless man, then fades unchanged.
+- **Aravashnial is a Riftwarden elder — and Caleth's uncle** (Ch 23; known only to Caleth). He recognized Caleth's lineage from the day they met in the underdark, and had watched over Caleth's life from its margins since his birth. The whispered conversation at Gwerm Manor in Chapter 4 was where Aravashnial revealed his identity to Caleth. *(See characters/npcs.md.)*
 - **Blackwing Library was a Riftwarden stronghold** — the order's working library, holding the most extensive writings on demons in Golarion. **Destroyed before the party reached it in Chapter 4.** Aravashnial's grief at finding it in ruins is for the order's loss, not only the books.
 - **Most of the party still does not know about the Riftwardens.** As of Chapter 4, Caleth has learned that Aravashnial is one — that secret is now shared between them, kept from Korroc, Thane, Nageru, Anevia, Horgus, and Klareth.
 - Somewhere within the Worldwound lies the truth of Caleth's parents' fate. Possibly alive. Possibly ended by something or someone who still walks. This is one of Caleth's primary drivers, beneath the Shelynian surface.
@@ -253,7 +255,7 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 12. **Areelu Vorlesh and Minagho** remain at large; Minagho personally ran Nurah — and **personally gave Staunton the opportunity to take the Sword of Valor** seventy years ago.
 13. **Investigate the broader Templar infiltration** — the chain died with Staunton, over Thane's objection, and **Eustoyriax (Ch 18) and Kiranda (Ch 16) are dead too**; the rungs the party can still climb are Vang, the Sanctum, and Minagho. *(The journal recovered part of it back: Vang, Eustoyriax, the Sanctum. **Not the Stonevein fathers.**)*
 14. **Resolve Khar-Zadûn for Thane** (late campaign) — *note the new rhyme: Staunton chased his own lost Sky Citadel, **Jormurdun**, and it is what brought him north.*
-15. **Find what happened to Caleth's Riftwarden parents in the Worldwound** — **✔ PARTLY ANSWERED (Ch 22): the killer is XANTHIR VANG.** Still unknown: what the mission was, where they died, and why. ⚠ **Caleth has told nobody about the note.**
+15. **Find what happened to Caleth's Riftwarden parents in the Worldwound** — **✔ PARTLY ANSWERED (Ch 22): the killer is XANTHIR VANG.** **✔ Ch 23: they were AELARIEL (Spireborn elf) and TALIA ARANOR (human), and Aelariel was Aravashnial's brother.** Still unknown: what the mission was, where they died, and why. ⚠ **Caleth has told nobody about the note, the letters, or the uncle.**
 16. **Understand Nageru's celestial heritage and purpose** (gradual revelation)
 17. **Defeat Khorramzadeh, the Storm King** (late campaign)
 18. **Close the Worldwound** (campaign endgame)
@@ -271,11 +273,20 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 **New from Session 22:**
 37. **⚠⚠ XANTHIR VANG KILLED CALETH'S PARENTS**, and **Aravashnial wrote it down for him and never handed it over.** The note also quotes **the Lantern Seer's third vision verbatim** — which Caleth has never told anyone. ⚠ **How the elf knew it is unexplained. Do not resolve.** See `memory/xanthir-vang-and-the-note.md`.
 38. **⚠ VANG HAS NOTICED CALETH** — *"especially the young half-elf"* — and **Aravashnial confirmed it for him by going silent.**
-39. **⚠ A RIFTWARDEN OF ARAVASHNIAL'S FAMILY WAS MURDERED BY VANG YEARS AGO**, and Vang still has the book. **GM-confirmed there is family there; the relationship is NOT stated.** Do not name it.
+39. **⚠ A RIFTWARDEN OF ARAVASHNIAL'S FAMILY WAS MURDERED BY VANG YEARS AGO**, and Vang still has the book. **✔ Ch 23: Caleth now believes it was Aelariel — Aravashnial's brother and Caleth's father.**
 40. **⚠ WHERE ARAVASHNIAL IS.** Teleported out of the cavern mid-rescue. **The party does not know he is alive** — the second scrying was severed. **And nobody got the face of the templar who took him.**
 41. **⚠ THE GREEN-CRYSTAL COLLAR.** Black metal, needles into the neck, locked on him because a Riftwarden is *"an exceptionally inconvenient prisoner."* He recognized it and panicked. **Do not explain it, and do not connect it to the Nahyndrian crystals.**
 42. **⚠ THE RIFT AT THE MOLTEN SCAR.** An Abyssal rift burning in the templars' cavern at midday, **gone by evening.** Rifts do not go out. Three readings, no way to test any. See `memory/the-rift-at-the-molten-scar.md`.
 43. **✔ CLOSED BY SESSION 22:** the six-legged dragon was a **Woundworm** named **Scorizscar** and is **dead**; **Jerribeth sent it**; **all four soldiers survived**; and **Jerribeth is confirmed a demon** (succubus to the party). **Jerribeth herself escaped wounded on a contingency and is unlocated** — and **her blood on Radiance still could not find her.**
+
+**New from Session 23:**
+44. **⚠⚠ ARAVASHNIAL IS CALETH'S UNCLE**, and watched over his whole life from its margins. **Only Caleth knows.** **Why the elf never told him is OPEN**, as is whether he came home when his brother begged him to.
+45. **⚠ WHAT THE SPIRAL MEANS.** Caleth's father feared it — *"I know what the records say. I know the stories."* **The records and stories are NOT established. Do not invent them.**
+46. **⚠ THE DREAMS AND THE BURNING SPIRAL.** A shadowless man in an empty moonlit Drezen; an iron door with Aravashnial behind it; a manless shadow gripping Caleth's wrist. The mark burns, fades, and does not change. **Caleth believes Aravashnial is trying to reach him. Do not explain.**
+47. **⚠ SCRYING ARAVASHNIAL NOW FAILS EVERY TIME** — shut off before it takes hold, and once **violently denied.** Cause open.
+48. **⚠ VANG'S WEEK.** Abandon Drezen within the week or *"he will come and take more."* Refused (*"Nope."*). The party left Drezen on day four with ~three days left. **What Vang does at the deadline is the GM's.**
+49. **⚠ WHERE THE FATHERS WENT — narrowed, not answered.** The dead prisoner: they were the reason the escape worked; **he does not know if they got out**; **Borin was injured**; they meant to make for **a crypt with supplies, north up the riverbed** — the **waystation at the Khar-Zadûn graveyard**, a day out. **Do not resolve before the table plays it.**
+50. **Who burned Caleth's birth certificate, and how Aravashnial came to have it.** Open.
 
 **New from Session 20:**
 22. **⚠ JERRIBETH.** A name engraved on the back of a Baphomet symbol taken off a dead clanliege, and a description — *"a beautiful elf woman"* — from a frightened barbarian. She recruited **Marhevok Grunhuld-Wintersun**, gave him a scrying token he thought was an honor, promised him command in her armies, and left him raiding the crusade's supply road for a year without ever sending for him. **Caleth threw the token in a pool rather than carry an open window on his back.** ⚠ *The party believes she is an elf. Keep them believing it — see `characters/npcs.md`.* **This is the clearest new enemy lead out of Book 2's aftermath.**

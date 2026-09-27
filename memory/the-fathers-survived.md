@@ -23,6 +23,14 @@ metadata:
 
 Also open: **how Helja died** (see [[helja-stonevein-is-dead]]), and whether anything is left in the tunnel. Aron's engineers are opening the eastern bridge ground over the following month; the odds are better than even they find the mouth and better than even it is forty feet of packed fill.
 
+## ⚠ SESSION 23 — THE TUNNEL IS OPEN
+
+- **None of the skeletons in the escape tunnel are dwarven.**
+- **Sosiel spoke with a dead human prisoner** (unnamed — do not name him). Five questions: he knew Borin and Thorek — *"They are the reason we were able to escape"*; **he stayed behind to give them a chance**; ***he does not know if they got out***; **Borin was injured** (how/how badly NOT established); they told the others to **follow the riverbed north to a crypt with supplies.**
+- **Dagna identified it:** the **graveyard of the dwarves who died when Khar-Zadûn fell**, north and a little west, **a day from Drezen**, with **a travelers' waystation** on its grounds. See `lore/worldwound.md`. **The party rode for it at nightfall and is camped several hours out at the end of Ch 23.**
+- ⚠ **Still open: whether they got out, whether they reached the waystation, and where they went after.** The table plays the waystation next; do not pre-empt it.
+- **✔ Thane told Dagna in person** on the walk back from the drake fight. The "Thane means to write to Dagna" thread is **closed.**
+
 ## How to apply
 
 - **Aravashnial had the eastern bridge repairs moved up the priority list for exactly one reason:** *"if you intend to find out where your fathers went, this is where their trail begins."* That riverbed is now a standing location with a claim on the party.
