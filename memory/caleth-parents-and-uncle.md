@@ -1,6 +1,6 @@
 ---
 name: caleth-parents-and-uncle
-description: Ch 23 - Caleth's parents were Aelariel (Spireborn elf) and Talia Aranor (human), both Riftwardens, both killed by Vang; Aelariel was Aravashnial's brother, so Aravashnial is Caleth's UNCLE. Only Caleth knows.
+description: Ch 23 - Caleth's parents were Aelariel (Spireborn elf) and Talia Aranor (human), both Riftwardens, both killed by Vang; Aelariel was Aravashnial's brother, so Aravashnial is Caleth's UNCLE. Only Caleth knows. Ch 24 - he showed the party the Spiral (not what it means); Thane suspects more.
 metadata:
   type: project
 ---
@@ -32,9 +32,18 @@ metadata:
 - **Who burned the certificate**, and how Aravashnial came by it.
 - **How Aravashnial knew the Lantern Seer's third vision** (from Ch 22). Caleth hasn't found it in the journal "yet."
 
+## ⚠ SESSION 24 — THE PARTY HAS SEEN THE SPIRAL
+
+- **Daytime vision, Sesker's Gully** *(content from the session notes; Ch 24 is Thane's POV and shows only the outside)*: pain across the shoulder; old paper, dust, something bitter and medicinal, something rotten; robes rustling and **thousands of tiny wet movements**; a man's voice beside his ear — ***"Interesting."*** One or two seconds. From outside: he froze mid-breath with his hand on his left shoulder blade and did not answer Thane or Nageru until **Nageru's hand on his other shoulder** brought him back. ***"Whatever took Aravashnial has been watching me."*** Nageru: *"Well. That is unpleasant."* He used **a wand against detection** on himself — *"It probably won't help."*
+- **Second dream that night** *(session notes)*: darkness, no Drezen; the Spiral **burning** and turning; voices — his father's name, Aravashnial's, his own; the sound of thousands of bodies sliding; **Vang** in front of him, hood, no face to be sure of — **and this time a shadow beneath him, and the shadow is Caleth's.** Vang touches one finger to the center of the Spiral. He woke screaming; the pain took nearly a minute. *"Same thing."*
+- **⚠ HE SHOWED THEM.** Korroc: *"He's still watching?"* — *"It has something to do with my birthmark."* Coat, tabard, then a long moment, then the shirt. **All three saw it**: a pale spiral, three or four turns, a hand's breadth across, left shoulder blade; no heat, no glow, no burn. ***"I have had this birthmark all my life. I have been told it is the mark of the Seeker's Spiral. I don't know what that means. But it seems as if Vang is finding me through it."*** Korroc looked close and did not touch it.
+- **What they still do NOT know:** that it is a Riftwarden mark, that he is a Riftwarden's son, anything about his parents, or that Aravashnial is his uncle. **"I have been told" hid the source on purpose.**
+- **⚠ THANE CAUGHT IT.** He heard *"I have been told"* as a thing got secondhand from *"somebody you have not decided to name,"* and knew Caleth **only took out half.** Then at the infirmary he saw Caleth's face over the sleeping elf and placed it: **Korroc's face at his father's grave, "turned the other way around."** *"It's not grief. It's what grief would look like, if you'd been standing at the grave and the stone got up."* ***"A student, watching his teacher sleep. No… it isn't."*** **Thane suspects something between them. He does not know what, and has not asked.** *"Not yet."*
+- **Scrying still shut every morning** until Aravashnial walked home. Nobody asked.
+
 ## How to apply
 
-- **Secrets matrix:** Korroc, Thane, Nageru, Irabeth and everyone else know only that Caleth read two old letters on the parapet and went quiet. **Nageru found them and does not know what they say.** Non-Caleth POVs may show the reaction, never the content.
+- **Secrets matrix:** Korroc, Thane, Nageru, Irabeth and everyone else know only that Caleth read two old letters on the parapet and went quiet. **As of Ch 24 the party has SEEN the Spiral and heard its name, and believes Vang is tracking him through it — but not what it means or whose it was.** Thane suspects there is more; nobody else has shown it. **Nageru found them and does not know what they say.** Non-Caleth POVs may show the reaction, never the content.
 - **The refrain is *"children are not equations."*** Caleth recognized himself in his father — the man who runs the futures — and his mother's line is the counterweight. On the night of the letters, **he could not run the futures** for the first time he can remember. Use sparingly.
 - **What he carries:** innermost coat pocket, over his heart — the resurrection potion, the Vang note, both letters. Opposite inner pocket — the journal, with the certificate inside.
 - The GM's prop certificate spells the city *"Kenebras"* (an AI typo). **Canon is Kenabres.** Signatories on the prop: *Ilvessan Aeleth*, Keeper of Records; *Elandor Vhosst*, Magister of the Council.

@@ -34,7 +34,8 @@ This is coherent with the existing timeline, not in conflict with it: the father
 ## How to apply
 
 - **Dagna's request is a live, partially-paid errand.** She asked Korroc to walk out into Drezen, find old stone away from the repairs, put his hand on it and tell the city she remembers her — and asked Thane to be there for it, adding *"try not to make fun of him for talking to a wall."* **They did it in Ch 19**, four streets short of the Erastil shrine. Korroc said it out loud; Thane put his own palm on the stone and said nothing.
-- **Thane means to write to her about the fathers and has not yet.** *"It had better not be Aravashnial with the ledgers, and it had better not be Korroc on his own."* See [[the-fathers-survived]].
+- ~~**Thane means to write to her about the fathers and has not yet.**~~ **✔ Closed Ch 23** — he told her in person.
+- **✔ Ch 24: SHE KNOWS THE FATHERS ARE DEAD, AND SHE DECIDED WHERE THEY LIE.** Korroc told it straight; Thane told the rest. She took both their hands on a block in the yard: *"Well. Now we know."* Next morning she had Caleth fold her to **Sesker's Gully**, traced both stones, and ruled that they **stay there among Khar-Zadûn's dead** — *"Drezen was a place we lived. Khar-Zadûn was what they dreamed."* Thane said *"Aye."* She did not cry. See [[the-fathers-are-buried]].
 - Dagna's voice is dry, direct, anticipates arguments and closes them in advance, and is warmer than either of her boys would admit. She writes in one sitting in a small upright hand, bearing down on the downstrokes.
 
-Related: [[the-fathers-survived]], [[thane-father-timeline]], [[stonevein-family-question]].
+Related: [[the-fathers-are-buried]], [[the-fathers-survived]], [[thane-father-timeline]], [[stonevein-family-question]].

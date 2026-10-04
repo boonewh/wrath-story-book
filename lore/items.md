@@ -590,7 +590,9 @@ Aravashnial took it, said *"How did you get this?"*, put both palms flat on the 
 
 ---
 
-## Fiendsplitter — Thane's *(Ch 21)*
+## Fiendsplitter — ⚠ KORROC'S since Ch 24 *(found by Thane, Ch 21)*
+> **⚠ Ch 24: it changed hands.** In the Harnaste crypt it went mad at the skulgrym — *"Let me at it… I want to BITE it"* — bucking in Thane's harness; Thane, who is no axe-man, **threw it to Korroc**, and Korroc kept it. **It speaks inside its wielder's head**: Thane's skull went silent the moment Korroc caught it. **It senses demons at range** — it called a babau on the riverbed road before anyone could see what it was (*"The axe thinks it's a demon"* / *"It IS a demon, let's go"*), and sulks when someone else takes the kill. It **bit** the skulgrym in Korroc's unpracticed hands. It **objected to being used to dig.** ⚠ Everything below the box still holds — **its other powers, maker and history are not established.**
+
 An **intelligent dwarven battleaxe**, found ten miles west of Drezen on top of a hill-sized rock among a wagon a glabrezu had smashed and pieces of torn armor. **It had been cursing the demon in Dwarven, loudly and at length**; the party took it for trapped dwarves. It speaks in **many voices at once**, like a hall of old dwarves arguing, is hungry for demon blood (*"Come here! I want to drink that demon's blood!"*), and **grows calm when no demon is near.** It mutters in its sleep.
 - **Torag's hammer and anvil are embossed on the head.** Usable as a holy symbol of the Father; Korroc declined, since his shield already bears the mark.
 - **Thane picked it up, felt relief and happiness, and knew its name.** He carries it strapped across his back.
@@ -608,3 +610,34 @@ From a trapped cabinet (it released a **four-armed mist creature that drained Th
 - **Jerribeth** as a senior figure, called *"the elven woman."* The party doubts it: Korroc, *"Elven is doubtful,"* and Caleth, *"A succubus. Probably... We don't know that."* ⚠ *(GM secret, unchanged: glabrezu. Keep it off the page.)*
 - **The Ivory Sanctum is "in the Marchlands."** Thane: *"It's all the Marchlands... It's like telling you the treasure's buried in the ground."*
 - **A bounty posted by Jerribeth: 1,000 platinum for a traitor succubus who escaped from the prisons in Drezen.** Unnamed; the party is sure it is **Arueshalae.**
+
+## The Pauper's Thighbone — ⚠ AN ARTIFACT *(Caleth's, Ch 24)*
+Taken from a **babau** on the riverbed road south of Sesker's Gully, which was walking in circles shouting at it and begging to be rid of it. **Caleth knew what it was the moment he picked it up.**
+- **What it looks like:** a rod of **yellowed ivory**, about a forearm long, carved all over in fine work, with **nine runes of inlaid gold** along it. **A faint dry rattle inside**, like a seed in a gourd.
+- **What it is (per Caleth):** a **reliquary** sealed around the **broken thighbone of Saint Argil**, *"a man who never once in his life passed by a person in need."* **It cannot be opened except in the course of destroying it.**
+- **The runes:** each **feeds a spell** — *"make it more than it would be, for nothing — no more time to cast, no more effort."* A spent rune goes dull; **they come back with the dawn.**
+- **The ledger:** if the bearer **deliberately passes up the chance to do a generous thing**, **one rune goes dark and never comes back.** If he gives a great deal away, **a new one may come.** Thane: *"A rod that keeps a ledger of how generous you are."*
+- **In an evil hand it does nothing** — only weight, heavier every day, and it **cannot be put down**: not dropped, thrown, or left. It leaves an evil hand only if the hand dies, or if it is **given willingly to someone not evil who takes it willingly.** That was the babau's whole problem.
+- ⚠ **Caleth did not take it off the babau's hands; he sent Nageru.** *"I wanted to see what it was first… and then I had seen enough. And it was a demon."* Thane saw something cross his face at the last rune. **Whether any rune has gone dark is NOT established. Where the babau got it is open.**
+- *(Name and properties are the table's. Keep the game mechanics out of prose beyond what Caleth says aloud.)*
+
+## The Anti-Magic Collar *(Caleth holds it, Ch 24)*
+Taken off **Aravashnial's** throat by **Thane**. **Black metal, close-fitting, a single faceted green stone at the hollow of the throat, a ring of fine needles on the inside** that went into the neck. **No keyhole** — Thane found a hairline seam under the jaw and the catch inside it. Caleth touched it and recoiled: ***"Anti-magic."*** *"The wearer cannot cast. At all. Nothing. But anyone outside it can. It does nothing to the one who holds it… We'll keep that. For later."* ⚠ **Who made it is not established. Do not connect the green stone to the Nahyndrian crystals.** *(This is the collar seen in the Ch 22 scrying.)*
+
+## The Harnaste Chest — the Specter's Gift *(Ch 24)*
+Buried about **three feet down in a kitchen-garden mound** at the edge of Sesker's Gully, where the specter's light sank. A small **oak strongbox, iron-bound**, warm to the touch; Caleth could not read the magic on it. Thane checked it (no trap) and picked it.
+- **⚠ When the lid came up, a gold light wrapped Thane, "looked at him all the way down," found nothing it was looking for, and let go.** Nothing happened to him that anyone could see. Caleth: *"To you,"* — unfinished. **Unexplained. Do not resolve.**
+- Inside, bundles in oiled cloth, *"the kind of thing a family puts by against the day the family needs it, and never gets to use"*:
+  - **A ring — Korroc's.** Powers **not established.**
+  - **A horn — Caleth's.** Hunting or war horn bound in old metal; he looked at the bands, raised his eyebrows, and did not blow it. Powers **not established.**
+  - **Arrows — Thane's and Caleth's**, a bundle, fletched and bright-headed. *"I have had a bow. I may have one again."*
+  - **Boots — Thane's.** See below.
+
+## Thane's Boots *(from the Harnaste chest, Ch 24)*
+Low, close-made, soft dark leather, barely worn — **too long and narrow for a dwarf until held against his foot, when they are not.** On: **every stride lands a hand's width further than he sends it**, *"as though the ground had decided, for once, to meet him partway,"* and **he jumps far further than a dwarf in mail has any right to** (cleared his own three-foot hole and a stretch of grass beyond). *"Somebody in this family should be able to keep up."* *(Table name: boots of striding and springing. ⚠ Never use the game name in prose.)*
+
+## Caleth's Wand Against Detection *(first used Ch 24)*
+A thin dark wand Thane had seen him carry and never use. Caleth touched it to his own chest after the waking vision: *"It helps to prevent detection. It probably won't help. But it is something."* Thane felt him go briefly *harder to look at.* Whether it did anything against whatever is watching him is **not established.**
+
+## Caleth's Rod — the one that threads spells around friends *(on the page Ch 24)*
+A rod **Caleth bought at some point** (when and where are not established). In the fight with the construct spiders he cast a mythic cone of cold through it and it **threaded the spell around his friends** — Thane felt it pass his face and touch nothing — before his inversion turned it to fire on the spiders. **It is NOT the Pauper's Thighbone.** *(The session notes said "a wand"; the Caleth player corrected it to a rod — Will, 2026-10-04.)* Keep game names out of prose.

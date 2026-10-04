@@ -1,3 +1,12 @@
+---
+name: thane-father-timeline
+description: Thane and Korroc KNEW their fathers as children; the Drezen blueprints letter predates the sons' births. The "died in the Fourth Crusade" framing is superseded — captured (Ch 19), escaped, died afterward (Ch 24).
+metadata:
+  type: project
+---
+
+> **⚠ PARTLY SUPERSEDED.** This file says the fathers *died in the Fourth Crusade*. They did not: they were **captured** (Ch 19, [[the-fathers-survived]]), escaped Drezen, and **died afterward** — Borin of his wounds at Sesker's Gully, Thorek somewhere unknown later (Ch 24, [[the-fathers-are-buried]]). **The rule this file exists for still holds:** the sons knew their fathers as children and lost them young.
+
 # Thane & Korroc knew their fathers — do not write the sons as never having met them
 
 **Canon (confirmed by the user, July 2026, during the session 11 song passes):**

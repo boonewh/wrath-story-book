@@ -1,9 +1,19 @@
 ---
 name: aravashnial-taken
-description: Ch 21 - a six-legged dragon carried off Aravashnial and four soldiers. Ch 22 answers most of it - the dragon is dead, the soldiers are home, Jerribeth sent it, and Aravashnial is alive in the hands of Xanthir Vang. Where he is remains OPEN.
+description: Ch 21 - a six-legged dragon carried off Aravashnial; Ch 22 - Vang held him. ✔ Ch 24 - HE IS BACK. He walked out of the west for days, pursued by three construct spiders; the party killed them, Thane picked off the collar, and he is asleep in Drezen's infirmary. HOW HE GOT OUT is OPEN.
 metadata:
   type: project
 ---
+
+> **✔✔ Ch 24 — HE IS HOME.** On the fourth morning after the graves, a lone figure was seen from the west wall walking toward Drezen and falling. Caleth folded the four of them out to it; **three construct spiders** the size of bull elephants came over the rise behind it (see below). The figure was **Aravashnial** — Caleth's cry of his name is the loudest thing Thane has ever heard out of him. The party destroyed all three; **Thane picked the collar off** (no keyhole; a seam and a catch; needles out one by one); Caleth folded everyone to the infirmary. **He said four words — *"Been walking. For days."* — and went to sleep.** Korroc's life-bond is on him; Sosiel and Korroc cleaned and tended him; Irabeth stood at the head of the cot and did not leave. **He is alive, asleep, and has told nobody anything.**
+>
+> **His state:** bare feet black with mud and cut; robe in rags stiff with old blood; face bruised and swollen down one side, cracked lips, a badly-knit cut over the eyebrow, sunburn; **a ring of small crusted wounds round the throat** from the collar's needles. He weighed almost nothing.
+>
+> **⚠ OPEN — do not resolve without the table:** **how he escaped** (or whether he was let go); **where he walked from**; **what the constructs were and who made them** (Thane's read: *"It's not here to kill him. It came to fetch him"*); **what was done to him**; and everything he knows about Vang. *Also unchanged:* the chest, the safe house, why he never told Caleth.
+>
+> **⚠ THE COLLAR:** black, close-fitting, faceted green stone at the throat, ring of needles inside, **no keyhole.** Caleth jerked his hand off it: ***"Anti-magic."*** *"The wearer cannot cast. At all… But anyone outside it can. It does nothing to the one who holds it… We'll keep that. For later."* **Caleth has it.** ⚠ Still do not connect the green stone to the Nahyndrian crystals.
+>
+> **⚠ Caleth's uncle is home and Caleth still has told no one.** He sat on the floor at the head of the cot all afternoon with the collar on his knee and his hand over his heart. **Thane saw his face and knows it is not a student's** — see [[caleth-parents-and-uncle]].
 
 **The single biggest blow to the party's support structure since Kenabres.** Reported in Ch 21 by **Aron Kir**; the party was away at the western temple and saw none of it.
 

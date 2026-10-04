@@ -42,6 +42,10 @@ The middle line is **the Lantern Seer's third vision, word for word** (see `char
 - **✔ SUPERSEDED BY Ch 23:** Aravashnial's brother **Aelariel** was **Caleth's father**, and **Caleth now believes** the murdered Riftwarden was Aelariel. The old rules *"the relationship is NOT stated"* and *"do not conflate the two dead Riftwardens"* are **retired** for that one man. ⚠ **Still true (Will, 2026-09-27): the Riftwardens Vang killed at the Blackwing were NOT Caleth's parents** — multiple murders. See [[caleth-parents-and-uncle]].
 - **Vang is a worm that walks** — robes with no footsteps, a wet overlapping sound underneath, and a body that comes apart into thousands of writhing worms. The party has now *seen* this. It is no longer a librarian's word.
 
+## ⚠ Ch 24 — CALETH BELIEVES VANG IS WATCHING HIM THROUGH THE SPIRAL
+
+A one-second waking vision at Sesker's Gully (old paper, something rotten, thousands of small wet movements, a voice at his ear: *"Interesting."* — the word Vang used in Ch 22 when Aravashnial gave Caleth away), then a dream in which **Vang has a shadow, and it is Caleth's**, and touches the center of the Spiral. Caleth told the party: *"Whatever took Aravashnial has been watching me"* and *"it seems as if Vang is finding me through it."* ⚠ **That is Caleth's belief, not established mechanism. Do not confirm it.** Vang's week-long ultimatum **ran out with nothing** (Ch 24) — then Aravashnial walked home. See [[aravashnial-taken]].
+
 ## Craft notes
 
 - **Caleth's reaction is a finding, not a vow.** *"Xanthir Vang must die"* — said almost inaudibly in an empty study, and heard by Nageru, who was the only one there. **Caleth Aranor does not make vows in rooms**, and the narration says so twice. Keep that register.

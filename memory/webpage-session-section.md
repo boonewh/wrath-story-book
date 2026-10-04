@@ -77,7 +77,7 @@ Do this for **every** inline span you add to a wrapped paragraph, even when the 
 
 **Other page.tsx notes:**
 - Apostrophes in **JSX text** must be escaped as `&apos;`; apostrophes inside the **card-array JS strings** are ordinary string content and need no escaping (typographic `’` is used there).
-- `npx tsc --noEmit` is worth running after a pass. Two errors in `src/lib/tracker/merge.test.ts` are **pre-existing and unrelated** — ignore them; anything in `src/app/wrath/page.tsx` is yours.
+- `npx tsc --noEmit` is worth running after a pass. Two errors in `src/lib/tracker/merge.test.ts` are **pre-existing and unrelated** — ignore them; anything in `src/app/wrath/page.tsx` is yours. *(As of the Session 23 pass, 2026-09-27, tsc returns **zero** errors — the merge.test ones are gone. Any error now is new.)*
 - **Commit on `main`.** Work committed to a side branch never reaches Vercel (Session 12's lesson).
 
 ## Voice and theme

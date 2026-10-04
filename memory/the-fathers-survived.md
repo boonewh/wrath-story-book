@@ -1,9 +1,11 @@
 ---
 name: the-fathers-survived
-description: Ch 19 — Thorek and Borin Stonevein survived the ambush, were imprisoned in Drezen, dug 20 feet out over a year, and escaped. What happened after the riverbed is UNKNOWN and must stay unknown.
+description: Ch 19 — Thorek and Borin Stonevein survived the ambush, were imprisoned in Drezen, dug 20 feet out over a year, and escaped. ⚠ SUPERSEDED BY Ch 24 — they are dead and buried at Sesker's Gully; see the-fathers-are-buried.
 metadata:
   type: project
 ---
+
+> **⚠ SUPERSEDED BY Ch 24 — READ [[the-fathers-are-buried]] FIRST.** Both fathers are **dead and buried at Sesker's Gully**: Borin died of his wounds there; Thorek buried him, went on, died somewhere unknown, and two unknown humans carried him back. **The "do not kill them off-page / where they went is open" rules below are RETIRED.** Everything about the capture, prison and escape still stands.
 
 **The single biggest canon change since the wardstone.** For eighteen chapters the Stonevein fathers were "fallen in the Fourth Crusade, bodies never recovered." That is now known to be a cover story the enemy built on purpose.
 
@@ -17,11 +19,11 @@ metadata:
 - What Drezen's records call **a riot was an escape** — some prisoners fought toward the upper levels as a diversion while others went for the tunnel. **Many of those who stayed behind died.**
 - **Neither father is on the list of the dead. Neither was recorded as recaptured.** Pursuit collapsed and filled sections of the tunnel — but not before prisoners reached the dry riverbed east of Drezen.
 
-## ⚠ WHAT IS OPEN, AND MUST STAY OPEN
+## ~~WHAT IS OPEN, AND MUST STAY OPEN~~ *(closed by Ch 24)*
 
 **What happened to Thorek and Borin after they left the citadel.** Aravashnial says so himself and refuses to guess a number of escapees, and Thane pushed him twice and got nothing. **Do not resolve where they went. Do not kill them off-page. Do not bring them back. Do not put a number on the survivors.**
 
-Also open: **how Helja died** (see [[helja-stonevein-is-dead]]), and whether anything is left in the tunnel. Aron's engineers are opening the eastern bridge ground over the following month; the odds are better than even they find the mouth and better than even it is forty feet of packed fill.
+Also open: **how Helja died** (see [[stonevein-mothers-status]]), and whether anything is left in the tunnel. Aron's engineers are opening the eastern bridge ground over the following month; the odds are better than even they find the mouth and better than even it is forty feet of packed fill.
 
 ## ⚠ SESSION 23 — THE TUNNEL IS OPEN
 
@@ -37,6 +39,6 @@ Also open: **how Helja died** (see [[helja-stonevein-is-dead]]), and whether any
 - **Thane's banked flame has changed shape a third time.** It was *find the man who did it.* After Staunton's ledger it was *the record is wrong and no one is coming to fix it.* Now it is neither — **his father was not a hero and was not avenged; his father was a nuisance in a ledger for a year and dug his way out.** Thane's private, unshared conclusion is ***"I could not have done that."*** Do not let him make peace with that quickly.
 - **Korroc owns the grief; Thane owns the investigation.** That is how these two split everything. Keep it.
 - **⚠ Staunton Vhane arranged the ambush and Staunton Vhane is dead**, killed in Ch 16 over Thane's explicit objection after he asked for the man alive. Thane's own estimate of what he would have needed to break him: *"Three days."* **The Ch 16 disagreement is now permanently unresolvable and neither cousin has spoken of it. Live thread.**
-- **Thane intends to write to Dagna** and has not yet. See [[dagna-alive-in-nerosyan]] — she has said *"disappeared"* rather than *"died"* for forty years and has been right the whole time, and does not know it.
+- ~~**Thane intends to write to Dagna** and has not yet.~~ **✔ Closed Ch 23** — he told her in person. **✔ Ch 24: he and Korroc told her the fathers are dead**, and she chose to leave them at Sesker's Gully. See [[stonevein-mothers-status]].
 
-Related: [[dagna-alive-in-nerosyan]], [[helja-stonevein-is-dead]], [[thane-father-timeline]], [[stonevein-family-question]].
+Related: [[the-fathers-are-buried]], [[stonevein-mothers-status]], [[thane-father-timeline]], [[stonevein-family-question]].

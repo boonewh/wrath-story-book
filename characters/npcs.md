@@ -30,6 +30,8 @@
 ---
 
 ### Aravashnial
+**✔✔ STATUS (Ch 24): HOME. ALIVE, ASLEEP IN DREZEN'S INFIRMARY.** On the fourth morning after the Sesker's Gully graves he was seen from the west wall **walking toward Drezen alone, falling and getting up**, with **three construct spiders** coming over the rise behind him. The party folded out, destroyed all three, and **Thane picked the anti-magic collar off his throat** (Caleth now holds it). **Four words — *"Been walking. For days."* — then sleep.** Bare cut feet, robe in rags, face bruised and swollen, a ring of needle wounds at the throat, weighing almost nothing. **Korroc's life-bond is on him**; Korroc and Sosiel tended him; Irabeth stood at the head of the cot. ⚠ **OPEN: how he got out (or whether he was let go), where he walked from, what was done to him, what the constructs were.** He has said nothing. **Caleth sat on the floor beside him all afternoon and has still told nobody he is his uncle.** *(The Ch 22 status below is kept for the record.)*
+
 **⚠⚠ STATUS (Ch 22): ALIVE, AND A PRISONER OF XANTHIR VANG. LOCATION UNKNOWN.** ⚠ *Alive is for LORE ONLY — see below; the party does not know it.* The day after the party left Drezen for the western temple, **a six-legged flying dragon** attacked the citadel and concentrated on the courtyard. To draw it off while the courtyard was evacuated, **Aravashnial went up a tower with four soldiers and began summoning creatures.** It worked: the dragon turned on the tower, **the tower half-collapsed under them, and the dragon caught all five men in the air as they fell and carried them off.** No one has found them since. Recovered and laid on Irabeth's table: **his staff, broken in two**, with a helm, a sword and pieces of armor. *(Reported by Aron Kir; the party was away and saw none of it.)*
 - **✔ ANSWERED IN Ch 22:** the dragon was a **Woundworm** named **Scorizscar** and is **DEAD** (Nageru killed it); **Jerribeth sent it**; **all four soldiers survived** and were rescued; and **Aravashnial is alive** — or was, twice, on the days he was scryed.
 - ⚠ **STILL DO NOT RESOLVE:** **where he is now** (teleported out of the cavern mid-fight), **who the templar was that took him** (nobody got the man's face), and **what the green-crystal collar does.**
@@ -121,6 +123,7 @@
 - Refused to come on the Vescavor mission; stayed with Anevia and Aravashnial
 - Gave his old prayer-beads to Nageru during the breathing space (Interlude, Ch 8.5) — a quiet, significant act of trust
 - **Chapter 9:** "I have nothing left here. Are you sure you want me with you?" — and looked grateful when Nageru said yes. Had the supply-train organized by end of day. Brought the messenger pigeons nobody else thought to bring.
+- **⚠ Chapter 24 — he did not complain once.** Thane came to his storeroom the night they found the fathers' graves and asked for **a place inside the citadel fit to lay two dwarves.** Horgus put his pen down, looked at him *"with an expression Thane had never seen on him before,"* and spread **his own annotated plan of Drezen** (three colors of ink) for most of an hour: **a chapel; a crypt below the old keep** (used for something else; would need cleansing); **a small overgrown walled garden on the west side** where there may once have been a shrine. When Sosiel came in, Horgus — *"Horgus, of all men"* — said quietly, *"Come in, Sosiel. Shut the door."* *(Then went for lamp-oil and complained about its price.)* Moot after Dagna ruled the fathers stay at Sesker's Gully.
 
 **Relationship anchor:** Horgus is the **redeemable bigot** being slowly changed by the company. His ruthless honesty and business acumen are genuine virtues. He carries a secret about demons and loss that has not yet surfaced. Treat him with the patience the company shows him.
 
@@ -195,6 +198,10 @@
 **Note:** Caleth recognized Shelyn's symbol immediately and went very still. The connection between Caleth and this faith is private and unspoken. Do not narrate what it means from a non-Caleth POV — only note that the reaction happened.
 
 **⚠ Key moment (Ch 20): HE PERFORMED JESKER HELTON'S ATONEMENT.** Most of a morning, done properly, **with Nageru standing witness throughout** — Nageru having traveled back from Vilareth Ford specifically because Sosiel *did not know the rite had been offered* and somebody who was in that cavern had to say what was said in it. **Jesker came out of it clean and knew it.** *(Caleth offered to stay for it, partly because Sosiel wears Shelyn's symbol and Caleth has never spoken to him about it in eleven months, and was turned down.)*
+
+**⚠ Key moments (Ch 24):**
+- **THANE ASKED HIM TO SPEAK WITH HIS FATHER.** Over Horgus's citadel plan: *"In the tunnel, you spoke with the dead man for us… Could you do it again? With my father… I want to honor my father… But I'd also like to talk with him."* Sosiel took his time: ***"It's highly unusual. You know that?"*** **He did not say no and did not say yes** — they would talk again. They did, once, that week; **nothing was decided.** ⚠ **Open. Do not resolve.** *(Thorek lies at Sesker's Gully.)*
+- **He received Aravashnial at the infirmary**, his open face going *"fast and hard and very competent"* — then he saw who it was and stopped talking. He and Korroc divided the work without a word until the elf slept. He nodded to Korroc: *he'll do.*
 
 **Key moments (Ch 14):** Arrived at the prisoner cages with soldiers and a litter and took the shadowblood casualty to the infirmary — the party's healer-of-record for the camp while the four fight ahead of it.
 
@@ -838,6 +845,7 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
   - **Korroc closed it with *"Aye, Commander,"* and for once she did not correct him.**
 - **Interlude 2 — she ran Joran Vhane's formal questioning** and never asked the same question twice, leaving the repetition to Aron. Granted his request to enter Torag's chapel under permanent escort, and cut off his *"if you attempt to escape—"* with *"I prefer to finish my own sentences."*
 - **Ch 18 — she is the one who woke them for dinner**, nudging each of the four with her boot where they had collapsed against a wall. *"Hey. Dinner's on. Get some food in you."*
+- **Ch 24 — Vang's week.** She **doubled the watch for the last two days of it, then tripled it.** The week ran out and **nothing came.** Four mornings after the graves, in the command room over the eastern-bridge plans with the four and Aron, a soldier reported a lone figure walking in from the west. At the infirmary she saw Aravashnial, did not believe it, then did — *"Gods. Oh — gods."* — asked *"How?"*, took Thane's *"We don't know,"* and **stood at the head of the cot with her arms folded and did not leave.**
 
 **Relationship anchor:** The company's field commander. Her bluntness and Korroc's stoicism form a natural mutual respect. She leads by being where the worst of it is.
 
@@ -853,7 +861,7 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
 ---
 
 ### Thorek Stonevein
-**Status:** ⚠ **MISSING — NOT dead.** *(This line said "Dead (Fourth Crusade)" until the Session 23 pass; Ch 19 overturned it.)* Captured in Staunton's ambush, imprisoned in Drezen, **escaped through the water tunnel with Borin** (Ch 19). **Ch 23:** a dead fellow prisoner confirmed the two of them were *"the reason we were able to escape"*, **did not know whether they got out**, and said they meant to reach **a crypt with supplies, north up the riverbed** — the waystation at the Khar-Zadûn graveyard. **Do not resolve where they went.**
+**Status:** ✔ **DEAD (Ch 24) — buried at Sesker's Gully.** He reached the Khar-Zadûn graveyard with Borin, **buried his brother there**, went on alive, and **died somewhere unknown; two unknown humans carried him back** and buried him beside Borin. Crude fieldstone; his name in dwarven runes, with **a slipped R.** **Dagna ruled he stays there.** Thane has asked Sosiel about speaking with him — undecided. See `memory/the-fathers-are-buried.md`. *(Earlier record follows.)* ~~⚠ **MISSING — NOT dead.**~~ *(This line said "Dead (Fourth Crusade)" until the Session 23 pass; Ch 19 overturned it.)* Captured in Staunton's ambush, imprisoned in Drezen, **escaped through the water tunnel with Borin** (Ch 19). **Ch 23:** a dead fellow prisoner confirmed the two of them were *"the reason we were able to escape"*, **did not know whether they got out**, and said they meant to reach **a crypt with supplies, north up the riverbed** — the waystation at the Khar-Zadûn graveyard. **Do not resolve where they went.**
 
 **Role:** Thane's father. Once a Skyguard of Khar-Zadûn, the legendary Dwarven Sky City. Dreamed of reclaiming it.
 
@@ -866,8 +874,8 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
 ### Helja, Borin & Dagna Stonevein — the Other Signatories
 **Named as of Ch 11** — the second, third, and fourth signatures on the Drezen blueprints letter. The first four names on the page are the four parents of Thane and Korroc.
 
-- **Helja Stonevein** — **Thane's mother.** Still living (presumed; last known in Kenabres). Fourth Crusade veteran; "her careful upright hand" on the letter. She signed it seventy years ago and has never mentioned it to Thane — the user has chosen NOT to make her silence a story beat; do not open that thread unprompted.
-- **Borin Stonevein** — **Korroc's father.** ⚠ **MISSING, NOT dead** (Ch 19). Escaped the citadel with Thorek. **⚠ Ch 23: "Borin was injured"** when they left — how and how badly is not established. Shared the Khar-Zadûn dream.
+- **Helja Stonevein** — **Thane's mother.** **DEAD** (Ch 19; see her entry below — this line said "still living" and was wrong). Fourth Crusade veteran; "her careful upright hand" on the letter.
+- **Borin Stonevein** — **Korroc's father.** ✔ **DEAD (Ch 24).** Escaped the citadel with Thorek, **injured** (Ch 23); **died of his wounds at Sesker's Gully and Thorek buried him there.** How he was hurt is not established. Shared the Khar-Zadûn dream.
 - **Dagna Stonevein** — **Korroc's mother.** **ALIVE, and in Drezen as of Ch 23.** See her full entry below.
 
 > **NOTE (canon pass, Session 23):** the two lines above were stale since Ch 19 (Borin "dead", Dagna "status unknown"); corrected. Helja's "still living" line below is likewise wrong — **she is dead** (see her Session 19 entry).
@@ -939,7 +947,7 @@ These NPCs exist in canon but are not yet on-screen. They are named, motivated, 
 ## New in Session 19
 
 ### Dagna Stonevein
-**Status:** **Living.** In **Nerosyan.** *(Previously flagged "do not mark her alive or dead" — Ch 19 settles it.)*
+**Status:** **Living. IN DREZEN (Ch 23)**, working the citadel's stone. *(Was in Nerosyan through Ch 22. Previously flagged "do not mark her alive or dead" — Ch 19 settles it.)*
 
 **Role:** Korroc's mother, Thane's aunt, and **the last surviving member of the four young dwarves who met in Drezen and became a family** — herself, Helja, Thorek, and Borin. She and Helja knew Drezen's streets before either man did. She is a Fourth Crusade generation dwarf living out the war in Nerosyan, and she intends to come south: *"After seventy-five years, I think it is time I went home."*
 
@@ -960,6 +968,7 @@ These NPCs exist in canon but are not yet on-screen. They are named, motivated, 
 - **Thane told her about the fathers in person.** Her face opened and closed in an instant. **She braced him against hope** — *"We've believed them dead a very long time… if they were alive, they'd have tried to come home to us."* *"I know, dear. I know."* ⚠ *This does not contradict her forty years of saying "disappeared"; it is a mother steadying a nephew.*
 - **She identified the crypt:** north up the riverbed and a little west, **a day out** — the **graveyard of the dwarves who died when Khar-Zadûn fell**, where a **waystation for travelers** was built on the grounds. *"If it wasn't destroyed when the Worldwound came through, the station might even still be there."*
 - *"You two are definitely your fathers' sons."* / *"You'd better come back to me."* / to Caleth and Nageru: *"bring them back or I swear I'll hunt you down myself."*
+- **⚠ Ch 24 — SHE KNOWS THEY ARE DEAD, AND SHE DECIDED WHERE THEY LIE.** The cousins found her in the broken east range at dusk with a mallet. She read their faces, **wiped her hands on her apron finger by finger**, sat on a dressed block and waited; Korroc told it, Thane told the rest. She took Korroc's hand and Thane's wrist — a mason's grip — ***"Well. Now we know."*** *"I won't ask you to take me. Not right away… But soon."* On the stones: ***"a chisel, if it was Thorek."*** She lay awake and **could not wait for soon**: next morning Caleth folded her and the four to **Sesker's Gully** (she staggered, shook Korroc off, said something about wizards). She knelt, traced both stones, stopped on the slipped *R*, and **did not cry.** Then: ***"We know where they are. And they are not going anywhere. They should stay here… with all these dwarves who died fighting for Khar-Zadûn… Yes, we built Drezen… and you've taken it back, the pair of you, and I've never been so proud of anything in my life… But Drezen was a place we lived. Khar-Zadûn was what they dreamed."*** Palm to Thane's cheek. Took Caleth's arm for the fold home *"as though he had been brought along for exactly that purpose."*
 - **She wants to meet whoever worked out the escape tunnel.** Caleth: *"His name is Aravashnial… He is also missing."* — *"Well. That's about the way things go up here, isn't it?"
 
 ---
@@ -1135,8 +1144,8 @@ A **human woman in leather armor** with **the head of Baphomet tattooed on her f
 Found ten miles west of Drezen on top of a hill-sized rock formation, where it had dragged up a wagon and smashed it, apparently in a rage at **Fiendsplitter**, which was cursing at it. Huge lobster-like pincers, two smaller clawed hands, a horned scaled head. **It cast a reverse gravity that threw Korroc, Thane and Caleth 140 feet into the air** (Caleth folded them down). It fixed on Nageru and nearly killed him. **Killed by Caleth's mythic shocking grasp.**
 - ⚠ **GM secret, unchanged:** Jerribeth is also a glabrezu. **Do not connect this demon to her on the page**, and don't let a character wonder about it.
 
-### The Six-Legged Dragon — at large
-Attacked Drezen the day after the party left; kept going for the courtyard; **carried off Aravashnial and four soldiers** after collapsing a tower beneath them. **Unidentified, unlocated.** ⚠ **Do not connect it to the shape across the moon, to Jerribeth, or to the Ch 20 drake.**
+### The Six-Legged Dragon — ✔ IDENTIFIED AND DEAD (Ch 22): the Woundworm **Scorizscar**
+Attacked Drezen the day after the party left; kept going for the courtyard; **carried off Aravashnial and four soldiers** after collapsing a tower beneath them. ~~Unidentified, unlocated.~~ **See *Scorizscar* under Enemies — sent by Jerribeth, killed by Nageru.** ⚠ **Do not connect it to the shape across the moon, to Jerribeth, or to the Ch 20 drake.**
 
 
 ## New in Session 23
@@ -1162,5 +1171,38 @@ Five **rift drakes** — dirty red, membranous wings, barbed whip-tails, **acid 
 ### The Prisoner in the Tunnel *(dead; unnamed; human)*
 One of the skeletons in the pre-fall water tunnel east of Drezen — **none of which are dwarven.** Sitting against the wall, legs out. **Sosiel spoke with him** (Ch 23). Five questions: *knew Borin and Thorek* (*"They are the reason we were able to escape"*); **stayed behind to give them a chance**; ***did not know whether they got out***; **Borin was injured**; they told the others that if separated, **follow the riverbed north to a crypt with supplies.** ⚠ **Unnamed. Do not name him.**
 
-### The Khar-Zadûn Graveyard and Waystation *(unvisited)*
+### The Khar-Zadûn Graveyard and Waystation *(✔ visited Ch 24 — it is SESKER'S GULLY; see `lore/worldwound.md`)*
 Per Dagna: **north up the old riverbed and a little west, about a day from Drezen.** A graveyard for **the dwarves who died when Khar-Zadûn fell**, sheltered, with **a waystation for travelers** built on its grounds — food, water, a roof. **Whether it survived the Worldwound is unknown.** The party rode for it at nightfall on day four of Vang's week. **No proper name established — do not invent one.**
+
+---
+
+## New in Session 24
+
+### Arlys Harnaste — the specter at the mausoleum *(✔ laid to rest, Ch 24)*
+A crusader's ghost floating at the iron gate of the **Harnaste mausoleum** at Sesker's Gully: old armor of a good Mendevian pattern, long surcoat, helm, **two motes of hellish red light** for eyes. *"I am the last of my line, and I will protect our resting place."* Barred from his own crypt (*"proscribed"*), he swore that one more night with **the demon squatting below** might drive him to *"seek out your kin, slay them, and bring their souls back to revel with me."* Caleth answered *"On our oath, it will be done."*
+- **His first words were to Korroc — *"And now the child comes before me"*** — and he pushed at Korroc's will. **He had fought Borin and the others years before** and recognized the father in the son.
+- **The sixth coffin, labeled *Arlys*, had never held a body.** His bones lay in **good Mendevian plate** in a sedge-grown yard behind the last houses of the village, with a notch in the left pauldron. The party carried him up on Korroc's cloak and laid him in it; **Korroc gave the rites.** He followed as far as the gate and no further, and grew fainter.
+- **His account of the dwarves** (see `memory/the-fathers-are-buried.md`): they came *"with the group, years ago"*; *"in my anger, I attacked them. They defeated me. They thought me vanquished. Yet I was not gone. My final release was beyond their abilities."* One was injured and succumbed; they buried him; they left; *"some time later, two humans came back, and buried more here."*
+- **His gift:** *"Go into the village… and find the light."* He gathered into a ball of pale gold light and sank into a mound in a kitchen garden, where Thane dug up a **chest** (see `lore/items.md`). Caleth: ***"Arlys Harnaste. Go well."***
+- ⚠ The specter **never gave its own name**; *Arlys* comes from the coffin plaque and *Harnaste* from the defiled name over the door. **How the family came to have a crypt among dwarven dead, and when he died, are not established.**
+
+### The Harnaste family
+Human crusader family of Iomedae; their **mausoleum** is the largest building left standing in Sesker's Gully, set among the dwarven stones. Chapel carved with Iomedae on every wall (all clawed by the demon); **six named coffin-niches** (five emptied and dragged); **three sarcophagi** below (a man, a woman, a man). **At least eight of the family** — gnawed and mixed past sorting. **The party laid all the bones together in the center sarcophagus, the woman's.** The family name over the door was splattered with blood and filth. ⚠ **No other names established.**
+
+### The Two Humans *(unknown)*
+Per the specter: *"some time later, two humans came back, and buried more here"* — **including Thorek Stonevein**, who had left Sesker's Gully alive after burying Borin. **Who they were, where they found him, and how they knew to bring him there are all unknown.** Thane will carry them for life. ⚠ **The GM closed the fathers' thread — do not build a quest out of them without the table.**
+
+### The Skulgrym in the crypt *(destroyed, Ch 24)*
+A demon squatting in the bottom room of the Harnaste mausoleum, **gnawing the family's bones** — tall, starved-thin, all joints, a long narrow head that was mostly mouth, **a great axe.** It took a five-strike cascade at Korroc, **blinked behind Thane**, **silenced the room**, and **healed itself when its axe cut him.** Fiendsplitter went mad at it. Nageru finished it. *(The prose calls it only "the demon"; "skulgrym" is from the session notes.)*
+
+### The Drocha Swarms *(destroyed, Ch 24)*
+Two screaming clouds the size of a hay wain, full of fanged faces, at the edge of Sesker's Gully; **their bites drained life** (Nageru needed restoration). Caleth named them; one died to his fireball, the other to Nageru.
+
+### The Babau with the Thighbone *(destroyed, Ch 24)*
+Found on the riverbed road walking in circles, shouting in Abyssal at the **Pauper's Thighbone**, which it could not put down: *"They'll take the thing… Won't you get rid of it?… It can make me strong, but it doesn't make me strong. Then it bites."* **Would not give its name** (*"No, no, no. We don't tell that"*) **or say where it got the rod.** Caleth coaxed it close and then sent Nageru. ⚠ **Where it got the artifact is open.**
+
+### The Construct Spiders *(destroyed, Ch 24)*
+**Three**, following Aravashnial out of the west: spider-shaped, **the size of a bull elephant**, legs that moved *"like the arms of a mill,"* bodies of dark stuff *"not flesh and not stone,"* clusters of lit eyes. **Eye rays** (cold; lightning); bite and claws that **grab and lift.** **One exploded when Nageru shattered it.** Caleth: *"Those are constructed. Not flesh."* They reached for Aravashnial rather than striking him — Thane: *"It's not here to kill him. It came to fetch him."* ⚠ **Who made or sent them is NOT established. Do not name a maker.**
+
+### Saint Argil *(historical)*
+The saint whose **broken thighbone** is sealed in the Pauper's Thighbone. Per Caleth: *"He gave everything he had… They say he never once in his life passed by a person in need."* Date unknown.
