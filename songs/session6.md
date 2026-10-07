@@ -1,54 +1,55 @@
-⚔️ "The Blade That Chooses" — Symphonic Gothic Rock
+⚡ "Carry Me - Raise Me Higher" — Retrowave Synthwave Pop
 
-A symphonic gothic rock track for [chapters/06-the-blade-that-chooses.md](../chapters/06-the-blade-that-chooses.md). The chapter is pure action-movie DNA: a holy weapon that wakes after sleeping through three crusades and keeps choosing the same hand, and four people walking up to a demon fortress with a hundred thousand lives on the line and nobody else to do it. The song is sung in the blade's voice — mythic and external — so it can be loud about the one thing Caleth keeps off his face: it found him, and it keeps finding him. Soaring soprano over crunching guitar and full orchestra, a chorus built to land like a cathedral falling on you, and a hard stop at the doors. Paste the whole block straight into Suno's lyrics box.
+An alternate track for [chapters/06-the-blade-that-chooses.md](../chapters/06-the-blade-that-chooses.md), sung in the voice of Radiance itself — the holy weapon waking after years of sleep and captivity, choosing its hand, becoming what the moment needs. Driving 1980s-inspired retrowave pop energy: arpeggiated synths, four-on-the-floor drums, a yearning male vocal that soars on the chorus. Built to move. Paste the whole lyrics block straight into Suno's lyrics box.
 
 🎵 LYRICS (Suno-Ready)
 
-Character count: 882 (under the 1,000 hard cap, spaces and tags included)
+Character count: ~895 (under the 1,000 hard cap, spaces and tags included)
 
-[Verse 1]
-Forged for a hand that fell long ago,
-sleeping in the ash where the cold winds blow.
-Crusade after crusade, I waited in the dark
-for the one I was made for to wake the spark.
+[Verse]
+I slept behind glass while the war burned on,
+A relic with dust where my glory had gone.
+They whispered Yaniel, they called me bright,
+But no hand raised me into the night.
 
-[Chorus]
-I'm the blade that chooses, I find my own,
-I run to one hand and I call it home.
-A hammer for the stone, a sword for the still —
-but I came back to you, and I always will.
-
-[Verse 2]
-Four against a fortress, the city at your back,
-a hundred thousand lives on the edge of the crack.
-The doors are closed, the dead men shed their skin —
-take me up, take me up, and we go in.
+[Pre-Chorus]
+Then thieves in false halos dragged me away,
+To bend my gold heart toward shadow and clay.
+But I remembered the sun. I remembered the vow.
+I was waiting for you. I am waking now.
 
 [Chorus]
-I'm the blade that chooses, I find my own,
-I run to one hand and I call it home.
-A hammer for the stone, a sword for the still —
-but I came back to you, and I always will.
+Carry me into the broken door,
+I am not a trophy anymore.
+Glaive, hammer, blade, whatever you need,
+I become the oath, I answer the deed.
+From museum silence to demon fire,
+Raise me higher, raise me higher.
 
 [Bridge]
-No army can save them. No prayer. No king.
-Just four in the grey and the song I sing.
+Cold iron singing in a paladin's hand,
+Light like dawn over a ruined land.
+I have been stolen, hidden, denied,
+But I was never dead inside.
 
-[Outro]
-Take me up. We go in.
+[Final Chorus]
+Carry me into the Gray Garrison door,
+I am not sleeping anymore.
+Name me Radiance, oath and flame,
+I change my shape, but not my name.
 
 🎚️ SUNO STYLE BOX
 
-Target: under 2 minutes 30 seconds total. No instrumental padding between sections — move directly section to section. No fade-out, no Suno-generated extensions.
+Target: under 2 minutes 30 seconds total. No instrumental padding between sections — move directly section to section. No fade-out.
 
-Symphonic gothic rock, dark fantasy, orchestral-metal grandeur with an operatic female lead. Soaring female soprano lead vocal — operatic edge, powerful and anthemic, NOT soft, NOT restrained. Sweeping orchestral strings underneath crunching distorted electric guitar, thundering drums with a heavy kick and crashing cymbals. Full choir enters on the chorus — strings, choir, and guitar all hit at once, "I'm the blade that chooses" lands as a cathedral-and-stadium moment together. Male choir doubles the hook underneath the soprano. Gothic grandeur meets electric power — dark, lush, blood-stirring. Verse builds tension under strings and rhythm guitar; bridge strips back to strings only before the final chorus explodes. NO acoustic guitar, NO country, NO folk. Hard ending — final orchestral hit and drum crash, no fade.
+1980s retrowave synthwave pop, pulsing and euphoric. Driving arpeggiated analog synth hook cycling through the whole song — bright, melodic, hypnotic. Four-on-the-floor electronic kick drum, punchy gated reverb snare, warm pulsing bass. Emotional male tenor vocal — longing and slightly desperate in the verses, soaring and open on the chorus. The [Chorus] lifts: synths bloom brighter, drums hit harder, "Raise me higher" delivered like a stadium moment bathed in neon light. Nostalgic 80s electronic energy — analog synths, drum machines, neon-lit melancholy — warm and cinematic, NOT dark or gritty, NOT acoustic, NOT country, NOT folk. The [Bridge] strips back to synth and vocal only before the final chorus erupts. End on a bright synth chord and drum hit — sharp, not faded.
 
 🎯 If the First Generation Misses
 
-**If Suno drifts to country / folk / acoustic:** Front-load `symphonic gothic rock, operatic female soprano, orchestral metal, distorted electric guitar, orchestral strings, NO acoustic guitar, NO folk, NO country`. If you hear any strummed acoustic string, regenerate immediately.
+**If acoustic guitar or any strummed string appears:** This is the recurring Suno failure on this project. Regenerate immediately and add `NO acoustic guitar, NO strummed strings, NO country, NO folk — pure electronic, synthesizers only`.
 
-**If the soprano comes out soft or restrained:** Push `powerful operatic soprano, anthemic and soaring, full voice, NOT breathy, NOT gentle, NOT indie folk`. If it sounds like a lullaby or a folk ballad, it's wrong — this is a cathedral moment, not a hearth song.
+**If the vocal stays flat through the chorus:** "Raise me higher" needs to actually lift. Tag the chorus `[Chorus - vocal soars, synths bloom brighter, full euphoric lift]`. If it sounds like the verse and chorus are the same energy, regenerate.
 
-**If the chorus has no lift:** The whole song builds to "I'm the blade that chooses" landing like a cathedral falling. Tag it `[Chorus - full orchestra, choir, guitar all hit together, soprano soars, maximum lift]`. If the chorus feels flat or equal in energy to the verse, regenerate.
+**If the arpeggiated synth hook disappears or becomes a generic pad:** Push `driving arpeggiated synth hook, cycling melodic figure, NOT a sustained pad, the synth arpeggio is the main melodic hook throughout`. The arpeggio is the spine — if it's gone, the song loses its pulse.
 
-**If the bridge loses momentum:** The bridge should strip back to strings only — tense, not quiet — before the final chorus explosion. If Suno keeps the full band through the bridge, add `[Bridge - strings only, tension building, no guitar, no choir, sparse before the final eruption]`.
+**If the bridge doesn't strip back:** Tag it `[Bridge - synth and vocal only, no drums, tension before the final eruption]`. If the full band stays through the bridge, the Final Chorus has nowhere to go.
