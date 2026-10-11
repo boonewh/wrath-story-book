@@ -53,7 +53,7 @@ The live blog lives in a **separate repository** at `G:\Projects\games\`. Built 
 
 When the blog page is updated, a matching `website/updateN.md` changelog file is written in *this* repo. Pattern set by `website/update4.md` — top matter, what changed (grouped by file path), files NOT touched, verification steps, cross-references.
 
-The Vanguard section on the same page shows **level and mythic tier together in its header** ("Level 10 Gestalt · Mythic 4"), and the Campaign Arc Status milestone footer shows **Book / Mythic Tier / Level**. **The two must stay in sync**; an inline code comment marks both. *(Session 21 briefly split tier onto the individual Vanguard cards because tiers had diverged; Session 22 brought all four level again and the per-card field was removed. If they ever diverge again, restore the per-card `tier` and a footer range.)* **As of the Session 22 pass: Level 10; ALL FOUR at Mythic Tier 4; the footer range collapses to "Mythic Tier 4".** See `memory/mythic-tiers-personal-quests.md`. Changelogs exist for sessions 4, 7, 9, 10, 11, 12, 13, 16, 17, 18, 19, 20, 21, 22, 23 and 24.
+⚠ **As of Session 24 tiers have DIVERGED again, so the page is back in the per-card shape:** the Vanguard header shows **level only** ("Level 11 Gestalt"), **each Vanguard card carries its own `tier`**, and the milestone footer shows a **range** ("Mythic Tier 4–5 · Level 11"). *(Sessions 22–23 had level and tier together in the header, "Level 10 Gestalt · Mythic 4".)* The Campaign Arc Status milestone footer shows **Book / Mythic Tier / Level**. **The two must stay in sync**; an inline code comment marks both. *(Session 21 briefly split tier onto the individual Vanguard cards because tiers had diverged; Session 22 brought all four level again and the per-card field was removed. If they ever diverge again, restore the per-card `tier` and a footer range.)* **As of the Session 24 pass: Level 11; Nageru, Thane and Korroc Mythic 5; Caleth Mythic 4.** See `memory/mythic-tiers-personal-quests.md`. Changelogs exist for sessions 4, 7, 9, 10, 11, 12, 13, 16, 17, 18, 19, 20, 21, 22, 23 and 24.
 
 ## Canon Hierarchy
 
@@ -105,7 +105,7 @@ Current repo memory files (28, plus the index). **`memory/MEMORY.md` is the auth
 - `campaign-elapsed-time.md` — **about ONE year has passed since Armasse (as of Ch 21).** Never write "two years" for the party's time together; the whole Fifth Crusade lasts ~2 years.
 
 *New in Session 21:*
-- `mythic-tiers-personal-quests.md` — **party Level 10; tiers per character.** Nageru 4 (the fane), the rest 3. Personal quests grant tiers; don't invent the unstated ones.
+- `mythic-tiers-personal-quests.md` — **party Level 11; tiers per character — Caleth 4 (next; Will expects Vang), Nageru 5 (since S22), the cousins 5 (the fathers, S24).** Personal quests grant tiers; don't invent the unstated ones.
 - `aravashnial-taken.md` — **a six-legged flying dragon carried off Aravashnial and four soldiers** (Ch 21); Vang held him (Ch 22). **✔ Ch 24: he walked home and is asleep in Drezen's infirmary.** How he got out is OPEN.
 
 *New in Session 20:*
@@ -229,7 +229,7 @@ Who knows what. The POV character can only narrate what they know — never let 
 - **✔ WHERE THEY ARE AT THE CLOSE OF Ch 23: camped several hours north of Drezen along the dry riverbed, the four of them alone**, riding for the waystation. Thane: *"I need a horse."*
 - **A rift-drake raid** (five drakes, lance-riding cultists) hit the excavation as a target of opportunity; Thane was carried off and got back. **Thane's scale was used (levitation; 3/day).**
 
-**Advancement:** All four PCs are **Knights of the Fifth Crusade** and mythic. **Level 10 Gestalt, and ✔ ALL FOUR ARE MYTHIC TIER 4 as of Session 22.** Nageru reached 4 in Session 21 for the fane; **Caleth's came in Session 22 for killing the Woundworm** (⚠ *not* for rescuing Aravashnial — that failed), and the GM brought **Korroc and Thane** up with him to level the party. ⚠ **Tiers are still granted PER CHARACTER by personal quest** — Thane's and Korroc's remain unstated — so do not assume they stay matched, and check before recording any future change. See `memory/mythic-tiers-personal-quests.md`.
+**Advancement:** All four PCs are **Knights of the Fifth Crusade** and mythic. **⚠ SESSION 24: LEVEL 11 GESTALT. Nageru, Thane and Korroc are MYTHIC TIER 5; Caleth is MYTHIC TIER 4.** **Thane and Korroc's 5 is for completing the fathers' plotline.** **Nageru has been 5 since Session 22** (the fane put him one ahead; he rose again when the rest reached 4 — earlier records here had him at 4, wrongly). **Caleth is next**; Will expects Vang. *(Session 22 record follows, minus Nageru.)* Nageru reached 4 in Session 21 for the fane; **Caleth's came in Session 22 for killing the Woundworm** (⚠ *not* for rescuing Aravashnial — that failed), and the GM brought **Korroc and Thane** up with him to level the party. ⚠ **Tiers are still granted PER CHARACTER by personal quest** — Thane's and Korroc's remain unstated — so do not assume they stay matched, and check before recording any future change. See `memory/mythic-tiers-personal-quests.md`.
 
 **Where they are and what they're doing:**
 - **DREZEN IS TAKEN.** The citadel is held, the **Sword of Valor is RECOVERED (Ch 18)** and flies over it. **The objective of Book 2 is complete.**

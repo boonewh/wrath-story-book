@@ -5,13 +5,8 @@
       "name": "games-dev",
       "runtimeExecutable": "npm",
       "runtimeArgs": ["--prefix", "G:/Projects/games", "run", "dev"],
-      "port": 3000
-    },
-    {
-      "name": "games",
-      "runtimeExecutable": "npm",
-      "runtimeArgs": ["--prefix", "G:/Projects/games", "run", "dev", "--", "-p", "3010"],
-      "port": 3010
+      "port": 3000,
+      "autoPort": true
     }
   ]
 }

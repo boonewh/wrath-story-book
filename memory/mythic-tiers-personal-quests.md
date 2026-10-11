@@ -1,13 +1,29 @@
 ---
 name: mythic-tiers-personal-quests
-description: Level 10, and as of Session 22 ALL FOUR are Mythic Tier 4 - the divergence closed. Tiers are still granted per character by personal quest, so track them per character and never assume they stay matched.
+description: As of Session 24 - LEVEL 11; Nageru 5 (since S22, fane), Thane + Korroc 5 (the fathers' plotline, S24), Caleth 4 (next; Will expects Vang). Granted per character by personal quest; track per character and never assume they stay matched.
 metadata:
   type: project
 ---
 
 **Rule (from Session 21): the party shares a level, but mythic tier is per character.**
 
-## ✔ STATUS AFTER SESSION 22: ALL FOUR ARE TIER 4. THE DIVERGENCE IS CLOSED.
+## ⚠⚠ STATUS AFTER SESSION 24: LEVEL 11. CALETH 4, EVERYONE ELSE 5.
+
+| PC | Level | Mythic Tier | Personal quest |
+|---|---|---|---|
+| **Nageru** | **11** | **5** | ✔ **The fane of Irori** (Ch 21) put him one tier ahead of everyone. **He has been Tier 5 since Session 22** — he went up again when the rest went to 4. |
+| **Thane** | **11** | **5** | ✔ **The fathers' plotline** — completed at Sesker's Gully (Ch 24). |
+| **Korroc** | **11** | **5** | ✔ **The fathers' plotline** — completed at Sesker's Gully (Ch 24). |
+| **Caleth** | **11** | **4** | **Next.** Will expects **Vang** to be what his next tier takes. ⚠ *That is Will's expectation, not a stated quest — don't write it as fact or pre-empt it.* |
+
+*(Will, 2026-10-04. Caught after the Session 24 web pass had shipped with Level 10 / Mythic 4. The session notes do not mention advancement, so ask about levels and tiers at every session pass.)*
+
+### ⚠ Correction to the Session 22 record below
+Will, 2026-10-04: **Nageru was Mythic 5 from Session 22, not 4.** He went one tier ahead with the fane (Ch 21), then went up again when the other three reached 4. The table below, and the Session 22–23 website passes (*"Level 10 Gestalt · Mythic 4"* for everyone), had him wrong. The old changelogs (`website/update22.md`, `update23.md`) are left as written records.
+
+**The pattern:** each completed personal quest puts that character one ahead, and the GM periodically brings the others up. Nageru's fane (S21) → +1. Caleth's Woundworm (S22) → the other three came up with him, so Nageru reached 5. The cousins' fathers (S24) → 5.
+
+## Session 22 record (superseded, and wrong about Nageru, who was 5 — see the correction above)
 
 | PC | Level | Mythic Tier | Personal quest |
 |---|---|---|---|
@@ -25,7 +41,8 @@ This file previously recorded *"Caleth's quest is probably rescuing Aravashnial"
 
 ## How to apply
 
-- **Never write "the party is Mythic Tier N" again.** Say "Level 10" for the party, and give tiers per character.
+- **Never write "the party is Mythic Tier N" again.** Say "Level 11" for the party, and give tiers per character.
+- **⚠ Ask about level and tier at every session pass.** The session notes don't carry advancement; Session 24's was missed until the web update was done.
 - **Do not invent the other quests.** Thane's and Korroc's are still unstated. The obvious candidates (the Stonevein fathers for the cousins) are exactly the kind of thing to **ask about, not assume** — see the Caleth misfire above. When a session looks like one of them paying off, flag it and confirm before recording a tier change.
 - **Personal quests line up with POV-by-stakes.** A session that completes a character's quest is almost certainly that character's POV chapter — Ch 21 for Nageru, Ch 22 for Caleth. Weigh that when recommending POV.
 - **In prose, a new tier is not announced.** Mythic power shows in what the character can do. Nothing in Ch 22 remarks on anyone's advancement and nothing should.
@@ -35,9 +52,9 @@ This file previously recorded *"Caleth's quest is probably rescuing Aravashnial"
 - **Character files:** the `Level · Mythic Tier` line in each file's Current State.
 - **CLAUDE.md:** Party State → Advancement.
 - **Website (`games/src/app/wrath/page.tsx`):**
-  - **Vanguard header** shows **level only** ("Level 10 Gestalt").
+  - **⚠ As of Session 24 the per-card shape is BACK:** **Vanguard header** shows **level only** ("Level 11 Gestalt").
   - **Each Vanguard card** shows **its own tier** via a `tier` field in the card array.
-  - **Milestone footer** shows **the tier range** plus the level. ⚠ **After Session 22 the range collapses: it should read "Mythic Tier 4", not "3–4".** If it ever diverges again, go back to a range.
+  - **Milestone footer** shows **the tier range** plus the level — **"Mythic Tier 4–5 · Level 11"** as of Session 24. *(Sessions 22–23 had it collapsed to "4" with the tier in the header.)*
   - When any tier changes, update **that card and the footer** together. **Session 22 changes all four cards** — Caleth, Korroc and Thane from 3 to 4 — plus the footer.
 
 Related: [[fane-of-irori]], [[aravashnial-taken]], [[webpage-session-section]].

@@ -4,13 +4,18 @@
 **Driven by:** `chapters/24-the-graves-at-seskers-gully.md` (Thane POV) and `sessions/session24.md`
 **Live page:** `/wrath` (route served from `G:\Projects\games\src\app\wrath\page.tsx`)
 
-**No structural changes this pass.** Level and tier are unchanged (Level 10, all four at Mythic 4), so the Vanguard header and the milestone footer were left alone.
+**⚠ Level and tier changed this session, and the page is back in the per-card tier shape.** The party is now **Level 11**. **Nageru, Thane and Korroc are Mythic 5**; **Caleth is still Mythic 4**. Because the tiers have diverged, the Session 21 layout is restored (see the Vanguard section below). *(This was added after the first pass shipped with Level 10 / Mythic 4.)* Thane and Korroc reached 5 by completing the fathers' plotline. **Nageru has actually been Mythic 5 since Session 22**, so the Session 22–23 pages, which showed "Mythic 4" for everyone, had him one tier low.
 
 ---
 
 ## What changed
 
 ### `G:\Projects\games\src\app\wrath\page.tsx`
+
+**The Vanguard — header and cards (~lines 115–170)**
+- Header span: `Level 10 Gestalt · Mythic 4` → **`Level 11 Gestalt`** (level only).
+- **A per-card `tier` field is back** on the character array: Caleth `4`, Nageru `5`, Thane `5`, Korroc `5`. Each card renders a small **"Mythic Tier N"** line under its class line, using the same markup as Session 21.
+- The inline code comment above the header was rewritten to explain the divergence and how to collapse it again.
 
 **Campaign Arc Status — session header (~line 460)**
 - Top label: `Session XXIII — The Road North` → **`Session XXIV — Two Humans Came Back`**
@@ -36,7 +41,7 @@ All four role labels and contribution paragraphs replaced:
 - Subtitle: → **`The fathers found · The deadline passed · The wizard home`**
 - Summary paragraph fully replaced. Vang's week runs out with nothing. Then the lone figure walks in from the west with three constructs behind him, the knights break them, Thane picks the collar open, and four words are spoken before the wizard sleeps in the infirmary with Korroc at his side. Ends with *"How he got out, nobody knows"* and a note that Caleth now carries the collar and the ivory reliquary.
 - Highlighted span: *"Aravashnial"*. The comma after it sits on the next line with no `{" "}`, so it renders flush (`Aravashnial, barefoot`).
-- Footer: **unchanged**. Book 3 of 6 · Mythic Tier 4 · Level 10.
+- Footer: **Book 3 of 6 · Mythic Tier 4–5 · Level 11** (was `Mythic Tier 4` · `Level 10`). The code comment now says the per-character tiers live on the Vanguard cards.
 
 **Theater of War map — pin tooltips (~lines 200–268)**
 - **Citadel Drezen**: rewritten. The week ran out with nothing; four mornings later the wizard walked in from the west, barefoot and collared, with constructs hunting him; he is asleep in the infirmary.
@@ -60,7 +65,6 @@ All four role labels and contribution paragraphs replaced:
 ## Files NOT touched
 
 - **`{/* FROM THE WAR CHRONICLE */}`**: auto-loads the latest dispatch from `/api/stories?campaign=wrath&limit=1`. It was already showing *The Graves at Sesker's Gully* during this pass.
-- **The Vanguard header and cards**: no level or tier change this session.
 - **Map art and pin coordinates**: unchanged. See the Sesker's Gully note above.
 - **Hero section text, Worldwound Incursion intro, Rules/Resources nav**: static page furniture.
 
@@ -71,7 +75,7 @@ All four role labels and contribution paragraphs replaced:
 1. **Port 3000 on this machine was serving a different project** (the Odessa Symphony Guild site), so this pass ran the games site on **port 3010** using a new `games` configuration in `wrath-story-book/.claude/launch.json`. Open `http://localhost:3010/wrath`, or use your usual port if the games server is the one running there.
 2. Scroll to **Campaign Arc Status**. The top label should read **SESSION XXIV — TWO HUMANS CAME BACK** and the gold title **The Graves at Sesker's Gully**.
 3. Four cards: **THE ONE WHO SHOWED THE MARK / AT HIS SHOULDER / WHO READ THE FIFTH STONE / THE GHOST KNEW**.
-4. Milestone box: **HE WALKED HOME**, with the footer still reading **BOOK 3 OF 6 | MYTHIC TIER 4 | LEVEL 10**.
+4. Milestone box: **HE WALKED HOME**, with the footer reading **BOOK 3 OF 6 | MYTHIC TIER 4–5 | LEVEL 11**. The **Vanguard** header should read **LEVEL 11 GESTALT**, with **Mythic Tier 4** on Caleth's card and **Mythic Tier 5** on the other three. *(Verified against the rendered page.)*
 5. Word-jam check: *"Two of them read Thorek and Borin Stonevein. Borin"* and *"It was Aravashnial, barefoot"* should read normally. *(Both were verified against the rendered page text during this pass.)*
 6. Hover the **blue Drezen pin**. The tooltip should begin *"Held. The demon's week ran out."*
 7. `npx tsc --noEmit` returned **zero errors**. The browser console showed no errors.
