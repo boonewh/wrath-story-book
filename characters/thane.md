@@ -129,7 +129,19 @@ His faith is **divine but not warmly so.** He doesn't pray for forgiveness; he p
 - Charge: **Levitation.**
 - Used in Chapter 3 to ascend the rat-hole, Chapter 10 on the chapel stairs, and **Chapter 21 to float up a hill-sized rock formation** to reach Fiendsplitter, then back down.
 
-## Current State (End of Session 24)
+## Current State (End of Session 25)
+
+### SESSION 25 — HE CAST IT HIMSELF (Ch 25, Nageru POV)
+- **⚠ HE CAST THE LIE-DETECTION ON ARAVASHNIAL.** Korroc had agreed to and was pinned in the infirmary; Thane — who does not volunteer — said ***"I'll do it… Same as him. Near enough. He's busy,"*** and sat through the whole interview. **He caught no lies.** But: ***"I'd swear to every word he said in a court of law. I'd not swear the spell was working while he said it."*** *(The player was genuinely unsure his discern lies took.)*
+- **⚠ HE DID NOT NOTICE WHAT THE OTHER THREE NOTICED.** At the fire below the fane, while Aravashnial lectured on annis hags, Nageru, Korroc and Caleth each caught something wrong in the elf and exchanged looks. **Thane failed his roll** — he was sharpening knives and asking how to break a hag's grip (*"I should go for the elbow, myself"* — Aravashnial). **He does not know the others saw anything.**
+- **The dawn attack:** blessed the four on the tower top; folded to the courtyard and **made invisible by Caleth**; the glabrezu **could see him anyway** and turned to meet him — he cut it regardless; **three blades into its seams and it was banished.** Folded behind the incubus on Korroc and finished it. Korroc tripped over him. Back on the tower: **finished the incubus on Aron** (two passes), **killed a drake beside Irabeth**, then **the incubus rider of that drake**.
+- **Called the dream a possible trap** — *"Easiest way in the world to get the four of us out a week's walk from anywhere is to dangle something in front of the one of us who won't walk past it"* — and then: ***"A trap's only a door somebody's thought about first. I'm good with doors."*** Recalled his own *"Good luck to her"* from the fane: *"Didn't think I'd be asked to deliver it."*
+- **Asked whether Caleth could fold them straight to a place he had never seen** — and took the no without argument.
+- **⚠ A HUNCH: HE FETCHED JORAN VHANE** to the map table without explaining it. Joran put one finger far to the west, past the Gray Road. **How Joran knew is unexplained — leave it.** The two have reached *"a kind of arrangement"* from weeks of guarding each other at the forge.
+- **Dinner with Dagna and Korroc** the evening after the attack.
+- Chose **a small dun mare** with a short back and great patience for the ride west.
+- **Advancement: none** (Level 11, Mythic 5). **Unchanged and still live:** the possession, the Staunton disagreement, Sosiel and his father, and **his suspicion about Caleth and Aravashnial** — which nothing in Ch 25 fed or answered.
+
 
 ### ⚠⚠ SESSION 24 — HIS FATHER'S GRAVE (Ch 24, POV)
 - **✔ THE FATHERS ARE DEAD, AND THE THREAD IS CLOSED.** At **Sesker's Gully** the laid-to-rest specter led them to **five crude graves** over the brow of the dwarven cemetery: fieldstones stood on end, names scratched in dwarven runes with a tool not meant for stone. **THOREK and BORIN, side by side.** He read three names he did not know, then Borin's, and **did not need to read the fifth.** Thorek's stone has **a slipped R** where the tool skidded and the cutter went back and fixed it; he looked at it a long time. See `memory/the-fathers-are-buried.md`.

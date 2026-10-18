@@ -622,7 +622,7 @@ Taken from a **babau** on the riverbed road south of Sesker's Gully, which was w
 - *(Name and properties are the table's. Keep the game mechanics out of prose beyond what Caleth says aloud.)*
 
 ## The Anti-Magic Collar *(Caleth holds it, Ch 24)*
-Taken off **Aravashnial's** throat by **Thane**. **Black metal, close-fitting, a single faceted green stone at the hollow of the throat, a ring of fine needles on the inside** that went into the neck. **No keyhole** — Thane found a hairline seam under the jaw and the catch inside it. Caleth touched it and recoiled: ***"Anti-magic."*** *"The wearer cannot cast. At all. Nothing. But anyone outside it can. It does nothing to the one who holds it… We'll keep that. For later."* ⚠ **Who made it is not established. Do not connect the green stone to the Nahyndrian crystals.** *(This is the collar seen in the Ch 22 scrying.)*
+Taken off **Aravashnial's** throat by **Thane**. **Black metal, close-fitting, a single faceted green stone at the hollow of the throat, a ring of fine needles on the inside** that went into the neck. **No keyhole** — Thane found a hairline seam under the jaw and the catch inside it. Caleth touched it and recoiled: ***"Anti-magic."*** *"The wearer cannot cast. At all. Nothing. But anyone outside it can. It does nothing to the one who holds it… We'll keep that. For later."* ⚠ **Who made it is not established. Do not connect the green stone to the Nahyndrian crystals.** *(This is the collar seen in the Ch 22 scrying.)* **Ch 25:** Caleth let Aravashnial **study it** in his own room; he handed it back. **On the third morning it lay on Aravashnial's study desk among his notes** while he tried and failed to cast, and **Caleth spent the better part of an hour studying it and him.** ⚠ **The collar is off and he still cannot cast** — the collar's effect, if any, is not established as the cause. *(Who holds it as the party rides west is not stated — Caleth had it last on the page in Ch 25's first evening.)*
 
 ## The Harnaste Chest — the Specter's Gift *(Ch 24)*
 Buried about **three feet down in a kitchen-garden mound** at the edge of Sesker's Gully, where the specter's light sank. A small **oak strongbox, iron-bound**, warm to the touch; Caleth could not read the magic on it. Thane checked it (no trap) and picked it.
@@ -641,3 +641,13 @@ A thin dark wand Thane had seen him carry and never use. Caleth touched it to hi
 
 ## Caleth's Rod — the one that threads spells around friends *(on the page Ch 24)*
 A rod **Caleth bought at some point** (when and where are not established). In the fight with the construct spiders he cast a mythic cone of cold through it and it **threaded the spell around his friends** — Thane felt it pass his face and touch nothing — before his inversion turned it to fire on the spiders. **It is NOT the Pauper's Thighbone.** *(The session notes said "a wand"; the Caleth player corrected it to a rod — Will, 2026-10-04.)* Keep game names out of prose.
+
+## Aravashnial's Staff — FOUR PIECES, LEFT IN DREZEN *(Ch 21 → Ch 25)*
+Broken when the Woundworm took him (Ch 21 showed two pieces on Irabeth's table). **The two were only half of it — Aron's people found the rest in the tower rubble**, so it is **four pieces**. **Caleth carried all four and used them as the focus every time he scried for Aravashnial** *(a bonus the Caleth player quietly took; Lori found out at the table — "You've just been carrying it around?")*. Handed back in Ch 25 (*"Well this is unfortunate"*). **Aravashnial did NOT take it west** (GM correction) — it stayed on his study desk.
+
+## Aravashnial's Spellbook — NOT RECOVERED
+Jerribeth had it in the Molten Scar cavern (Ch 22). He asked after it in Ch 25; the party never got it back.
+
+## Ballista Bolts — RUNNING SHORT *(Ch 25)*
+Irabeth: *"we are already running out of ballista bolts."* The citadel's forges, the Purity Forge included (Korroc and Joran), are turning out bolt heads.
+

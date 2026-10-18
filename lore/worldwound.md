@@ -200,6 +200,8 @@ Geothermal country south of Drezen — vents, hot springs, the ground weeping fi
 
 **What it is now:** when the last templar fell, **the fane restored itself.** Golden light ran through every crack, and dozens of ghostly monks mended every stone and carving. **Not rebuilt, remembered.** The statue of Irori stands whole. The grief and rage that were in the stone are gone, and the place is **clean**, not merely cleared. An ancient monk named Nageru **Son of Irori**. See `characters/nageru.md`.
 
+**Ch 25:** still **whole and restored**; the long steps swept, the old signs of the order clean above the door. **The ghostly monks were not there.** About **five pilgrims** from the crusade camps had come because they heard *"a temple had come back."* The party **folded there from Drezen in three castings** (Caleth: all five people and four horses) as a staging point west, and stayed the rest of the day and the night so Caleth could recover. Nageru meditated before the statue.
+
 ⚠ **Open:** what becomes of the fane, whether anyone garrisons or reoccupies it, whether the hidden room was cleansed too (the chapter leaves its blood runes as they were), and what *"we will wait for you"* means.
 
 **On the way (Ch 21):** a **hill-sized rock formation about ten miles west of Drezen**, where the party killed a glabrezu and Thane recovered **Fiendsplitter**.
@@ -278,3 +280,18 @@ The party teleported into it and out again and never explored it. What is establ
 - **⚠ THE STONEVEIN GRAVES.** Over the brow, on the far slope **above a stand of dead trees**, in the last row and **a little apart**: **five graves**, heaps of earth gone flat, each with **a flat fieldstone stood on end**, a name scratched in **dwarven runes** with a tool not meant for stone. **BORIN and THOREK side by side**, the earth running together; **three others whose names Thane did not know.** **Dagna ruled the fathers stay here.** See `memory/the-fathers-are-buried.md`.
 - **Threats met there (Ch 24):** two **drocha swarms** at the village edge; the specter at the gate; the skulgrym below.
 - **Distance:** about a day's ride from Drezen. Caleth can fold a party there and back.
+
+## The Fortress of the Bell of Mercy *(seen only in Nageru's dream, Ch 25)*
+
+**Location:** **far to the west** — past the **Gray Road** (*"the old river,"* per Dagna, who was not sure of it). **Joran Vhane** put a finger on a nearly blank part of the command-room map, among small drawn hills, **at least a week's travel from Drezen** (*"if nothing gets in the way"*). How he knew is unexplained. **Aravashnial had never seen or read of it.** The party is riding there from the fane.
+
+**What the dream showed:**
+- **An old fortress hidden among broken hills**, folded into the land; broken walls, vines, collapsed roofs, courtyards, dead trees in what were gardens.
+- **As it once was** (one bell-note's vision): walls whole, torches burning, armored figures walking the battlements, **a small shrine beneath a tower**, and **a great bell in the southeastern corner tower.**
+- **The Bell of Mercy** — in the **southeast tower**. Per Arueshalae, **the hunters fear it.** What it does is **not established.**
+- **An old bell tower** (a different one, narrow, top fallen in) where **Arueshalae has barricaded herself.**
+- **Surrounded and occupied**: demons, cultists, and **an annis hag** who leads the hunt. The approaches are partly held.
+- **Nageru carries the whole layout** — approaches, occupied courtyards, her tower, the bell — **and knows how to get there.** He cannot put it on a map.
+
+⚠ **Not established, do not invent:** the fortress's name, who built it or when, what the Bell of Mercy does, why the hunters fear it, and how long she can hold.
+

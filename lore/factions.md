@@ -288,6 +288,30 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 49. **⚠ WHERE THE FATHERS WENT — narrowed, not answered.** The dead prisoner: they were the reason the escape worked; **he does not know if they got out**; **Borin was injured**; they meant to make for **a crypt with supplies, north up the riverbed** — the **waystation at the Khar-Zadûn graveyard**, a day out. **Do not resolve before the table plays it.**
 50. **Who burned Caleth's birth certificate, and how Aravashnial came to have it.** Open.
 
+**New from Session 24:** *(backfilled 2026-10-13 — the Ch 24 canon pass skipped this list)*
+51. ~~**HOW ARAVASHNIAL GOT OUT**~~ — **he walked home from the west (Ch 24)**; ✔ Ch 25 gave his own account (a cage, a chain round a guard's neck, a key). **Whether it is true, or he was let go, stays open** — see #63.
+52. **⚠ WHO MADE AND SENT THE CONSTRUCT SPIDERS.** Three, bull-elephant-sized, eye rays, came over the rise behind him. Thane: *"It's not here to kill him. It came to fetch him."* Aravashnial calls them *"the retriever creatures."* Maker and master unknown.
+53. **⚠ THE TWO HUMANS WHO CARRIED THOREK BACK** to lie beside Borin at Sesker's Gully, and **where, when and how Thorek died.** ⚠ **The GM closed the fathers' thread — this is a question Thane carries, not a hook.** *"Did you know we were looking?"*
+54. **The other three graves at Sesker's Gully, and "the group" the dwarves came with.** Names unknown. Not a hook either.
+55. **⚠ WILL SOSIEL SPEAK WITH THOREK?** Thane asked; *"It's highly unusual."* Not refused, not agreed; nothing decided. Ch 25 did not touch it.
+56. **⚠ THE GOLD LIGHT IN THE HARNASTE CHEST** wrapped Thane, *"looked at him all the way down,"* found nothing it was looking for, and let go. Caleth: *"To you,"* — and did not finish. Unexplained.
+57. **The Harnaste chest's ring (Korroc) and horn (Caleth).** Powers not established.
+58. **⚠ THE PAUPER'S THIGHBONE** — an artifact that keeps a ledger of generosity. **Whether any rune has gone dark**, and **where the babau got it**, are not established. *(Caleth fed spells through it in the Ch 25 battle; nothing about the runes was stated.)*
+59. **⚠ IS VANG FINDING CALETH THROUGH THE SPIRAL?** Caleth's belief after the *"Interesting"* vision and the dream of Vang with Caleth's shadow — **not established mechanism.** **The party has now SEEN the mark** and heard its name; not what it means, not who told him.
+60. **⚠ THANE SUSPECTS SOMETHING BETWEEN CALETH AND ARAVASHNIAL** — *"I have been told"*, and Caleth's face at the bedside (*"A student, watching his teacher sleep. No… it isn't."*). He does not know what, and has not asked. *"Not yet."*
+
+**✔ Closed by Session 24:** **where the fathers went** (#49 — Sesker's Gully; **both dead**, Borin of his wounds there, Thorek elsewhere; Dagna ruled they stay) · **whether Aravashnial is alive** (#40 — home) · **what Vang did when the week ran out** (#48 — nothing that week; ✔ Ch 25: the attack came late) · **Fiendsplitter is Korroc's.**
+
+**New from Session 25:**
+61. **⚠⚠ ARAVASHNIAL CANNOT CAST, AND THE COLLAR IS OFF.** A perfect cantrip, twice, nothing; Caleth's greater dispel landed and **found nothing to take hold of.** Cause **open** — Caleth guessed curse or foul magic and is stumped.
+62. **⚠⚠ SOMETHING IS WRONG WITH ARAVASHNIAL'S MANNER.** Noticed at the fane fire by **Nageru, Korroc and Caleth** (not Thane); **nothing said aloud.** The GM was deliberately vague. **Do not name the tell; do not pick an explanation.**
+63. **⚠ HOW HE ESCAPED.** His account (chain round a guard's neck; a key; walked east) passed Caleth's detections and Thane's lie-detection — *"if the spell took."* Too easy, and everyone knows it. **Whether he was let go is open.** So is **where the cage-cave is.**
+64. **⚠⚠ ARUESHALAE CALLED NAGERU BY NAME, IN A DREAM.** *"I asked for someone who might listen before deciding what I am. And something answered."* **What sent it, what answered, how she knew his name, and whether something has changed her — all open.** The party is riding west to find her.
+65. **⚠ THE BELL OF MERCY** — a ruined fortress far to the west, past the Gray Road; *"They fear it."* See `lore/worldwound.md`.
+66. **⚠ THE ANNIS HAG** leading the hunt — *"She wants to take me back."* Probably Staunton's Sifkesh-sworn hag (the party's inference). **Back to what** is open.
+67. **⚠ HOW A GLABREZU REACHED DREZEN'S COURTYARD WALL UNSEEN.** Open. **Vang's ultimatum arrived late** (dawn attack: two glabrezu, drakes, incubus riders), and **Irabeth is running out of ballista bolts and soldiers.**
+68. **How Joran knew where the fortress is.** Unexplained; leave it.
+
 **New from Session 20:**
 22. **⚠ JERRIBETH.** A name engraved on the back of a Baphomet symbol taken off a dead clanliege, and a description — *"a beautiful elf woman"* — from a frightened barbarian. She recruited **Marhevok Grunhuld-Wintersun**, gave him a scrying token he thought was an honor, promised him command in her armies, and left him raiding the crusade's supply road for a year without ever sending for him. **Caleth threw the token in a pool rather than carry an open window on his back.** ⚠ *The party believes she is an elf. Keep them believing it — see `characters/npcs.md`.* **This is the clearest new enemy lead out of Book 2's aftermath.**
 23. **⚠ THE DRAKE FLEW WEST.** The blue drake that lay in an iced pool inside Wintersun Hall reacted to Marhevok's untranslatable last words, and when he died it **did not flee — it left**, unhurried, westward. Thane: *"That's off to tell somebody."* **Somebody put that creature in that room. Unresolved.**

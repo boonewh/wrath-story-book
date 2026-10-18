@@ -1,10 +1,18 @@
 ---
 name: aravashnial-taken
-description: Ch 21 - a six-legged dragon carried off Aravashnial; Ch 22 - Vang held him. ✔ Ch 24 - HE IS BACK. He walked out of the west for days, pursued by three construct spiders; the party killed them, Thane picked off the collar, and he is asleep in Drezen's infirmary. HOW HE GOT OUT is OPEN.
+description: Ch 21 taken; Ch 22 held by Vang; Ch 24 walked home. ⚠ Ch 25 - his escape story passed every check, but he CANNOT CAST with the collar off, a greater dispel found nothing, and three of the four noticed something wrong in his manner. All causes OPEN. He is riding west with the party.
 metadata:
   type: project
 ---
 
+> **⚠⚠ Ch 25 — HE TOLD HIS STORY, IT PASSED EVERY CHECK, HE CANNOT CAST, AND SOMETHING IS WRONG.**
+> - **His account** (Caleth and Thane, Thane under a lie-detection spell): walked **east from the cave where he was held**; remembers the tower, the Molten Scar cavern, the party arriving (*"you idiots"*), **Jerribeth casting** (the Ch 22 color burst that knocked him out), then **a cage** — **treat it as a second cave, location unknown** (Will). **Escape:** guards lax; **shackle-chain through the bars round a guard's neck**, held him close, took his key. **Vang was not there** — *"a cave, not the Ivory Sanctum."* *"I know. And I don't know. It did seem easier than it should be, but then the retriever creatures came."* **Vang asked about Drezen's numbers, defenses, and the knights' powers; he told him nothing.** **Caleth: no tracking magic, no evil. Thane: no lies — but not sure his spell worked.**
+> - **⚠⚠ HE CANNOT CAST, WITH THE COLLAR OFF.** Perfect cantrip, twice; nothing. **Caleth's greater dispel landed solidly and found nothing to take hold of.** Caleth guessed curse or foul magic and is **stumped.** ⚠ **Cause OPEN.**
+> - **⚠⚠ THREE OF FOUR NOTICED SOMETHING WRONG IN HIS MANNER** at the fane fire — **Nageru (first), Korroc, Caleth.** **Thane failed his roll and did not.** Nothing said aloud. ⚠ **The GM was VERY non-descript. Do NOT name a tell. Do NOT pick an explanation** — impostor, possession, compulsion, damage from the collar or cage, or nothing at all.
+> - **He is riding west with the party** to find Arueshalae (*"I can still be useful with the knowledge I have"*), **without his staff** (four pieces, left on his desk — GM correction) and without his spellbook (Jerribeth had it; never recovered). Irabeth's debrief is **deferred**.
+> - Korroc's life-bond is still on him. **Caleth has still told nobody he is his uncle.**
+> - See [[arueshalae-and-the-bell-of-mercy]].
+>
 > **✔✔ Ch 24 — HE IS HOME.** On the fourth morning after the graves, a lone figure was seen from the west wall walking toward Drezen and falling. Caleth folded the four of them out to it; **three construct spiders** the size of bull elephants came over the rise behind it (see below). The figure was **Aravashnial** — Caleth's cry of his name is the loudest thing Thane has ever heard out of him. The party destroyed all three; **Thane picked the collar off** (no keyhole; a seam and a catch; needles out one by one); Caleth folded everyone to the infirmary. **He said four words — *"Been walking. For days."* — and went to sleep.** Korroc's life-bond is on him; Sosiel and Korroc cleaned and tended him; Irabeth stood at the head of the cot and did not leave. **He is alive, asleep, and has told nobody anything.**
 >
 > **His state:** bare feet black with mud and cut; robe in rags stiff with old blood; face bruised and swollen down one side, cracked lips, a badly-knit cut over the eyebrow, sunburn; **a ring of small crusted wounds round the throat** from the collar's needles. He weighed almost nothing.

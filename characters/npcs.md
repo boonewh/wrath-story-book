@@ -30,6 +30,13 @@
 ---
 
 ### Aravashnial
+**⚠⚠ STATUS (Ch 25): AWAKE, TOLD HIS STORY — AND CANNOT CAST, WITH THE COLLAR OFF. NOW RIDING WEST WITH THE PARTY.** He slept through the dawn attack in a side room. Woke hours later, ribs hurt; **Caleth and Thane questioned him, Thane under a lie-detection spell** (no lies caught — *"if the spell took"*). **His account:** walked east from the cave where he was held, aiming for the citadel or the trade road; remembers the tower, waking in the Molten Scar cavern, *"you idiots teleporting right into the middle of a small army,"* **Jerribeth casting** (the color burst of Ch 22 that knocked him out), then **waking in a cage** — ⚠ *treat it as a second cave; location unknown*. **The guards thought a wizard who cannot cast is helpless**; he got his **shackle-chain through the bars and round a guard's neck** and took the key off him. **Vang was not staying there** (*"a cave, not the Ivory Sanctum"*). On the escape being too easy: ***"I know. And I don't know. It did seem easier than it should be, but then the retriever creatures came. I would not have been able to fight them myself."*** **Vang asked many questions** — numbers in Drezen, defenses, the knights' powers and capabilities; ***"Not the first time a mission has gone wrong for me. I told him nothing. It would take much more to get any information from me."*** **Caleth's detection: no tracking magic, no evil.** Irabeth will debrief him herself, later.
+- **Argued with Sosiel to go back to his own room** and won, through Caleth (*"If he promises"*). Asked after **his spellbook** (Jerribeth had it; **not recovered**), **his staff** (Caleth handed over **four pieces** — Aron's people found the lower half in the tower rubble — and confessed he'd used them to scry), and **the collar** (*"I want to know what they put on me"*); studied it and asked **how Thane got it off.**
+- **⚠⚠ HE CANNOT CAST.** Third morning, his study, collar on the desk among his notes: a cantrip, perfectly cast, twice — **nothing.** Caleth lit the same candle with the same spell. Aravashnial **wilted**. Caleth studied him the better part of an hour (curse or foul magic?), and later cast **a greater dispel** on him as the price of coming west — it **landed solidly and found nothing to take hold of.** ⚠ **Cause OPEN. Do not resolve.**
+- **Knew nothing of the dream fortress**, searched his maps, would not stake four lives on a guess. **Asked to come:** *"I can still be useful with the knowledge I have."* **He left his staff in Drezen** (GM correction — on his desk, four pieces).
+- **⚠⚠ AT THE FANE, HE IDENTIFIED THE DREAM'S GIANT AS AN ANNIS HAG** and lectured on them — and reminded the party that **Staunton's journal records hiring an annis hag sworn to Sifkesh** to track Arueshalae (*"I read it — the whole of it"*). **And three of the four noticed something wrong in the way he talked** — Nageru, then Korroc, then Caleth; **Thane did not.** ⚠ **The GM was deliberately non-descript. Do NOT specify the tell, and do NOT pick an explanation** (impostor, possession, compulsion, damage, or nothing at all).
+- **Korroc's life-bond is still on him.**
+
 **✔✔ STATUS (Ch 24): HOME. ALIVE, ASLEEP IN DREZEN'S INFIRMARY.** On the fourth morning after the Sesker's Gully graves he was seen from the west wall **walking toward Drezen alone, falling and getting up**, with **three construct spiders** coming over the rise behind him. The party folded out, destroyed all three, and **Thane picked the anti-magic collar off his throat** (Caleth now holds it). **Four words — *"Been walking. For days."* — then sleep.** Bare cut feet, robe in rags, face bruised and swollen, a ring of needle wounds at the throat, weighing almost nothing. **Korroc's life-bond is on him**; Korroc and Sosiel tended him; Irabeth stood at the head of the cot. ⚠ **OPEN: how he got out (or whether he was let go), where he walked from, what was done to him, what the constructs were.** He has said nothing. **Caleth sat on the floor beside him all afternoon and has still told nobody he is his uncle.** *(The Ch 22 status below is kept for the record.)*
 
 **⚠⚠ STATUS (Ch 22): ALIVE, AND A PRISONER OF XANTHIR VANG. LOCATION UNKNOWN.** ⚠ *Alive is for LORE ONLY — see below; the party does not know it.* The day after the party left Drezen for the western temple, **a six-legged flying dragon** attacked the citadel and concentrated on the courtyard. To draw it off while the courtyard was evacuated, **Aravashnial went up a tower with four soldiers and began summoning creatures.** It worked: the dragon turned on the tower, **the tower half-collapsed under them, and the dragon caught all five men in the air as they fell and carried them off.** No one has found them since. Recovered and laid on Irabeth's table: **his staff, broken in two**, with a helm, a sword and pieces of armor. *(Reported by Aron Kir; the party was away and saw none of it.)*
@@ -170,6 +177,7 @@
 ---
 
 ### Aron Kir
+**Ch 25:** On the tower top in the dawn attack; an incubus was on him (Thane finished it) and **a drake grabbed him and started to lift off** — Caleth caught him and folded them both clear. **Minor hurt.**
 **Status:** Living. In Citadel Drezen. **⚠ NAMED *WARDEN OF DREZEN* BY IRABETH after the citadel fell (Interlude 2).** New canon from the GM — the title comes from the adventure path, where Irabeth appoints him. Use it going forward; "the warden" is now a valid way to refer to him in prose.
 
 **Role:** Tactics advisor assigned by the Queen, **now Warden of Drezen** — the man responsible for the reclaimed fortress itself. A survivor.
@@ -198,6 +206,8 @@
 **Note:** Caleth recognized Shelyn's symbol immediately and went very still. The connection between Caleth and this faith is private and unspoken. Do not narrate what it means from a non-Caleth POV — only note that the reaction happened.
 
 **⚠ Key moment (Ch 20): HE PERFORMED JESKER HELTON'S ATONEMENT.** Most of a morning, done properly, **with Nageru standing witness throughout** — Nageru having traveled back from Vilareth Ford specifically because Sosiel *did not know the rite had been offered* and somebody who was in that cavern had to say what was said in it. **Jesker came out of it clean and knew it.** *(Caleth offered to stay for it, partly because Sosiel wears Shelyn's symbol and Caleth has never spoken to him about it in eleven months, and was turned down.)*
+
+**Ch 25:** Ran the infirmary after the dawn attack and **had Aravashnial moved to a side room** out of the chaos. That evening **argued with him over going back to his own room** — *"There is only so much a healing spell can do"* — and gave in to Caleth's *"If he promises,"* looking at the ceiling.
 
 **⚠ Key moments (Ch 24):**
 - **THANE ASKED HIM TO SPEAK WITH HIS FATHER.** Over Horgus's citadel plan: *"In the tunnel, you spoke with the dead man for us… Could you do it again? With my father… I want to honor my father… But I'd also like to talk with him."* Sosiel took his time: ***"It's highly unusual. You know that?"*** **He did not say no and did not say yes** — they would talk again. They did, once, that week; **nothing was decided.** ⚠ **Open. Do not resolve.** *(Thorek lies at Sesker's Gully.)*
@@ -325,6 +335,8 @@
   - **Nothing happened when he crossed.** No thunder, no warmth in the stone, no sign of any kind. **Nageru handed him a rag and said "West wall,"** and he knelt down and scrubbed. **Do not make this a conversion. It is a man being given something to do in a room he was afraid of.**
 
 **⚠ HIS LOST HEALING IS STILL UNEXPLAINED AND MUST STAY THAT WAY (see above).** Ch 18 and Interlude 2 did **not** restore it and did **not** diagnose it.
+
+**Ch 25:** Turned out **ballista bolt heads** at the Purity Forge with Korroc after the dawn attack. **Thane fetched him to the command-room map table on a hunch**; he looked a long while and **laid one steady finger far to the west, past the Gray Road** — *"There."* Nothing else. **Nobody asked how he knew. ⚠ Leave it unexplained.** Nageru thanked him; he nodded.
 
 **Open thread — still Korroc's, and the terms have changed.** He is no longer being argued at; he is being given work and left to become whatever he is. Thane volunteered to share the guard duty **before Korroc could ask** — *"He's a Vhane, he's been down there seventy years, and he knows that forge better than the elf does. Somebody who isn't fond of him should be standing there. You do your bit and I'll do mine."* That is as close to a blessing as Thane gives.
 
@@ -486,6 +498,7 @@ It took an hour and a half. **Nobody else on that rock knew the room existed** �
 ---
 
 ### Arueshalae
+**⚠⚠ Ch 25 — SHE REACHED NAGERU IN A DREAM, AND SPOKE HIS NAME.** *(GM-written dream; she has still never been met in waking life.)* Black hair, very pale skin, black horns curving back, dark wings, **a bow**, a flash of red cloth, **dried blood along one arm**, a wing torn by an arrow. Hunted through **a ruined fortress far to the west** by demons, cultists and **an annis hag** who leads them and ***"does not want to kill me. She wants to take me back."*** Hiding in **an old bell tower**, barricaded. *"I cannot run again. I will not go back. I will not become that again."* She **saw him**, and knew his name: ***"Nageru."*** ***"I asked for someone who might listen before deciding what I am. And something answered."*** Named **the Bell of Mercy** — *"They fear it."* — and burned the fortress's layout into his memory. Kept her distance; did not approach or touch him. ***"I do not want to be what I was… Please… Find me."*** **The party knows it was her and is going.** ⚠ **Do NOT resolve: what sent the dream, what "answered" her, how she knew his name, or whether something has changed what she is** (Nageru asked; Caleth: *"a demon is a demon"*). See `memory/arueshalae-and-the-bell-of-mercy.md`.
 **⚠ JERRIBETH HAS PUT A BOUNTY ON HER (Ch 21).** Among documents in a trapped cabinet at the western temple (the fane of Irori): **one thousand platinum** for the capture of *"a traitor succubus who escaped from the prisons in Drezen."* **The document does not name her.** The party is certain anyway and said so: Nageru named her out loud; Korroc: *"But it's her."* Caleth: *"How many succubi do you think have escaped from under Drezen?... A thousand platinum is not what you pay for a deserter. It is what you pay for something you are afraid of."* Thane, flatly: *"So she's walking. Somewhere out there. On foot. With that on her head. Good luck to her."*
 - ⚠ **Still never met, and still: do not have her turn up without the GM.**
 
@@ -814,6 +827,7 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
 ---
 
 ### Irabeth Tirabade
+**Ch 25:** On the tower top for the dawn attack; **a drake's tail took her ankles and she went down on her back** under a drake and an incubus, shield up — **minor hurt**; Korroc laid his life-bond on her and the party cleared both in time. On Aravashnial: ***"I'll have to debrief him, but not right now. My own questions can wait."*** Then: ***"If they keep sending attacks like those, we might have a problem. We have only so many soldiers up here and we are already running out of ballista bolts."*** Agrees the attack was Vang's ultimatum, late.
 **Status:** Living. **⚠ COMMANDS CITADEL DREZEN (Interlude 2).** She went from running an army to running a fortress and **nobody argued** — there were officers with older commissions in that citadel and not one of them opened his mouth, because she had been doing the job for a month already and had simply never stopped to be given it. Knighted by Queen Galfrey (Ch 9).
 
 **Role:** Commander of the Drezen expedition. **Anevia's wife.** Knight of the Fifth Crusade.
@@ -969,6 +983,7 @@ These NPCs exist in canon but are not yet on-screen. They are named, motivated, 
 - **She identified the crypt:** north up the riverbed and a little west, **a day out** — the **graveyard of the dwarves who died when Khar-Zadûn fell**, where a **waystation for travelers** was built on the grounds. *"If it wasn't destroyed when the Worldwound came through, the station might even still be there."*
 - *"You two are definitely your fathers' sons."* / *"You'd better come back to me."* / to Caleth and Nageru: *"bring them back or I swear I'll hunt you down myself."*
 - **⚠ Ch 24 — SHE KNOWS THEY ARE DEAD, AND SHE DECIDED WHERE THEY LIE.** The cousins found her in the broken east range at dusk with a mallet. She read their faces, **wiped her hands on her apron finger by finger**, sat on a dressed block and waited; Korroc told it, Thane told the rest. She took Korroc's hand and Thane's wrist — a mason's grip — ***"Well. Now we know."*** *"I won't ask you to take me. Not right away… But soon."* On the stones: ***"a chisel, if it was Thorek."*** She lay awake and **could not wait for soon**: next morning Caleth folded her and the four to **Sesker's Gully** (she staggered, shook Korroc off, said something about wizards). She knelt, traced both stones, stopped on the slipped *R*, and **did not cry.** Then: ***"We know where they are. And they are not going anywhere. They should stay here… with all these dwarves who died fighting for Khar-Zadûn… Yes, we built Drezen… and you've taken it back, the pair of you, and I've never been so proud of anything in my life… But Drezen was a place we lived. Khar-Zadûn was what they dreamed."*** Palm to Thane's cheek. Took Caleth's arm for the fold home *"as though he had been brought along for exactly that purpose."*
+- **Ch 25:** Rebuilt the wall the glabrezu came through, cursing the demons for the extra work until her boys calmed her over dinner. Asked about the dream fortress: ***"That must be way to the west, past the Gray Road, the old river"*** — talked possibilities, but **was not sure.**
 - **She wants to meet whoever worked out the escape tunnel.** Caleth: *"His name is Aravashnial… He is also missing."* — *"Well. That's about the way things go up here, isn't it?"
 
 ---
@@ -1206,3 +1221,17 @@ Found on the riverbed road walking in circles, shouting in Abyssal at the **Paup
 
 ### Saint Argil *(historical)*
 The saint whose **broken thighbone** is sealed in the Pauper's Thighbone. Per Caleth: *"He gave everything he had… They say he never once in his life passed by a person in need."* Date unknown.
+
+
+---
+
+## New in Session 25
+
+### The Annis Hag — leader of the hunt for Arueshalae *(seen only in Nageru's dream)*
+**A giant, hideous, hunched woman**, unnaturally long-limbed, stooping under ruined arches, with **iron-hard claws** and **a smile far too wide for her face.** Leads the demons and cultists surrounding the fortress of the Bell of Mercy. Per Arueshalae: *"She does not want to kill me. She wants to take me back."* **Aravashnial identified the species** at the fane and connected it to **the annis hag sworn to Sifkesh** that Staunton's journal records hiring to track the escaped succubus. ⚠ **Whether this is that same hag is the party's inference, not established.** *Back to what* is unanswered. Aravashnial's lore (Ch 25): iron teeth and nails; would rather seize and crush than strike — don't let her get both arms around you; can wear smaller, kinder shapes; calls fog; much magic does not touch her as it should; hunts from behind; where there is one, look for three (a coven).
+
+### The Dawn Attack on Drezen *(Ch 25)* — Vang's ultimatum, late
+Just before dawn, many **rift drakes with riders** circled out of ballista range as a **distraction**; **a glabrezu came through the courtyard wall unseen** (***"How was that not seen?"*** — ⚠ OPEN), and a **second glabrezu** struck the north range. **Several riders were incubi**, not cultists. Both glabrezu were banished (Thane; Nageru), the incubi killed or dismissed, and everything else withdrew at once. Casualties among soldiers and paladins; **numbers deliberately vague** — the GM played it as the whole citadel under attack while the four took the officers' tower. Party and Irabeth read it as **the end-of-week attack, late.** ⚠ **Do not connect the glabrezu to Jerribeth.**
+
+### The Pilgrims at the Fane *(Ch 25)*
+About **five** ordinary people from the crusade camps — a middle-aged couple, an old man, two young women — who heard *"a temple had come back"* and came to see. **Unnamed.** The ghostly monks were **not** there.

@@ -74,7 +74,20 @@ Do not replace the forge — **layer the stone underneath.**
 - Uses so far: Chapter 1 (descended gently from the ledge), Chapter 10 (levitated up the chapel cliff), Chapter 11 (drifted down into the Vescavor warren — "a very Korroc way to win" an argument).
 - *Rules Clarification (GM): the scales can be used three times per day.*
 
-## Current State (End of Session 24)
+## Current State (End of Session 25)
+
+### SESSION 25 — THE DRIFTING DWARF, AND HE HEARD IT TOO (Ch 25, Nageru POV)
+- **⚠ HE NOTICED SOMETHING WRONG WITH ARAVASHNIAL — second, after Nageru.** At the fire below the fane, during the annis-hag lecture, his eyes came up and met Nageru's; then he looked at Caleth. **Nothing said.** ⚠ The tell is not established.
+- **He agreed to cast a lie-detection on Aravashnial** when Caleth asked the night of Ch 24 (*"It'll take some effort, drawing on what we've been given. But aye. I can… I'll be there"*) — **and could not go**: after the attack he was on his knees in the infirmary with a man who would die if he took his hands off him. **Thane went instead.** Privately to Nageru: *"That lad has been sitting on that floor since noon wanting to ask a man whether he's who he says he is. And not wanting to know."*
+- **The dawn attack:** Fiendsplitter screamed the whole way up the stair. **He went over the inner parapet with the axe and drifted down to the courtyard on Terendelev's scale** — drakes swung tails at him twice and *"he went on drifting down, turning gently, shield up."* Healed Caleth's acid from across the courtyard. **An incubus dropped off a drake in front of him** (not a cultist rider this time); **boots of speed, one step, four strokes of Fiendsplitter.** Tripped over the invisible Thane and was folded to the tower top mid-curse. Laid on hands on himself; **killed the drake attacking Caleth**; when **Irabeth was tripped onto her back by a drake tail**, he **spent mythic power to lay the life-bond on her** and sent a healing wave over every ally on the tower. *(He has never broken the Aravashnial bond; both run at once.)*
+- **Then the infirmary, all day, gauntlets off.**
+- **Ate with Dagna and Thane** in the garrison hall after the debrief; she raged about the demons breaking her wall, then calmed; he sat with his arm along the bench behind her.
+- **Worked the Purity Forge with Joran turning out ballista bolt heads** — barely ten words between them. Irabeth is running short of bolts.
+- **Went with Thane to ask Dagna about the dream fortress** — *"Past the Gray Road. The old river"*; she was not sure. **His idea**: *"She knew the waystation… Knew it from seventy-five years gone."*
+- *"Aye. I'd go and look."* — his vote on going after Arueshalae, after *"Seems to me there's a lot of that about, this last while. Fellows asking."*
+- **Rides badly still**, and resents Nageru's not having to.
+- **Advancement: none** (Level 11, Mythic 5).
+
 
 ### ⚠⚠ SESSION 24 — HIS FATHER'S GRAVE, AND THE AXE (Ch 24, Thane POV)
 - **✔ BORIN IS DEAD, AND KORROC STOOD AT THE GRAVE.** At **Sesker's Gully**: five crude fieldstone graves, **BORIN and THOREK side by side.** The specter: one dwarf **was injured and succumbed, and they buried him here** — Borin, hurt since the tunnel. **Thorek buried him and went on**; two unknown humans later brought Thorek back. Korroc's face was **wet all the way down into the beard and he did nothing about it**; he made *"a sound Thane had never heard Korroc make."* ***"We can leave them here, for now. And come back later."*** / *"Aye."* **He put his hand on Thane's shoulder at the grave and left it there.** Next morning **he went up to the graves alone**, came down with nothing in his face, and said *"Right."* See `memory/the-fathers-are-buried.md`.

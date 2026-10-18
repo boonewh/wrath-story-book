@@ -83,6 +83,17 @@ Already standing: American English, `(two|three|several) years`, and name spelli
 - **A missing question in the notes.** The notes showed four questions to the dead man; Will's answer said *"should be five."* The draft **manufactured a fifth by splitting the first question in two** instead of asking what the fifth was. It was ***"Do you know if they got out?" — "No."*** — the most important answer in the scene. ⚠ **When the author says a count is wrong, ask what is missing. Do not pad to the number.**
 - **An anachronistic image.** *"A clock on a wall"* in a Mendevian frontier fortress. Now an hourglass. **Grep metaphors for modern furniture** — clocks, watches, minutes-as-counted-units, trains, glass windows where there would be shutters.
 
+## Addendum — Ch 25 (2026-10-13)
+
+**Step A worked again.** Twenty-nine questions before drafting; Will answered all of them, and fixed a truncated line in the session notes that the questions surfaced. **Two GM corrections after she read the draft — both the same kind of miss:**
+
+- **Who carries what when the party leaves.** The draft had Aravashnial take his staff (four pieces, in a case) west. **He left it in Drezen.** Nothing in the notes said he took it; the draft supplied a plausible prop.
+- **When the party leaves.** The notes said *"leave in the morning,"* and the draft followed them — but **they left within the hour** and spent the rest of the day and the night at the fane. *(The notes were wrong; the GM corrected them.)* Compressing the day meant re-timing four scenes.
+
+⚠ **Add to the Step A checklist: departures.** *When* exactly does the party leave, **who goes**, and **what does each NPC take or leave behind**? Ask even when the notes give a time — that is where the notes were wrong.
+
+Also caught in self-review before handoff (worth the habit): **a POV leak** — the last scene's narration named Aravashnial as Caleth's *uncle* in a **Nageru** chapter, with a "though Nageru did not know that" hedge. **A hedge does not fix a leak; cut it.** And **invented texture** that read as canon: a named boy (*Tomas*), Dagna giving fortress history involving Aroden, gulls on a river that does not exist. Grep the invented-proper-noun list hard on the **last** pass, after edits.
+
 ## What NOT to take from this
 
 **Do not get timid.** The Ch 22 draft was accepted almost entirely — Will's corrections were surgical, and the prose, structure, POV call and the big swings (the ceiling as *"knowing wasn't enough"* made physical; ending on the name) all landed without a note. **The problem was never ambition. It was confidence in places where the notes were silent.**
