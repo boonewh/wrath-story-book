@@ -94,6 +94,16 @@ Already standing: American English, `(two|three|several) years`, and name spelli
 
 Also caught in self-review before handoff (worth the habit): **a POV leak** — the last scene's narration named Aravashnial as Caleth's *uncle* in a **Nageru** chapter, with a "though Nageru did not know that" hedge. **A hedge does not fix a leak; cut it.** And **invented texture** that read as canon: a named boy (*Tomas*), Dagna giving fortress history involving Aroden, gulls on a river that does not exist. Grep the invented-proper-noun list hard on the **last** pass, after edits.
 
+## Addendum — Ch 26 (2026-10-18)
+
+**Step A worked a third time.** Forty-four questions before drafting; Will answered all of them, and several answers rewrote whole scenes — **the dream's two towers and its cultists were "just a dream"**, the white worms were all one creature (grimslakes) **the party cannot name**, the hezrou had no worm skin, Arueshalae **knows where the Ivory Sanctum is** (the notes only implied it), and **the horses bolted for good**. ⚠ **When a dream or vision has already been rendered in canon, ask which of its details the real place keeps.** The GM's dreams are atmosphere, not maps.
+
+**Post-draft corrections: one, and it was a stale canon file.** The draft gave Caleth **mage armor**; he has had **mythic enduring armor** since he went mythic, and `characters/caleth.md` still said *"uses mage armor."* See [[caleth-enduring-armor]]. ⚠ **Mechanics named in old character files can be stale — when prose leans on one (a buff, an ability, a spell he "always" casts), ask whether it still applies.**
+
+Also: **the session notes had the GM's game-term instructions inline** (*"dodging panache — put this in story terms"*, *"AI note: convert this to the story"*). Those are requests, not text; and the story Arueshalae tells is **published adventure text read at the table** — render it in her voice, in your own words, keeping at most one short quote.
+
+**Noticed after Will's edits (flag, don't fix):** the draft dropped one beat from the notes — **the rubble-worm's black ray on Caleth, and Caleth's cold chain-spell that banished it.** Ask before adding it back.
+
 ## What NOT to take from this
 
 **Do not get timid.** The Ch 22 draft was accepted almost entirely — Will's corrections were surgical, and the prose, structure, POV call and the big swings (the ceiling as *"knowing wasn't enough"* made physical; ending on the name) all landed without a note. **The problem was never ambition. It was confidence in places where the notes were silent.**

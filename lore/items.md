@@ -57,6 +57,8 @@ Items of importance to the campaign — magical, plot-relevant, or symbolic. Upd
 
 **Origin:** Unknown. Found in Chapter 15 in a hidden treasury deep inside Citadel Drezen, standing on one of four statues flanking the room — **the only magical thing in the chamber**, per Caleth's sight.
 
+> **Ch 26:** **a bebilith tore it off him** at the Bell of Mercy — hooks in at the straps and joints, the pieces flung across the nave. **The metal is unmarked; every strap and buckle was ripped out** (Will). Korroc fought the rest of the fight unarmored, collected every piece afterward, and **will mend the straps in Drezen.** *(The shield was torn from his grip in the same attack; recovered.)*
+
 **Description:** **Gold plated over mithral**, the two metals married by someone who knew exactly what they were doing, with **the sunburst sigil of Iomedae etched deep, clean, and reverent** into the breastplate. Caleth's iconographer's eye found no forgery in the work at all: a genuinely holy object, made by someone who loved both the metal and the goddess, and ending up in a demon's hoard like a candle in a sewer.
 
 **The mystery (Ch 15–17) — NOW ANSWERED, see below:** the suit **settled onto Korroc as though it had been forged for him and no one else.** Every buckle sat true; a breastplate that had hung loose on a statue fit his barrel chest as if a master had measured him for it. Korroc took it over Thane's warning (*"Could be cursed. It's sitting in a demon's trophy room, cousin. Everything in here's a mouth."*) on the plainest possible reasoning — *"It feels right"* — and then said the thing that matters: ***"There's something about this armor. Something I feel like I should know. And I can't quite get it."***
@@ -651,3 +653,16 @@ Jerribeth had it in the Molten Scar cavern (Ch 22). He asked after it in Ch 25; 
 ## Ballista Bolts — RUNNING SHORT *(Ch 25)*
 Irabeth: *"we are already running out of ballista bolts."* The citadel's forges, the Purity Forge included (Korroc and Joran), are turning out bolt heads.
 
+---
+
+## The Bell of Mercy — LEFT IN PLACE *(Ch 26)*
+Pure silver, Desna's runes round the lip, a hammer beside it; **hallows its tower when rung** (limited time, limited ringings); **dimension-locked and house-heavy.** Full entry in `lore/worldwound.md`. ⚠ The table wants it in Drezen someday.
+
+## Taken from the Annis Hag *(Ch 26)*
+Thane went through the dead hag's things with a knife and a sack. **⚠ What he took is NOT established** — Will treats treasure as a spoiler. Do not list it.
+
+## Caleth's Dimension-Door Wand *(Ch 26)*
+Folds the wielder **and one other**. Spent **thirty-six charges** getting five people and four horses down into the Gray Road and up the far side; **not emptied**, and **Caleth recharged it that night** with the knack he cannot explain (Interlude 2).
+
+## The Party's Horses — LOST *(Ch 26)*
+**All four bolted** at the edge of the stone forest when worms came up out of the ground, while Aravashnial held them; **not recovered.** (Caleth's tall gray, Thane's dun mare, Korroc's, and Aravashnial's quiet bay.) The party came home by Caleth's folds.

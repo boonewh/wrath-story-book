@@ -73,7 +73,7 @@ If any of these contradict each other, **flag it to the user**; do not silently 
 
 There is also a machine-local Claude memory store at `C:\Users\boone\.claude\projects\G--Projects-wrath-story-book\memory\`. It is NOT backed up and was wiped by the August 2026 Windows reinstall — treat it as scratch. **Anything that matters to the campaign goes in the repo's `memory/`.**
 
-Current repo memory files (29, plus the index). **`memory/MEMORY.md` is the authoritative index and is kept current — read it, not this list, for the live wording.**
+Current repo memory files (30, plus the index). **`memory/MEMORY.md` is the authoritative index and is kept current — read it, not this list, for the live wording.**
 
 *Character and craft:*
 - `aravashniel-riftwarden.md` — Aravashnial's Riftwarden identity is PUBLIC to the party as of Ch 11; the deeper layers (elder rank, Caleth connection, Caleth's Ch 4 knowledge) stay secret. *(Filename misspells his name; the file's content is correct.)*
@@ -96,6 +96,10 @@ Current repo memory files (29, plus the index). **`memory/MEMORY.md` is the auth
 - `thane-unspoken-possession.md` — Thane has **never told anyone** he was possessed in Ch 18. Ch 19 walked him to the door and he could not open it. Must cost him something to say.
 - `fane-of-irori.md` — Sister Lyra's charge to Nageru; its founders *"were waiting for something. Or perhaps someone."* **✔ FOUND in Ch 21, and the table made Nageru the answer: he is literally the Son of Irori, and the whole party heard it.** Still open: what it means for his parents, what "work" remains, what becomes of the fane.
 - `nageru-went-for-the-atonement.md` — **⚠ Nageru's Ch 20 absence was Jesker's atonement, NOT the fane.** Do not credit that trip to the Irori quest. *(His POV drought ended with Ch 21.)*
+*New in Session 26:*
+- `caleth-enduring-armor.md` — **Caleth does NOT use mage armor any more.** He has mythic **enduring armor**: an uncast, always-on skin of force that re-forms if broken. Never write "mage armor" for him from Ch 26 on.
+- *(`arueshalae-and-the-bell-of-mercy.md` now carries the Ch 26 state: **she is in Drezen under Caleth's protection, and she knows where the Ivory Sanctum is** (location NOT established). `aravashnial-taken.md` carries **the night talk at the Gray Road**.)*
+
 *New in Session 25:*
 - `arueshalae-and-the-bell-of-mercy.md` — **Arueshalae reached Nageru in a dream and called him by name**; hunted by an annis hag in a ruined fortress far west, **the Bell of Mercy** in its SE tower. What sent the dream and what "answered" her stay OPEN.
 - *(`aravashnial-taken.md` now carries the Ch 25 state: **he cannot cast with the collar off, a dispel found nothing, and three of four noticed something wrong in his manner.**)*
@@ -152,6 +156,7 @@ Established POVs so far:
 - Chapter 23: **Caleth** (*Children Are Not Equations / Runs in the Blood* — the locked journal, the letters in the cover, Aravashnial is his uncle; Dagna arrives; the tunnel and the dead prisoner; north toward the Khar-Zadûn graveyard)
 - Chapter 24: **Thane** (*The Graves at Sesker's Gully / Two Humans Came Back* — the specter, the fathers' graves, Dagna's ruling, the Spiral shown, the Pauper's Thighbone, Aravashnial walks home)
 - Chapter 25: **Nageru** (*The Bell of Mercy / Someone Who Might Listen* — the dawn attack and the second glabrezu, Aravashnial's story and the cantrip that will not light, Arueshalae's dream, the fane, and three men noticing something wrong at a fire)
+- Chapter 26: **Caleth** (*The Hallowed Tower / Under My Protection* — a week west, the night talk at the Gray Road, the Bell of Mercy rung, the hunt broken and the hag dead, the hallowed tower and Arueshalae's story, and a succubus in Drezen under his protection)
 
 POV remains a stakes decision, not a rotation — choose whoever has the most at stake in a given session.
 
@@ -181,6 +186,9 @@ Who knows what. The POV character can only narrate what they know — never let 
 | Caleth can push charge back into spent items | **Now semi-public** — demonstrated on a forge floor in front of Korroc, Nageru and Aravashnial (Interlude 2) | Nobody understands the mechanism, **Caleth least of all** |
 | **Arueshalae's dream (Ch 25)** — she called Nageru by name and asked him to find her at the Bell of Mercy | **The whole party** (Nageru told it in detail, in Aravashnial's study); Aravashnial heard it too | **The inner experience** — the frozen moonlight, the bell going through him, and his private fear that he knows what *"answered"* her — is **Nageru's alone** |
 | **Something is wrong with Aravashnial's manner (Ch 25)** | **Nageru, Korroc, Caleth** each noticed at the fane fire and exchanged looks | **Thane** (failed the roll; does not know the others saw anything). **Nobody has said a word**, and nobody knows what it is. ⚠ *Do not name a tell.* |
+| **The night talk at the Gray Road (Ch 26)** — Aravashnial asked where Vang is, said *"He still has my book,"* and pressed Caleth to doubt Nageru | **Caleth only** (and Aravashnial). Nobody overheard. | Everyone. **Caleth has told nobody**, including Nageru, whom it was about. |
+| **Nageru's private talk with Arueshalae (Ch 26)** — she chose him because she could not trust the dwarves (Staunton) | **Nageru only** (and her) | **Caleth heard only the last line**: *"Desna may have had something to do with that."* The dwarves do not know she distrusted them. |
+| **Arueshalae's history (Ch 26)** — the priestess, Desna quickening her soul, the crystals, Aponavicius | **All four PCs and Aravashnial** heard it in the tower | Irabeth, Aron, Sosiel, Anevia know only what Thane told them, and that **she knows where the Ivory Sanctum is** |
 
 **⚠ The strongest unused material in the campaign:** two men in this party are carrying an unspoken thing a demon did to them — Thane (Ch 18) and Caleth (Ch 15) — **and neither knows about the other's.**
 
@@ -212,12 +220,22 @@ Who knows what. The POV character can only narrate what they know — never let 
 - **Sesker's Gully** — the abandoned village on the Khar-Zadûn graveyard and waystation (Ch 24). The graveyard itself has no name of its own.
 - **Arlys Harnaste** — the specter laid to rest in Ch 24; the **Harnaste** mausoleum. **Saint Argil** — whose thighbone is in the **Pauper's Thighbone** (Caleth's artifact, Ch 24).
 - **Xanthir Vang** — **Xanthir**, not "Xanther" *(the Session 21 notes spell it Xanther; source records are not edited)*
+- **Grimslakes** — the white worm/maggot demons at the Bell of Mercy (Ch 26). ⚠ **The party does not know the name.** In prose they are *worms*. **Derakni**, not "Deskari" (a session-note typo; Deskari is the demon lord).
 
-### Party State at End of Chapter 25
+### Party State at End of Chapter 26
 
-*(Ch 25 is the last written chapter. `sessions/` has notes through session 25.)*
+*(Ch 26 is the last written chapter. `sessions/` has notes through session 26.)*
 
-**⚠⚠ SESSION 25 IN BRIEF — read this first; it overrides Session 24 and everything below where they conflict:**
+**⚠⚠ SESSION 26 IN BRIEF — read this first; it overrides Session 25 and everything below where they conflict:**
+- **⚠⚠ ARUESHALAE IS IN DREZEN, UNDER CALETH'S PROTECTION.** Found in the one tower of a **ruined fortress of Desna**, a week west of the fane through a **petrified forest**. **Thane rang the Bell of Mercy** (silver, Desna's runes): **it hallows the tower only**, for a limited time and a limited number of ringings, and **she sat in it unharmed.** Korroc: *"She's not evil."* Her story: **Desna quickened her soul** (*"Even demons can dream"*). **⚠ SHE KNOWS WHERE THE IVORY SANCTUM IS** — location **NOT established**. Caleth: ***"I am going to kill him."*** The dwarves overruled Caleth and Nageru about bringing her back; in the command room Caleth told Irabeth, Aron, Sosiel and Anevia: ***"She is under my protection… If she is touched — they will deal with me."*** See `memory/arueshalae-and-the-bell-of-mercy.md`.
+- **⚠⚠ THE NIGHT TALK (Caleth only):** at the Gray Road Aravashnial asked where Vang is, said ***"He still has my book. I want it back"*** (which book: open), and **pressed Caleth to doubt Nageru** (*"How much do you trust him?"*). Caleth: *"It's the unwilling part that worries me"* / *"I could trust him with my life."* **Caleth read him as nervous and has told nobody.** ⚠ Still do not name the Ch 25 tell.
+- **The hunt is broken; the annis hag is DEAD** (Thane, invisible, from behind). **No cultists.** Two drakes with incubus riders, a derakni, a hezrou, a bebilith, grimslakes (unnamed to the party), three wisps.
+- **Korroc's armor was stripped off by the bebilith** — straps torn, metal unmarked; he will mend it. **Fiendsplitter is sulking** because he stuffed it in his pack rather than let it at her.
+- **All four horses bolted and are lost.** Aravashnial was treed and bitten; Caleth healed him. The **Bell was left in place** (dimension-locked, house-heavy); the table wants it in Drezen someday.
+- **⚠ Caleth uses mythic enduring armor, NOT mage armor.** See `memory/caleth-enduring-armor.md`.
+- **✔ WHERE THEY ARE: in Drezen's command room, the night of the fight**, with Arueshalae, Aravashnial and the leadership. **No advancement** (Level 11; Caleth Mythic 4, the rest 5).
+
+**⚠⚠ SESSION 25 IN BRIEF — it overrides Session 24 and everything below where they conflict:**
 - **⚠⚠ ARAVASHNIAL CANNOT CAST — WITH THE COLLAR OFF.** A perfect cantrip, twice, nothing. Caleth suspected a curse; **his greater dispel landed and found nothing to take hold of.** Cause **OPEN.**
 - **⚠ HIS ESCAPE STORY PASSED EVERY CHECK.** Caged in **a second cave** (location unknown) after Jerribeth's color burst knocked him out in Ch 22; **chain round a guard's neck, took the key, walked east**; the retriever spiders came after. Vang questioned him about Drezen and **the knights' powers**; *"I told him nothing."* **Caleth: no tracking magic, no evil. Thane cast the lie-detection (Korroc was pinned in the infirmary): no lies — "if the spell took."** Irabeth's debrief is deferred.
 - **⚠⚠ THREE OF FOUR NOTICED SOMETHING WRONG IN HIS MANNER** at the fane fire — **Nageru, then Korroc, then Caleth. Thane did not.** Nothing said. ⚠ **GM deliberately vague: do not name a tell or pick an explanation.**
@@ -250,7 +268,7 @@ Who knows what. The POV character can only narrate what they know — never let 
 **Where they are and what they're doing:**
 - **DREZEN IS TAKEN.** The citadel is held, the **Sword of Valor is RECOVERED (Ch 18)** and flies over it. **The objective of Book 2 is complete.**
 - **The Queen's new mandate (Ch 19):** use Drezen as a base of operations and **explore the Wounded Lands to the south and west** for anything usable against the demons. Consult Sosiel, Aron, Irabeth on the region's history and legends. Reinforcements came north with the letter.
-- **✔ At the close of Ch 25 the party is at the restored fane of Irori**, thirty miles west, with Aravashnial and four horses, about to ride west for the Bell of Mercy. *(Ch 24 close, superseded: **✔ The party is in Drezen at the close of Ch 24**, the evening Aravashnial came home; Korroc at his bedside, Caleth on the floor beside it, Thane on the step outside.)*
+- **✔ At the close of Ch 26 the party is in Drezen's command room** with Arueshalae under Caleth's protection, Aravashnial in a chair with his leg up, and Irabeth, Aron, Sosiel and Anevia. *(Ch 25 close, superseded:)* **At the close of Ch 25 the party was at the restored fane of Irori**, thirty miles west, with Aravashnial and four horses, about to ride west for the Bell of Mercy. *(Ch 24 close, superseded: **✔ The party is in Drezen at the close of Ch 24**, the evening Aravashnial came home; Korroc at his bedside, Caleth on the floor beside it, Thane on the step outside.)*
 - ~~**⚠ ARAVASHNIAL IS TAKEN, AND Ch 22 WENT AFTER HIM AND FAILED.**~~ *(Historical — he is home as of Ch 24.)* The dragon was a **Woundworm named Scorizscar** — six legs, red, acid breath — **sent by Jerribeth**, and **Nageru killed it.** The party teleported into a cavern near the **Molten Scar**, **recovered all four soldiers alive**, wounded Jerribeth badly and lost her to a contingency spell — and **a templar teleported Aravashnial out mid-fight while Caleth was pinned to the ceiling watching.**
 - ~~**⚠⚠ XANTHIR VANG HAS HIM.**~~ *(Ch 22 state; superseded by Ch 24.)* Established by a second scrying: an iron cage too small to stand in, a beaten face, a **black collar with a green crystal and needles**, and a **worm that walks** with no footsteps. **The scrying was SEVERED.** ⚠ **For lore he is alive; the party knows only that he *was*.** Vang has also **noticed Caleth.** See `memory/aravashnial-taken.md` and `memory/xanthir-vang-and-the-note.md`.
 - **⚠⚠ VANG KILLED CALETH'S PARENTS**, and Aravashnial wrote it down for him on a page he never handed over — **quoting the Lantern Seer's third vision verbatim, which Caleth has never told a living soul.** ⚠ **How the elf knew it is unexplained. Do not resolve.** **Caleth has told nobody about the note.**
@@ -286,6 +304,10 @@ Who knows what. The POV character can only narrate what they know — never let 
 - **⚠ JERRIBETH HAS NOW BEEN MET (Ch 22), AND SHE IS PROVABLY A DEMON.** Caleth's smite fired and Radiance's demon bane bit; **he said so out loud** and Thane answered *"Of course she is."* She had the prisoners, took Aravashnial off his spellbook notation, left the soldiers for the dragon, fought, and **escaped wounded on a contingency.** ⚠ **The party's conclusion is SUCCUBUS and must stay succubus** *(GM secret, unchanged and off the page: glabrezu)*. **Her blood is on Radiance and a scrying with it still failed.** — Also from Ch 20: **Beverach** (acting leader of the Wintersuns at the Ford) and **Kamilo Dann** (feeding a doubled camp).
 - **Queen Galfrey** is not at Drezen; her mandate arrived by letter. Irabeth, Anevia, Aron, Sosiel, Horgus and Klarah are with the company. **Aravashnial was taken (Ch 21) and walked home (Ch 24); he is asleep in the infirmary and has said four words.** **Dagna** is in Drezen working the stone.
 - **NEW (Ch 21):** a **tattooed woman** who led the western temple, **escaped by contingency spell** with her winged bull-dragon (fate unknown); an **unnamed ancient monk** of the fane; the **six-legged dragon**. Jerribeth has posted a **1,000-platinum bounty on Arueshalae** (unnamed in the document; the party is sure), and **the party now suspects Jerribeth is a succubus** (suspicion only; the GM secret, that she is a glabrezu, stays off the page).
+
+**New from Session 26, closed to invention:** **where the Ivory Sanctum is** (she knows; it is not on the page) · **which book Aravashnial wants back** · **why he pressed Caleth about Nageru**, and what his nerves were · **what sent Arueshalae's dream** (her story points at Desna; nobody has said it) · **the bell's full powers**, how long the hallowing lasts and how many ringings remain · **what Thane took off the hag** (Will treats treasure as a spoiler) · **how Drezen takes a succubus in its halls.**
+
+**✔ Closed by Session 26:** **whether they would find Arueshalae** (found, and home) · **the hag** (dead) · **whether something changed her** (Desna, by her account; the hallowing does not hurt her) · **the horses** (lost).
 
 **New from Session 25, closed to invention:** **why Aravashnial cannot cast** and why the dispel found nothing · **what is wrong in his manner** (no tell, no cause) · **whether he was let go, and where the cage-cave is** · **what sent Arueshalae's dream, what "answered" her, how she knew Nageru's name, whether she has changed** · **the Bell of Mercy** — what it does, why the hunters fear it, the fortress's name (none) · **whether the hag is Staunton's**, and **"take me back" — to what** · **how Joran knew the place** · **how the glabrezu got to the courtyard wall unseen.**
 

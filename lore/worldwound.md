@@ -253,6 +253,10 @@ A **river of lava** running north-east to south-west across the whole visible wi
 
 **Distance: four days from Drezen on foot**, on Thane's estimate, *"if nothing eats you."* That is how far the Woundworm carried five men in a single night.
 
+> **NOTE (canon pass, Session 26, 2026-10-18):** Will — **the whole dead river is called the Gray Road** (*"I probably screwed it up in the past"*). The Ch 22 description above (a track along the levee, lava in the bed) predates this; **where the party crossed in Ch 26 the bed was dry.** Whether any stretch holds lava is not settled — don't build on either detail without asking.
+
+**Ch 26 — the crossing.** About **three days west of the fane** on the party's road. A trench across the land *"from one edge of the world to the other,"* **gray banks, gray bed, gray dust** — **fifty feet deep and seven miles across**, banks sheer or crumbling, no way down for a horse. Caleth took the five of them and four horses **down on a dimension-door wand (wielder plus one per fold) in eighteen charges, and up the far side in eighteen more**; they walked the seven miles of bed between, leading the horses, through the evening. Korroc: *"Gray Road. Some road."*
+
 ### The templars' cavern
 The party teleported into it and out again and never explored it. What is established:
 
@@ -281,7 +285,23 @@ The party teleported into it and out again and never explored it. What is establ
 - **Threats met there (Ch 24):** two **drocha swarms** at the village edge; the specter at the gate; the skulgrym below.
 - **Distance:** about a day's ride from Drezen. Caleth can fold a party there and back.
 
-## The Fortress of the Bell of Mercy *(seen only in Nageru's dream, Ch 25)*
+## The Fortress of the Bell of Mercy *(dreamed Ch 25; ✔ REACHED Ch 26)*
+
+> **✔ Ch 26 — the party went, and what the dream got wrong was "just a dream" (Will).** There is **ONE tower**, not two: the bell hangs at its top and Arueshalae was barricaded at its foot. **There were no cultists.** Read the dream section below as Nageru's dream, not as a map.
+
+**The road (Ch 26):** **a week** from the fane — three days to the Gray Road, then four more through emptier country (stone, dust, long north-south ridges, no water or wood), and on the last afternoon **a sparse forest of petrified trees** — grown trees turned wholly to gray stone, leafless, **silent in the wind.** Korroc: *"It remembers being a tree. I don't like it."* The fortress lies **in or beyond the stone forest**, about **an hour past sunset** on foot from where Nageru said *"I feel that we are very close."* **Neither the forest nor the fortress has a name.**
+
+**What it is (Ch 26):** **a fortress of Desna**, long ruined — per Arueshalae, the place **her last victim, a priestess of Desna, dreamed of as she died.** From outside it reads **more like a temple than a fort**: a **long roofless nave** with its walls standing out of the rubble, broken pillars, **a court**, and **an outer wall round the whole** that a fort would be glad of. **The tower** rises at the end of a low building close against the nave (the roof the party folded onto, **since collapsed** when a dead drake came through it). The tower has a window well up its face, **a round room at its foot with a stair up the inside wall**, and **the bell in the open top.**
+
+### The Bell of Mercy *(Ch 26)*
+- **A great bell of pure silver**, with **Desna's runes** cut round its lip (Nageru read them), **a hammer lying beside it**, and **strong magic** on it (Thane, by detect magic).
+- **Thane struck it once.** One clear, **sweet** note over the whole fortress and the stone forest, and **a wave of magic** went out with it. The ringers (Thane, Nageru) **were briefly deafened.** The coaxing voice outside stopped.
+- **It hallows the tower — the tower only** (Will). Evil things in it should suffer; **Arueshalae sat in it unharmed**, which is the party's proof she is not evil.
+- Arueshalae: ***"Its effect is limited in time and it can only be done so many times."*** How long, and how many, are **not established.**
+- **It cannot be moved:** **a dimensional lock** binds it to the place (Caleth felt it — *"It does not want to go anywhere"*), and it **weighs as much as a house.** **Left in place.** ⚠ *Table intent (Will): they want it in Drezen eventually.* Korroc: *"Drezen could use a thing like that."* Caleth: *"Perhaps one day."*
+- ⚠ **Not established:** who made it, its full powers, and why exactly the hunters feared it.
+
+### The dream as Nageru saw it *(Ch 25 — kept as a record)*
 
 **Location:** **far to the west** — past the **Gray Road** (*"the old river,"* per Dagna, who was not sure of it). **Joran Vhane** put a finger on a nearly blank part of the command-room map, among small drawn hills, **at least a week's travel from Drezen** (*"if nothing gets in the way"*). How he knew is unexplained. **Aravashnial had never seen or read of it.** The party is riding there from the fane.
 
@@ -293,5 +313,5 @@ The party teleported into it and out again and never explored it. What is establ
 - **Surrounded and occupied**: demons, cultists, and **an annis hag** who leads the hunt. The approaches are partly held.
 - **Nageru carries the whole layout** — approaches, occupied courtyards, her tower, the bell — **and knows how to get there.** He cannot put it on a map.
 
-⚠ **Not established, do not invent:** the fortress's name, who built it or when, what the Bell of Mercy does, why the hunters fear it, and how long she can hold.
+⚠ **Not established, do not invent:** the fortress's name, who built it or when, and the bell's full powers. *(Ch 26: she held; the hunt is broken and the hag is dead.)*
 

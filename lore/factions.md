@@ -312,6 +312,16 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 67. **⚠ HOW A GLABREZU REACHED DREZEN'S COURTYARD WALL UNSEEN.** Open. **Vang's ultimatum arrived late** (dawn attack: two glabrezu, drakes, incubus riders), and **Irabeth is running out of ballista bolts and soldiers.**
 68. **How Joran knew where the fortress is.** Unexplained; leave it.
 
+**✔ Closed by Session 26:** **whether Arueshalae could be found** (#64–65 — she was, and is in Drezen under Caleth's protection) · **the hag** (#66 — dead, killed by Thane; *whether she was Staunton's* is still inference) · **whether something has changed Arueshalae** (#64 — **Desna quickened her soul**, by her own account; the bell's hallowing did not hurt her).
+
+**New from Session 26:**
+69. **⚠⚠ ARAVASHNIAL TRIED TO MAKE CALETH DOUBT NAGERU** — the night talk at the Gray Road (*"How much do you trust him?"*), and asked where Vang is and whether Caleth knew where the Ivory Sanctum was. **Caleth alone heard it and has told no one.** He read the elf as nervous. **Why — open. Do not resolve.**
+70. **⚠ "HE STILL HAS MY BOOK."** Which book — the spellbook Jerribeth took, or the Riftwarden's book Vang boasted of — **is not established.**
+71. **⚠⚠ ARUESHALAE KNOWS WHERE THE IVORY SANCTUM IS** and has been there (*"I will not go back. Ever."*). **The location is not established.** The party means to go; Caleth has said aloud he will kill Vang.
+72. **⚠ A SUCCUBUS IS IN DREZEN** under Caleth's protection, among some three hundred paladins. How the citadel takes it is open.
+73. **The Bell of Mercy** — dimension-locked, silver, Desna's; hallows its tower for a limited time and a limited number of ringings. Left in place; the table wants it in Drezen someday.
+74. **What "answered" Arueshalae (Ch 25).** Her story puts **Desna** at the root of her change, and Nageru said *"Desna may have had something to do with"* her choosing him — **nobody has said what sent the dream.**
+
 **New from Session 20:**
 22. **⚠ JERRIBETH.** A name engraved on the back of a Baphomet symbol taken off a dead clanliege, and a description — *"a beautiful elf woman"* — from a frightened barbarian. She recruited **Marhevok Grunhuld-Wintersun**, gave him a scrying token he thought was an honor, promised him command in her armies, and left him raiding the crusade's supply road for a year without ever sending for him. **Caleth threw the token in a pool rather than carry an open window on his back.** ⚠ *The party believes she is an elf. Keep them believing it — see `characters/npcs.md`.* **This is the clearest new enemy lead out of Book 2's aftermath.**
 23. **⚠ THE DRAKE FLEW WEST.** The blue drake that lay in an iced pool inside Wintersun Hall reacted to Marhevok's untranslatable last words, and when he died it **did not flee — it left**, unhurried, westward. Thane: *"That's off to tell somebody."* **Somebody put that creature in that room. Unresolved.**

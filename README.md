@@ -77,7 +77,7 @@ These are non-negotiable established facts. Treat them as canon:
 - **Anevia and Thane are PARTNERS** — both hired by the Eagle Watch on a contract investigating Templar infiltration. They are NOT romantically involved. They have a professional working relationship and genuine friendship.
 - **Thane was HIRED BY the Eagle Watch**, not a member of it. He's an independent contractor.
 - **Anevia** was also hired by the Eagle Watch — same contract, different angle (she works the soldiery and marketplaces; Thane works the gutters).
-- **Caleth is Spireborn** (a half-elf trained at the Mordant Spire), a **Paladin of Shelyn**, and also a **Wizard**. He wears no armor and uses mage armor.
+- **Caleth is Spireborn** (a half-elf trained at the Mordant Spire), a **Paladin of Shelyn**, and also a **Wizard**. He wears no armor. *(He used to cast mage armor; since going mythic he has **enduring armor**, an always-on skin of force that re-forms if broken. See `memory/caleth-enduring-armor.md`.)*
 - **Caleth privately witnessed Terendelev's transformation** in the crowd at Armasse, and the dragon *recognized him* and smiled at him in the half-second before launching. He has not told the others. This is a Spireborn secret he is carrying.
 - **Each surviving character carries one silver scale from Terendelev** with a single charge of a unique ability:
   - Korroc's scale: levitation

@@ -1,15 +1,15 @@
 ---
 name: mythic-tiers-personal-quests
-description: As of Session 25 (no change since 24) - LEVEL 11; Nageru 5 (since S22, fane), Thane + Korroc 5 (the fathers' plotline, S24), Caleth 4 (next; Will expects Vang). Granted per character by personal quest; track per character and never assume they stay matched.
+description: As of Session 26 (no change since 24) - LEVEL 11; Nageru 5 (since S22, fane), Thane + Korroc 5 (the fathers' plotline, S24), Caleth 4 (next; Will expects Vang). Granted per character by personal quest; track per character and never assume they stay matched.
 metadata:
   type: project
 ---
 
 **Rule (from Session 21): the party shares a level, but mythic tier is per character.**
 
-## ⚠⚠ STATUS AFTER SESSION 25: LEVEL 11. CALETH 4, EVERYONE ELSE 5.
+## ⚠⚠ STATUS AFTER SESSION 26: LEVEL 11. CALETH 4, EVERYONE ELSE 5.
 
-*(Session 25: no advancement — confirmed by Will, 2026-10-11.)*
+*(Session 26: no advancement — confirmed by Will, 2026-10-18. Session 25: none either, 2026-10-11.)*
 
 | PC | Level | Mythic Tier | Personal quest |
 |---|---|---|---|
