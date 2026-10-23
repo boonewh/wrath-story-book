@@ -11,6 +11,8 @@ metadata:
 
 ⚠ **She does the images now, and that produces NOTHING in this repo.** Image prompts are deprecated; see [[image-prompts-deprecated]]. **Do not expect an `images/sessionN.md` from her, do not treat one as missing, and do not suggest pulling to get it.**
 
+> **⚠ 2026-10-23: songs are deprecated** — see [[songs-deprecated]]. The song check below is retired; it is kept for the record.
+
 ## How to apply
 
 ⚠ **The song (step 11) is not automatically yours.** Before writing one:

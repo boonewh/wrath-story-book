@@ -15,7 +15,7 @@ If you do not know which one you're talking to, **ask before writing anything.**
 
 **ONE agent does everything. Opus reads, researches, decides, and writes. No hand-offs.**
 
-- The main agent is **Opus**. It does the session-note reading, the canon research, the POV decision, the continuity checking, the chapter prose, the songs, the canon updates, and the web updates — all of it, in one continuous context. *(Image prompts used to be on this list and are now deprecated — see step 12 below.)*
+- The main agent is **Opus**. It does the session-note reading, the canon research, the POV decision, the continuity checking, the chapter prose, the canon updates, and the web updates — all of it, in one continuous context. *(Image prompts and songs used to be on this list and are now deprecated — see steps 13 and 14 below.)*
 - **Do NOT spawn sub-agents for creative work.** Do not spawn a "chapter-writer," a "song-writer," a "canon-keeper," or a "continuity-checker." The hand-off was the problem: the writing agent arrived with less context than the agent that did the reading, and the prose paid for it.
 - Only use the Agent tool if the user explicitly asks for it.
 
@@ -41,7 +41,7 @@ wrath-story-book/
 │                                #   + chapter19-letters.md (the Ch 19 letters, full text)
 ├── lore/                        # factions.md, items.md, kenabres.md, worldwound.md, timeline.md
 ├── sessions/                    # Raw GM session notes (input to chapters)
-├── songs/                       # Suno song lyrics per session
+├── songs/                       # Suno song lyrics (record only — songs deprecated after Session 23)
 ├── images/                      # Image generation prompts per session
 ├── website/                     # Per-session changelog of live-site updates
 └── memory/                      # Claude memory system (persistent notes)
@@ -73,7 +73,7 @@ If any of these contradict each other, **flag it to the user**; do not silently 
 
 There is also a machine-local Claude memory store at `C:\Users\boone\.claude\projects\G--Projects-wrath-story-book\memory\`. It is NOT backed up and was wiped by the August 2026 Windows reinstall — treat it as scratch. **Anything that matters to the campaign goes in the repo's `memory/`.**
 
-Current repo memory files (30, plus the index). **`memory/MEMORY.md` is the authoritative index and is kept current — read it, not this list, for the live wording.**
+Current repo memory files (31, plus the index). **`memory/MEMORY.md` is the authoritative index and is kept current — read it, not this list, for the live wording.**
 
 *Character and craft:*
 - `aravashniel-riftwarden.md` — Aravashnial's Riftwarden identity is PUBLIC to the party as of Ch 11; the deeper layers (elder rank, Caleth connection, Caleth's Ch 4 knowledge) stay secret. *(Filename misspells his name; the file's content is correct.)*
@@ -96,6 +96,10 @@ Current repo memory files (30, plus the index). **`memory/MEMORY.md` is the auth
 - `thane-unspoken-possession.md` — Thane has **never told anyone** he was possessed in Ch 18. Ch 19 walked him to the door and he could not open it. Must cost him something to say.
 - `fane-of-irori.md` — Sister Lyra's charge to Nageru; its founders *"were waiting for something. Or perhaps someone."* **✔ FOUND in Ch 21, and the table made Nageru the answer: he is literally the Son of Irori, and the whole party heard it.** Still open: what it means for his parents, what "work" remains, what becomes of the fane.
 - `nageru-went-for-the-atonement.md` — **⚠ Nageru's Ch 20 absence was Jesker's atonement, NOT the fane.** Do not credit that trip to the Irori quest. *(His POV drought ended with Ch 21.)*
+*Workflow:*
+- `songs-deprecated.md` — **no more Suno songs** (2026-10-23). Don't write, offer, or flag them unless asked.
+- `image-prompts-deprecated.md` — same for image prompts (2026-09-06).
+
 *New in Session 26:*
 - `caleth-enduring-armor.md` — **Caleth does NOT use mage armor any more.** He has mythic **enduring armor**: an uncast, always-on skin of force that re-forms if broken. Never write "mage armor" for him from Ch 26 on.
 - *(`arueshalae-and-the-bell-of-mercy.md` now carries the Ch 26 state: **she is in Drezen under Caleth's protection, and she knows where the Ivory Sanctum is** (location NOT established). `aravashnial-taken.md` carries **the night talk at the Gray Road**.)*
@@ -359,7 +363,7 @@ the whisper below Drezen (stopped, unexplained, no retroactive credit) · ~~wher
 10. **Save** the result as `chapters/NN-short-title.md` (chapter number matches session number; **interludes take the previous chapter's number plus `.5`** — see `08.5-` and `18.5-`)
 11. **Canon-update pass:** update character files (Established Moments + Current State), lore files, npcs.md as needed
 12. **Web-update pass:** update `games/src/app/wrath/page.tsx` Campaign Arc Status section + write `website/updateN.md`
-13. **Song:** write `songs/sessionN.md`
+13. ~~**Song:** write `songs/sessionN.md`~~ — **⚠ DEPRECATED (2026-10-23). Do not do this.** The table is done with Suno. Do not write one, offer one, or flag a missing one; write one only if the author explicitly asks. See `memory/songs-deprecated.md`.
 14. ~~**Image prompt:** write `images/sessionN.md`~~ — **⚠ DEPRECATED (2026-09-06). Do not do this.** Image prompts are no longer kept in the repo. Do not write one as part of a session pass and do not offer it at the end of one; write one only if the author explicitly asks. See `memory/image-prompts-deprecated.md`.
 
 **The user often wants steps 10-14 spread across multiple turns, not done all at once.** Check before bundling.
@@ -395,7 +399,7 @@ Past canon corrections worth knowing:
 These are phases of work, **not** sub-agents to delegate to. Same agent, same context, one after another.
 
 - **Chapter.** Session notes + POV decision + style guide + previous chapter for voice + relevant canon → the full chapter in one sustained pass. **Do not split a chapter across passes or agents — voice fractures.**
-- **Song.** A Suno song for the session, or for a character. **THE ONE HARD LIMIT IS THE STYLE BOX: ~1,000 characters MAX, spaces included — Suno rejects anything over (tested: 1,054 was over).** The **lyrics box is NOT capped at 1,000** — that old rule was wrong. Suno accepts full-length lyrics (3,000+ chars confirmed in testing), so write the song to its proper length and do not truncate. Keep section tags short and put instrumentation/voice/tempo in the style box — but a *short* performance cue inside a tag (e.g. `[Verse - double time]`) is fine when it's needed to force a specific delivery. Single-register beats a four-stage build (Suno can't handle genre transitions). **No hard runtime cap** — let the song run its natural length; only ask for "no instrumental padding" if you actually want it tight. See `style-guide.md` → "Song Writing Rules (Suno)".
+- ~~**Song.**~~ **⚠ DEPRECATED — not part of the pipeline any more (2026-10-23).** Songs ran through Session 23. **Do not write one unless asked**; if asked, the Suno rules in `style-guide.md` still apply (the style box is capped at ~1,000 characters; no artist names; single register). See `memory/songs-deprecated.md`.
 - ~~**Image prompt.**~~ **⚠ DEPRECATED — not part of the pipeline any more (2026-09-06).** `images/` stopped at session 6 and the practice was formally dropped after session 20. **Do not write one unless asked.** If asked, the old format in `images/session3.md` and `images/session4.md` still applies. The four existing files stay where they are as a record. See `memory/image-prompts-deprecated.md`.
 - **Web update.** Update the `wrath/page.tsx` Campaign Arc Status section + write `website/updateN.md`. Follow `memory/webpage-session-section.md`.
 - **Canon pass.** Update affected character files, lore files, and `npcs.md`. Targeted edits; no creative prose.

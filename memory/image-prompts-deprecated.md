@@ -20,6 +20,6 @@ So the artifact is obsolete twice over: it is not needed as a *drafting aid*, an
 - If he *does* ask for one, write it — the old format in `images/session3.md` and `images/session4.md` still stands.
 - **Do not delete the four existing files.** They are a record of what was done; they are simply not a pattern to continue.
 
-**The song is different and is still live.** `songs/` is current and the author still asks for them per session. Do not let this deprecation bleed onto the song step. See [[gm-is-a-repo-contributor]] — the GM sometimes writes those herself, so check `songs/` and consider pulling before writing one.
+~~**The song is different and is still live.**~~ **⚠ 2026-10-23: songs are now deprecated too** — see [[songs-deprecated]]. *(Original note follows.)* `songs/` is current and the author still asks for them per session. Do not let this deprecation bleed onto the song step. See [[gm-is-a-repo-contributor]] — the GM sometimes writes those herself, so check `songs/` and consider pulling before writing one.
 
 **This is a workflow preference, not a canon fact** — and note what would have to change for it to reverse: the value was always *"does an AI draft beat what we'd write ourselves."* Today it does not. **Do not offer to resume image prompts on the theory that it is a missing step**; it is a solved problem, not an abandoned one. If the author revives them, update this file rather than treating the revival as a contradiction.
