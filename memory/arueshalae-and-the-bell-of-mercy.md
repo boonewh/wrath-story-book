@@ -1,16 +1,25 @@
 ---
 name: arueshalae-and-the-bell-of-mercy
-description: Ch 25 dream -> Ch 26 FOUND. Arueshalae is in Drezen under Caleth's protection; Desna quickened her soul (her story); she knows where the Ivory Sanctum is (location NOT established). The hag is dead; the Bell of Mercy hallows its tower and was left in place. What sent the dream stays OPEN.
+description: Ch 25 dream -> Ch 26 FOUND -> Ch 27 GUIDE. She named the Ivory Sanctum's location (the Green Gate, SW of Drezen) and is leading the party in by the back way; armed, healed, under Caleth's protection. The hag was Jaruunicka. Irabeth is bringing the bell to Drezen. What sent the dream stays OPEN.
 metadata:
   type: project
 ---
+
+> **⚠⚠ Ch 27: THE SANCTUM IS LOCATED, AND SHE IS LEADING THEM IN.**
+> - **The Ivory Sanctum is in the GREEN GATE, SOUTHWEST OF DREZEN.** She pointed to it on the command-room map. This **supersedes "location NOT established"** below. The veil is on the front door; they went in **by the back way**, which she knows from coming and going *"as one of them."* Full route in `lore/worldwound.md`.
+> - She named **Hepzamirah** (daughter of Baphomet; leads the cultists; in the Abyss harvesting crystals for elixirs) and the hag (**Jaruunicka**). Vang **wants her captured and turned back.**
+> - **Nobody has disarmed her.** She keeps her bow, quiver and armor (Will). Sosiel took her the first night; next day **bandaged and healed**; the **wing flies again**.
+> - **She stood inside Caleth's circle against evil unharmed** (a second proof after the hallowed tower). She **froze at the retrievers** and knew their name.
+> - **Fiendsplitter was left in Drezen** because of her. See [[legendary-items-and-the-axe]].
+> - **The bell:** Irabeth wants it in Drezen; twenty people are at the fortress studying it. It has not moved.
+> - **Still OPEN:** what sent the dream and what "answered" her · how she knew Nageru's name · whether she is what she says · how many ringings the bell has left.
 
 > **⚠⚠⚠ Ch 26 — FOUND, AND IN DREZEN UNDER CALETH'S PROTECTION.**
 > - **The fortress:** a ruined **fortress of Desna** through a petrified forest, a week west of the fane. **ONE tower** — the dream's two-tower layout and its cultists were **"just a dream"** (Will). Bell at the top, Arueshalae barricaded at the foot.
 > - **The Bell of Mercy:** pure silver, **Desna's runes**, a hammer beside it. **Thane rang it**; the ringing **hallows the tower (only the tower)** for a limited time and **can only be done so many times.** **Dimension-locked and house-heavy — left in place.** The table wants it in Drezen someday.
 > - **She is not hurt by the hallowing** — Caleth's proof; Korroc: *"She's not evil… Something's happened to her."*
 > - **Her story** (heard by all four and Aravashnial; read aloud at the table, rendered in Ch 26): came to the Wound **4636 AR**; drained a **priestess of Desna**, slipped into the dying woman's dream, was **trapped in the Dimension of Dreams**; **Desna quickened her larval soul** — *"Even demons can dream"*; mythic potential and shame; hid it until **she saved a lost child**; stayed in the Wound to learn something for the crusade; learned of **templars feeding Nahyndrian crystals to demons**; **captured**; **Aponavicius tried to revert her and failed**; she **prayed and the wards fell**; fled **weeks before the party reached Drezen** to the fortress **her victim dreamed of**.
-> - **⚠ She has been to the Ivory Sanctum and KNOWS WHERE IT IS.** **Location NOT established — do not state it.** That is what got Thane's attention.
+> - **⚠ She has been to the Ivory Sanctum and KNOWS WHERE IT IS.** ~~Location NOT established~~ **✔ Ch 27: the Green Gate, SW of Drezen (see top).** That is what got Thane's attention.
 > - **Why Nageru:** she **could not trust the dwarves — Staunton was evil and she could not be sure of their loyalties.** Learning they helped kill him shook her. Nageru: *"Desna may have had something to do with that."* *(Nageru's private talk; Caleth heard only that line.)*
 > - **The hag is DEAD** (Thane). **No cultists**; the hunt was two drakes with incubus riders, a derakni, a hezrou, a bebilith, grimslakes (party doesn't know the name) and wisps.
 > - **In Drezen:** Caleth: *"She is under my protection… If she is touched — they will deal with me."* Irabeth: *"I don't think you are the only one they'll have to deal with."* **She will help find the Ivory Sanctum.**

@@ -141,7 +141,9 @@ It is a staged humiliation, built and waited on for years, for the exact moment 
 
 ---
 
-## Korroc's Shield (formerly the Iomedae Sunburst Shield)
+## Korroc's Shield (formerly the Iomedae Sunburst Shield) — ⚠ A LEGENDARY ITEM *(Ch 27)*
+
+> **⚠ Ch 27: IT IS NOW A LEGENDARY ITEM.** Korroc had felt it *"readier"* for weeks: the wardstone's power soaking into it from his arm. With Thane and Nageru, guided by Nageru, he sat **most of a day on the Purity Forge floor** (Joran watching) and **met the power in it**: *bring out, not put in.* In his POV it is **grain**, the shield's and his running the same way and *"taking"* like a weld. **No visible change**; the characters simply know. **There is more in it for later sittings.** *(Table: mythic path ability **legendary item**, from earlier tiers, ritualized now; **upgradable**, so further rituals can improve it.)* First used in the retriever fight. ⚠ **No named powers or numbers in prose.**
 
 **Origin:** From the sealed temple armory of Iomedae inside the Gray Garrison.
 
@@ -501,7 +503,9 @@ It gives Korroc something he has never had: **a ranged option that is his own cr
 
 ---
 
-## Thane's Punch Dagger *(forged Interlude 2 — first blooded Ch 19)*
+## Thane's Punch Dagger *(forged Interlude 2 — first blooded Ch 19)* — ⚠ A LEGENDARY ITEM *(Ch 27)*
+
+> **⚠ Ch 27: IT IS NOW A LEGENDARY ITEM**, by the same ritual as Korroc's shield (see that entry). No visible change. Thane, after: *"Aye."*
 
 Forged by Thane at the Purity Forge in the weeks after Drezen fell: short, broad at the base, tapering hard, with the grip set crosswise so the blade stands forward between his knuckles. No ornament, no filework, not a chamfer that isn't earning its keep. **Joran Vhane checked its balance and told him to take another fraction off the inside of the grip, and Thane did.** It is his **fourth** blade — mother's dagger, father's knife, the wrist sheath, and this.
 
@@ -592,7 +596,8 @@ Aravashnial took it, said *"How did you get this?"*, put both palms flat on the 
 
 ---
 
-## Fiendsplitter — ⚠ KORROC'S since Ch 24 *(found by Thane, Ch 21)*
+## Fiendsplitter — ⚠ LEFT IN DREZEN WITH IRABETH *(Ch 27)* · Korroc's since Ch 24 *(found by Thane, Ch 21)*
+> **⚠⚠ Ch 27: LEFT BEHIND.** The table left it in Drezen as **too big a distraction**: it would want Arueshalae every hour of the road. **Korroc laid it on the command-room table and lent it to Irabeth** (*"Lending"*), with instructions: it talks in your head, in Dwarven, several of it; it knows demons coming, so pick it up if anything comes at the walls; *"don't hold it by the haft"*; ***"Don't let it think it's been left. It hasn't. I'm coming back for it."*** **It was still sulking and said nothing at all**, not even then. *(Ch 26: Korroc jammed it into his pack in the tower and it went silent; Will: angry, frustrated, still trusts him.)* **His hand keeps reaching over his shoulder for it.** He fights with the **warhammer**.
 > **⚠ Ch 24: it changed hands.** In the Harnaste crypt it went mad at the skulgrym — *"Let me at it… I want to BITE it"* — bucking in Thane's harness; Thane, who is no axe-man, **threw it to Korroc**, and Korroc kept it. **It speaks inside its wielder's head**: Thane's skull went silent the moment Korroc caught it. **It senses demons at range** — it called a babau on the riverbed road before anyone could see what it was (*"The axe thinks it's a demon"* / *"It IS a demon, let's go"*), and sulks when someone else takes the kill. It **bit** the skulgrym in Korroc's unpracticed hands. It **objected to being used to dig.** ⚠ Everything below the box still holds — **its other powers, maker and history are not established.**
 
 An **intelligent dwarven battleaxe**, found ten miles west of Drezen on top of a hill-sized rock among a wagon a glabrezu had smashed and pieces of torn armor. **It had been cursing the demon in Dwarven, loudly and at length**; the party took it for trapped dwarves. It speaks in **many voices at once**, like a hall of old dwarves arguing, is hungry for demon blood (*"Come here! I want to drink that demon's blood!"*), and **grows calm when no demon is near.** It mutters in its sleep.
@@ -623,7 +628,8 @@ Taken from a **babau** on the riverbed road south of Sesker's Gully, which was w
 - ⚠ **Caleth did not take it off the babau's hands; he sent Nageru.** *"I wanted to see what it was first… and then I had seen enough. And it was a demon."* Thane saw something cross his face at the last rune. **Whether any rune has gone dark is NOT established. Where the babau got it is open.**
 - *(Name and properties are the table's. Keep the game mechanics out of prose beyond what Caleth says aloud.)*
 
-## The Anti-Magic Collar *(Caleth holds it, Ch 24)*
+## The Anti-Magic Collar *(⚠ ARAVASHNIAL holds it as of Ch 27; Caleth had it Ch 24–26)*
+> **⚠ Ch 27 (Will):** the collar is with **Aravashnial**, not Caleth. When it changed hands is not established.
 Taken off **Aravashnial's** throat by **Thane**. **Black metal, close-fitting, a single faceted green stone at the hollow of the throat, a ring of fine needles on the inside** that went into the neck. **No keyhole** — Thane found a hairline seam under the jaw and the catch inside it. Caleth touched it and recoiled: ***"Anti-magic."*** *"The wearer cannot cast. At all. Nothing. But anyone outside it can. It does nothing to the one who holds it… We'll keep that. For later."* ⚠ **Who made it is not established. Do not connect the green stone to the Nahyndrian crystals.** *(This is the collar seen in the Ch 22 scrying.)* **Ch 25:** Caleth let Aravashnial **study it** in his own room; he handed it back. **On the third morning it lay on Aravashnial's study desk among his notes** while he tried and failed to cast, and **Caleth spent the better part of an hour studying it and him.** ⚠ **The collar is off and he still cannot cast** — the collar's effect, if any, is not established as the cause. *(Who holds it as the party rides west is not stated — Caleth had it last on the page in Ch 25's first evening.)*
 
 ## The Harnaste Chest — the Specter's Gift *(Ch 24)*
@@ -666,3 +672,12 @@ Folds the wielder **and one other**. Spent **thirty-six charges** getting five p
 
 ## The Party's Horses — LOST *(Ch 26)*
 **All four bolted** at the edge of the stone forest when worms came up out of the ground, while Aravashnial held them; **not recovered.** (Caleth's tall gray, Thane's dun mare, Korroc's, and Aravashnial's quiet bay.) The party came home by Caleth's folds.
+
+## Nageru's Amulet — an amulet of mighty fists · ⚠ A LEGENDARY ITEM *(first on the page Ch 27)*
+Table: an **amulet of mighty fists**. Will never mentioned it before because it never changed the story. **Worn under his tunic on a cord**; he drew it out for the ritual. In prose it is described only as *"a small round of worked metal, plain, dull"*. **Made a legendary item in Ch 27** with Korroc's shield and Thane's punch dagger; **Nageru guided the sitting.** ⚠ No visible change; no named powers.
+
+## The Conjured Mounts — Caleth's new working *(Ch 27)*
+**A spell that calls up a mount for each member of a company** (table: *communal mount*; the prose does not name it). **The scroll came out of Aravashnial's archives** (he did not scribe it; he cannot cast). **Caleth copied it into his spellbook** the night of the return. On the page: **smoke-gray horses that drew themselves up out of the air**, very still, warm, eyes with no white, **no horse smell**, unbothered by anything. **They last about six hours, then are simply gone mid-stride** (Korroc landed on his back). Recast each morning. Four for Caleth, Korroc, Thane and Arueshalae; **Nageru walks.**
+
+## The Bell of Mercy — the expedition *(Ch 27)*
+**Irabeth wants it in Drezen.** Twenty went to the fortress to study it and start the logistics and rebuilding (see `characters/npcs.md` → The Bell Fortress party). **It has not moved.** Aravashnial is telling everyone it is not to be touched.

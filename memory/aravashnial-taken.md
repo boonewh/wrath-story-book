@@ -5,6 +5,14 @@ metadata:
   type: project
 ---
 
+> **⚠ Ch 27: AT THE BELL FORTRESS, AND HE HEARD THE MAP.**
+> - **He was in the command room** when Arueshalae pointed out the Sanctum (the Green Gate, SW of Drezen) and talked about Vang and the Blackfire adepts. ⚠ **He did not react** (Will). Only Caleth knows that he asked at the Gray Road where Vang is.
+> - **The mounts scroll was from his archives.** He did NOT scribe it; the notes said so wrongly (Will). **He still cannot cast.**
+> - **He holds the anti-magic collar now** (Will), not Caleth. When it changed hands is not established.
+> - **Sent with Irabeth's twenty to the Bell of Mercy fortress**; sits at the tower foot telling everyone not to touch the bell. **He was there when the five departed.**
+> - **⚠ Korroc's life link has a range** (Will): it went when he was folded away, came back when the party arrived at the fortress, and frayed out as they rode off. Korroc read the first loss as *far*, not *dead*.
+> - Caleth **said aloud in the Sanctum that the retrievers came from there**, the same kind that chased the elf home. ⚠ Still open: whether they were sent to fetch him or hunt him.
+
 > **⚠⚠ Ch 26 — THE NIGHT TALK, THE TREE, AND HOME AGAIN.**
 > - **At the Gray Road, alone with Caleth (nobody overheard; Caleth has told nobody):** *"Do you have any idea where Vang is?"* — Caleth: *"Our research shows… the Ivory Sanctum"* (the elf's own dossier) — *"Do you know where that is?"* — *"No."* — ***"He still has my book. I want it back."*** ⚠ **Which book is not established** (Caleth assumed the spellbook Jerribeth took; thought of the Riftwarden's book Vang keeps; did not ask). Then *"The others seem to have trouble trusting me"* → *"We are all having trouble trusting you… Your escape. It was really too simple"* → *"It's the unwilling part that worries me"* → *"Things I cannot check for. The unknown is the issue."* Then **he pressed Caleth to doubt Nageru** — *"Don't you see that it could be a trick? How much do you trust him?… before all this began you did not know him at all."* Caleth: *"Are you trying to sow discord among us?"* / *"I feel that I could trust him with my life."* / *"More suspicious."* **Caleth read him as nervous — a first** (Will-confirmed as Caleth's read). ⚠ **This is NOT the Ch 25 tell. Still do not name the tell or pick a cause.**
 > - **Stayed with the horses** when Caleth folded in (unplanned); **worms came up out of the ground, the horses bolted (lost for good), he ran and climbed a petrified tree**, bitten on the leg on the way up. **Korroc felt it down the life link** and sent Caleth; Thane killed the worms; **Caleth laid hands on the leg.** His explanation: *"I ran… there was a tree. So I climbed it."*

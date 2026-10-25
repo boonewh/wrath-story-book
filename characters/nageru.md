@@ -98,7 +98,14 @@ His blood manifests in:
 - Charge: **Divine Smite empowerment for one fight** — for a duration, his unarmed strikes count as good-aligned, magic, and overcome demonic resistances.
 - Used in Chapter 3 against the dretches, and again in Chapter 7 to unmake more of them.
 
-## Current State (End of Session 26)
+## Current State (End of Session 27)
+
+### SESSION 27 — HE GUIDED THE SITTING (Ch 27, Korroc POV)
+- **Spoke for Arueshalae** in the command room: ***"My friend, think about this. She has been touched by Desna herself… She is not what she used to be, that is obvious."***
+- **⚠ HE GUIDED THE LEGENDARY-ITEM RITUAL** on the Purity Forge floor with Korroc and Thane. He was the one who felt they could *meet* the power going into their items and draw it out (*"Bring out… Not put in"*). Most of a day; his order's long-meditation sitting; *"There is always another breath."* **His item is his AMULET**, an **amulet of mighty fists** (table; never on the page before because it never mattered to the story), **worn under his tunic** and drawn out on its cord for the ritual. ⚠ No visible change; no powers named in prose.
+- **Walked** beside the conjured horses. **Went down the hundred-foot scar on foot**, down the wall in steps that should not have held. *"I'm sure it is no trouble for us."*
+- **Retrievers:** his first blows were turned by their hide; he **switched to a heavier stance** (the floor-deep one) and dropped his; dodged a mandible grab. **Banished the first derakni** after Thane's four knives.
+- **Advancement: none** (Level 11, Mythic 5).
 
 ### ⚠⚠ SESSION 26 — "I'M HERE" (Ch 26, Caleth POV — the tower and the private talk are offstage; details from the session notes)
 - **Led them a week west on foot** — *"That way."* / *"How do you know?"* / *"I do."* — and never lost the line. **In the petrified forest: *"I feel that we are very close."*** The fortress was the one from the dream (**the dream's two towers were a dream**; there is **one** tower — Will).
@@ -243,6 +250,7 @@ Lyra's instructions, in her order: **find the fane. If it was destroyed, learn i
 - **Staunton Vhane is dead** (Ch 16), killed by Caleth after Nageru's holy fists and Thane's daggers broke him.
 
 ## Established Moments
+- **Chapter 27 (Korroc POV):** *False Stone.* *"She has been touched by Desna herself."* **Drew his amulet out from under his tunic** and guided two dwarves through a day's sitting on a forge floor. Walked beside smoke horses. Walked down a hundred-foot wall. Settled into a deeper stance and put a retriever down; banished a derakni in two blows.
 - **Chapter 26 (Caleth POV):** *The Hallowed Tower.* Walked a week west in front of the horses. Climbed the tower; read Desna's runes on the bell; banished the first incubus. ***"I'm here."*** Smote the hag through her blasphemies and tore free of her claws. Argued she could not come back; **stayed alone with her**; *"Desna may have had something to do with that."* *"And we will go."*
 - **Chapter 24 (Thane POV):** *The Graves at Sesker's Gully.* Ran north beside the horses. **Left his shadow for a drocha swarm** the moment two friends were caught in the open, was drained gray, and killed it; *"Restoration. Thank you."* Bowed to the specter. First onto the skulgrym and **last onto it**. Gathered bones like a liturgy. **Stood back from the Stonevein graves with Caleth, head bowed, both days.** Hauled the chest; smiled at Thane's jump. **Brought Caleth back with a hand on his other shoulder** — *"Well. That is unpleasant."* — and sat beside him all night an inch away. Raised an eyebrow at a babau and killed it on one word. **Shattered one construct spider in gold light, rolled out from under its explosion, and put down the other two.** *"Not again."*
 - **Chapter 23 (Caleth POV):** *Children Are Not Equations.* On the parapet at Irabeth's shoulder; *"Not a bomb of some sort, is it?"* **Found the seam in the field-journal cover.** Went to the walls with Irabeth. First into the fight; killed three cultists; stepped out of a ring of lances and dropped under acid. Lifted a dead drake off Caleth with a shoulder under its neck. Bowed to Dagna. Ran north beside the horses.

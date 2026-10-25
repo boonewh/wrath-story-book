@@ -7,7 +7,9 @@ metadata:
 
 **Rule (from Session 21): the party shares a level, but mythic tier is per character.**
 
-## ⚠⚠ STATUS AFTER SESSION 26: LEVEL 11. CALETH 4, EVERYONE ELSE 5.
+## ⚠⚠ STATUS AFTER SESSION 27: LEVEL 11. CALETH 4, EVERYONE ELSE 5.
+
+*(Session 27: no advancement, Will, 2026-10-24. The **legendary items** made that session, Korroc's shield, Thane's punch dagger and Nageru's amulet, are mythic abilities **gained at earlier tier bumps** and only ritualized now. **A new mythic ability on the page is NOT a tier change.** See [[legendary-items-and-the-axe]].)*
 
 *(Session 26: no advancement — confirmed by Will, 2026-10-18. Session 25: none either, 2026-10-11.)*
 

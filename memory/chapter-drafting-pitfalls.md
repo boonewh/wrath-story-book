@@ -109,3 +109,16 @@ Also: **the session notes had the GM's game-term instructions inline** (*"dodgin
 **Do not get timid.** The Ch 22 draft was accepted almost entirely — Will's corrections were surgical, and the prose, structure, POV call and the big swings (the ceiling as *"knowing wasn't enough"* made physical; ending on the name) all landed without a note. **The problem was never ambition. It was confidence in places where the notes were silent.**
 
 Related: [[the-rift-at-the-molten-scar]] (the purple-light error and its correction), [[xanthir-vang-and-the-note]], [[never-alter-user-edits]], [[campaign-elapsed-time]].
+
+## Addendum — Ch 27 (2026-10-24)
+
+**Step A worked a fourth time.** Thirty-eight questions; Will answered all of them before drafting and the draft came back with no corrections. What the questions caught:
+- **A thing the notes said that could not be true.** The notes had Aravashnial *scribe* a scroll overnight, but he cannot cast. **It came from his archives; the notes were wrong.** ⚠ **When an action contradicts a standing condition** (can't cast, can't fly, isn't there), **ask. Do not explain it away in prose.**
+- **A truncated GM note** (*"legendary item and then ***"*) hid the second half of the mechanic (*upgradable*).
+- **An item the party has had all along and never mentioned** (Nageru's amulet). Will doesn't list items that don't change the story. **A "new" item in the notes may be old. Ask when it was got.**
+- **Who carries what, again:** the collar is **Aravashnial's** now, not Caleth's. And the biggest departure fact, **Fiendsplitter left in Drezen**, was **not in the notes at all**. Will added it after the POV call. **Ask about departures even when the notes look complete.**
+- **A spelling:** the notes' "Hepvamirah" is the AP's **Hepzamirah**. Standing rule now: **AP spellings win.** See [[ap-spellings-win]].
+- **A pronoun:** *"She wants nothing more than to capture me"* was meant to be **he** (Vang). **Check every pronoun whose antecedent is ambiguous.**
+- **A new standing mechanic:** **Korroc's life link has a range** and drops when someone is teleported away, then returns. It made a good POV beat. **Ask how a mechanic behaves at distance** before leaning on it.
+
+**Self-caught before handoff:** invented numbers (*"a hundred miles"*), invented backstory texture (shield dents from named fights, a childhood detail), a timing slip (*"two nights ago"* for last night), and Caleth "sliding twice" where Will said once. **Re-read every relative time phrase against the session's day count.**

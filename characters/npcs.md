@@ -30,6 +30,11 @@
 ---
 
 ### Aravashnial
+**⚠ STATUS (Ch 27): AT THE BELL FORTRESS** with Irabeth's study party (Aron, Anevia, soldiers, a Drezen wizard, camp staff, engineers), leg out on a crate, **telling everyone the bell is not to be touched.** Still cannot cast. **He now holds the anti-magic collar** (Will). **Korroc's life link has a range**: it went when Caleth folded him out of Drezen, came back when the party arrived at the fortress, and frayed out again as they rode away.
+- **In the Ch 27 briefing he heard everything**: the Sanctum in the **Green Gate, southwest of Drezen**, pointed out on the map; Vang; the Blackfire adepts. ⚠ **He did not react** (Will). *(This is the man who asked Caleth at the Gray Road where Vang is. Caleth has still told nobody.)*
+- **The conjured-mounts scroll came out of his archives.** He did NOT scribe it (he cannot cast; Will corrected the notes). Caleth copied it into his book.
+- When the five arrived at the fortress he looked up, his eyes stopped on Korroc's hand on his chest, and his face moved slightly. Korroc's read only; nothing is established by it.
+
 **⚠⚠ STATUS (Ch 26): BACK IN DREZEN, HURT IN THE LEG, STILL CANNOT CAST — AND HE TRIED TO TALK CALETH OUT OF TRUSTING NAGERU.**
 - **⚠⚠ THE NIGHT TALK AT THE GRAY ROAD (Caleth only; nobody overheard; Caleth has told nobody).** He asked Caleth **where Vang is** (*"Our research shows… the Ivory Sanctum"* — his own dossier) and **whether Caleth knew where that was** (no). ***"He still has my book. I want it back."*** *(Which book is not established — Caleth assumed the spellbook Jerribeth took.)* Raised the party's distrust himself; heard *"It's the unwilling part that worries me."* Then **pressed doubt about Nageru**: why would she contact the monk alone, *"Don't you see that it could be a trick?"*, *"How much do you trust him?"*, *"before all this began you did not know him at all."* Caleth: *"Are you trying to sow discord among us?"* — *"No."* **Caleth read him as nervous** — a first. ⚠ **This is not the Ch 25 tell, and the cause of anything stays OPEN.**
 - At the petrified forest: *"Are you sure? Demons love the dark."* — Korroc: *"Maybe we do too."*
@@ -291,7 +296,9 @@
 ## Inside Citadel Drezen (Sessions 14–16)
 
 ### Joran Vhane
-**Status:** Living. **IN CUSTODY IN CITADEL DREZEN (Ch 18)** — and working the Purity Forge under guard alongside Korroc and Thane. Still cannot cast healing magic.
+**Status:** Living. **IN CUSTODY IN CITADEL DREZEN (Ch 18)**, working the Purity Forge. **⚠ As of Ch 27 he is restricted, not guarded** (Will): confined to the citadel and kept out of certain places, otherwise let be; nobody else works the forge. Still cannot cast healing magic.
+
+**⚠ Ch 27 (Korroc POV):** The night the party came back from the bell, Korroc carried his stripped armor down. *"What happened?"* / *"Demons suck."* / *"Damn. Stripped the straps right off."* **Joran helped without being asked**, a couple of hours, and had a tool in Korroc's hand before he reached for it (the Interlude 2 thing he said he had never seen done, now done by him). **Korroc offered his hand and Joran wiped his palm and took it: their first handclasp** (Will). *"Get some sleep. You look like a dropped crucible."* **The next day he watched the three-man legendary-item sitting** on the forge floor from an upturned bucket, with a face Korroc read as a man remembering something he once understood. ⚠ His healing: still gone, still undiagnosed.
 
 **Role:** Dwarf. **Staunton Vhane's younger brother**, and by every account badly used by him. A spellcaster and hammer-fighter; he opened the map-room fight with a burst of sound that stunned Thane, tried to blind and deafen Korroc, and split himself into illusory copies.
 
@@ -506,10 +513,18 @@ It took an hour and a half. **Nobody else on that rock knew the room existed** �
 ---
 
 ### Arueshalae
+**⚠⚠ Ch 27: SHE GAVE THEM THE IVORY SANCTUM, AND SHE IS LEADING THEM IN.**
+- **In the command room** (Caleth questioning; Irabeth, Aron, Anevia, Sosiel, Aravashnial and the late-arriving Horgus present): **Vang** leads the Sanctum; **Hepzamirah**, daughter of Baphomet, leads the cultists and is **in the Abyss harvesting Nahyndrian crystals for the elixirs**; *"Many"*; killing Vang and destroying the Sanctum **stops one** delivery point. ⚠ **The Sanctum is hidden in the GREEN GATE, SOUTHWEST OF DREZEN.** She pointed to it on the map; *"hidden by a veil. Maybe two"* (the veil is **on the front door**, Will). Defenses: **Jerribeth, templars, a basilisk at the front door, followers of Baphomet, Blackfire adepts**; *"just a handful. But they were formidable."* Vang is *"not a single thing any more"*; she has never met him; **he wants to catch her and turn her back** (per **Jaruunicka**, the hag). *"That is up to you"* to *"what if I don't trust you?"*
+- **Sosiel took her away** that night. Next day **bandaged and healed**, wing dressed. **Nobody has taken her bow, quiver or armor** (Will). Soldiers on the walls stopped and watched her cross the court; whispers in every hall.
+- Saw **Fiendsplitter left on Irabeth's table** for her sake; Korroc: *"Couldn't hear myself think."*
+- **On the road:** rode one of Caleth's conjured horses; **her wing is healed enough to fly**. She came down the hundred-foot scar on it and offered to carry someone (*"You can take the half-elf"*; Caleth declined). Shot demons on the road. Watched the dark when Thane felt watched.
+- **⚠ SHE KNEW THE BACK WAY IN** *"because I came and went here once. As one of them."* She led them through **two illusory rock walls**. **She stood inside Caleth's circle against evil unharmed.** She **froze at the retrievers** and named them (*"Retrievers"*), then shot seven arrows into the third.
+- **Close of Ch 27:** in the ivory room, looking at three doors *"the way a woman looks at the doors of a house she lived in once."*
+
 **⚠⚠⚠ Ch 26 — FOUND, MET, AND BROUGHT TO DREZEN UNDER CALETH'S PROTECTION.**
 - **Found** in the tower of the ruined Desnan fortress (**one** tower — the dream's second tower was a dream), barricaded at its foot. Waking appearance **matched the dream exactly** (torn wing, dried blood on the arm, red cloth, bow). **Fired a warning arrow at Thane** on the stair; lowered her bow when he named her and Nageru; ***"So you're not with Staunton?"*** **Nageru: *"I'm here."*** *"I'm glad you rang the bell. Its effect is limited in time and it can only be done so many times."* She stayed in the tower while they fought; **the bell's hallowing (the tower only) did not hurt her** — Caleth's proof, and Korroc's *"She's not evil."*
 - **⚠ HER STORY (told to all four and Aravashnial; Ch 26 renders it in her voice):** came to the Wound **nearly eighty years ago** (**4636 AR**) and was what her kind is. **Seduced and drained a priestess of Desna**; on a whim **slipped into the dying woman's dreams** and was **trapped in the Dimension of Dreams** when she died. **Desna, who had watched the murder, did not destroy her — she quickened her larval soul.** Her mortal memories and lost dreams came back at once; Desna whispered ***"Even demons can dream."*** She woke with **mythic potential and great shame**, hid the change as the spy she was, until **she saved a lost child in the Wound** and the truth came out. Stayed in the Wound hoping to learn something to bring the crusade; learned **the templars were feeding Nahyndrian crystals to demons** and was **captured** before she learned more. **Aponavicius tried to force her back to her nature, and failed.** When the marilith went south, **she prayed, and the wards on her cell fell**; she fled **a few weeks before the party reached Drezen**, to **the fortress her last victim had dreamed of** — the only safe place she could think of.
-- **⚠ SHE HAS BEEN TO THE IVORY SANCTUM** (*"I will not go back. Ever."*) **AND KNOWS WHERE IT IS.** ⚠ **The location is not established — do not state it.** *"You are going to go against Vang?"*
+- **⚠ SHE HAS BEEN TO THE IVORY SANCTUM** (*"I will not go back. Ever."*) **AND KNOWS WHERE IT IS.** ~~The location is not established.~~ **✔ Ch 27: the Green Gate, southwest of Drezen. She went back after all, as their guide.** *"You are going to go against Vang?"*
 - **Private, to Nageru only:** she chose him because **she could not trust the two dwarves — Staunton was evil, and she could not be sure of their loyalties.** Learning they helped kill him visibly shook her. *"You just felt like the right choice."* Nageru: *"Desna may have had something to do with that."*
 - **In Drezen:** brought by Caleth into the command room before Irabeth, Aron, Sosiel and Anevia. **Caleth: *"She is under my protection."*** **She has promised to help against Vang and the demons, and to help find the Ivory Sanctum.**
 - ⚠ **Still OPEN:** what sent the Ch 25 dream and what "answered" her (her story points at Desna; nobody has said so) · how she knew Nageru's name · **"take me back" — to what** · what the bell is, beyond its hallowing.
@@ -682,9 +697,11 @@ It took an hour and a half. **Nobody else on that rock knew the room existed** �
 ---
 
 ### Xanthir Vang — "The Worm That Walks"
+**⚠ Ch 27:** **He holds the Ivory Sanctum only because Hepzamirah is away** in the Abyss harvesting crystals. **The Sanctum is in the Green Gate, southwest of Drezen.** He **leads the Blackfire adepts**, who are *"what Vang is"*. Arueshalae: *"not a single thing any more."* She does not know his weaknesses or whether he has drunk an elixir. He **wants Arueshalae taken and turned back.** **⚠ The retrievers are his.** Three stood in the Sanctum's back-way cavern; Caleth said aloud that the ones that chased Aravashnial home came from here. **⚠ Caleth's third dream** (his alone): Vang at a table of Nahyndrian crystals, *"Four living examples. Four opportunities to understand what the Wardstone accomplished,"* torturing a chained man with a familiar voice, and calling Caleth ***"Another interesting specimen."*** ⚠ A dream: atmosphere, not a map. The chained man is NOT identified.
+
 **Status:** Active. **⚠⚠ AS OF Ch 22 HE IS THE CAMPAIGN'S PRIMARY ENEMY, HE HOLDS ARAVASHNIAL, AND HE KILLED CALETH'S PARENTS.**
 
-**Role:** A **worm that walks.** Blackfire Adept, servant of Deskari, **leader of the Templars of the Ivory Labyrinth**, operating from the **Ivory Sanctum** (location unknown; Templar documents in Ch 21 place it vaguely *"in the Marchlands"*). Connected to the distribution of **Nahyndrian elixirs**. Records place him in the **Third Crusade, then still a man of flesh and blood** — over seventy years ago.
+**Role:** A **worm that walks.** Blackfire Adept, servant of Deskari, **leader of the Templars of the Ivory Labyrinth**, operating from the **Ivory Sanctum** (✔ Ch 27: **the Green Gate, southwest of Drezen**; earlier: location unknown; Templar documents in Ch 21 place it vaguely *"in the Marchlands"*). Connected to the distribution of **Nahyndrian elixirs**. Records place him in the **Third Crusade, then still a man of flesh and blood** — over seventy years ago.
 
 **✔ Ch 22: THE PARTY HAS NOW SEEN HIM**, through a scrying, and the librarians' phrase turned out to be literal. Robes that move **without footsteps**. A **wet, soft, overlapping sound** beneath the fabric — hundreds of tiny movements at once. And in green light, **the shape of a man coming apart into thousands upon thousands of writhing worms**, holding a prisoner against iron bars with limbs made of them.
 
@@ -843,6 +860,8 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
 ---
 
 ### Irabeth Tirabade
+**⚠ Ch 27: SHE HOLDS FIENDSPLITTER.** Korroc **lent** it to her the morning they left, because it would want Arueshalae every hour on the road (*"I'm coming back for it"*). It talks in its holder's head and knows demons coming; *"don't hold it by the haft."* Her: *"I'll see it's treated decent."* **She decided to bring the Bell of Mercy to Drezen** and sent twenty to the fortress to study it and start the work: soldiers, **Aron, Anevia, Aravashnial**, a Drezen wizard to take over the teleporting, camp staff and engineers. **Caleth carried them.** Her first problem the night of the return: *"I have to figure out what to do with her."*
+
 **Ch 25:** On the tower top for the dawn attack; **a drake's tail took her ankles and she went down on her back** under a drake and an incubus, shield up — **minor hurt**; Korroc laid his life-bond on her and the party cleared both in time. On Aravashnial: ***"I'll have to debrief him, but not right now. My own questions can wait."*** Then: ***"If they keep sending attacks like those, we might have a problem. We have only so many soldiers up here and we are already running out of ballista bolts."*** Agrees the attack was Vang's ultimatum, late.
 **Status:** Living. **⚠ COMMANDS CITADEL DREZEN (Interlude 2).** She went from running an army to running a fortress and **nobody argued** — there were officers with older commissions in that citadel and not one of them opened his mouth, because she had been doing the job for a month already and had simply never stopped to be given it. Knighted by Queen Galfrey (Ch 9).
 
@@ -1269,3 +1288,22 @@ What surrounded the fortress, per Will — **no cultists** (the dream's archers 
 
 ### Irabeth, Aron, Sosiel and Anevia — the command room *(Ch 26)*
 Thane cleared the room (*"We need the leadership. Nobody else"*). Irabeth: ***"What are you doing to me? I'm going to have to convince a citadel of three hundred paladins that this is a good thing."*** *(Three hundred is a round number, close to canon — Will.)* She **did not reach for her sword**, and answered Caleth's protection with ***"I don't think you are the only one they'll have to deal with if they try something."*** Anevia: *"Oh, you're joking"* / *"That'll make for a lively week."* Sosiel watched the succubus and said nothing. Aron was told twice.
+
+---
+
+## New in Session 27
+
+### Hepzamirah — daughter of Baphomet *(named Ch 27; never met)*
+**Spelling: Hepzamirah**, the published AP spelling. *(The Session 27 notes write "Hepvamirah"; source records are not edited. See `memory/ap-spellings-win.md`.)* Per Arueshalae: **daughter of Baphomet** and **leader of the cultists**, above Vang in that line. **Currently in the Abyss harvesting Nahyndrian crystals to make elixirs**, and her absence is why Vang has the Ivory Sanctum. Caleth: *"So we have another demigod running around?"* — *"Yes."* ⚠ Nothing else is established: not where in the Abyss, not when she returns, not what she wants with the party. Do not bring her on stage without the table.
+
+### Jaruunicka — the annis hag *(named Ch 27; killed Ch 26)*
+The hag from the Bell of Mercy fortress, named by Arueshalae after the fact. **Spelling as the notes have it** (an AP lookup found nothing either way, so it stands). She kept telling Arueshalae, while trying to coax her out, that **Vang wants her captured and turned back.** ⚠ Whether she is the Sifkesh-sworn annis Staunton hired is still the party's inference, not established.
+
+### The Blackfire Adepts *(Ch 27)*
+A faction in Vang's forces. Arueshalae: *"just another faction in the army"*, *"what Vang is"*, *"dangerous, but not as dangerous as him."* **Vang is their leader.** Whether arcane or divine: not answered. *(Staunton's journal wrote "Blackflame Adepts"; Arueshalae and Aravashnial's dossier say Blackfire.)*
+
+### The Retrievers *(Ch 27; the Ch 24 "construct spiders")*
+Arueshalae's name for them. **Three stood motionless in the cavern on the Sanctum's back way** and woke as the party looked in: eye rays (one petrifying, one cold), claws, and **mandibles that lift and hold a man**; hide that turns blows. All three were destroyed. **Caleth said aloud that these are where the Ch 24 ones came from** (the three that chased Aravashnial home). ⚠ Who made them, and whether they were sent for him or after him, stays open.
+
+### The Bell Fortress party *(Ch 27)*
+Twenty, carried by Caleth in five folds: soldiers, **Aron**, **Anevia**, **Aravashnial**, **one of Irabeth's wizards** (unnamed; takes over the teleporting), camp staff and engineers. They have **a camp inside the fortress wall**, are **dragging the dead drake out of the nave**, and are arguing over the tower. **Aron's charge to the five:** *"When you need to rest or when you're finished… you come back here. Not to Drezen… We need to be kept in it."*

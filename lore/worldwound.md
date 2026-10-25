@@ -315,3 +315,24 @@ The party teleported into it and out again and never explored it. What is establ
 
 ⚠ **Not established, do not invent:** the fortress's name, who built it or when, and the bell's full powers. *(Ch 26: she held; the hunt is broken and the hag is dead.)*
 
+## The Green Gate and the Ivory Sanctum *(established Ch 27)*
+
+> **⚠ The Ivory Sanctum's location is NO LONGER unknown.** Arueshalae pointed to it on the command-room map: **the Green Gate, southwest of Drezen**, in a place the mapmaker had left blank. *(The CRPG spells the place "Greengate"; Will's form is **the Green Gate**.)*
+
+**The road from the bell fortress:** about **a day and a half** on Caleth's conjured horses. Six hours' ride the first day (two small demon fights), a night camp under a low ridge where **Thane felt watched all night** (never explained), then **a 50–60 ft rise of shale** (Caleth's slide), and **by midday the Green Gate.** ⚠ Distances and direction beyond that are not established.
+
+**The Green Gate:** **a small forest of warped, twisted, living trees**, the only green for a long way (*"That is why they call it so"*). Bark split and healed into knots, crooked branches, leaves the wrong shape, a sheen on the green. **Alive**; Korroc felt it. A mile or two through.
+
+**The scar:** on the **south side of the trees, then west**, **a deep gorge about a hundred feet down**, sheer broken walls. The Sanctum is reached along its floor.
+
+**Two ways in:**
+- **The front gate**: **veiled** (an illusion on the front door; Will) and **guarded by a basilisk**. *"Obviously"* the better guarded. **Not used.**
+- **The back way**: *"not meant to be known"*; Arueshalae knows it from coming and going *"as one of them."* A sharp turn off the gorge floor **through an illusory rock wall**, up a cleft, **through a second illusory wall**, into **a rough-cut tunnel running north out of an immense cavern**. *(South of the passage, a mound of rubble before a tunnel winding into blackness.)* Then:
+  - **A side passage on the right into a large cavern** thick with magic, where **three retrievers** stood motionless. **Destroyed.**
+  - **Carved stairs up to a dead end**: a **secret door** (a pressure point, a good mechanism) that Thane found.
+  - **A room with two derakni**, both banished.
+  - **The ivory room**: **thirty feet high**, every wall tiled **floor to ceiling in pale ivory tiles inlaid with a labyrinth pattern** that makes the eye ache. **The east wall is a floor-to-ceiling carving of a leering goat-headed demon** (Baphomet) **holding a glaive with a crescent-moon blade.** **Three doors**, north, south and west, set flush in the tile. **The chapter ends there:** *"Which one?"*
+
+**Defenses named by Arueshalae:** Jerribeth, templars, the basilisk, followers of Baphomet, **Blackfire adepts**; *"just a handful. But they were formidable."* And Vang.
+
+⚠ **Not established, do not invent:** what is behind any of the three doors · the Sanctum's layout beyond the ivory room · how many are inside now · whether Jerribeth or Vang is in residence · **what the second veil is**, if there is one.

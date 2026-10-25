@@ -317,10 +317,15 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 **New from Session 26:**
 69. **⚠⚠ ARAVASHNIAL TRIED TO MAKE CALETH DOUBT NAGERU** — the night talk at the Gray Road (*"How much do you trust him?"*), and asked where Vang is and whether Caleth knew where the Ivory Sanctum was. **Caleth alone heard it and has told no one.** He read the elf as nervous. **Why — open. Do not resolve.**
 70. **⚠ "HE STILL HAS MY BOOK."** Which book — the spellbook Jerribeth took, or the Riftwarden's book Vang boasted of — **is not established.**
-71. **⚠⚠ ARUESHALAE KNOWS WHERE THE IVORY SANCTUM IS** and has been there (*"I will not go back. Ever."*). **The location is not established.** The party means to go; Caleth has said aloud he will kill Vang.
+71. **⚠⚠ ARUESHALAE KNOWS WHERE THE IVORY SANCTUM IS** *(✔ located Ch 27 — see item 75)* and has been there (*"I will not go back. Ever."*). **The location is not established.** The party means to go; Caleth has said aloud he will kill Vang.
 72. **⚠ A SUCCUBUS IS IN DREZEN** under Caleth's protection, among some three hundred paladins. How the citadel takes it is open.
 73. **The Bell of Mercy** — dimension-locked, silver, Desna's; hallows its tower for a limited time and a limited number of ringings. Left in place; the table wants it in Drezen someday.
 74. **What "answered" Arueshalae (Ch 25).** Her story puts **Desna** at the root of her change, and Nageru said *"Desna may have had something to do with"* her choosing him — **nobody has said what sent the dream.**
+75. **✔ THE IVORY SANCTUM IS FOUND (Ch 27): the Green Gate, southwest of Drezen.** The party is **inside it** at the close of Ch 27, by the back way. See `lore/worldwound.md`. Supersedes the "location not established" in item 71.
+76. **⚠ HEPZAMIRAH, daughter of Baphomet,** leads the cultists and is in the Abyss harvesting Nahyndrian crystals for elixirs. Her absence is why Vang has the Sanctum. **Killing Vang and destroying the Sanctum stops ONE delivery point**, not all of them.
+77. **⚠ CALETH'S THIRD DREAM (his alone)**: Vang studying *"four living examples"* of *"what the Wardstone accomplished"*, and a chained man with a familiar voice. ⚠ **Who the man is, and whether he is real, is not known** (Will).
+78. **⚠ SOMEBODY WATCHED THE CAMP** the night before the Green Gate, or Thane thinks so. Nothing came. **Never explained.**
+79. **Fiendsplitter is in Irabeth's keeping** in Drezen, lent. Korroc means to come back for it.
 
 **New from Session 20:**
 22. **⚠ JERRIBETH.** A name engraved on the back of a Baphomet symbol taken off a dead clanliege, and a description — *"a beautiful elf woman"* — from a frightened barbarian. She recruited **Marhevok Grunhuld-Wintersun**, gave him a scrying token he thought was an honor, promised him command in her armies, and left him raiding the crusade's supply road for a year without ever sending for him. **Caleth threw the token in a pool rather than carry an open window on his back.** ⚠ *The party believes she is an elf. Keep them believing it — see `characters/npcs.md`.* **This is the clearest new enemy lead out of Book 2's aftermath.**
