@@ -1,67 +1,121 @@
-🎴 "Runes and Light" — Grunge-Synthwave Crusader Anthem
+# Session 20 — Be the Kind One, Spireborn
 
-**The canonical character song for Caleth Aranor** — half-elf paladin of Shelyn / Exploiter Wizard. **Lyrics by Richard (Caleth's player); this is the version he chose.** He wrote the lyrics and the style direction himself, sat with several options, and landed on this — his original grunge-synthwave take — over the other contenders.
+**POV:** Caleth
 
-The fusion mirrors the character: synthwave for the arcane (study, glyphs, transcendence), grunge for the cost (war, the human weight of crusading). Scholar and soldier, wizard and paladin, "half my blood is starlight, half my soul is steel." Radiance is the blazing centerpiece. The closing line — *"a heart made of runes and light"* — gives the song its name.
+## Suno Style
 
-Paste the LYRICS block into Suno's lyrics box, the STYLE block into the style box, and "Runes and Light" into the title field.
+Mid-tempo grunge-synthwave, 110 BPM, colder and more controlled than a crusader anthem, Precise arpeggiated synths like a man running calculations, distorted rhythm guitar held tight and clipped rather than triumphant, driving electronic drums that never quite let go, Male lead vocal — measured, exact, almost clinical in the verses, cracking open into something raw and anthemic in the chorus, Sparse war-choir backing vocals, low, entering only on the hook, Mood: white lantern-light on a dead plain, blue-black chitin catching noon, a painted lake on a wall that hasn't existed in a hundred years, cracked ice under a duel, Not triumphant — a song about competence that keeps almost being enough, Verses should feel counted, exact, ticking; the chorus should break the meter and swell, guitars and synth lead colliding, before pulling back cold again for the outro
 
-> **Alternates kept on file** (not the canonical Caleth song): [character-caleth-alt-lastlight.md](character-caleth-alt-lastlight.md) ("The Last Light of Kenabres" — grunge-weighted, Claude-written Option A), [character-caleth-alt-stars.md](character-caleth-alt-stars.md) ("Stars Beyond the Abyss" — synthwave, Option B), and [character-caleth-alt-tron.md](character-caleth-alt-tron.md) ("Runes and Light" — these same lyrics polished and given a Tron: Legacy "grid" orchestral-electronic treatment).
-
----
-
-## Lyrics (paste into Suno lyrics box)
+## Lyrics
 
 [Verse 1]
-Rain on Kenabres stone
-Ash in the morning sky
-I read scars in silence
-Where prayers and cinders lie
-Half my blood is starlight
-Half my soul is steel
-Books become my burdens
-And thunder begins to peal
+
+I built a lamp on the edge of the dark
+
+and called the trade even, called it a start —
+
+fifty feet of daylight, mine to keep,
+
+every choice has a price, so I don't weep.
+
+I counted the shape in the sky, and let it go.
+
+I counted the wound in the world, and called it a road.
 
 [Pre-Chorus]
-The runes ignite
-The heavens hum
-War drums are calling
+
+I know the word for what's coming.
+
+I know it before it arrives.
+
+I've run every future forward —
+
+I still don't know who survives.
 
 [Chorus]
-I am the spark in ruin
-I am the oath, I am the fight
-A blade of light through static
-A heart made of runes and right
-If Worldwound keeps burning
-If dark comes after us
-I'll raise my glaive to sunrise
-With a heart made of runes and light
+
+Be the kind one, Spireborn —
+
+even when the others choose the hammer.
+
+I thought that was a warning for them,
+
+not a mirror, not a door.
+
+Be the kind one, Spireborn —
+
+put the clever away for once.
+
+Every road I've ever run
+
+still ends in someone's blood.
 
 [Verse 2]
-Glyphs crawl over Radiance
-Blue fire in my hands
-Faith is not a clean road
-It's blood on broken lands
-The stars may have a purpose
-The gods may know the cost
-Purpose does not ease the pain
-And mercy still gets lost
+
+I bargained sharp, I bled him thrice,
+
+I called it mercy, I called it price.
+
+I won the room in every way that counts —
+
+and still they turned to the one who kneels down.
+
+He didn't manage. He didn't perform.
+
+He just stayed the same man in the eye of the storm.
+
+[Pre-Chorus]
+
+I could've said it better.
+
+I could've won it clean.
+
+It wouldn't have mattered —
+
+they'd still have seen what they'd seen.
+
+[Chorus]
+
+Be the kind one, Spireborn —
+
+even when the others choose the hammer.
+
+I thought that dream was written for them,
+
+it was written for me all along.
+
+Be the kind one, Spireborn —
+
+not the sharpest, not the strong.
+
+Some things don't add up right
+
+no matter how well you count.
 
 [Bridge]
-Scholar, soldier
-Arcane thunder
-Holy flame
-Let the Abyss remember my name
+
+A vial against my heart,
+
+one undo, and nothing more.
+
+I've run the futures dark to dawn —
+
+there are two I'm still not running for.
+
+I never learned to look.
+
+I only learned the ledger.
 
 [Final Chorus]
-I am the spark in ruin
-I am the oath, I am the fight
-A blade of light through static
-A heart made of runes and right
-And I'll carry the last light on
 
----
+Be the kind one, Spireborn,
 
-## Style (paste into Suno style box)
+long after the numbers run dry.
 
-Fast grunge-synthwave crusader anthem, 150 BPM. Driving electronic drums, urgent pulsing bass, bright arpeggiated synths, distorted rhythm guitars, and military snare rolls. Male lead vocal, intense and melodic, with big anthemic chorus and war-choir backing. Mood: neon holy war, blue-white arcane glyphs, rain on ruined battlements, Radiance blazing at sunrise. Energetic, heroic, battle-ready, dark but not slow. Verse should move with tension, chorus should explode with guitars, synth leads, and crusader momentum.
+Some things were never meant to be solved —
+
+just carried, and carried, and carried, and carried.
+
+Be the kind one, Spireborn.
+
+That was the whole of the dream.
