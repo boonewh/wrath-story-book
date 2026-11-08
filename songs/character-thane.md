@@ -1,4 +1,4 @@
-🗝️ "Read the Door" — Dark Cinematic Trap-Rap Character Anthem
+🗝️ "Read the Door" (Who Has Business Here) — Dark Cinematic Trap-Rap Character Anthem
 
 Standalone CHARACTER ANTHEM for **Thane**, the dwarf Knife Master rogue / inquisitor of Alseta — the doorkeeper. Not a per-session song and deliberately NOT the project's other rap (the goofy boom-bap "Skinsuit" diss). This one is dark, serious, cinematic, and personal: the watcher who decides who has business inside the door and who does not.
 
