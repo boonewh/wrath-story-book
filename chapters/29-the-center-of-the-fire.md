@@ -340,7 +340,7 @@ He knew it then. He did not need anything else.
 
 "Yaniel's armor," he said.
 
-Korroc's head came up. Thane's.
+Korroc's head came up. Thane's snapped up as well.
 
 "Yaniel," said Korroc. "The — your sword's —"
 
@@ -398,7 +398,7 @@ The stair went down off the north hallway, through the first pair of doors, the 
 
 Caleth followed, a flight behind, with the others at his back.
 
-It was not far. One flight, turning once, and then a landing. Not a new floor at all; only a broad open place where the stair stopped for breath, with a wide opening on the far side of it, and through the opening, light.
+It was not far. One flight, barely worth calling a flight, and then a landing. Not a new floor at all; only a broad open place where the stair stopped for breath, with a wide opening on the far side of it, and through the opening, light.
 
 The floor of the landing was tiled in basalt. Black, polished, each tile cut with one small piece of a maze, so that the tiles together made a great labyrinth across the whole floor, and the eye that tried to follow any one path through it got lost in three steps. Columns held up the ceiling, sheathed in ivory, and every inch of the ivory was carved. Mazes. Bull-headed men in the mazes. And men and women, naked, twisting round the columns in such a way that it took a moment to see whether what was on their faces was pleasure or pain, and a moment longer to understand that the carver had meant you to be unable to tell.
 
@@ -532,7 +532,7 @@ He moved.
 
 His left hand closed on the Pauper's Thighbone at his belt, and the gold in it answered, one of the nine small fires he kept there; and he spoke a word and swept his hand back over his friends, and the world went slow round them — no. *They* went quick. He felt it take hold of all of them at once, Korroc and Thane and Nageru and the woman with the bow and himself, every heart beating a little faster, every limb a little lighter, the air going thick as honey round everything that was not them.
 
-His hand left the Thighbone for the wand beside it. Short, black, cold, the one that did not cast anything itself but made whatever he cast through it *more.* He took it in his fist.
+His hand left the Thighbone for the rod beside it. Stout, black, cold, the one that did not cast anything itself but made whatever he cast through it *more.* He took it in his fist.
 
 And reached down, past the place where his spells were kept, into the fire the wardstone had left.
 
@@ -568,7 +568,7 @@ Caleth felt it through the bond. Not the pain — Korroc took that — but the *
 
 He got on with it.
 
-He shut his eyes for one half-breath and found the other thing, the thing he had learned to do since the wardstone: to reach into the fire as it left him and turn it. Every bit of power that came off his hands from now until the end of the fight, cold or lightning or acid, would leave him as *fire*. He felt the air shimmer round him with it. Then his hand found the wand again, and he gathered the spell he wanted and leaned on it, hard, with all his will behind it, to make it bite.
+He shut his eyes for one half-breath and found the other thing, the thing he had learned to do since the wardstone: to reach into the fire as it left him and turn it. Every bit of power that came at him from now until the end of the fight, cold or lightning or acid, would come in as *fire*. He felt the air shimmer round him with it. Then his hand found the wand again, and he gathered the spell he wanted and leaned on it, hard, with all his will behind it, to make it bite.
 
 And let it go.
 
@@ -706,7 +706,7 @@ He came into being for all of them — there, in the air, the robed shape sudden
 
 *Blind.*
 
-Caleth's hand went to the wand. He reached down through himself — past the spells, past the fire, to the other thing. The thing that was not a wizard's at all. The thing a paladin of Shelyn has when he looks at evil and names it to her face. He felt it rise in him, hot and gold and clean, and go into the spell as it left him.
+Caleth's hand went to the rod. He reached down through himself — past the spells, past the fire, to the other thing. The thing that was not a wizard's at all. The thing a paladin of Shelyn has when he looks at evil and names it to her face. He felt it rise in him, hot and gold and clean, and go into the spell as it left him.
 
 Three rays of fire, one after the other, from his outstretched hand.
 
@@ -768,7 +768,7 @@ He could not see. They were over his eyes. He could hear them, the soft wet slid
 
 His left hand found the Thighbone.
 
-He did not need to see it. He knew where it was the way he knew where his own heart was. The gold in it was low; he had spent it on haste and on glittering dust and on a dozen folds over a dozen days. He put his hand flat on it, inside the writhing mass of worms, and *pushed* — the thing he had never been able to explain to an elf on a forge floor, the knack, the reaching into an emptied place and filling it. He felt the gold come up in the bone under his palm, warm, one rune and another waking. And under that, deeper, the wardstone's fire. He took hold of that too.
+He did not need to see it. He knew where it was the way he knew where his own heart was. The gold in it was low; he had spent it on haste and on glittering dust and its golden runes were almost all dim. He put his hand flat on it, inside the writhing mass of worms, and *pushed* — the thing he had never been able to explain to an elf on a forge floor, the knack, the reaching into an emptied place and filling it. He felt the gold come up in the bone under his palm, warm, one rune and another waking. And under that, deeper, the wardstone's fire. He took hold of that too.
 
 He opened his mouth. A worm went in over his lip. He spat it out.
 
