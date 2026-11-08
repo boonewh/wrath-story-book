@@ -356,7 +356,7 @@ All the while, every one of them stepped round the iron circle in the middle of 
 
 ---
 
-The bedroom was through the north door of the ivory room, and it was nothing.
+The bedroom was through the west door of the ivory room, and it was nothing.
 
 A good bed, with a soft deep mattress and a carved headboard, in the northwest corner. A wardrobe and a writing desk in the other. A rug on the floor, finely woven, with a pattern in it that Thane did not look at closely because he was tired of patterns. He checked the door and found no trap and no lock, opened it, and went through the room the way he went through any room, and there was nothing in it. Clothes in the wardrobe, plain and dark and good. Paper in the desk with nothing written on it. The bed made, and smooth, and cold.
 
@@ -366,7 +366,7 @@ He stood a moment with his hand on the footboard.
 
 He did not say it. There was no use in saying it. He went out and shut the door behind him.
 
-The north door of that same room opened onto a passage, and the passage ended in another door, and that one Thane opened slowly. A crack. A finger.
+The north door of the ivory room was the last of the three, and that one Thane opened slowly. A crack. A finger.
 
 Korroc's hand came down flat on the wood above Thane's head and stopped it.
 

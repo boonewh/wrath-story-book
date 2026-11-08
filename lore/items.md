@@ -653,8 +653,8 @@ A rod **Caleth bought at some point** (when and where are not established). In t
 ## Aravashnial's Staff — FOUR PIECES, LEFT IN DREZEN *(Ch 21 → Ch 25)*
 Broken when the Woundworm took him (Ch 21 showed two pieces on Irabeth's table). **The two were only half of it — Aron's people found the rest in the tower rubble**, so it is **four pieces**. **Caleth carried all four and used them as the focus every time he scried for Aravashnial** *(a bonus the Caleth player quietly took; Lori found out at the table — "You've just been carrying it around?")*. Handed back in Ch 25 (*"Well this is unfortunate"*). **Aravashnial did NOT take it west** (GM correction) — it stayed on his study desk.
 
-## Aravashnial's Spellbook — NOT RECOVERED
-Jerribeth had it in the Molten Scar cavern (Ch 22). He asked after it in Ch 25; the party never got it back.
+## Aravashnial's Spellbook — ✔ RECOVERED *(Ch 28)*
+Jerribeth had it in the Molten Scar cavern (Ch 22). He asked after it in Ch 25. **✔ Ch 28: Caleth found it in Vang's writing desk in the Ivory Sanctum** — Aravashnial's mark on the cover, three crescent moons — and carries it in the bag. **Not yet returned** (the elf is at the bell fortress). ⚠ Whether this is the book he meant by *"He still has my book"* is not established.
 
 ## Ballista Bolts — RUNNING SHORT *(Ch 25)*
 Irabeth: *"we are already running out of ballista bolts."* The citadel's forges, the Purity Forge included (Korroc and Joran), are turning out bolt heads.
@@ -681,3 +681,69 @@ Table: an **amulet of mighty fists**. Will never mentioned it before because it 
 
 ## The Bell of Mercy — the expedition *(Ch 27)*
 **Irabeth wants it in Drezen.** Twenty went to the fortress to study it and start the logistics and rebuilding (see `characters/npcs.md` → The Bell Fortress party). **It has not moved.** Aravashnial is telling everyone it is not to be touched.
+
+---
+
+## From the Ivory Sanctum *(Ch 28)* — ⚠ ALL IN THE BAG, WHICH CALETH CARRIES
+
+## The Bag *(Ch 28)* — table: bag of holding (type IV)
+Plain gray leather, drawstring, loaf-sized; **far bigger inside than out.** Found by Thane in the **secret compartment of Vang's sarcophagus**. **Caleth carries it**, slung under his coat. Everything below went into it unless noted. In prose it is *"the bag"* or *"the magic bag."*
+
+## Vang's Spellbook *(Ch 28)*
+Black, heavy, dark-metal clasp; from the sarcophagus compartment. Caleth, in open shock: *"This is Vang's spellbook… Another for later."* ⚠ How he recognized it is not on the page. **Unread.**
+
+## The Book with the Different Mark *(Ch 28)*
+Dark leather gone soft at the corners, from Vang's shelves. **Aravashnial's three-moon mark with the middle moon full** (Will: let the prose decide the variant; tweak later if needed). Caleth took it, said nothing, and put it **inside his coat, left side** (not the bag). ⚠ **Contents, owner and meaning NOT established.** See `memory/the-three-moon-mark.md`.
+
+## The Coded Abyssal Journal *(Ch 28)*
+Cheap leather, a tie-cord; from a locked chest in the study's cave hollow. **Abyssal, in a code.** Caleth read some and slammed it shut: *"I don't like what might be in that book. That's something for later."* **Inside his coat** with the other. ⚠ Contents not established.
+
+## The Collar Sketchbook *(Ch 28)*
+From Vang's desk. **The anti-magic collar drawn page after page**, each version a little changed, with margin notes in **a language Caleth does not recognize at all.** Thane recognized the seam and catch he picked. ⚠ Do not connect the collar's green stone to the Nahyndrian crystals.
+
+## Two Empty Vials, Purple Residue *(Ch 28)*
+From the same chest. **Wrong to touch** (Thane's hand stopped; Caleth's too). Caleth lifted them in a handkerchief: *"No idea. But I could guess."* **In Caleth's belt pouch.** Thane privately takes them for **the elixirs** (Joran's account, Interlude 2). ⚠ Nobody has said so aloud.
+
+## The Platinum Coffer, the Ambrosia, and the Arrow *(Ch 28)*
+A forearm-length **coffer of solid platinum** from the sarcophagus compartment (*"would have bought a street in Kenabres"*). Inside: **a flask of ambrosia** (gold, moving like light; **Korroc and Caleth know it**) and **a single arrow**, white-fletched, laid like a jewel — **table: Fortune's Arrow.** ⚠ **Unnamed in prose; no powers on the page.** Thane handled it.
+
+## Vang's Trophies *(Ch 28)*
+Kept loose together in the compartment: **a man's gold signet ring**, **a holy symbol of Iomedae** on a broken chain, **a holy symbol of Torag**, **a mithral leaf pendant**, and more. Korroc: *"He keeps trophies."* ⚠ **Not examined; owners unknown** (Will). Do not identify any.
+
+## The Rest of Vang's Study *(Ch 28)*
+Papers needing study, potions, wands, rods and scrolls from the shelves, unnamed magic items. All in the bag. ⚠ Not itemized at the table; do not invent.
+
+## The Word Flask — a fireball *(Ch 28)* — NAGERU
+A small thick glass flask from Vang's shelves. **Caleth cast a fireball into it**; *"Throw it. When it breaks, it will be a fireball."* **Nageru carries it** in his wraps. **Not yet used.**
+
+## Vang's War-Room Papers *(Ch 28)*
+From the map table, saved from the locust swarm by Caleth's ice; a **rune trap** on the top sheets (triggered by reading) **disarmed by Thane** with ink across the joins. Contents: **hidden agents, hidden tunnels, hidden shrines, army movements, and maps with tentative schedules of elixir distribution.** **Caleth carries them. To Aron first (he asked), and Irabeth must learn of them.**
+
+## The Kitchen's "Off Limits" Box *(Ch 28)*
+**Five bottles of wine and candied fruit, the expensive kind.** *"We'll enjoy that."* Plus a stack of arcane scrolls from the kitchen shelves.
+
+## The Sanctum Forge's Weapons and Tools *(Ch 28)*
+- **Weapons:** a rack of good ones and a rack of damaged ones the black-robed woman was **repairing and enchanting as unholy** (one still carries a purple sheen; Caleth wrapped it). Nageru: Korroc and Thane could **turn them on the Purity Forge.**
+- **⚠ A master's tools** — fine tongs, a file, a graver, a finger-length hammer, punches in a leather roll. **Korroc is taking them home.**
+- Plus the chests, books, jars and reagents from her tables. All in the bag.
+
+---
+
+## Session 29 recoveries — Vang's trophy room *(Ch 29)*
+Taken off **invisible shelves** in the lead room behind the robing room (only Caleth could see them; each item became visible when taken down). All in **Caleth's bag of holding** unless noted.
+- **Yaniel's armor: +3 mithral full plate** (Will). The armor of the paladin who carried Radiance in the Fourth Crusade and fell at the gates of Drezen. **Radiance pulsed once when Caleth lifted it.** No powers in prose beyond what the table names. What becomes of it is not established.
+- **The books stolen from the Blackwing Library**: a whole shelf. Caleth **recognized the library's marks and symbols** (not described in prose). *"A great deal of this was taken from the Blackwing Library."* ⚠ Caleth wants to search them for his parents' names and has not. Contents not established.
+- **Armor, weapons, chests** (a shield, a sword with a broken guard and a red pommel stone, a crestless helm, small heavy chests): unidentified; *"we'll keep it at that"* (Will).
+- **A staff of healing: KORROC'S**, slung across his back. *"There's healing in this. A lot of it."*
+
+## Fortune's Arrow *(Ch 28 coffer; Ch 29)*
+The single white-fletched arrow from Vang's platinum coffer (table name **Fortune's Arrow**; **unnamed in prose**). **Thane shot it at Vang in Ch 29 and missed**; it is **recoverable**, and **Thane picked it up** in the entrance chamber afterward. Powers not stated in prose.
+
+## Radiance's stored spell *(Ch 29)*
+**Spent into Vang**: lightning laid in at the Purity Forge, **released as cold** through Caleth's inversion, freezing the worms along the blade. ⚠ It is now **empty**; whether and when Caleth recharges it is not established.
+
+## The Pauper's Thighbone *(Ch 29 note)*
+Used for haste and glittering dust, then **recharged mid-fight by Caleth's knack** before his self-centered fire. ⚠ No rune is recorded as gone dark (Will: fine to gloss).
+
+## Caleth's permanent sight *(canon from Session 29)*
+**See invisibility and darkvision**, made permanent (permanency) at 9th level, after Drezen was taken (Will).

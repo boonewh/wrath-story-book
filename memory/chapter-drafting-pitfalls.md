@@ -122,3 +122,27 @@ Related: [[the-rift-at-the-molten-scar]] (the purple-light error and its correct
 - **A new standing mechanic:** **Korroc's life link has a range** and drops when someone is teleported away, then returns. It made a good POV beat. **Ask how a mechanic behaves at distance** before leaning on it.
 
 **Self-caught before handoff:** invented numbers (*"a hundred miles"*), invented backstory texture (shield dents from named fights, a childhood detail), a timing slip (*"two nights ago"* for last night), and Caleth "sliding twice" where Will said once. **Re-read every relative time phrase against the session's day count.**
+
+## Addendum — Ch 28 (2026-11-07)
+
+**Step A worked a fifth time.** Thirty-eight questions; Will answered all of them and the draft went in without corrections. What they caught:
+- **A count that did not add up** ("two sets of doors and one single" — it was three pairs). ⚠ **When a count looks wrong, ask; Will confirmed it was a typo.**
+- **A pronoun:** *"'This is magic.' Caleth turned his head"* — Caleth said the line; **Nageru** answered (*"My friend…"*). Ask every time a line's speaker is not certain.
+- **A truncated last line** (*"put in the"*) that was also **the end of the session with no ending**. Will asked for an invented close; the chapter ended on a short pause and the unopened stair, nothing that commits the table.
+- **GM inline instructions** (*"AI, feel free to make it better"*, *"do whatever you think a rogue would do"*) are invitations, not text. Will steered both (solemn, not funny; ink to alter the rune).
+- **Spellings:** coloxus checks out against the AP; *hezoru* → **hezrou**, *Stauton* → **Staunton**. Will (2026-11-07): he types during play; **fix spellings to the game's silently** and don't make a point of it.
+- **Self-caught before handoff:** a **finality slip** (*"the dead man's book"* for Vang's), an **invented count** (*"eight soldiers"*, which committed the escapee to being a soldier when Will said nobody knows), and an **invented language roster** for Caleth (Celestial). ⚠ **Re-check any sentence that quietly answers an open question** — who the escapee was is exactly the kind of thing a stray number settles.
+
+## Addendum — Ch 29 (2026-11-08)
+
+**Step A worked a sixth time.** Thirty-seven questions; Will answered them all in one message. What they caught:
+- **A speaker swap:** *"So you don't wish to concede?"* is **Caleth's** line and *"Oh no, come on my boy"* is **Vang's**. The notes run them together. **Ask about every line whose speaker is not tagged.**
+- **An interrupted sentence that was deliberate** (Caleth cut Vang off). **When a line breaks off, ask whether it is a typo or a beat.**
+- **Geography the notes could not carry:** "the room behind the group" was one long hall (entrance chamber, middle room, temple). Ask for the layout of any fight that spans rooms.
+- **Status rules:** demons are banished for a hundred years, not killed ([[demons-banished-a-hundred-years]]). **Vang: destroyed, but the killing blow is uncertain at the table**, so it was written as Caleth's uncertainty.
+- **New canon hiding in a throwaway line:** *"I can see invisibility... put the ability on himself permanently"* was not in any file (permanency at 9th level). **A character "remembering" an ability is a flag to ask when it was got.**
+- **A creature named by a character but not by the notes** (shadow demons): Will said *not connected to anything fought before*, even though Eustoyriax was a shadow demon. Do not link on the page.
+- **Advancement came in this session:** Level 12, Caleth Mythic 5. Ask every time.
+
+**Self-caught before handoff:** invented backstory for Caleth (a reading room at seven, a Spire swordsman, a catalog he held), an invented Blackwing device (*a wing and a book*; Will said only "marks and symbols"), invented armor details (cut for a woman, a long scar), an anachronistic **"half a century before he was born"** (Yaniel fell half a century ago), and stale relative times (*"two months"*, *"two days"*). **Re-read every piece of new backstory as if it were a proper noun: if the notes or files don't have it, cut it or keep it vague.**
+

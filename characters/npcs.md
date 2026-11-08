@@ -30,6 +30,8 @@
 ---
 
 ### Aravashnial
+**⚠ Ch 28 (offstage — he is at the bell fortress): HIS SPELLBOOK IS RECOVERED.** Caleth found it in **Vang's writing desk** in the Ivory Sanctum and carries it in the bag. ⚠ Whether it is the book he meant by *"He still has my book"* is NOT established. **And a second book on Vang's shelves bears his mark cut with a difference** — three crescent moons, **the middle one full**. Thane saw it; Caleth took it and said nothing. ⚠ **What it is and whose it was are NOT established.** See `memory/the-three-moon-mark.md`. **His mark (canon from Ch 28): three crescent moons in a row, horns up** — on every page of his notes and the spines of his books.
+
 **⚠ STATUS (Ch 27): AT THE BELL FORTRESS** with Irabeth's study party (Aron, Anevia, soldiers, a Drezen wizard, camp staff, engineers), leg out on a crate, **telling everyone the bell is not to be touched.** Still cannot cast. **He now holds the anti-magic collar** (Will). **Korroc's life link has a range**: it went when Caleth folded him out of Drezen, came back when the party arrived at the fortress, and frayed out again as they rode away.
 - **In the Ch 27 briefing he heard everything**: the Sanctum in the **Green Gate, southwest of Drezen**, pointed out on the map; Vang; the Blackfire adepts. ⚠ **He did not react** (Will). *(This is the man who asked Caleth at the Gray Road where Vang is. Caleth has still told nobody.)*
 - **The conjured-mounts scroll came out of his archives.** He did NOT scribe it (he cannot cast; Will corrected the notes). Caleth copied it into his book.
@@ -513,6 +515,10 @@ It took an hour and a half. **Nobody else on that rock knew the room existed** �
 ---
 
 ### Arueshalae
+**Ch 29: SHE WAS NAMED, AND SHE HELD.** Vang called her ***"the broken one."*** She said nothing. She kept to the doorways through the robing-room fight (unhurt), then in the temple fight **went forward to shoot at the kalavakus, was clawed, tried to fly clear and was dragged down by the ankle**, and fought with her bow across her body until Nageru banished the last of them. **Korroc healed her** (she is not on the life link). At the end she is the one who says it is not over: ***"There are still rooms we have not looked at. Several. And there is still the one who guards the front door"*** (the basilisk). ⚠ **Not on the page:** what she knew of the trophy room or the temple.
+
+**Ch 28: IN THE SANCTUM, OUT OF THE WAY.** She **kept watch at doorways** through the search (in and out of Vang's study, the war room, the forge), **shot a templar down with three arrows** in the training room, and otherwise stayed out of everyone's way (Will). **After Thane's confusion she looked at him a long moment** with something quieter than pity, then looked away. ⚠ She said nothing about any room; **what she knows of the house's layout is not on the page.**
+
 **⚠⚠ Ch 27: SHE GAVE THEM THE IVORY SANCTUM, AND SHE IS LEADING THEM IN.**
 - **In the command room** (Caleth questioning; Irabeth, Aron, Anevia, Sosiel, Aravashnial and the late-arriving Horgus present): **Vang** leads the Sanctum; **Hepzamirah**, daughter of Baphomet, leads the cultists and is **in the Abyss harvesting Nahyndrian crystals for the elixirs**; *"Many"*; killing Vang and destroying the Sanctum **stops one** delivery point. ⚠ **The Sanctum is hidden in the GREEN GATE, SOUTHWEST OF DREZEN.** She pointed to it on the map; *"hidden by a veil. Maybe two"* (the veil is **on the front door**, Will). Defenses: **Jerribeth, templars, a basilisk at the front door, followers of Baphomet, Blackfire adepts**; *"just a handful. But they were formidable."* Vang is *"not a single thing any more"*; she has never met him; **he wants to catch her and turn her back** (per **Jaruunicka**, the hag). *"That is up to you"* to *"what if I don't trust you?"*
 - **Sosiel took her away** that night. Next day **bandaged and healed**, wing dressed. **Nobody has taken her bow, quiver or armor** (Will). Soldiers on the walls stopped and watched her cross the court; whispers in every hall.
@@ -697,9 +703,18 @@ It took an hour and a half. **Nobody else on that rock knew the room existed** �
 ---
 
 ### Xanthir Vang — "The Worm That Walks"
+**⚠⚠⚠ Ch 29: DESTROYED — AND THE PARTY BELIEVES SO** (Will, 2026-11-08). Met at last in the Sanctum's long entrance hall (the middle room, between the empty entrance chamber and the goat-statue temple), with **Jerribeth, two half-fiend minotaurs and four templars.** He spoke first, to Thane on the stair: *"Ah, they sent the quiet one first."* Then: *"No more games, come on out. Let's talk."* To Arueshalae: *"Ah, you've brought the broken one with you."* *"I do not appreciate you breaking into my home."* He wanted to know how the wardstone had changed them, and offered to stop *"if one of you will stay here with me, and —"* **Caleth cut him off on purpose.** He showed his face: **a head of writhing worms with two red points for eyes.** Caleth: *"So you don't wish to concede?"* Vang: ***"Oh, no. Come on, my boy. No. No."***
+- **His magic (story terms; no spell names in prose):** made himself invisible and flew to the vault (Caleth saw him; **Korroc's lifesense felt him as thousands of lives**); a **thin green ray that unmakes** (into Korroc, mostly resisted); **a pit**; **shackles** (Nageru evaded); **a life-draining cloud** over the party. Blinded and made visible by Caleth's glittering dust; burned by three smite-fed rays of fire.
+- **The end:** he landed in front of Caleth; **Radiance went through him** and **its stored spell, released as cold, froze the worms on the blade**; **the worms left the body and swarmed Caleth**, who said ***"You killed my father. You killed my mother"*** and **detonated fire from his own body**, flinging them burning across the hall; then **a mythic fireball over the scattered worms.** **Not one moved afterward.** ⚠ **He had a contingency of temporary vitality**, so the table is not certain which blow killed him (the fireball is likeliest), but **he is destroyed and the party believes it.**
+- **Caleth's Spiral burned from the landing on and stopped hurting after the fight.** ⚠ Whether his death is what stopped it is NOT established.
+- ⚠ **Still open after his death:** the seven-armed rune · the coded journal · the collar sketchbook's language · whose the three-moon book is · whose the trophies were · **whether he was really "finding" Caleth through the Spiral** · how Aravashnial knew the Lantern Seer's vision · what was done to Aravashnial.
+- **His trophy room (Ch 29):** behind an arcane-locked secret door in a robing room off the forge passage, **a lead-lined chamber of necromantic runes** that tried to take a memory from Caleth and held a **thanadaemon**; on **invisible shelves**, **Yaniel's armor (+3 mithral full plate)**, **the books stolen from the Blackwing Library**, armor, weapons, chests, and a staff of healing. *"A great deal of this was taken from the Blackwing Library."*
+
+**⚠⚠ Ch 28: THE PARTY WENT THROUGH HIS ROOMS, AND HE WAS NOT IN THEM.** **Not found; the party is still looking** (Will). From his study: **his spellbook**, **Aravashnial's spellbook** (in his desk), **a book bearing Aravashnial's mark cut with a difference** (see `memory/the-three-moon-mark.md`), a **coded Abyssal journal** Caleth did not like, **two empty vials with purple residue**, **a sketchbook of the collar's iterations** in a language Caleth cannot read, and **trophies of his victims** kept loose in a box (a signet ring, symbols of Iomedae and Torag, a mithral leaf pendant, more — unexamined, unidentified). **His sarcophagus, a bed of worms where Caleth judged he sleeps, was smashed by Korroc.** A seven-armed rune in iron sits in the study floor, unidentified. His bedroom looked unslept-in. ⚠ **A man escaped the training-room fight unseen**, so the house likely knows the party is inside.
+
 **⚠ Ch 27:** **He holds the Ivory Sanctum only because Hepzamirah is away** in the Abyss harvesting crystals. **The Sanctum is in the Green Gate, southwest of Drezen.** He **leads the Blackfire adepts**, who are *"what Vang is"*. Arueshalae: *"not a single thing any more."* She does not know his weaknesses or whether he has drunk an elixir. He **wants Arueshalae taken and turned back.** **⚠ The retrievers are his.** Three stood in the Sanctum's back-way cavern; Caleth said aloud that the ones that chased Aravashnial home came from here. **⚠ Caleth's third dream** (his alone): Vang at a table of Nahyndrian crystals, *"Four living examples. Four opportunities to understand what the Wardstone accomplished,"* torturing a chained man with a familiar voice, and calling Caleth ***"Another interesting specimen."*** ⚠ A dream: atmosphere, not a map. The chained man is NOT identified.
 
-**Status:** Active. **⚠⚠ AS OF Ch 22 HE IS THE CAMPAIGN'S PRIMARY ENEMY, HE HOLDS ARAVASHNIAL, AND HE KILLED CALETH'S PARENTS.**
+**Status:** ✔ **DESTROYED (Ch 29).** *(Previous: Active. AS OF Ch 22 HE WAS THE CAMPAIGN'S PRIMARY ENEMY, HELD ARAVASHNIAL, AND KILLED CALETH'S PARENTS.)*
 
 **Role:** A **worm that walks.** Blackfire Adept, servant of Deskari, **leader of the Templars of the Ivory Labyrinth**, operating from the **Ivory Sanctum** (✔ Ch 27: **the Green Gate, southwest of Drezen**; earlier: location unknown; Templar documents in Ch 21 place it vaguely *"in the Marchlands"*). Connected to the distribution of **Nahyndrian elixirs**. Records place him in the **Third Crusade, then still a man of flesh and blood** — over seventy years ago.
 
@@ -901,6 +916,7 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
 ---
 
 ### Yaniel
+**⚠ Ch 29: HER ARMOR WAS FOUND** on Vang's invisible trophy shelves in the Ivory Sanctum: **+3 mithral full plate** (Will). **Radiance pulsed once in Caleth's hands when he lifted it**, as it did at the gates of Drezen, and that is how he knew it. It is in the bag of holding. What becomes of it is not established.
 **Status:** Dead, decades past.
 
 **Role:** Paladin of Iomedae who carried Radiance during the Fourth Mendevian Crusade. Fell at the gates of Drezen.
@@ -1143,6 +1159,9 @@ An **old Sarkorian priestess of Erastil**, pre-Worldwound. Taught that cities we
 
 ### Jerribeth — "my mistress"
 
+**⚠⚠⚠ Ch 29: A GLABREZU, REVEALED — AND BANISHED.** She stood beside Vang in the entrance hall, seething. **Frozen in Caleth's cone of cold**, then burned out of the ice by his chain of fire, and then **she transformed: a vast dog-headed demon with four arms, two clawed and two ending in great pincers.** Korroc: ***"Huh. Not a succubus."*** Caleth: ***"Definitely not a succubus."*** She went for Caleth (claw, bite, pincers; Radiance deep into her; she **bit him on the left shoulder over the Spiral**). **Nageru rolled away from two demons, crossed the hall and smote her six times: *"You will not get away again!"*** **She was banished to the Abyss.** **Table rule (Will): demons are not killed on the Material Plane. They are banished home and cannot return for a hundred years.** ⚠ **So she is out of the story for a century, not dead.** Do not write her as dead.
+- **⚠ THE GM SECRET IS NOW PUBLIC: she was a glabrezu all along.** The party's "succubus" belief is retired. The older rule ("the party must go on believing she is an elf/succubus") is **closed**.
+
 **✔✔ Ch 22: MET IN PERSON, CONFIRMED A DEMON, WOUNDED, ESCAPED.**
 - She was in the cavern holding Aravashnial — **dressed well, unarmored, completely at ease** among a dozen templars and a Woundworm, reading Aravashnial's spellbook while she walked. Caleth's read: beautiful *"in the deliberate, constructed way of a portrait rather than a face,"* and standing in the middle of killers *"the way a person stands in their own hall."*
 - ⚠ **SHE IS PROVABLY A DEMON AND THE PARTY KNOWS IT.** **Caleth's smite fired and Radiance's greater demon bane bit** — two confirmations in one thrust — and **he announced it across the room**: *"She's a demon. Radiance has her."* Thane: *"Of course she is."* **Do not write anyone still wondering.**
@@ -1307,3 +1326,17 @@ Arueshalae's name for them. **Three stood motionless in the cavern on the Sanctu
 
 ### The Bell Fortress party *(Ch 27)*
 Twenty, carried by Caleth in five folds: soldiers, **Aron**, **Anevia**, **Aravashnial**, **one of Irabeth's wizards** (unnamed; takes over the teleporting), camp staff and engineers. They have **a camp inside the fortress wall**, are **dragging the dead drake out of the nave**, and are arguing over the tower. **Aron's charge to the five:** *"When you need to rest or when you're finished… you come back here. Not to Drezen… We need to be kept in it."*
+
+---
+
+## New in Session 28
+
+### The Coloxus in the war room *(Ch 28)*
+A fly demon: a tall man's shape in **an elegant, beautifully cut red coat** with gold at the cuffs, a **fly's head** with huge red faceted eyes and working mouthparts, gauzy wings folded down its back, and **bristle-like hair** over head and hands. Korroc named it from his studies (*"Coloxus"*; AP spelling confirmed). With two templars over Vang's map table. **It swept the locust jar to the floor and confused Thane**, who banished it with a confused swing. Its spell outlasted it.
+
+### The templars and the black-robed casters *(Ch 28)*
+- **Training room:** **seven templars** (dark half-armor, maces) and **two black-robed casters** (grease, a stinking cloud, a slow, magic missiles), all dead — **plus one who escaped unseen** from the back of the room. ⚠ **Whether he was a soldier or a caster is not known** (Will). Thane's joke: *"a spell for getting the hell out of here."*
+- **War room:** **two templars**, dead.
+- **The barracks has nine beds** — Thane's count matched the nine dead templars.
+- **The forge:** **a woman in black robes** enhancing weapons with an unholy working (a sick purple light in the steel); *"Who are you and what do you think you are doing?"*; **summoned a hezrou**; magic missiles; **killed by Thane.** Unnamed.
+- ⚠ **The party suspects the black-robed casters are Blackfire adepts** (it fits Arueshalae's description) **and does not know for sure** (Will). Do not confirm.

@@ -1,11 +1,22 @@
 ---
 name: xanthir-vang-and-the-note
-description: Ch 22 - Xanthir Vang killed Caleth's parents, and Aravashnial wrote it down for him and never handed it over. The note quotes a vision Caleth has never told a living soul. Vang has now noticed Caleth.
+description: Ch 22 - Xanthir Vang killed Caleth's parents, and Aravashnial wrote it down for him and never handed it over. The note quotes a vision Caleth has never told a living soul. Ch 29 - VANG IS DESTROYED (Caleth's fire), and Caleth told the party aloud that Vang killed his parents.
 metadata:
   type: project
 ---
 
 **The largest single revelation in Caleth's arc since Chapter 1, and the campaign's clearest enemy thread out of Book 2.**
+
+## ⚠⚠⚠ Ch 29 — VANG IS DESTROYED
+
+**Will, 2026-11-08: Vang is destroyed, and the party believes so.** In the Sanctum's long entrance hall he landed in front of Caleth; Radiance went through him, its stored spell released as cold, **the worms swarmed Caleth**, and Caleth said aloud, with them over his face, ***"You killed my father. You killed my mother."*** Then **he detonated fire from his own body** and **dropped a mythic fireball over the scattered worms.** Not one moved afterward.
+- ⚠ **Vang had a contingency of temporary vitality**, so the table is not sure which blow killed him (the fireball is likeliest). The chapter plays it as Caleth's frustration: he wanted to burn the floor again and could not be *sure*. **Do not reopen it** ("he survived as a worm") without the table.
+- **The party now knows Vang killed Caleth's parents.** They do not know who the parents were, that they were Riftwardens, or that Aravashnial is Caleth's uncle. *(Will: the line was his call to make verbal; Richard may adjust it.)*
+- **Before the fight:** *"No more games, come on out. Let's talk."* Vang offered to stop if *"one of you will stay here with me, and —"*; **Caleth cut him off on purpose** (*"No. You will stop because you will die."*). Caleth: *"So you don't wish to concede?"* Vang: ***"Oh, no. Come on, my boy. No. No."***
+- **The Spiral burned from the landing on and went quiet after the fight.** ⚠ Whether his death stopped it, and whether he was ever really "finding" Caleth through it, is NOT established.
+- **Caleth looked for Vang's shadow on the floor and could not tell** (moving robes, brazier light). The Lantern Seer's third vision is not resolved on the page; do not resolve it.
+- **Caleth reached Mythic Tier 5 this session** (Will's expectation came true).
+- **Still open:** how Aravashnial knew the Lantern Seer's vision · what the parents' mission was · the three-moon book · the coded journal · the seven-armed rune · what was done to Aravashnial.
 
 ## The note
 

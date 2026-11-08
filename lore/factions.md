@@ -43,6 +43,8 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 
 **Type:** Demon-sworn cult. Servants of **Baphomet,** the Lord of Beasts and Demon Prince of Minotaurs, master of the Ivory Labyrinth.
 
+> **⚠ Ch 29: Xanthir Vang, master of the Templars in this region, is DESTROYED** in the Ivory Sanctum. Four templars died with him. See `characters/npcs.md` → Xanthir Vang.
+
 **Mission:** Infiltrate, corrupt, and destroy from within. They pose as crusaders, priests, scholars, and merchants while serving Baphomet and (in the larger plot) **Deskari**, the Lord of the Locust Host.
 
 **Methods:**
@@ -326,6 +328,25 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 77. **⚠ CALETH'S THIRD DREAM (his alone)**: Vang studying *"four living examples"* of *"what the Wardstone accomplished"*, and a chained man with a familiar voice. ⚠ **Who the man is, and whether he is real, is not known** (Will).
 78. **⚠ SOMEBODY WATCHED THE CAMP** the night before the Green Gate, or Thane thinks so. Nothing came. **Never explained.**
 79. **Fiendsplitter is in Irabeth's keeping** in Drezen, lent. Korroc means to come back for it.
+
+**New from Session 28:**
+80. **⚠ VANG IS NOT IN HIS ROOMS.** The party searched his study, bedroom and sleeping place (a sarcophagus of worms, now smashed) and has not found him. **Still looking.**
+81. **⚠⚠ A BOOK WITH ARAVASHNIAL'S MARK CUT WITH A DIFFERENCE** (the middle moon full), from Vang's shelves. Caleth took it and said nothing; Thane read it as a second son's mark. **Whose it is and what is in it are open.** See `memory/the-three-moon-mark.md`.
+82. **Vang's spellbook and Aravashnial's spellbook are in Caleth's hands** (unread). Whether the latter is what *"He still has my book"* meant (item 70) is still open.
+83. **⚠ THE COLLAR WAS DESIGNED, AND REFINED.** A sketchbook of its iterations in **a language Caleth cannot read at all.**
+84. **⚠ THE WAR-ROOM PAPERS** — hidden agents, tunnels, shrines, army movements, elixir distribution schedules. **To Aron, then Irabeth.**
+85. **⚠ ONE MAN ESCAPED UNSEEN** from the training room. The Sanctum likely knows the party is inside.
+86. **The black-robed casters may be Blackfire adepts.** The party suspects; nobody knows.
+87. **The seven-armed rune** in Vang's study floor — unidentified; Caleth thinks it is set against the good. **The stair down** off the north hallway is unexplored.
+88. **Two empty purple-stained vials** — Thane privately reads them as **the elixirs**; unsaid.
+
+**New from Session 29:**
+89. **✔ XANTHIR VANG IS DESTROYED** (Ch 29), and the party believes it. The Templars of the Ivory Labyrinth in this region and the Blackfire adepts have lost their leader. ⚠ **Hepzamirah**, who leads the cultists and is harvesting crystals in the Abyss, is untouched; **what the Sanctum's fall does to the elixir supply is not established** beyond Arueshalae's *"stops one delivery point."*
+90. **✔ JERRIBETH WAS A GLABREZU** and is banished for a hundred years (table rule for demons). The party knows what she was now.
+91. **⚠ THE BLACKWING LIBRARY'S STOLEN BOOKS AND YANIEL'S ARMOR** are in Caleth's bag. What is in the books, and whether Caleth finds his parents in them, is open.
+92. **The Sanctum is not cleared.** Arueshalae: *"several"* rooms unlooked-at, and **the basilisk at the front door.** The temple's red curtains are unexplored.
+93. **⚠ Caleth's Spiral went quiet after Vang died.** Why is open. **The party now knows Vang killed Caleth's parents** (he said it aloud).
+94. **The whole Sanctum blocks teleportation** (Will).
 
 **New from Session 20:**
 22. **⚠ JERRIBETH.** A name engraved on the back of a Baphomet symbol taken off a dead clanliege, and a description — *"a beautiful elf woman"* — from a frightened barbarian. She recruited **Marhevok Grunhuld-Wintersun**, gave him a scrying token he thought was an honor, promised him command in her armies, and left him raiding the crusade's supply road for a year without ever sending for him. **Caleth threw the token in a pool rather than carry an open window on his back.** ⚠ *The party believes she is an elf. Keep them believing it — see `characters/npcs.md`.* **This is the clearest new enemy lead out of Book 2's aftermath.**

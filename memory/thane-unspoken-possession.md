@@ -22,6 +22,14 @@ The chapter is structured to walk him up to the door and let him fail to open it
 - Afterward he stood **three feet away** and watched Korroc kneel in front of a total stranger and offer him atonement — *"just because a demon has warped your mind doesn't mean you're beyond redemption"* — and understood that **nobody has ever said that to him, for the excellent reason that he arranged it that way.**
 - He tried. The narration gives him *"Say something"* and then *"You could just say it,"* and **a man who can pick any lock ever made could not open that one.** He told himself *later*, knew exactly what kind of word that was (he had used it at the vampire-spawn cages in Ch 17 and did go back for those), **and let it stand.**
 
+## ⚠ Ch 28 — "THAT'S TWICE"
+
+A coloxus **confused** him in Vang's war room (not a possession; no demon wore him — his own hands, with nobody steering). He did not know one face in the room, **stabbed his own leg twice, knifed Nageru, and put the punch dagger into Korroc's side** — and came back **knowing he had been there for all of it**, the Ch 18 cold (*"Not again"*). He called his cousin **"Korroc"** for the first time in his life. Korroc: *"There's nothing you could've done."* Thane thought *I was there. I watched* — and **did not say it.**
+
+Then, in the forge pause, to **Nageru** (the one who pulled both blows, then and now): *"You pulled them."* / *"Yes."* / ***"That's twice."*** — **"Yes. Twice."** Nageru heard what was said and what was not, **and did not push.** Thane did not go through the door. *"Later"* — but nearer: *"A door you have stood in front of twice is not the same door it was the first time."*
+
+⚠ **Still nobody knows he was awake inside Eustoyriax.** "Twice" refers only to the pulled punches, which everyone saw. **The Nageru door is now the most-used of the three; keep it his to finish.** And **Caleth's *"I understand"*** (Ch 28) carried weight Thane heard and could not place — the Ch 15 parallel is still unspoken on both sides.
+
 ## How to apply
 
 - ⚠ **DO NOT RESOLVE THIS OFF-SCREEN, and do not have another character gently draw it out of him in a quiet scene.** When it comes out it has to cost him something to say, and it should probably cost him in front of somebody rather than to them.

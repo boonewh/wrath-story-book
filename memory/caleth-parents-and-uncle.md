@@ -32,6 +32,10 @@ metadata:
 - **Who burned the certificate**, and how Aravashnial came by it.
 - **How Aravashnial knew the Lantern Seer's third vision** (from Ch 22). Caleth hasn't found it in the journal "yet."
 
+## ⚠⚠ SESSION 29 — HE SAID IT TO VANG, OUT LOUD
+
+With the worms over his face: ***"You killed my father." / "You killed my mother."*** **Korroc, Thane, Nageru and Arueshalae heard it.** So the party now knows **Vang killed Caleth's parents.** They still do NOT know the parents' **names**, that they were **Riftwardens**, that **Aravashnial is his uncle**, or anything in the letters. **Vang is destroyed.** In the trophy room Caleth found **the Blackwing Library's stolen books** (the Riftwardens' library; only Caleth knows that) and **wanted to search them for his parents' names, and did not**, not yet. **The Spiral went quiet after the fight**; why is open.
+
 ## ⚠ SESSION 24 — THE PARTY HAS SEEN THE SPIRAL
 
 - **Daytime vision, Sesker's Gully** *(content from the session notes; Ch 24 is Thane's POV and shows only the outside)*: pain across the shoulder; old paper, dust, something bitter and medicinal, something rotten; robes rustling and **thousands of tiny wet movements**; a man's voice beside his ear — ***"Interesting."*** One or two seconds. From outside: he froze mid-breath with his hand on his left shoulder blade and did not answer Thane or Nageru until **Nageru's hand on his other shoulder** brought him back. ***"Whatever took Aravashnial has been watching me."*** Nageru: *"Well. That is unpleasant."* He used **a wand against detection** on himself — *"It probably won't help."*

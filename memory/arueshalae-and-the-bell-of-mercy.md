@@ -5,6 +5,10 @@ metadata:
   type: project
 ---
 
+> **Ch 29:** Vang called her ***"the broken one."*** She kept to doorways in the robing-room fight; in the temple she was clawed and **dragged out of the air by a kalavakus** and fought with her bow across her body until Nageru banished it; **Korroc healed her.** She closed the session: ***"There are still rooms we have not looked at. Several. And there is still the one who guards the front door."*** ⚠ What she knew of the trophy room or temple is not on the page.
+
+> **Ch 28:** inside the Sanctum she kept watch at doorways, shot a templar, stayed out of the way (Will), and said nothing about the house. She looked a long moment at Thane after his confusion. ⚠ What she knows of the layout is not on the page.
+
 > **⚠⚠ Ch 27: THE SANCTUM IS LOCATED, AND SHE IS LEADING THEM IN.**
 > - **The Ivory Sanctum is in the GREEN GATE, SOUTHWEST OF DREZEN.** She pointed to it on the command-room map. This **supersedes "location NOT established"** below. The veil is on the front door; they went in **by the back way**, which she knows from coming and going *"as one of them."* Full route in `lore/worldwound.md`.
 > - She named **Hepzamirah** (daughter of Baphomet; leads the cultists; in the Abyss harvesting crystals for elixirs) and the hag (**Jaruunicka**). Vang **wants her captured and turned back.**

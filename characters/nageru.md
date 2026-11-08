@@ -98,7 +98,22 @@ His blood manifests in:
 - Charge: **Divine Smite empowerment for one fight** — for a duration, his unarmed strikes count as good-aligned, magic, and overcome demonic resistances.
 - Used in Chapter 3 against the dretches, and again in Chapter 7 to unmake more of them.
 
-## Current State (End of Session 27)
+## Current State (End of Session 29)
+
+### ⚠⚠ SESSION 29 — "YOU WILL NOT GET AWAY AGAIN" (Ch 29, Caleth POV)
+- **Ran past Caleth into the lead room** and hit the thanadaemon four times; took its staff three times; **banished it** with four more. **Tumbled out under the last shadow demon** and banished it.
+- **Fight below:** dropped **two templars** (all four died). **Three kalavakus** (unnamed in prose) came at him and Arueshalae from behind the goat-headed statue; he was clawed, bitten, gored. **⚠ SAW CALETH IN JERRIBETH'S JAWS, ROLLED OUT FROM HIS OWN DEMONS, AND SMOTE HER SIX TIMES — *"You will not get away again!"*** (the first time Caleth has heard him shout). **She was banished** (glabrezu; barred for a hundred years). Caleth: *"Thank you."*
+- Dodged Vang's **shackles**; healed by Korroc; **banished all three kalavakus** (the last while Arueshalae was held down).
+- **The fireball flask is still unthrown.**
+- **⚠ ADVANCEMENT: LEVEL 12** (Will, 2026-11-08). Tier unchanged at **5**.
+
+### ⚠ SESSION 28 — HE PULLED THEM TWICE (Ch 28, Thane POV)
+- Pushed back the lid of Vang's sarcophagus (worms). ***"My friend, we seem to have found Vang's inner sanctum. I think almost everything in here is magic."*** **⚠ HE CARRIES A WORD FLASK WITH A FIREBALL IN IT** (Caleth's casting): *"Throw it. When it breaks, it will be a fireball."* Eyebrow up; chuckled; stowed it in his wraps. **Not yet thrown.**
+- Training room: first through the door after Korroc's holy fire; **put down six templars** (one, two, then three); shook off a robed caster's **slow**; took mace hits.
+- War room: hit the templar who cut Thane, then **killed him**. **⚠ THANE KNIFED HIM** under the ribs while confused; **he answered with two punches, pulled** (nonlethal). Afterward: ***"Brother. I know."***
+- Forge: came in behind the hezrou and **smote it five times**, dodged its fists, smote again. Suggested the cousins **turn the unholy weapons on the Purity Forge**.
+- **⚠ "THAT'S TWICE."** In the pause, Thane: *"You pulled them."* / *"Yes."* / *"That's twice."* — **"Yes. Twice."** He heard what Thane said and what he did not, **and did not push.** ⚠ He was the one who put Thane down with pulled strikes in Ch 18 too. **He does not know Thane was awake inside the possession**, and nothing he said assumes it.
+- **Advancement: none** (Level 11, Mythic 5).
 
 ### SESSION 27 — HE GUIDED THE SITTING (Ch 27, Korroc POV)
 - **Spoke for Arueshalae** in the command room: ***"My friend, think about this. She has been touched by Desna herself… She is not what she used to be, that is obvious."***
@@ -241,7 +256,7 @@ Lyra's instructions, in her order: **find the fane. If it was destroyed, learn i
 - **Ch 20 — he stood against the wall for the whole of a stranger's atonement**, and was still there days later when the party came to say goodbye, and said nothing about any of it. Jesker named him unprompted: *"Your friend was there for all of it."* Korroc: *"He would be."*
 
 - ~~**⚠ HE HAS NOT HAD A POV CHAPTER SINCE Ch 13**~~ **✔ RETIRED by Ch 21 (POV).** Kept for the record: **seven chapters as of Session 20**, and Session 20 he was not even present for. Ch 18's and Ch 20's beats are strong but all *witnessed from outside*, which is exactly the wrong way round for this character. **He is badly overdue, and he is still the only PC without a character song.** ⚠ **The fane remains the natural spine of that chapter — and it is still true that receiving a summons is not the same as answering it. Spend him when they actually go.**
-- **⚠ Level 11 · Mythic Tier 5** — **Level 11 as of Session 24. Tier 5 since SESSION 22** (Will, 2026-10-04): the fane put him one ahead in Session 21, and he went up again when the other three reached 4. *(This file and the website had him at 4 through Session 23 — wrong.)* See `memory/mythic-tiers-personal-quests.md`. Earlier record: **Level 10 as of Session 21. Tier 4 as of Session 21**, granted for completing his **personal quest**, the recovery of the lost fane of Irori. ⚠ **He is no longer the only one: the other three reached Tier 4 in Session 22** and the party is level on tier again. ⚠ **Tiers still advance PER CHARACTER** — do not assume they stay matched. See `memory/mythic-tiers-personal-quests.md`.
+- **⚠ Level 12 · Mythic Tier 5** — **Level 12 as of Session 29** (all four PCs now Level 12, Mythic 5). Previous: **Level 11 · Mythic Tier 5** — **Level 11 as of Session 24. Tier 5 since SESSION 22** (Will, 2026-10-04): the fane put him one ahead in Session 21, and he went up again when the other three reached 4. *(This file and the website had him at 4 through Session 23 — wrong.)* See `memory/mythic-tiers-personal-quests.md`. Earlier record: **Level 10 as of Session 21. Tier 4 as of Session 21**, granted for completing his **personal quest**, the recovery of the lost fane of Irori. ⚠ **He is no longer the only one: the other three reached Tier 4 in Session 22** and the party is level on tier again. ⚠ **Tiers still advance PER CHARACTER** — do not assume they stay matched. See `memory/mythic-tiers-personal-quests.md`.
 
 - **Knight of the Fifth Crusade**, knighted by Queen Galfrey (Ch 9). Carries the **Righteous Medal of Agility** — given for delivering a death-blow to a demon before the demon acts. Earned again in Session 13 (a crossbow bolt caught from the air and returned through its owner) and again in Session 15 (the same trick, in a gallery of archers).
 - **Has had four POV chapters** — Chapter 5 (*The Patient Thunder*), Chapter 9 (*The Voice That Answers*), Chapter 13 (*The Sound the Thunder Makes*), and **Chapter 21 (*What Was Lost*)**.
@@ -250,6 +265,8 @@ Lyra's instructions, in her order: **find the fane. If it was destroyed, learn i
 - **Staunton Vhane is dead** (Ch 16), killed by Caleth after Nageru's holy fists and Thane's daggers broke him.
 
 ## Established Moments
+- **Chapter 29 (Caleth POV):** *The Center of the Fire.* Banished a thanadaemon and a shadow demon. Dropped templars. **Left two demons to roll across the hall for Caleth, and put Jerribeth back in the Abyss with six smiting blows: *"You will not get away again!"*** Dodged Vang's chains. Banished three kalavakus, the last with Arueshalae under it.
+- **Chapter 28 (Thane POV):** *Strangers' Faces.* *"I think almost everything in here is magic."* **Took a fireball in a flask** with one eyebrow up. Six templars down. **Took Thane's knife under the ribs and pulled both punches back.** *"Brother. I know."* Smote a hezrou five times. ***"Yes. Twice."***
 - **Chapter 27 (Korroc POV):** *False Stone.* *"She has been touched by Desna herself."* **Drew his amulet out from under his tunic** and guided two dwarves through a day's sitting on a forge floor. Walked beside smoke horses. Walked down a hundred-foot wall. Settled into a deeper stance and put a retriever down; banished a derakni in two blows.
 - **Chapter 26 (Caleth POV):** *The Hallowed Tower.* Walked a week west in front of the horses. Climbed the tower; read Desna's runes on the bell; banished the first incubus. ***"I'm here."*** Smote the hag through her blasphemies and tore free of her claws. Argued she could not come back; **stayed alone with her**; *"Desna may have had something to do with that."* *"And we will go."*
 - **Chapter 24 (Thane POV):** *The Graves at Sesker's Gully.* Ran north beside the horses. **Left his shadow for a drocha swarm** the moment two friends were caught in the open, was drained gray, and killed it; *"Restoration. Thank you."* Bowed to the specter. First onto the skulgrym and **last onto it**. Gathered bones like a liturgy. **Stood back from the Stonevein graves with Caleth, head bowed, both days.** Hauled the chest; smiled at Thane's jump. **Brought Caleth back with a hand on his other shoulder** — *"Well. That is unpleasant."* — and sat beside him all night an inch away. Raised an eyebrow at a babau and killed it on one word. **Shattered one construct spider in gold light, rolled out from under its explosion, and put down the other two.** *"Not again."*

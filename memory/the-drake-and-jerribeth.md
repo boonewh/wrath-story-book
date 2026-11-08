@@ -1,13 +1,20 @@
 ---
 name: the-drake-and-jerribeth
-description: Ch 20's three open items. Ch 22 met Jerribeth in person and PROVED she is a demon - the party believes succubus and must keep believing it. The drake and the language stay unresolved.
+description: Ch 20's three open items. Ch 29 - Jerribeth REVEALED as a glabrezu and BANISHED by Nageru (barred for a hundred years; the party's succubus belief is retired). The drake and the language stay unresolved.
 metadata:
   type: project
 ---
 
 Three open items out of Session 20. They may be one item. **Nothing in the prose commits to that and nothing should.**
 
-## Jerribeth — and the thing the party must keep believing
+## ⚠⚠⚠ Ch 29 — A GLABREZU, AND BANISHED
+
+**The GM secret is out.** In the Sanctum's long hall, after Caleth's cone of cold and chain of fire, **she transformed into a glabrezu** (dog-headed, four arms, two with pincers). Korroc: ***"Huh. Not a succubus."*** Caleth: ***"Definitely not a succubus."*** She bit Caleth over the Spiral; **Nageru smote her six times — *"You will not get away again!"* — and she was banished.**
+- **Table rule (Will, 2026-11-08): demons are not killed on the Material Plane; they are banished home and cannot return for a hundred years.** She is **out of the story for a century, not dead.** Do not write finality about her.
+- **The rules below ("the party must keep believing elf/succubus") are RETIRED.** Kept as record.
+- See [[demons-banished-a-hundred-years]].
+
+## Jerribeth — and the thing the party must keep believing *(record; retired Ch 29)*
 
 A name **engraved on the back of a Baphomet unholy symbol** taken off Marhevok Grunhuld-Wintersun's neck, plus Beverach's account: **"a beautiful elf woman"** who visited the hall two or three times, gave him the symbol, called herself his mistress, promised him command in her armies, and then left him raiding the crusade's supply road for a year and never sent for him.
 

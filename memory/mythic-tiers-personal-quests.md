@@ -1,13 +1,26 @@
 ---
 name: mythic-tiers-personal-quests
-description: As of Session 26 (no change since 24) - LEVEL 11; Nageru 5 (since S22, fane), Thane + Korroc 5 (the fathers' plotline, S24), Caleth 4 (next; Will expects Vang). Granted per character by personal quest; track per character and never assume they stay matched.
+description: As of Session 29 - LEVEL 12, ALL FOUR MYTHIC 5. Caleth reached 5 in Session 29 (Vang destroyed). Granted per character by personal quest; track per character and never assume they stay matched.
 metadata:
   type: project
 ---
 
 **Rule (from Session 21): the party shares a level, but mythic tier is per character.**
 
-## ⚠⚠ STATUS AFTER SESSION 27: LEVEL 11. CALETH 4, EVERYONE ELSE 5.
+## ⚠⚠⚠ STATUS AFTER SESSION 29: LEVEL 12. ALL FOUR MYTHIC 5.
+
+*(Will, 2026-11-08: **Caleth Mythic 5, everyone Level 12.** Vang was destroyed this session, as Will expected. The party is level on tier again, so the website can collapse back to the single-header shape: "Level 12 Gestalt · Mythic 5" and a footer of Mythic Tier 5.)*
+
+| PC | Level | Mythic Tier |
+|---|---|---|
+| Nageru | 12 | 5 |
+| Thane | 12 | 5 |
+| Korroc | 12 | 5 |
+| Caleth | 12 | **5** (S29, Vang) |
+
+## Status after Session 27 (superseded): LEVEL 11. CALETH 4, EVERYONE ELSE 5.
+
+*(Session 28: no advancement, Will, 2026-11-07. Vang not yet found.)*
 
 *(Session 27: no advancement, Will, 2026-10-24. The **legendary items** made that session, Korroc's shield, Thane's punch dagger and Nageru's amulet, are mythic abilities **gained at earlier tier bumps** and only ritualized now. **A new mythic ability on the page is NOT a tier change.** See [[legendary-items-and-the-axe]].)*
 

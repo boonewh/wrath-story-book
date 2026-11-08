@@ -72,6 +72,18 @@ It has not closed. It cannot be closed by ordinary means. It has bled demons int
 - **The victim goes on radiating chaotic evil after the demon is destroyed.** This is residue, not consent. A paladin can tell the difference and should say so out loud.
 - Toolkit: flight; **chaos hammer** (damages, and threatens lawful targets with a slow effect); invisibility; short-range teleportation, used to escape being boxed in and to reappear behind the most isolated enemy; claws and a longsword; a tail-strike.
 
+**Thanadaemon** (Session 29, the Ivory Sanctum) — ⚠ **a DAEMON, not a demon**; Caleth knows the difference and names it.
+- A tall, gaunt, horned skeletal figure with a staff and eye sockets of seething red. **Formed out of the water the lead room's runes had absorbed** once Thane disabled them. Daemons are the cold opposite of the Abyss's appetite; this kind ferries souls.
+- **Resisted Caleth's dismissal.** Its whisper summoned **two shadow demons**. Banished by Nageru.
+
+**Shadow demons** (Session 29) — man-shaped holes in the air, deeper black than shadow, with bat-like wings and claws; **cold touch** (hit Korroc especially hard); **weapons pass through them like smoke** (Radiance hurt them but did not *cut*; Korroc's hammer found them one swing in four); **cast magical darkness** that defeated darkvision and Thane's light spell, broken by daylight. ⚠ **Will: not connected to anything fought before.** Do not link them to Eustoyriax on the page.
+
+**Kalavakus** (Session 29) — **AP name; nobody named them aloud.** Big, heavy, deep-blue horned demons with bear-like claws; claw, bite and **gore**. Three came from behind the temple statue; one dragged Arueshalae out of the air by the ankle. All banished by Nageru.
+
+**Glabrezu — Jerribeth** (Session 29). A vast dog-headed demon with **four arms, two clawed and two ending in great pincers**, that had worn a beautiful woman's shape since Ch 20. Banished by Nageru.
+
+**⚠ TABLE RULE (Will, 2026-11-08): demons are not killed on the Material Plane. They are banished to their home plane and cannot return for a hundred years.** Every "banished" demon in the record is out of the story for a century, not dead.
+
 ### Demons Likely to Be Encountered Later
 - Glabrezu, vrocks, hezrous, succubi, marilith, balors (lesser than Khorramzadeh)
 - Various cultist-summoned demons
@@ -335,4 +347,30 @@ The party teleported into it and out again and never explored it. What is establ
 
 **Defenses named by Arueshalae:** Jerribeth, templars, the basilisk, followers of Baphomet, **Blackfire adepts**; *"just a handful. But they were formidable."* And Vang.
 
-⚠ **Not established, do not invent:** what is behind any of the three doors · the Sanctum's layout beyond the ivory room · how many are inside now · whether Jerribeth or Vang is in residence · **what the second veil is**, if there is one.
+⚠ **Not established, do not invent:** ~~what is behind any of the three doors~~ *(Ch 28 below)* · the Sanctum's layout beyond what Chs 28–29 record · how many are inside now · ~~whether Jerribeth or Vang is in residence~~ *(both were; Ch 29)* · **what the second veil is**, if there is one.
+
+### Inside the Sanctum *(Ch 28)*
+Room descriptions at the table were read from the published adventure; the chapter renders them in its own words.
+- **South door → Vang's study.** A big room; **a seven-armed rune inscribed in a circle of iron** in the floor, black candles round it — **unidentified; Caleth: possibly set against good characters; everyone walked round it.** Cabinets and bookshelves (north, east, south), a writing desk, **a stone sarcophagus** (southwest) full of worms — **smashed by Korroc** — with **a secret compartment** (the bag, the platinum coffer, trophies). Steps west down to **a small cave-like hollow** with a locked chest (two empty purple-stained vials, the coded journal). **Dead finger-length worms everywhere.** The floor wear toward this door is faint: one person's path.
+- **West door → a bedroom.** *(Will: the bedroom and the training room both open off the ivory room.)* A soft bed with a headboard, wardrobe, writing desk, a woven rug. **Nothing of interest**; Thane read it as unslept-in.
+- **North door → the training room.** Four combat dummies, empty weapon and armor racks (west wall and a north alcove), benches; **two archways west into a pair of classrooms.** Seven templars and two black-robed casters killed; **one escaped unseen.**
+- **Next → the kitchen.** Stove, firepit, table (north); a well-stocked pantry; a long table and stools; three bookcases and two writing desks (south).
+- **North → a wide hallway with three pairs of doors and one single door:**
+  - **First pair: a stair going down. UNEXPLORED** (*"Let's leave that, and look round up here"*).
+  - **Single door (north): the war room.** One large table covered in scrolls and maps; **a jar of deformed, twitching locusts** (a swarm when broken). A coloxus and two templars.
+  - **Second pair: a barracks.** Nine beds, one large wardrobe. Nothing.
+  - **Third pair (north wall): the forge workshop.** **A smokeless forge** and anvil (northwest), a rack of fine weapons (north), a rack of damaged ones, two tables of tools, alchemical supplies, reagents and books, chests under the western table. A black-robed woman enchanting unholy weapons; a hezrou.
+- **✔ Where the session ended:** in the forge, everything bagged; a short pause; **about to move on** (Will). **The stair down** is still unexplored; all three ivory-room doors are opened. **Vang has not been found.** *(Superseded by Ch 29 below.)*
+
+### Inside the Sanctum *(Ch 29)*
+- **⚠ THE WHOLE SANCTUM BLOCKS TELEPORTATION** (Will). Caleth's dimensional slide failed in the lead room; the block is in the house, not that room.
+- **Behind the forge → a servants' passage** (north, then west) **to a single locked door: a robing room.** Two long cabinets (north and east walls), pegs of ceremonial robes and vestments (black, some red-hemmed, gold maze-thread at the cuffs; party guess: the adepts'). **A secret door in the west wall with an arcane lock** (Thane opened it).
+  - **The lead room ("inner room").** Small, square, **sheeted entirely in lead**, scratched with **bands of necromantic runes** (*"Strong necromancy. Evil."*). **The walls sweat** a clear liquid that runs down and is absorbed into the lead near the floor. **Divine magic cut out at the threshold** (Thane). **Touching the liquid made the room groan and reached into Caleth's memories** to take one; he resisted. **Thane disabled the runes with charcoal**; the water then rose from the floor and formed **a thanadaemon** (banished by Nageru). **Two shadow demons** came out of the dark of the robing room; one cast **magical darkness** (broken by Caleth's daylight wand). Both banished.
+  - **Vang's trophy room:** **stone shelves at the back of the lead room, with everything on them invisible** (only Caleth could see it; items became visible as he took them). **Yaniel's armor (+3 mithral full plate)**, **the books stolen from the Blackwing Library** (a whole shelf; *"A great deal of this was taken from the Blackwing Library"*), armor, weapons, chests, **a staff of healing** (Korroc's). All bagged. **A dead end.**
+- **The stair down (off the north hallway) → one flight to a landing**, not a new floor. **Basalt floor tiles**, each carved with one section of a great labyrinth; **ivory-sheathed columns** carved with mazes, minotaurs, and men and women writhing in ecstasy or agony. **Caleth's Spiral began to burn here.** A second short stair turns **90 degrees** down into:
+- **The long hall: one big, long space front to back** (Will):
+  - **The entrance chamber** (toward the front door): empty when they arrived. Vang retreated toward it mid-fight; **Thane recovered his arrow there.**
+  - **The middle room** (where the stair comes down): **Vang, Jerribeth, two half-fiend minotaurs, two templars.**
+  - **The temple (back room):** **a 25-foot ivory statue of the goat-headed demon (Baphomet) holding a crescent-moon glaive**, on a 5-foot dais; a walkway down the center between **black columns speckled with white** to **an altar at the statue's feet**; **a vaulted ceiling painted as a starry sky**; a **black-and-gray labyrinth floor**; **blood-red curtains** screening areas east and west of the dais; **two massive braziers.** Two templars; **three kalavakus** (AP name; unnamed in prose) came out from behind the statue.
+- **⚠ Vang was destroyed here; Jerribeth was banished here.** All four templars, both minotaurs and all demons dead or banished.
+- **✔ Where the session ended:** in the long hall, the fight over, the bodies searched. **Arueshalae: *"There are still rooms we have not looked at. Several. And there is still the one who guards the front door"*** (the basilisk). ⚠ **Which rooms, and where, are not established.** The blood-red curtains in the temple are unexplored.

@@ -5,6 +5,8 @@ metadata:
   type: project
 ---
 
+> **⚠ Ch 28 (offstage — he is at the bell fortress): HIS SPELLBOOK IS RECOVERED** from Vang's desk; Caleth carries it, unreturned. **His mark is now canon: three crescent moons in a row, horns up.** A second book on Vang's shelves bears it **with the middle moon full**; Caleth took it silently. Whose, and whether either is *"my book,"* are OPEN. See [[the-three-moon-mark]].
+
 > **⚠ Ch 27: AT THE BELL FORTRESS, AND HE HEARD THE MAP.**
 > - **He was in the command room** when Arueshalae pointed out the Sanctum (the Green Gate, SW of Drezen) and talked about Vang and the Blackfire adepts. ⚠ **He did not react** (Will). Only Caleth knows that he asked at the Gray Road where Vang is.
 > - **The mounts scroll was from his archives.** He did NOT scribe it; the notes said so wrongly (Will). **He still cannot cast.**

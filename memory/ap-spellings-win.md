@@ -17,4 +17,6 @@ metadata:
 
 **Session 27 cases:** **Hepzamirah** (notes: Hepvamirah). **the Green Gate** (Will's form for the place; the CRPG writes "Greengate"). **derakni** (notes: Derakani).
 
+**Session 28 cases:** **coloxus** (confirmed); **hezrou** (notes: hezoru); **Staunton** (notes: Stauton). Will (2026-11-07): he types the notes while playing and *will* misspell; **correct to the game's spelling without making a point of it.** Only ask when the right spelling is genuinely unclear.
+
 Related: [[chapter-drafting-pitfalls]].
