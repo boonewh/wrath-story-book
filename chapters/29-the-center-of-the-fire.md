@@ -538,7 +538,7 @@ And reached down, past the place where his spells were kept, into the fire the w
 
 The cold came out of him in a cone.
 
-It was not frost. It was winter, the deep middle of it, the cold of the far north on the longest night, poured out of his outstretched hand in a widening roar of white across the foot of the stair; and the wardstone's fire went into it and drove it on, and the wand made it more; and the two minotaurs and the woman between them were *inside* it, and then they were not anything at all but three shapes of ice.
+It was not frost. It was winter, the deep middle of it, the cold of the far north on the longest night, poured out of his outstretched hand in a widening roar of white across the foot of the stair; and the wardstone's fire went into it and drove it on, and the rod made it more; and the two minotaurs and the woman between them were *inside* it, and then they were not anything at all but three shapes of ice.
 
 Solid. Rimed white to the horns. Jerribeth's furious face, behind a sheet of clear ice, looking at him still.
 
@@ -568,7 +568,7 @@ Caleth felt it through the bond. Not the pain — Korroc took that — but the *
 
 He got on with it.
 
-He shut his eyes for one half-breath and found the other thing, the thing he had learned to do since the wardstone: to reach into the fire as it left him and turn it. Every bit of power that came at him from now until the end of the fight, cold or lightning or acid, would come in as *fire*. He felt the air shimmer round him with it. Then his hand found the wand again, and he gathered the spell he wanted and leaned on it, hard, with all his will behind it, to make it bite.
+He shut his eyes for one half-breath and found the other thing, the thing he had learned to do since the wardstone: to reach into the fire inside him and set it in the air around him. Every bit of power that came at him from now until the end of the fight, cold or lightning or acid, would come in as *fire*. He felt the air shimmer round him with it. Then his hand found the rod again, and he gathered the spell he wanted and leaned on it, hard, with all his will behind it, to make it bite.
 
 And let it go.
 
