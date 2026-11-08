@@ -36,7 +36,7 @@ He was at the west wall, between two pegs, and he had put his hand flat against 
 
 "Secret door," said Thane.
 
-Caleth looked. He would never have seen it. There was nothing to see: a wall, dressed stone, a little darker in one place where the robes had brushed against it for years. But he did not need to see the seam. He looked at the wall the other way — not with his eyes, quite, but with the part of him that had been trained at the Spire to look for the working under the stone — and there it was. A small hard knot of magic, set into the wall at the height of a man's hand, like a fist clenched round a key.
+Caleth looked. He would never have seen it. There was nothing to see: a wall, dressed stone, a little darker in one place where the robes had brushed against it for years. But he did not need to see the seam. He looked at the wall the other way — not with his eyes, quite, but with the part of him the academy in Kenabres had spent years training to look for the working under the stone — and there it was. A small hard knot of magic, set into the wall at the height of a man's hand, like a fist clenched round a key.
 
 "It has an arcane lock on it," he said.
 
@@ -78,7 +78,7 @@ He did not like that. Caleth could see how much he did not like it. He pushed hi
 
 It hit him like heat off a forge door.
 
-Necromancy. Strong, and old, and not the cold clean kind he had read about at the Spire, the kind a scholar could study at a careful distance with notes. This was the other kind. This was *hungry.* It came off the runes in a slow pulse, like breath, and under it — under it was a thing he did not have a word for, a feeling of something wanting very badly to be filled.
+Necromancy. Strong, and old, and not the cold clean kind he had read about at the academy, the kind a scholar could study at a careful distance with notes. This was the other kind. This was *hungry.* It came off the runes in a slow pulse, like breath, and under it — under it was a thing he did not have a word for, a feeling of something wanting very badly to be filled.
 
 "What in the mercies," he said softly.
 
@@ -364,7 +364,7 @@ And then, a little way along, on the lowest shelf, books.
 
 Many books. A whole shelf of them, end to end, a long double row of spines in leather and board and vellum, and he knelt in front of them and took one down and opened it, and stopped.
 
-He knew the marks inside the cover. Not his uncle's moons. The marks of a house rather than a man, stamped small in faded ink on the flyleaf, and symbols beside them that a scholar of the Spire would know anywhere.
+He knew the marks inside the cover. Not his uncle's moons. The marks of a house rather than a man, stamped small in faded ink on the flyleaf, and symbols beside them that any student of the academy in Kenabres would know anywhere.
 
 He took down another. The same marks. Another. The same, and a shelfmark written under it in a fine small hand.
 
@@ -828,7 +828,7 @@ Caleth looked at him.
 
 Korroc did not say anything. He reached up, slowly, and pulled one small blackened curl out of his beard, and looked at it, and dropped it on the floor. Then he shut his eyes.
 
-Caleth felt him do it. Felt the warm thread pull, and go round all of them, the way the dwarf counted his people after every fight the way a shepherd counts sheep. Caleth: fine. Better than fine — Caleth's own spells fed a little life back into him every time he cast them, the way the Spire had taught him to cast them, and he had cast a great deal. Nageru: still standing, the last healing still holding in him. Thane: hardly touched; a man nobody could see was a man nobody could hit. They were all well. They were all well because for the whole of this fight, every blow that had landed on any of them, half of it had gone to one place.
+Caleth felt him do it. Felt the warm thread pull, and go round all of them, the way the dwarf counted his people after every fight the way a shepherd counts sheep. Caleth: fine. Better than fine — Caleth's own spells fed a little life back into him every time he cast them, the way the academy had taught him to cast them, and he had cast a great deal. Nageru: still standing, the last healing still holding in him. Thane: hardly touched; a man nobody could see was a man nobody could hit. They were all well. They were all well because for the whole of this fight, every blow that had landed on any of them, half of it had gone to one place.
 
 Korroc opened his eyes, and he was bleeding from a dozen places.
 
@@ -908,7 +908,7 @@ The Spiral did not hurt. Not the knocking from the landing, not the nail. Not th
 
 He stood very still with his hand there.
 
-*Gone,* he thought, and then, more carefully, because he had been trained at the Spire to say only what he knew: *quiet.*
+*Gone,* he thought, and then, more carefully, because the academy had trained him to say only what he knew: *quiet.*
 
 He did not know what that meant. Whether the mark had stopped because the thing that had been watching him through it had died on the black floor of this hall; or because it had only gone somewhere else, somewhere further, and the mark could no longer reach it; or because it had never been a window at all, and whatever it truly was had simply finished telling him what it had been trying to tell him. He did not know. His father had been afraid of what the records said about it, and he had never read the records.
 

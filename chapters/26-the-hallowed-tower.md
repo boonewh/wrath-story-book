@@ -602,7 +602,7 @@ He went down into himself.
 
 There was a place there. The wardstone had put it in all of them, in a room above Kenabres, and he had spent a year learning how far down it went. It went a long way. He reached into it now, past the pain in his back and his ribs, and took hold, and with his other hand he took out a wand.
 
-He did not have to think about what he was doing. That was the gift of it, the thing his teachers had never understood and the Spire had first mocked and then quietly approved. A spell was not a recipe. It was a structure, a set of joints and loads, and if you understood where the joints were you could take it apart and put it together another way.
+He did not have to think about what he was doing. That was the gift of it, the thing his teachers at the academy had first mocked and then quietly approved. A spell was not a recipe. It was a structure, a set of joints and loads, and if you understood where the joints were you could take it apart and put it together another way.
 
 He took the fire out of it.
 

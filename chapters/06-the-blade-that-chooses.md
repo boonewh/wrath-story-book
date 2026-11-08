@@ -37,7 +37,7 @@ Thane shrugged and turned it, offering the hilt. "I don't use swords. Feel free.
 
 Caleth took it.
 
-He had handled a hundred swords. The Spire had drilled the blade into him before they ever trusted him with the glaive he preferred — *know the weapon you will not carry, so you understand the man who carries it* — and his hand knew, the instant the grip settled into his palm, that this was a good one. Balanced a thumb's width above the guard. Alive in the wrist. He shifted his stance out of old habit, dropped his back foot the way the spire-masters had taught, and brought it up in a slow testing arc.
+He had handled a hundred swords. The academy had drilled the blade into him before they ever trusted him with the glaive he preferred — *know the weapon you will not carry, so you understand the man who carries it* — and his hand knew, the instant the grip settled into his palm, that this was a good one. Balanced a thumb's width above the guard. Alive in the wrist. He shifted his stance out of old habit, dropped his back foot the way his masters had taught, and brought it up in a slow testing arc.
 
 And the steel woke.
 
@@ -45,7 +45,7 @@ Light ran the length of the blade — not lamplight, not a reflection, but a cle
 
 Caleth went very still.
 
-He had heard, somewhere in the long catalogue of things the Spire had poured into him, that holy weapons of this kind were *particular* — that they were forged to a purpose and a person and that they slept until the right hand woke them. He had never expected to be a hand that woke one. He stood frozen with the white light pouring up the steel and his breath stopped in his chest, and then —
+He had heard, somewhere in the long catalogue of things the academy had poured into him, that holy weapons of this kind were *particular* — that they were forged to a purpose and a person and that they slept until the right hand woke them. He had never expected to be a hand that woke one. He stood frozen with the white light pouring up the steel and his breath stopped in his chest, and then —
 
 The hilt moved.
 
@@ -169,7 +169,7 @@ Caleth let her go. Then he turned and looked for the other man he had been meani
 
 Quednys was in the back, as Irabeth had said he would be when Caleth asked, and Caleth found him at a table half-buried in lists — supply tallies, casualty counts, the grim ledgers by which a dying city was kept barely alive. He was a middle-aged man with ink on his fingers and grey coming in at his temples and the particular hollowed look of someone who had not slept properly in a long time and did not expect to soon.
 
-Aravashnial had asked after this man. Days ago now, in the Blackwing Library, the elder wizard had said the name *Quednys* and asked the company to find him if they could, and Caleth — who carried more reasons than the others to do as Aravashnial asked, and carried them privately — had kept the name. He crossed to the table and gave the small respectful half-bow of the Spire.
+Aravashnial had asked after this man. Days ago now, in the Blackwing Library, the elder wizard had said the name *Quednys* and asked the company to find him if they could, and Caleth — who carried more reasons than the others to do as Aravashnial asked, and carried them privately — had kept the name. He crossed to the table and gave the small respectful half-bow of the academy.
 
 "You are Quednys. Aravashnial asked us to find you."
 
@@ -357,7 +357,7 @@ The irony was not lost on him. It was never lost on him. The Worldwound had sent
 
 Thane was already moving. The dwarf drew a small clay potion from his belt, thumbed the stopper, and drank it down in one motion — and faded, edges going soft and then gone, the air closing over the place where he had been. Invisible.
 
-Caleth crept forward. The Abrikandilu did not look up; it was wholly absorbed in its ruination, in the small sounds of paper dying. He went low and careful, glaive ready, taking the angle the way the Spire had taught — *do not approach a thing head-on if you can come at its seam* — and behind him he felt the others moving up: Thane somewhere ahead and unseen, Nageru drifting up on the soft soles of his bare feet, and then Korroc's heavy quiet hand touching his back from behind.
+Caleth crept forward. The Abrikandilu did not look up; it was wholly absorbed in its ruination, in the small sounds of paper dying. He went low and careful, glaive ready, taking the angle the way the academy had taught — *do not approach a thing head-on if you can come at its seam* — and behind him he felt the others moving up: Thane somewhere ahead and unseen, Nageru drifting up on the soft soles of his bare feet, and then Korroc's heavy quiet hand touching his back from behind.
 
 Warmth poured through him. Not healing — a shield. *Shield of faith,* Korroc's gift, a faint pressure of grace settling over him like a held breath. Caleth gave the dwarf the smallest backward nod and kept moving.
 
@@ -367,7 +367,7 @@ A second Abrikandilu. It had been inside the shop, and now its snout poked out i
 
 It spoke in Abyssal.
 
-Caleth understood it perfectly. He had learned the tongue the way he had learned all the old dangerous languages, as if remembering rather than studying, the Spire's arcane drills laid over something older in his blood, and the harsh syllables resolved in his ear into clear and ghastly words.
+Caleth understood it perfectly. He had learned the tongue the way he had learned all the old dangerous languages, as if remembering rather than studying, the academy's arcane drills laid over something older in his blood, and the harsh syllables resolved in his ear into clear and ghastly words.
 
 *"Ooo,"* the demon said, looking him up and down with its red eyes, looking at the fine bones and the glaive and the made things he carried, *"more pretties to eat."*
 

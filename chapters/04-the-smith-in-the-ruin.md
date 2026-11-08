@@ -659,7 +659,7 @@ Horgus nodded, twice, and looked at the floor.
 
 "Welcome," he said, very stiffly. "Welcome to my home."
 
-Caleth bowed to him. It was a small bow, but it was the bow the Spire taught for elder peers, and Korroc saw Horgus's mouth move a moment without sound before the merchant turned and went to organize the kitchen.
+Caleth bowed to him. It was a small bow, but it was the bow the academy taught for elder peers, and Korroc saw Horgus's mouth move a moment without sound before the merchant turned and went to organize the kitchen.
 
 They closed the shutters. They lit no fire — Caleth set out one cantrip-flame in a copper dish on the kitchen table — and they sat at that long pale table and ate whatever Horgus brought from the cellar. Hard bread. Aged cheese. Cured sausage. A jar of pickled cave-mushroom that Korroc thought he recognized as Sull's people's work — Horgus had been buying from the underdark trade routes for years without knowing it.
 

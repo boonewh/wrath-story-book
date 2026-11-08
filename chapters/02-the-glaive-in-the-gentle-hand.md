@@ -47,7 +47,7 @@ The passage opened, after half an hour of marching, into a cavern that took his 
 
 Not for its beauty. For its grief.
 
-Statues. Dozens of them. Standing in the cavern as if they had walked into it from somewhere else and then stopped, frozen mid-step, mid-prayer, mid-cry. Crusaders, every one — Caleth's eye, trained on iconography from the day his foster parents had first put a brush in his hand, catalogued the gear at a glance. The tabards were of a cut three generations out of date. The blades were the long straight cavalry swords of the First Crusade. The shields bore the sun-and-sword of an Iomedaen order he half-remembered from a manuscript in the Spire's lower archive.
+Statues. Dozens of them. Standing in the cavern as if they had walked into it from somewhere else and then stopped, frozen mid-step, mid-prayer, mid-cry. Crusaders, every one — Caleth's eye, trained on iconography from the day his foster parents had first put a brush in his hand, catalogued the gear at a glance. The tabards were of a cut three generations out of date. The blades were the long straight cavalry swords of the First Crusade. The shields bore the sun-and-sword of an Iomedaen order he half-remembered from a manuscript in the academy's lower archive.
 
 But it was the faces that arrested him.
 
@@ -101,7 +101,7 @@ A second one dropped.
 
 This one fell at Caleth's own feet, and a third half a heartbeat later by Nageru, and the cavern was suddenly full of the things, their tentacles questing, their pillar-bodies pulsing.
 
-Caleth's training took him before his fear did. He dropped his back foot, brought the glaive up in the long high guard the spire-masters called the heron's throat, and thrust. The leaf-blade punched into the soft pulpy flesh of the creature in front of him with a horrid yielding sensation, like driving a knife into a wineskin.
+Caleth's training took him before his fear did. He dropped his back foot, brought the glaive up in the long high guard his masters at the academy called the heron's throat, and thrust. The leaf-blade punched into the soft pulpy flesh of the creature in front of him with a horrid yielding sensation, like driving a knife into a wineskin.
 
 The thing did not bleed. It embraced him.
 
@@ -187,7 +187,7 @@ He took a step further into the cavern's mouth, glaive lowered to a non-threaten
 
 The air at the edge of the campfire's light folded.
 
-Caleth had a sliver of a half-instant — the trained Spireborn instinct that registered displacement before sight, the small wrongness of an outline that should not be there — and then a dwarf was suddenly visible where no dwarf had been a heartbeat before, his fingers already shaping the final glyph of a spell.
+Caleth had a sliver of a half-instant — the trained instinct that registered displacement before sight, the small wrongness of an outline that should not be there — and then a dwarf was suddenly visible where no dwarf had been a heartbeat before, his fingers already shaping the final glyph of a spell.
 
 "Down!" Caleth shouted —
 
@@ -275,7 +275,7 @@ Korroc lay on his back in the rubble of his own dignity and glared up at him.
 
 Korroc rolled to his feet, brushed himself off, hefted his hammer, glared at the climb as if it had personally insulted his mother, and started up again. The second time he made it. He complained about the height the entire way. Caleth watched him the whole climb and did not laugh again, though it was a near thing.
 
-Caleth himself went up last, after handing his glaive and the gear up to Nageru on a length of rope. The climb was easy enough. Half-elven balance, what training he had gained in his season at the Spire, the cliff-work he had drilled against salt-wind with the sea booming below. He found himself thinking, with an odd quiet pang, of those teachers — of the long patient climbs, the senior brother shouting holds from above, the cool indifferent stone under his fingers. He wondered if any of them were still alive. The Mordant Spire kept its own counsel and shared little with the wider world; he had not heard from his sister-instructor in seven years.
+Caleth himself went up last, after handing his glaive and the gear up to Nageru on a length of rope. The climb was easy enough. Half-elven balance, and the drills the academy in Kenabres had put its students through on the old city walls. He found himself thinking, with an odd quiet pang, of those teachers — of the long patient climbs, a senior student shouting holds from above, the cool indifferent stone under his fingers. He wondered if any of them were still alive. Kenabres had burned, and he did not know.
 
 He topped the lip and rolled to his feet beside Nageru.
 
@@ -289,7 +289,7 @@ Nageru looked at him for a moment. The aasimar's gold eyes had a way of holding 
 
 "You hold much you do not say, Caleth."
 
-Caleth smiled, crookedly, the way the Spire had taught him to smile when something true had been said about him.
+Caleth smiled, crookedly, the way the academy had taught him to smile when something true had been said about him.
 
 "I am Spireborn, my friend. It is what we do."
 
@@ -337,7 +337,7 @@ Two of them, standing back from the rubble, hands raised cautiously. One was a w
 
 Caleth's breath caught.
 
-The man was, in the wrong half of his face, beautiful. The high cheekbone and the long black eye and the elegant line of jaw of an elf of old and pure blood — a face Caleth had seen, in less ravaged forms, on his own teachers in the Spire. A face that could have walked out of an illuminated manuscript. The other half was reptilian, scaled and ridged, with a single curving black horn rising from above the right brow.
+The man was, in the wrong half of his face, beautiful. The high cheekbone and the long black eye and the elegant line of jaw of an elf of old and pure blood — a face Caleth had seen, in less ravaged forms, in the old portraits in the academy's halls. A face that could have walked out of an illuminated manuscript. The other half was reptilian, scaled and ridged, with a single curving black horn rising from above the right brow.
 
 Beautiful and terrible in one face.
 
@@ -353,7 +353,7 @@ The half-elven half-saurian man spoke. His voice was beautiful — a low, formal
 
 Caleth's heart broke a little.
 
-"We are here on good terms," he said, before anyone else could speak. He stepped forward, glaive lowered, and bowed — not deeply, but properly, the small respectful bow of the Spire. "I am Caleth. We came down from Kenabres, not by choice. We were caught in a rift when the wardstone fell."
+"We are here on good terms," he said, before anyone else could speak. He stepped forward, glaive lowered, and bowed — not deeply, but properly, the small respectful bow of the academy. "I am Caleth. We came down from Kenabres, not by choice. We were caught in a rift when the wardstone fell."
 
 The man's good eye widened. "The wardstone fell?"
 
@@ -371,7 +371,7 @@ Anevia, leaning on her makeshift crutch, whirled on him. "Horgus Gwerm, hush."
 
 Horgus opened his mouth.
 
-Caleth looked at him. He did not say anything. He simply looked, the long level look the Spire had taught him to use when a younger student spoke out of turn — a look that contained no anger and no contempt and no insult, only a quiet I am paying attention to you, and I will remember this.
+Caleth looked at him. He did not say anything. He simply looked, the long level look his masters at the academy had used when a younger student spoke out of turn — a look that contained no anger and no contempt and no insult, only a quiet I am paying attention to you, and I will remember this.
 
 Horgus closed his mouth.
 
@@ -687,7 +687,7 @@ Sull's milky eye shifted to him.
 
 Caleth, after a moment, bowed.
 
-It was a deeper bow than the one he had given Lann. It was the bow the Spire taught for elder peers.
+It was a deeper bow than the one he had given Lann. It was the bow the academy taught for elder peers.
 
 Sull saw it. The chief's small shrewd eye narrowed in what might have been satisfaction.
 
@@ -737,11 +737,11 @@ She had given it to him.
 
 Specifically him.
 
-A Spireborn paladin of Shelyn whose particular gift was seeing, whose half-elven memory would hold her face for the rest of his life, whose Spire-trained discretion would carry her last word without spilling it to the wrong ears. A glaive-hand who had a wizard's mind and a paladin's oath and an artist's eye and a foreigner's distance from the politics of Mendev. A half-elf who had stood three feet from her in the crowd and thought she has nice eyes.
+A Spireborn paladin of Shelyn whose particular gift was seeing, whose half-elven memory would hold her face for the rest of his life, whose academy-trained discretion would carry her last word without spilling it to the wrong ears. A glaive-hand who had a wizard's mind and a paladin's oath and an artist's eye and a foreigner's distance from the politics of Mendev. A half-elf who had stood three feet from her in the crowd and thought she has nice eyes.
 
 She had picked him.
 
-He set the scale carefully on the journal page. He took up his pen. He drew her face from memory — the woman's face, the borrowed face, the here we go smile — and beneath it he wrote a single line in the small careful Spireborn hand his masters had taught him.
+He set the scale carefully on the journal page. He took up his pen. He drew her face from memory — the woman's face, the borrowed face, the here we go smile — and beneath it he wrote a single line in the small careful hand his masters at the academy had taught him.
 
 Terendelev of Kenabres, last seen alive at the noon of Armasse, 16 Arodus. She was kind. She was watching us. She knew me before she died. I will get them out.
 

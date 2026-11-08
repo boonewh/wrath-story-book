@@ -385,7 +385,7 @@ He shaped scorching ray—he felt the fire gather in his hands, the familiar str
 
 So he turned the spell inside out.
 
-The Exploiter's gift—the thing the Spire had never quite understood about him, the instinct that treated arcane theory as material to be *bent* rather than followed. He held the scorching ray in his mind and *inverted* it, peeling the fire back, folding the heat in on itself until what gathered in his hands was not fire at all but its absence—a cold so sharp it burned, three lances of killing frost where three lances of flame should have been.
+The Exploiter's gift—the thing the academy had never quite understood about him, the instinct that treated arcane theory as material to be *bent* rather than followed. He held the scorching ray in his mind and *inverted* it, peeling the fire back, folding the heat in on itself until what gathered in his hands was not fire at all but its absence—a cold so sharp it burned, three lances of killing frost where three lances of flame should have been.
 
 He loosed them.
 

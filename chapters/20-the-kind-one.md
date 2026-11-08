@@ -710,7 +710,7 @@ Caleth considered several responses and selected the correct one, which was an i
 
 He raised one hand and mimed a yawn.
 
-Then he leveled Radiance, and the blade flared white, and he set his feet in the way the Spire had taught him and Kenabres had taught him better.
+Then he leveled Radiance, and the blade flared white, and he set his feet in the way the academy had taught him and a year of war had taught him better.
 
 Marhevok came.
 

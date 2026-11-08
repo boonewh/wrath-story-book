@@ -187,7 +187,7 @@ The party should expect, when they finally surface:
 - **Martial law** — whoever is in charge will likely have imposed strict controls
 - **Misinformation and paranoia** — rumors flying about what happened
 - **Active enemy presence** — Templars still operating, possibly desperate to cover tracks given the loss of Hosilla
-- **Allies looking for them** — Irabeth, the Eagle Watch, possibly Caleth's Spire handlers
+- **Allies looking for them** — Irabeth, the Eagle Watch *("Caleth's Spire handlers" removed 2026-11-08: he has no tie to the Spire)*
 - **Need for the letter** — whoever is in charge needs to know what the party knows, urgently
 
 The party arriving at the surface with the S. V. letter, Radiance, the Baphomet symbols, Sull's pledge of mongrelfolk alliance, and four mythic-touched silver scales is going to be a *moment* for the surface authorities. Treat it with appropriate weight when it happens.
