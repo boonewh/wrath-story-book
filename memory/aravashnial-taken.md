@@ -1,9 +1,55 @@
 ---
 name: aravashnial-taken
-description: Ch 21 taken; Ch 22 held by Vang; Ch 24 walked home. ⚠ Ch 26 - alone with Caleth he asked where Vang is, said "He still has my book", and pressed Caleth to doubt Nageru; Caleth read him as nervous and told nobody. Back in Drezen. ⚠ Ch 25 - his escape story passed every check, but he CANNOT CAST with the collar off, a greater dispel found nothing, and three of the four noticed something wrong in his manner. All causes OPEN. He is riding west with the party.
+description: ⚠⚠ Ch 30 OVERTURNS Chs 24-30 - the Aravashnial who "walked home" and lived in Drezen for two months was an IMPOSTER, and it is GONE without a trace. The REAL elf was in a cell in the Ivory Sanctum the whole time and was rescued in Ch 30, starved, collared, with five Nahyndrian crystals in him. Vang force-fed him an elixir and tried to put something else inside him AND IT FAILED. What the impostor was, how it passed every check, and where it went are ALL OPEN.
 metadata:
   type: project
 ---
+
+> # ⚠⚠⚠ Ch 30 — EVERYTHING BELOW FROM Ch 24 ONWARD IS THE IMPOSTER
+>
+> **THE ARAVASHNIAL OF Chs 24–30 WAS NOT ARAVASHNIAL.** The real elf **never walked home, was never in Drezen, never rode west.** He was in **the third cell on the left of the Ivory Sanctum's cell block** from Ch 21 until the party cut him out in Ch 30. The thing that came out of the west four mornings after the graves at Sesker's Gully saying *"Been walking. For days"* was **a copy, and it was a copy from the first moment.**
+>
+> **Read the Ch 24 / 25 / 26 / 27 / 28 blocks below as a record of what the copy said and did** — they matter, because the party lived them — but **none of it is evidence about Aravashnial.** ⚠ **The real elf does not remember any of it and does not know it happened.**
+>
+> **IT IS GONE.** It rode back from the bell fortress to Drezen with **Aron Kir**, four hours side by side, *"He talked about the bell."* It went up to its study, opened three books, poured a cup, pushed its chair back, got up and **walked out.** The cup was **cool but not cold.** **Irabeth put the citadel on alert; it searched itself all night and found nothing.**
+>
+> **⚠⚠ ALL OPEN, CLOSED TO INVENTION:**
+> - **What it was.** No one has a theory. Not an impostor *type*, not a species, not a mechanism.
+> - **How it passed everything.** Caleth's detect evil: clean. Caleth's detect magic: clean. Caleth's greater dispel: nothing to take hold of. Thane's lie-detection: no lies. Korroc's paladin sight, **a hundred times over two months**: clean. ⚠ *Do not invent the trick.*
+> - **How it had his face, voice, manner, handwriting and enough of his knowledge** to teach, advise, lecture on annis hags and argue about the bell.
+> - **Where it has gone, and whether it can be found.**
+> - **What it carried out in its head.** It was in Drezen's command room from the spring. **It heard everything.**
+> - **Why it left exactly then** — before anyone in Drezen knew. *(Nobody has said this out loud. It knew.)*
+>
+> **⚠ THE ONE THING THE COPY DOES NOT EXPLAIN AWAY: Korroc's life link was on it and it WORKED.** He felt it hurt in the petrified forest and was right. **So there was something there to bind to. What, is open.** Korroc reached for that thread in the gorge, found nothing, and **could not tell** whether that meant distance, or absence, or a thing that had never had a life in it.
+>
+> **⚠ THE CLOSEST THING TO A TELL THE PARTY EVER GOT:** the copy **could not cast.** A perfect cantrip, twice, nothing. **Nobody connected it.** *(And the Ch 25 "something wrong in his manner" that Nageru, Korroc and Caleth each caught and could not name — that was this. They were right and had nothing to say. See the gorge conversation in `characters/nageru.md`.)*
+>
+> **⚠ NOBODY HAS TOLD THE REAL ARAVASHNIAL THAT A COPY OF HIM HAS BEEN LIVING HIS LIFE.** Korroc thought about saying *there is something in Drezen wearing your face*, looked at the needle marks and the shaking and *"is that really you this time,"* and did not. **Caleth got to the same place by a different road and the two of them put it away without a word.**
+
+> **✔✔ Ch 30 — THE REAL MAN IS OUT.**
+> - **Found by Korroc's lifesense** in a cell block under **permanent wards of total silence and absolute darkness.** Starved to nothing; rows of **straight even cuts** up both forearms and both shins, old and new; **a second collar** with four green stones, trapped, no mechanism; **a ring of a dozen needles** bedded round his neck; **five Nahyndrian crystals under the skin**, one per limb, one deeper in the chest.
+> - **Healing would not touch him with the collar on.** **Thane got it off in ten minutes** using the Ch 28 collar sketchbook and **the Abyssal he has been quietly studying for a year.** **Korroc cut out all five crystals and crushed all five.**
+> - **⚠ SOMETHING IS STILL WRONG WITH HIM** and Korroc cannot find it. Not the hunger, not the fever, not the cuts. ⚠ **Cause open.** Arueshalae's line stands over it: for a mortal the Nahyndrian elixir is *"a way of dying."*
+> - **His eyes opened PURPLE and went green over about three seconds.** ⚠ **Not explained.**
+> - **He woke in terror and did not believe them.** ***"Is that really you this time?"*** — *this time.* Vang's burned robes held up as proof **did not reach him.** **Arueshalae nearly sent him off the table** — and then **Desna's name went into him and found something to hold on to.** *"Desna." / "Yes." / "Yes. All right."* ⚠ **Why Desna is NOT established.**
+> - Carried out on **the flying carpet**, laid first on Caleth's own bed, then the infirmary. **Sosiel brought the fever down.** He has said nothing and been asked nothing.
+> - **⚠⚠ KORROC HAS NOT LAID THE LIFE LINK ON HIM** and could not make himself do it. *"I'm sorry. Give me a day."* He stayed all night. See [[korroc-stonelord]] and `characters/korroc.md`.
+
+> **⚠⚠ Ch 30 — WHAT WAS DONE TO HIM, AND THE THING HE DID.**
+> From Caleth's Spiral vision at the cell-block door, **told aloud to the whole party in two halves**:
+> - Guards dragging him onto a laboratory slab **day after day for the better part of a season**, each time less of him coming back — fighting, then limping, then walking, then carried. Robes gone. *"I watched a season go past in a room."*
+> - **A floating creature with a brain the size of a washtub and a dozen thin limbs that moved together like hands** worked on him with **a small purple crystal flashing**, over and over. ⚠ **Never found anywhere in the Sanctum. Deliberately unnamed. Where it went is unknown.**
+> - **The record book says why: they were making him A SPY who could walk into Drezen.** ***He resisted*** — the word is in the book four times in three pages in a hand that gets worse each time. **It was taking too long, so they stopped and went with a different plan.** *(The other plan walked out of the west four mornings after the graves.)*
+> - **⚠⚠ THEN VANG FORCE-FED HIM A NAHYNDRIAN ELIXIR AND ATTEMPTED A SOUL TRANSFER — AND IT FAILED.** Strapped in a chair, collar on, barely breathing: *"no" / "no, please" / "don't."* Poured in and held until he swallowed. Convulsion; **eyes black edge to edge**; Vang: *"Yes. There you are."* **Two voices out of one throat.** *"Remarkable. The transfer has begun. Now, show me."*
+> - **It did not finish.** Black, green, black, green, his body jerking each time. Vang: *"Curious. Why are you still there?"* He struggled against something nobody could see, and out of a scream that turned monstrous and broke, in his own voice: ***"Get out."***
+> - **Vang stepped BACK.** *"No, no, no. The vessel was prepared. The elixir was correct. The transfer should have been complete."* Then a fistful of hair: ***"What did you do?"*** And Aravashnial: ***"Nothing."*** A liar, a blow, *"You have interfered with the process… You will tell me how you did this."*
+> - **⚠⚠ HE BEAT XANTHIR VANG FROM A CHAIR WITH NOTHING LEFT, AND HOW IS COMPLETELY OPEN.** Vang never found out; neither has anyone else; **he has not been asked.** Korroc's entire verdict: ***"Insufferable man."***
+> - ⚠ **The chest crystal is what was being put into him** (or held it). **It spoke to Thane.** Korroc crushed it. ⚠ **Whether what was inside was destroyed, banished or sent somewhere is UNKNOWN and stays unknown.**
+
+---
+
+*(Everything below is the record as it stood before Ch 30. **Chs 24–28 are the imposter.**)*
 
 > **⚠ Ch 28 (offstage — he is at the bell fortress): HIS SPELLBOOK IS RECOVERED** from Vang's desk; Caleth carries it, unreturned. **His mark is now canon: three crescent moons in a row, horns up.** A second book on Vang's shelves bears it **with the middle moon full**; Caleth took it silently. Whose, and whether either is *"my book,"* are OPEN. See [[the-three-moon-mark]].
 

@@ -5,7 +5,13 @@ metadata:
   type: project
 ---
 
-**New canon from Session 28.** The mark first appeared in the session notes as *"the same three-moon symbol, but slightly modified."* Will: put it in canon as a three-moon symbol, and let the prose decide the variant; *"if it needs to be tweaked, we'll do it later."*
+**New canon from Session 28.**
+
+> **⚠⚠ Ch 30 CHANGES THE CONTEXT, NOT THE FACTS.** The mark itself is unaffected — it was on his real spellbook, recovered from Vang's desk. **But the "my book" remark that this thread hangs off came out of the IMPOSTER's mouth** at the Gray Road in Ch 26, not the real Aravashnial's. **Do not treat *"He still has my book. I want it back"* as the real man's wish.** What the copy wanted, and whether the three-moon book has anything to do with it, is **wide open.** See [[aravashnial-taken]].
+>
+> **⚠ The real Aravashnial does not know his spellbook was recovered**, has not been told anything, and has not been shown the second book. **Caleth still has both and has still said nothing to anyone.**
+
+ The mark first appeared in the session notes as *"the same three-moon symbol, but slightly modified."* Will: put it in canon as a three-moon symbol, and let the prose decide the variant; *"if it needs to be tweaked, we'll do it later."*
 
 ## What is canon
 

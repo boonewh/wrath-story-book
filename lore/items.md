@@ -747,3 +747,45 @@ Used for haste and glittering dust, then **recharged mid-fight by Caleth's knack
 
 ## Caleth's permanent sight *(canon from Session 29)*
 **See invisibility and darkvision**, made permanent (permanency) at 9th level, after Drezen was taken (Will).
+
+---
+
+## Session 30 recoveries — the last of the Ivory Sanctum *(Ch 30)*
+All in **Caleth's bag of holding** unless noted.
+
+### ⚠⚠ The Black Robes of the Archmagi *(Ch 30)*
+**Xanthir Vang's robes**, taken off the scorched place in the long hall where he burned. **Burned through in a dozen places and not one thread frayed at the edge of any hole**; the char comes off on a thumb, the weave under it does not. Korroc, who knows what good material feels like: *"I've put a hammer into steel that gave up sooner."*
+- **Caleth identified them on sight: black robes of the archmagi** — *"not a thing a man finds. There are perhaps a dozen written about and half the writing is argument over whether the other half were ever real."*
+- **They are damaged, and Caleth believes they are fixable.** The plan, agreed in the hall: **carry them to Joran at the Purity Forge in Drezen and stand over them for an hour before either of them says it cannot be done.** Caleth's argument was that the forge took a working into Radiance, which is not supposed to take workings. Korroc's objection was that it is cloth and he is a smith. ⚠ **Whether the forge can do anything with cloth is NOT established** — the table has only discussed it. Do not write the repair as done.
+- Caleth also **held them up as proof** when the rescued Aravashnial woke and would not believe Vang was dead. It did not work.
+
+### The flying carpet *(taken Ch 28, identified Ch 30)*
+Deep red, knotwork doubling back on itself, long fringe at each end. **Taken from the bedroom off the ivory room in Ch 28** (*retcon — that room was recorded as holding nothing*). Caleth identified it in the cell block. It **carries a man's weight at about a foot off the floor, steady as a table, and goes where it is pushed**; Caleth steered it the whole way out with two fingers on the fringe. Nageru: *"I think it has just become a flying stretcher."*
+
+### Aravashnial's second collar *(Ch 30)*
+**Different from the one off his neck in Ch 24.** Black metal, close-fitting, **four faceted green stones at the quarters**, all four lit from inside with a slow pulse. **No mechanism to pick** — *"It's not a lock, it's a thing that shuts"* — Thane's chime did nothing, and **it was trapped**, with something under the near stone, two inches from the elf's throat. **It blocks healing**: Korroc's cure ran off the man like water off glass while it was on.
+- **Thane got it off in about ten minutes** using **the collar sketchbook from Vang's study (Ch 28)**, which turned out to be the design record — dozens of collars in plan, section and parts, getting better page by page — **read with the Abyssal he has been studying quietly for a year.** The one round the elf's neck is on a page near the back.
+- ⚠ **A ring of a dozen or more fine needles was bedded all the way round the neck** and came out with the inner half. **The collar is kept** (the party has two now).
+
+### The five Nahyndrian crystals — ⚠ ALL FIVE CRUSHED *(Ch 30)*
+Cut out of the real Aravashnial: **one in each limb, one deeper in the chest.** Thumb-joint sized, purple, with a light moving slowly inside. **Touching one bare-handed put hundreds of dying strangers into Korroc's head at once**; through steel it was bearable but not easy, and each one **pulled steadily at something in him that was not blood.** The third took him off his feet.
+- **The chest one was bigger, and it spoke to Thane.** Arueshalae: *"Some crystals still contain the souls of demon lords."*
+- **Korroc broke all five with his warhammer** on the laboratory floor — six blows for the first, then the rest. Each burst with **a thin coil of dark smoke that rose, thinned, and was gone.** Caleth: *"That was anticlimactic."*
+- ⚠ **Whether what was in the chest crystal was destroyed, banished or sent somewhere else is UNKNOWN and stays unknown.**
+
+### From the web room *(Ch 30)*
+- **A pouch of uncut gems**, a good handful.
+- **Lumps of ore and part-worked metal**, including **badly smelted silver** (Korroc's professional disgust).
+- **Two wands of confusion.** Thane, who had been confused by a coloxus hours earlier and had put his knives into Nageru and Korroc: ***"Burn them."*** Caleth bagged them and said nothing more about it. ⚠ **Unresolved — the party is carrying two of the thing that did that to him.**
+
+### From the wide hallway and Jerribeth's chamber *(Ch 30)*
+- **Two oversized glaives** off the weapon rack (table: **+1**).
+- **Vang's keys** — a ring, taken off his body in Ch 29 in the long hall (*"They were in the robes"*). They open Jerribeth's door.
+- **Six pages of Templar recognition signs and marks** off her desk — *"Anevia's whole year of work in six pages."* **For Anevia, the same night.**
+- **The unfinished letter to Hepzamirah.** See `lore/factions.md` items 100–103 and `characters/npcs.md`.
+- ⚠ **Nothing else was taken from that room**, deliberately. Korroc: *"We'll not be taking anything out of here that we don't have to."*
+
+### Not taken *(Ch 30)*
+- **The great leather record book from the laboratory** was read and **is in the bag.** Caleth could not read it at the table in the laboratory (*"I don't know the shape of the language"*); he read it an hour later off **a scroll out of his pack** — *the working is unnamed in prose; comprehend languages is the obvious reading and is not stated.* It says what the work was for.
+- **The heap of cut-off clothing** at the foot of the western slab, **Aravashnial's ruined boot** among it. Nobody went through it. It was left where it was.
+- **The iron bitten out of the Circle of the Abyss** — three small pieces. **Thane pocketed them.** No stated purpose.

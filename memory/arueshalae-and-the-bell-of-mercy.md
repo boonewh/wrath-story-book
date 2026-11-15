@@ -5,7 +5,9 @@ metadata:
   type: project
 ---
 
-> **Ch 29:** Vang called her ***"the broken one."*** She kept to doorways in the robing-room fight; in the temple she was clawed and **dragged out of the air by a kalavakus** and fought with her bow across her body until Nageru banished it; **Korroc healed her.** She closed the session: ***"There are still rooms we have not looked at. Several. And there is still the one who guards the front door."*** ⚠ What she knew of the trophy room or temple is not on the page.
+⚠⚠ **Ch 30:** She named the crystals and the elixir and **it frightened her** — *"They gave him a potion? And he is still alive?"* — and the line that gives her away sideways: *"It is what they gave the demons in the cells, **when I was in the cells.**"* **How to destroy a crystal: *"Crush them."*** And: *"Some crystals still contain the souls of demon lords."* **⚠ Thane asked in front of her whether she could handle them** — Nageru objected, Korroc shut it down, **and it was never answered.** She **stood at the foot of the table through the surgery with her face carefully turned away from the elf** (⚠ unexplained), and the rescued Aravashnial, waking, **took one look at her and nearly threw himself off the table** — until Caleth said **Desna's name.** She came back to Drezen and sat watch over him in Caleth's quarters. See [[nahyndrian-elixir-and-crystals]].
+>
+> **Ch 29:**> **Ch 29:** Vang called her ***"the broken one."*** She kept to doorways in the robing-room fight; in the temple she was clawed and **dragged out of the air by a kalavakus** and fought with her bow across her body until Nageru banished it; **Korroc healed her.** She closed the session: ***"There are still rooms we have not looked at. Several. And there is still the one who guards the front door."*** ⚠ What she knew of the trophy room or temple is not on the page.
 
 > **Ch 28:** inside the Sanctum she kept watch at doorways, shot a templar, stayed out of the way (Will), and said nothing about the house. She looked a long moment at Thane after his confusion. ⚠ What she knows of the layout is not on the page.
 

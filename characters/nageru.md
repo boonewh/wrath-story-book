@@ -98,7 +98,23 @@ His blood manifests in:
 - Charge: **Divine Smite empowerment for one fight** — for a duration, his unarmed strikes count as good-aligned, magic, and overcome demonic resistances.
 - Used in Chapter 3 against the dretches, and again in Chapter 7 to unmake more of them.
 
-## Current State (End of Session 29)
+## Current State (End of Session 30)
+
+### ⚠⚠ SESSION 30 — "THERE WAS NOTHING TO FIND" (Ch 30, Korroc POV)
+
+- **⚠⚠ HE BREATHED ACID.** Stepped into the web-room doorway, put one foot forward, squared himself, opened his mouth and **breathed a spreading cone of green-white acid** that ate holes in the fiber mat behind the target. Korroc had fought beside him for the better part of a year **and had never once seen it.** Caleth, mildly: *"That's new."* **Nageru: *"It is old."*** And that was all anybody got.
+  - ⚠ **Table fact (Will): it is a ki ability out of his training in the south. Not new, not from the fane, not celestial.** In prose it is simply something he has always been able to do and has never needed. **Nobody has asked him about it since.**
+- **⚠⚠ THE GORGE CONVERSATION — THE MOST IMPORTANT THING HE DID.** Alone with Korroc for ten minutes outside the Sanctum, he said *"You are thinking very loudly"* and then let Korroc come to it. On the fane fire, where the two of them had caught each other noticing something wrong: *"We were right." / "Yes." / "And we said nothing." / **"We had nothing to say."*** Then the full account — that if he had spoken he would have said *there is something in his manner*, and Caleth would have said *he has been a prisoner for two months*, and **Caleth would have been right.** And: ***"We did everything there is to do, brother. There was nothing to find."***
+  - ⚠ **Korroc received that as the opposite of a comfort**, because the comfort would have been *we were careless*, and careless is fixable.
+  - Then the thing that did help, offered without any pretense that it would: *"When I was a boy I was taught that the hand is not the eye. That a man who has spent his life training one of them will trust it past its reach, because it has never failed him, and the failing will come as a betrayal rather than a limit. **It is a limit, Korroc. It was always a limit. You simply had not found the edge of it before.**" / "That's meant to help, is it." / **"No. It is meant to be true. Helping is different and I am not good at it."*** Korroc laughed, which surprised him.
+  - **⚠ Korroc got as far as *"And it's the second time"* and stopped, and Nageru did not ask.** ⚠ **He still does not know about the cellar in Kenabres.**
+- **⚠ HE DEFENDED ARUESHALAE TO THANE, FAST.** Thane asked whether she could handle the crystals; Nageru's head came round at once: ***"She is no longer an evil demon. Do not assume."*** Korroc shut it down before it went further. ⚠ **He is the one who treats her as a settled question.**
+- **Combat:** took a weakening ray full in the chest and shrugged it off with half an inch of shoulder; rolled out of a lightning bolt with nothing worse than a smoking hem; **missed four times running** against a creature that was reading his weight — and then **simply stopped, in the middle of a fight, moved his back foot four inches, and killed it with one blow** into the crack Caleth's acid had opened. He **located the hidden third creature by listening**, pointed and threw a javelin at it in the same movement, and that javelin is what let Korroc put a flame strike on something nobody could see.
+- **He swore in Dwarven.** One short word he got from Korroc and uses about twice a year. **His accent is terrible.**
+- **He climbed the fiber mats one-handed** (Korroc found this personally offensive), reported them *warm to the touch, like vegetation, alive*, and found the nests. *"Don't eat any." / "I had not intended to."*
+- **He named the carpet's new job.** Caleth had just said the Sanctum blocks teleportation and they would have to walk a dying man out through six rooms; Nageru tilted his head and remembered a rug from a bedroom two days back — and then, when it proved to fly: ***"Then I think it has just become a flying stretcher."*** **He chuckled**, which is rare and did everyone in the room good.
+- **⚠ His fireball flask is still unthrown.** He offered it at the web room and Caleth waved it off (*"Don't use the flask. I have fire"*).
+
 
 ### ⚠⚠ SESSION 29 — "YOU WILL NOT GET AWAY AGAIN" (Ch 29, Caleth POV)
 - **Ran past Caleth into the lead room** and hit the thanadaemon four times; took its staff three times; **banished it** with four more. **Tumbled out under the last shadow demon** and banished it.
