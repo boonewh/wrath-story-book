@@ -5,6 +5,20 @@ metadata:
   type: project
 ---
 
+> # ⚠⚠⚠ INTERLUDE 3 (Ch 30.5) — IT IS OUT, AND THE PARTY HEARD IT
+>
+> **Caleth told the real Aravashnial to his face, in his study, with Korroc, Thane and Nageru in the room**: *"Your brother was Aelariel. His wife was Talia Aranor."* He put the letters, the locked journal and the burned certificate on the desk. **So Korroc, Thane and Nageru now know: Aravashnial is Caleth's uncle, Caleth's parents were Aelariel and Talia Aranor, and they were Riftwardens.** (They have not read the letters, and do not know the Lantern Seer vision or the Ch 22 note.)
+> - **✔ WHY HE NEVER TOLD (answered):** *"Because I was afraid of what would happen if I did. To you."* **The Riftwardens do not permit family ties,** *"not for field agents, not for officers."* **The Council did not know he and Aelariel were brothers; Aelariel's marriage was never official. The Council had already erased Caleth's identity as a Riftwarden's son.** He had seen what the Council did to the parents' home, possessions and records, and *"would not allow them to take you from another family."* Later: *"I no longer knew how."* *"There is no adequate excuse."* Caleth: *"You should have trusted me." / "Yes."*
+> - ⚠ **The Council representatives now in Drezen do NOT know who Caleth is** (*"those who are here do not know who you really are"*). Keep it that way.
+> - **He found Caleth as a child**, with his foster family, and watched him for twenty-five years: the academy, when they met in Kenabres, after Drezen. *(Ch 1's prose never said whether they already knew each other; lore now says they did. Will, 2026-11-21.)*
+> - **The family was from KYONIN** (Will, 2026-11-21). Their father carved the staff's moons; the three moons are **the family crest.**
+> - **The three-moon book is Aelariel's spellbook**, and **Aravashnial has it now.** See [[the-three-moon-mark]].
+> - **Caleth is still angry**; Aravashnial is still angry the journal was opened and *"understands why you did."* **Still unasked:** Aelariel and Talia, the Spiral, why they died, the Council. *"He could wait a little longer."*
+> - **Still open:** what the Spiral's records and stories say; what the last mission was; whether Aravashnial went home when his brother asked; who burned the certificate; how Aravashnial knew the Lantern Seer's third vision.
+>
+> Everything below is the pre-interlude record. **Where it says "only Caleth knows," read: Caleth, Aravashnial, Korroc, Thane and Nageru.**
+
+
 **The answer to the question Caleth's whole arc was built on, delivered in Session 23 — on paper, from a man who cannot be asked about it.**
 
 ## What is now canon

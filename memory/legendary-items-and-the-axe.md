@@ -5,6 +5,9 @@ metadata:
   type: project
 ---
 
+> **✔ SESSION 31 (Ch 31): FIENDSPLITTER IS BACK WITH KORROC.** Irabeth handed it over gladly (*"Thank Iomedae"*) after a month of it demanding the succubus's whereabouts and calling her a coward. Korroc: *"Should've had it. In the Sanctum… I'll not leave it on a wall again."* **At the cold camp outside the Midnight Fane it would not stop about Arueshalae, so it went into Thane's portable hole** — and it is still in there as the five go into the Fane (Korroc's hand went to where it should be).
+
+
 ## The legendary items (Ch 27)
 
 - **Korroc's shield, Thane's punch dagger, Nageru's amulet.** Each had been taking in the wardstone's power from being carried close. **Nageru felt they could meet it and draw it out**, *"bring out, not put in,"* and guided **most of a day's meditation on the Purity Forge floor.** **Joran watched.**

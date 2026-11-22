@@ -5,6 +5,20 @@ metadata:
   type: project
 ---
 
+> # ⚠⚠ SESSION 31 (Ch 31) — VANG'S CODED JOURNAL, DECODED
+>
+> Cracked by **Caleth, Thane (his Abyssal) and Aravashnial** (who recognized a **Templar field code**). It is Vang's working record, not his thoughts:
+> - **Vang's part in refining Nahyndrian crystals** — into **the elixirs** that give demons mythic power, and into **the chisel that cracked the Kenabres wardstone.**
+> - **Preliminary plans for a Nahyndrian GOLEM** of enormous power. Not finished.
+> - **⚠ THE CRYSTALS ARE THE FOSSILIZED LIFEBLOOD OF ASSASSINATED DEMON LORDS.** (Squares with Arueshalae's *"some crystals still contain the souls of demon lords."*)
+> - **⚠ THEY ARE MINED IN THE ABYSS, ON THE MIDNIGHT ISLES** — the realm of the demon lord **Nocticula**, who **has NOT given permission** for the mining. The cult of Baphomet has tried repeatedly to bring her into the Worldwound alliance; she has not agreed.
+> - **The latest entries:** new attempts at that alliance by **Templars stationed in the Abyss**, naming **Minagho** (trying to win back Baphomet's favor after losing the wardstone remnants) and **Hepzamirah** (Baphomet's daughter, **true leader of the Templars of the Ivory Labyrinth**, in charge of the mining).
+> - **The crystals come through a rift at THE MIDNIGHT FANE** — ✔ **this closes Jerribeth's "the next shipment from the Fane."** Arueshalae has seen the rift. See [[midnight-fane-and-the-abyss-mission]].
+
+
+> **⚠ INTERLUDE 3 (Ch 30.5): THE CRYSTALS WERE IMPLANTED BY A NEH-THALGGU**, named by Aravashnial at his debriefing. **In this campaign "neh-thalggu" is the FLOATING brain-creature from Caleth's vision** (swollen head, a dozen thin limbs moving together). The GM's ruling stands over the published bestiary (Will, 2026-11-21). **The crab-things in the web room stay unnamed** — do not call them neh-thalggu. It was **never found** in the Sanctum. Aravashnial also confirmed **seizures and voices** from the elixir, and that **he lost consciousness frequently and does not remember everything.**
+
+
 Established in **Ch 30**, mostly out of Arueshalae's mouth and Jerribeth's unfinished letter. This is the first time the campaign has had hard rules for the thing it has been chasing since Kenabres.
 
 ## The crystals

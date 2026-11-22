@@ -5,6 +5,30 @@ metadata:
   type: project
 ---
 
+> # ✔✔ SESSION 31 (Ch 31) — THE IMPOSTOR IS CAUGHT
+>
+> - **It was a DOPPELGANGER** (Aravashnial's identification; gray and featureless in its own shape). **A mercenary, not a demon** — *"I'm not a demon, I'm a mercenary."* It works for the **highest bidder.**
+> - **Found by Caleth's scrying**, an hour's hard work, using **the linen shirt the copy left folded over the study chair.** The water showed it **walking down a street in the lower town outside the gate wearing NAGERU'S FACE**, between **Aravashnial and Arueshalae.** It had lured them out of the citadel with a story that the knights wanted them to see *"something found in one of the abandoned buildings."* **Aravashnial believed it entirely.**
+> - Caleth folded the four there without asking: *"Take it alive."* **Nageru** (one miss, two pulled blows, the second stunned it), **Caleth** (a spell that froze it), **Korroc** (three measured hammer blows). Nageru carried it through the gate to the command room. **Now in the ANTI-MAGIC CELL** — in the field it **cannot hold a borrowed shape** and reverts to its gray form. **Four guards; nobody is to talk to it** (Nageru's order).
+> - **What it said:** it was after **the bounty on Arueshalae** — *Jerribeth's* original **thousand platinum**, which is **still on**, and *"her employers would pay it."* Working for **Vang and Jerribeth, "sort of."** **Its job was to stop the party looking for Aravashnial. "It worked."** It does **not** know Vang's plan for him.
+> - ⚠ **STILL OPEN: HOW IT BEAT EVERY CHECK** — detect evil (not a demon explains part), detect magic, Caleth's dispel, **Thane's lie-detection**, Korroc's sight. Its whole answer: *"I'm good at what I do."* **Do not explain it.** Also open: **what it carried out of the command room, and whether it sold any of it.**
+> - **Aravashnial: "I really thought that was Nageru."** He went west with the party in Ch 31 (see [[midnight-fane-and-the-abyss-mission]]).
+> - ⚠ **Korroc's life link on the real Aravashnial: still NOT laid** (Will, Ch 31 questions: "link stays open").
+
+
+> # ⚠⚠ INTERLUDE 3 (Ch 30.5) — THE REAL MAN, HOME
+>
+> **Recovery (about two weeks):** woke in the infirmary and could not bear light or sound after weeks of darkness and silence, and collapsed; Sosiel moved him to **a dark private room.** He **will not be touched without warning and permission.** **No scars at all**, which troubles Korroc. Fell trying to reach the window; walks with **Sosiel's cane**, then short distances unaided; headaches easing. After about two weeks, back in **his own rooms and study.** The first thing he asked about was **the four soldiers** (all four survived; he blamed himself for the tower).
+> - **His staff is repaired** (see `lore/items.md`). **His arcane bond is NOT restored**; he has not tried. Why: unsaid.
+> - **⚠ THE DEBRIEFING** (Irabeth's, a week in; three Riftwarden Council representatives present): **rank: "Field Agent. Assigned to Kenabres, currently serving as Riftwarden advisor to the command of Drezen."** He woke **at the entrance to the Ivory Sanctum** after Jerribeth's spell. Vang was delighted — a Riftwarden from Kenabres alive, when he thought he had wiped them out — and **recognized him through his spellbook.** Vang wanted **Riftwarden operations, safehouse locations, personnel assignments, defensive wards, and methods of identifying demonic infiltration.** *"Not voluntarily."* **He cannot guarantee what was taken.** *"Do you believe you have been compromised?" / "I don't know."*
+> - **⚠ THE IMPOSTOR, from the only witness:** it stood at the back of the laboratory; Vang called it forward; **it had no features of its own, gray skin, and then it changed into him** — height, face, hair, **even the injuries** — and **spoke in his voice.** *"The knights would soon believe they had found the man they were searching for."* That was the last he saw of it. ⚠ **Still open: what it is (unnamed), how it passed every check, where it went.** **Thane thinks it may still be inside Drezen** and is going through every gate record with Anevia.
+> - **⚠ It had his study for two months** and **got into the locked drawer** (he assumed it took the journal, until Caleth produced it). What it read or took: unknown.
+> - ⚠ **Nobody has told him about the Ch 26 night talk; he still has not been asked how he stopped the transfer** (the debriefing covered "the attempts to alter him" only in summary).
+> - **Korroc reached for his shoulder on the first night and stopped.** ⚠ **The life link is still not laid** at the interlude's close.
+> - **The Riftwarden Council tried to take him; Irabeth refused.** See [[riftwarden-council-in-drezen]].
+> - **He knows Caleth knows.** See [[caleth-parents-and-uncle]].
+
+
 > # ⚠⚠⚠ Ch 30 — EVERYTHING BELOW FROM Ch 24 ONWARD IS THE IMPOSTER
 >
 > **THE ARAVASHNIAL OF Chs 24–30 WAS NOT ARAVASHNIAL.** The real elf **never walked home, was never in Drezen, never rode west.** He was in **the third cell on the left of the Ivory Sanctum's cell block** from Ch 21 until the party cut him out in Ch 30. The thing that came out of the west four mornings after the graves at Sesker's Gully saying *"Been walking. For days"* was **a copy, and it was a copy from the first moment.**

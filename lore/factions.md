@@ -148,6 +148,8 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 
 **Type:** The legendary half-elven stronghold tied to the elder elven mysteries.
 
+> **⚠ Interlude 3 (Will, 2026-11-21): Aravashnial and Aelariel's family was from KYONIN.** Lore only; the chapters call Aelariel "Spireborn" only through Ch 23's letters and records. If the two need reconciling, the family's home is Kyonin.
+
 **Description:** A community of half-elves who maintain physical and academic training of extraordinary depth. Spireborn agents are sometimes sent into the world on long missions whose purposes are rarely shared with those agents. The Spire keeps its own counsel and shares little with the wider world.
 
 **Plot relevance for the campaign:**
@@ -176,12 +178,14 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 **Plot relevance for the campaign:**
 - **Caleth's biological parents were Riftwardens** — **Aelariel** (Spireborn elf) and **Talia Aranor** (human) — who vanished into the Worldwound on an unexplained mission less than a month after Caleth's birth. **Xanthir Vang killed them** (Ch 22). **Aelariel was Aravashnial's brother** (Ch 23).
 - **Caleth carries the Seeker's Spiral on his shoulder blade** — a birthmark since the day he was born, marking him as a Riftwarden's child. His campaign trait is **Riftwarden Orphan.** ⚠ **Ch 23: it meant more than lineage to his father**, who wrote *"I know what the records say. I know the stories… Brother, I am afraid."* **What the order's records and stories say about the Spiral is NOT established — do not invent it.** Since Ch 23 **it aches and burns in Caleth's dreams** of a shadowless man, then fades unchanged.
-- **Aravashnial is a Riftwarden elder — and Caleth's uncle** (Ch 23; known only to Caleth). He recognized Caleth's lineage from the day they met in the underdark, and had watched over Caleth's life from its margins since his birth. The whispered conversation at Gwerm Manor in Chapter 4 was where Aravashnial revealed his identity to Caleth. *(See characters/npcs.md.)*
+- **Aravashnial is a Riftwarden FIELD AGENT** (Interlude 3; the old "elder" rank is retired) **— and Caleth's uncle** (Ch 23; **Korroc, Thane and Nageru know as of Interlude 3**). He found Caleth as a child with his foster family and had watched over Caleth's life from its margins since. The whispered conversation at Gwerm Manor in Chapter 4 was where Aravashnial revealed his identity to Caleth. *(See characters/npcs.md.)*
 - **Blackwing Library was a Riftwarden stronghold** — the order's working library, holding the most extensive writings on demons in Golarion. **Destroyed before the party reached it in Chapter 4.** Aravashnial's grief at finding it in ruins is for the order's loss, not only the books.
-- **Most of the party still does not know about the Riftwardens.** As of Chapter 4, Caleth has learned that Aravashnial is one — that secret is now shared between them, kept from Korroc, Thane, Nageru, Anevia, Horgus, and Klareth.
+- ~~**Most of the party still does not know about the Riftwardens.**~~ *(Superseded: public since Ch 11; the Council came to Drezen in Interlude 3.)* As of Chapter 4, Caleth has learned that Aravashnial is one — that secret is now shared between them, kept from Korroc, Thane, Nageru, Anevia, Horgus, and Klareth.
 - Somewhere within the Worldwound lies the truth of Caleth's parents' fate. Possibly alive. Possibly ended by something or someone who still walks. This is one of Caleth's primary drivers, beneath the Shelynian surface.
 
-**Status:** Active but invisible. The party may encounter Riftwardens (or those who recognize the Spiral) once they reach the surface, or in the deeper Worldwound campaigns.
+**⚠ INTERLUDE 3 — THE COUNCIL:** The order has a **Council with authority over its agents.** Ranks named so far: **field agents** and **officers.** **Riftwardens do not permit family ties** — members surrender them on joining. The Council **erased Caleth's identity** as a Riftwarden's son and took his parents' home, possessions and records; it never knew Aravashnial and Aelariel were brothers (the marriage was never official). **The order kept safehouses in Drezen** (Aravashnial's work since Interlude 2). **Three representatives came to Drezen** after the rescue to take "compromised" Field Agent Aravashnial for interrogation; **Irabeth refused**, and gave them oversight of the safehouses and one advisor's seat. ⚠ **They do not know who Caleth is.** See `memory/riftwarden-council-in-drezen.md`.
+
+**Status:** Active, and now present in Drezen. The party may encounter Riftwardens (or those who recognize the Spiral) once they reach the surface, or in the deeper Worldwound campaigns.
 
 > **NOTE (file pass, May 2026):** Riftwardens were not previously documented in this file. They are core to Caleth's actual character canon (per his sheet) and should now be treated as a real, active faction whose interests intersect with the party's, especially as the Worldwound arc deepens.
 
@@ -363,6 +367,14 @@ The major organizations, tribes, and powers relevant to the campaign so far.
 104. **⚠ SIX PAGES OF TEMPLAR RECOGNITION SIGNS** off Jerribeth's desk — *"Anevia's whole year of work in six pages."* Caleth bagged them for her the same night.
 105. **⚠ JERRIBETH'S ROOM.** A bath, a mirror, a canopied bed — and **a blood-strapped gurney in the middle of the floor and manacles bolted to the bedpost.** Nobody said anything and nothing was taken but paper. ⚠ *Left exactly as it is.*
 106. **✔ Thane has been studying Abyssal** quietly for about a year — it is how the collar came off. Korroc worked out he must have started on Staunton's ledger and said nothing.
+107. **✔ "THE FANE" IS THE MIDNIGHT FANE (Ch 31)** — where the crystals come through a rift from the **Midnight Isles**. Closes item 102.
+108. **⚠⚠ THE CRYSTALS ARE THE FOSSILIZED LIFEBLOOD OF ASSASSINATED DEMON LORDS**, mined on **Nocticula's** Midnight Isles **without her permission** (Vang's journal, Ch 31). See `memory/nahyndrian-elixir-and-crystals.md`.
+109. **⚠ NOCTICULA HAS NOT JOINED** the cult of Baphomet's alliance. **Minagho** (seeking Baphomet's favor back) and **Hepzamirah** (true leader of the Templars; runs the mine) are trying again from the Abyss. **The Queen wants her kept out, or an agreement.**
+110. **⚠ A NAHYNDRIAN GOLEM** — preliminary plans in Vang's journal. Not finished. Who carries the work on: open.
+111. **⚠⚠ THE QUEEN'S MISSION (Book 4):** close the Fane rift with the copper plates, the four as the power; **someone holds a plate on the Abyss side with no way back**; destroy the factory; Nocticula. See `memory/midnight-fane-and-the-abyss-mission.md`.
+112. **✔ THE IMPOSTOR IS CAUGHT** — a doppelganger mercenary, after Arueshalae's bounty (still on; *"her employers would pay it"*). In the anti-magic cell. **How it beat every check: OPEN.**
+113. **⚠ A WOMAN WITH YANIEL'S FACE, IN IOMEDAE'S ARMOR, AT THE MIDNIGHT FANE.** Open.
+114. **⚠ THE MISTRESS OF THE MIDNIGHT FANE** (unnamed) **expected them.** How she knew: open.
 
 **New from Session 20:**
 22. **⚠ JERRIBETH.** A name engraved on the back of a Baphomet symbol taken off a dead clanliege, and a description — *"a beautiful elf woman"* — from a frightened barbarian. She recruited **Marhevok Grunhuld-Wintersun**, gave him a scrying token he thought was an honor, promised him command in her armies, and left him raiding the crusade's supply road for a year without ever sending for him. **Caleth threw the token in a pool rather than carry an open window on his back.** ⚠ *The party believes she is an elf. Keep them believing it — see `characters/npcs.md`.* **This is the clearest new enemy lead out of Book 2's aftermath.**

@@ -9,6 +9,8 @@ metadata:
 
 ## ⚠⚠⚠ STATUS AFTER SESSION 29: LEVEL 12. ALL FOUR MYTHIC 5.
 
+**✔ Session 31: NO ADVANCEMENT** (Will). Still **Level 12, all four Mythic 5.**
+
 **✔ Session 30: NO ADVANCEMENT.** Still **Level 12, all four Mythic 5.** *(Asked and answered at the table — Will.)*
 
 *(Will, 2026-11-08: **Caleth Mythic 5, everyone Level 12.** Vang was destroyed this session, as Will expected. The party is level on tier again, so the website can collapse back to the single-header shape: "Level 12 Gestalt · Mythic 5" and a footer of Mythic Tier 5.)*

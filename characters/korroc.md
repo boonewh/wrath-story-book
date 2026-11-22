@@ -76,6 +76,22 @@ Do not replace the forge — **layer the stone underneath.**
 
 ## Current State (End of Session 30)
 
+### ⚠⚠ SESSION 31 — THREE BLOWS (Ch 31, Nageru POV — shown from outside)
+- **He took Fiendsplitter back from Irabeth** — *"Should've had it. In the Sanctum… There's a lot of demons left. I'll not leave it on a wall again."* **At the Fane camp it would not stop about Arueshalae and he dropped it in Thane's portable hole** (*"Saints. Quiet."*); it is still there as they go in, and his hand went to where it should be.
+- **⚠ He dropped the doppelganger — the thing his sight cleared for two months — with three measured hammer blows**, exactly as hard as *alive* allowed, **and then stood looking at nothing.** Nageru saw it and did not ask. ⚠ **He said nothing about it. The life link is still NOT laid** (Will). He argued for the anti-magic cell: *"Can it teleport? … Turn into a rat and walk out?"*
+- Talisman → **Torag**; he touched it and said nothing.
+- Muttered at the Queen riding the Wound with a few dozen men; *"Which one's which?"* about the Tolland brothers.
+
+### ⚠⚠ INTERLUDE 3 (Ch 30.5) — HE STAYED, AND HE STILL HAS NOT LAID IT
+- **First night:** in the chair by the bed, armor off. *"Should've found you sooner."* He reached for the elf's shoulder **and stopped, and withdrew his hand.** Thane's *"We don't know if that's the real Aravashnial"* is still in him — he was furious because he was afraid of the same thing. *"You're home. Whatever else happens, you're home."* **⚠ The life link is still NOT laid at the interlude's close.**
+- **No scars on the man** after everything Korroc cut out of him, and that troubles him.
+- Aravashnial woke to him in the dark room, and the first thing he believed was that Korroc was real: *"You're real?" / "Aye, I'm real."*
+- **He fought Irabeth over the debriefing** (*"The man's barely walking"*) and lost; carried the cane the elf refused, and the elf took it. At the Council: *"He said he doesn't know"* / *"And neither can you."*
+- **Mended the staff's wood around Thane's mithral core** and cast the mending; was angry Thane took it, then *"We fix it."*
+- Carried **Yaniel's armor** to Irabeth.
+- Now knows Aravashnial is Caleth's uncle.
+
+
 ### ⚠⚠⚠ SESSION 30 — THE THREAD HE DID NOT LAY (Ch 30, POV — *What Came Back Clean*)
 **His first POV since Ch 27, and the heaviest thing that has happened to him since the wardstone.**
 

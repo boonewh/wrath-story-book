@@ -127,6 +127,26 @@ He has not told the others any of this.
 
 ## Current State (End of Session 30)
 
+### ⚠⚠⚠ SESSION 31 — HE FOUND IT, AND HE READ THE PLATES (Ch 31, Nageru POV — interior offstage)
+- **Decoded Vang's journal** with Thane and Aravashnial after four days alone; briefed the party (contents in `memory/nahyndrian-elixir-and-crystals.md`).
+- **⚠ Scried the doppelganger** — an hour, gray to the lips — with the shirt from the study chair; saw Nageru's face in the water, swore (not *saint's mercy*), and **folded the four without asking**: *"Take it alive."* His spell froze it. **He did not want the anti-magic cell** (Nageru read the collar in his frown) and gave way. **Led the interrogation**, and when it smiled about the lie-detection, **he spat**: *"You can rot in there."*
+- **⚠ He reads every language on the Queen's copper plates.** Why is NOT established. Aravashnial turned and looked at him.
+- **"What?"** — too sharp — at being sent to the Abyss. Sat with the futures running.
+- **Talisman tucked under his robes unseen** (Shelyn, privately). **Wears the white robes.**
+- **Eight teleports** to move the company; worn gray. **Summoned the horses.** **Answered the Deskari statue in Abyssal**: *"Hail Lord Deskari, Locust Lord, may he rule eternal."* *"Later."* **Named the gibrileth and the cambion.** **Last word of the chapter: "Yaniel."**
+- Bag of holding + portable hole: *"Not ever. Not for a moment. Not to see what happens."*
+
+### ⚠⚠⚠ INTERLUDE 3 (Ch 30.5) — HE TOLD HIS UNCLE HE KNOWS, IN FRONT OF THE PARTY
+*(The GM's interlude, *The Hands That Made It*; multi-POV.)*
+- **⚠⚠ He told Aravashnial, in the study, with Korroc, Thane and Nageru there:** *"Your brother was Aelariel. His wife was Talia Aranor."* Letters, journal and certificate on the desk. **The three now know Aravashnial is his uncle and who his parents were.** He got his answer — Riftwardens forbid family ties; the Council erased his identity; *"I no longer knew how"* — and **it did not make the anger go away.** *"You should have trusted me." / "Yes."* He had not expected agreement to hurt so much. **He still has not asked about his parents, the Spiral, or why they died.** See `memory/caleth-parents-and-uncle.md`.
+- **The three-moon book is Aelariel's spellbook; he gave it to Aravashnial** (*"Keep it"*). He also returned **Aravashnial's spellbook, the locked journal, both letters and the certificate.** He defended opening the journal: *"I would do it again if it meant finding you."*
+- **⚠ He now wears the WHITE ROBES OF THE ARCHMAGI** — Vang's black robes, turned on the Purity Forge (Thane, Joran, Korroc, and his own magic). **Thane: "They're yours."** See `lore/items.md`.
+- **Yaniel's armor went to Irabeth**; he made the presentation.
+- **He faced down the Riftwarden Council's gray-haired man** over taking Aravashnial away: *"And this organization has obligations to him."* *"You are not a Riftwarden." / "No."* ⚠ **The Council's people do not know who he is.**
+- **Radiance: he wants a keener edge laid in** (Thane to do the physical work, Caleth the magic). ⚠ Whether it is done is not established.
+- Spent the first night going through the Sanctum's documents; translates for the command room.
+
+
 ### ⚠⚠⚠ SESSION 30 — THE VISION, AND HE ASKED INSTEAD OF ORDERING (Ch 30, Korroc POV — his interior is offstage)
 
 - **⚠⚠ THE SPIRAL TOOK HIM AT THE CELL-BLOCK DOOR AND SHOWED HIM THE LABORATORY.** He had been **glad** the mark went quiet when Vang died, *"and I was stupid to be glad."* This was not an ache: *"something reaching under my skin and taking hold of it."* He stood rigid on his feet for **four or five breaths** with nobody behind his eyes, and came back when Nageru shut the door.

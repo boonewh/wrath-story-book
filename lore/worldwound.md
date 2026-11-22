@@ -397,3 +397,15 @@ Room descriptions at the table were read from the published adventure; the chapt
     - **And an unfinished letter to Hepzamirah.** See `lore/factions.md` and `characters/npcs.md`.
 
 ⚠ **Left open by Ch 30, closed to invention:** **what the crab-things are** (the letter ties them to *the Dark Tapestry* and calls them *aliens*; nobody named them) · **the floating brain-creature from Caleth's vision** — a different creature, never found anywhere in the Sanctum, **deliberately unnamed**, and **where it went is unknown** · **what becomes of the Sanctum now** (nothing was done to destroy it) · **the basilisk.**
+
+---
+
+## The Midnight Fane *(Ch 31 — Book 4)*
+
+**Where:** across the Worldwound from Drezen, near its far western side; Aron: **"two hundred and forty miles, at the least."** **A low, heavy black stone building on the crown of a hill**, no windows seen. The hill you can see from a distance (with a light on it, **visible from fifty miles**) is **an illusion**; the real one lies about a mile south and west, and the illusion thins as you come at it from the right side. **The rift is inside, big and powerful; teleporting close to it has made people explode** (Arueshalae). It is how the **Nahyndrian crystals come through from the Midnight Isles.**
+- **The Queen's camp:** a fold of ground **a mile out** from the real hill. Earlier, a cold camp **fifty miles east** (the scouting point).
+- **A1 — the way in:** **camouflaged double doors at the hill's base**, painted and planted to look like the slope; unlocked, oiled. A long dressed-stone hall, **lit low and red from nowhere**, smelling of hot metal and something sweet.
+- **The statue room** (top of the first stair): **a black stone Deskari** — many-legged, wings half spread, a carved cloud of locusts — that **speaks in Abyssal**: *"Behold, the glory of the Locust Lord."* Answer: *"Hail Lord Deskari, Locust Lord, may he rule eternal."* A second stair; **iron-bound double doors** opposite (the hill giant).
+- **A3 — the packing room:** a balcony round three walls. Below: **dozens of empty lead-lined, thickly padded chests** on one table; **complex brass-and-iron-and-glass machines** of unknown purpose on another; **eight incubi** packing crystals.
+- **A5 — the elixir room:** an alchemy table (a **cambion** at work), a **gibrileth** near the ceiling, and **the woman with Yaniel's face** in Iomedae's armor.
+- **The mistress** (unnamed) was **expecting them** and has granted **an audience.**

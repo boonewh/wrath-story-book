@@ -1,32 +1,25 @@
 ---
 name: aravashniel-riftwarden
-description: Aravashnial is a Riftwarden elder — same order as Caleth's parents. Caleth knows as of Chapter 4; rest of party does not.
+description: Aravashnial is a Riftwarden FIELD AGENT (Interlude 3; the old "elder" rank is retired), assigned to Kenabres, now Riftwarden advisor to Drezen. His rank and his being Caleth's uncle are now known to the party. The Blackwing was the order's library.
 metadata:
   type: project
 ---
 
-Aravashnial is a **Riftwarden elder** — the same secret order as Caleth's biological parents. He recognized Caleth's lineage from the moment they met in the underdark; the restoration potion Caleth gave him in Chapter 1 was, in retrospect, the first quiet acknowledgment passed between them, though neither said it aloud at the time.
+**⚠ REWRITTEN for Interlude 3 (Ch 30.5), 2026-11-21.** *(The filename misspells his name; leave it.)*
 
-**Blackwing Library was a Riftwarden stronghold** — the order maintained the most extensive collection of writings on demons in Golarion there. Its destruction (revealed in Chapter 4) is Aravashnial's grief for the *order's loss*, not only for the books.
+## What is canon
+- **Aravashnial is a Riftwarden Field Agent.** At Irabeth's debriefing, for the record: ***"Field Agent. Assigned to Kenabres, currently serving as Riftwarden advisor to the command of Drezen."*** The Council's representatives call him *"Field Agent Aravashnial."* (Will, 2026-11-21: *"He is a field agent."*)
+- ⚠ **The old "Riftwarden ELDER" rank is RETIRED.** Earlier files and this memory called him an elder by rank and kept that rank secret. Do not write "elder" for him again. (He is still **not old** — an elf, long-lived, not elderly.)
+- **His rank is now PUBLIC** — said in front of the four PCs, Irabeth, Aron, Anevia, Sosiel, Horgus, officers, scribes and the Council representatives.
+- **The Council has authority over its agents** and tried to take him away for interrogation after the debriefing; Irabeth refused. See [[riftwarden-council-in-drezen]].
+- **Riftwardens forbid family ties** for field agents and officers. That is why he never claimed Caleth. See [[caleth-parents-and-uncle]].
+- **His family was from Kyonin.** His staff's shaft is from Kyonin, a gift from his parents when he left; **his father carved the three moons**, which are **the family crest.**
+- **The Blackwing Library was a Riftwarden stronghold**, the order's working library. Vang destroyed it and believed he had wiped out the Kenabres Riftwardens.
+- **He found Caleth as a child** and watched him for twenty-five years (the academy, Kenabres, after Drezen). The Ch 4 whisper at Gwerm Manor is where he told Caleth he was a Riftwarden. *(Ch 1's prose never said whether they already knew each other; the lore says they did.)*
 
-**⚠⚠ Ch 23: HE IS CALETH'S UNCLE** — brother of Caleth's father, Aelariel. Only Caleth knows. See [[caleth-parents-and-uncle]].
+## Who knows what (after Interlude 3)
+- **Public to the party (and Drezen's command):** he is a Riftwarden, a field agent, Kenabres-assigned.
+- **Known to Caleth, Korroc, Thane, Nageru:** he is Caleth's uncle; Caleth's parents were Aelariel and Talia Aranor, Riftwardens.
+- **NOT known to the Council's representatives:** who Caleth is. Keep it from them.
 
-**⚠ STATUS (Ch 21): TAKEN BY A SIX-LEGGED DRAGON; FATE UNKNOWN.** See [[aravashnial-taken]]. Everything below about the secret still holds, and his absence makes Caleth's unasked questions heavier, not lighter.
-
-**Status of the secret (post-Chapter 4):**
-- **Caleth knows** — revealed in a whispered conversation at Gwerm Manor.
-- **Korroc, Thane, Nageru, Anevia, Horgus, Klareth do NOT know.**
-
-**Why this matters:**
-- It gives Caleth a quiet on-screen ally for his Riftwarden Orphan campaign trait — the order is no longer purely an absence in his life.
-- It re-frames Aravashnial's mentorship of Caleth in chapters 1–3: what looked like scholar-to-paladin courtesy was a Riftwarden elder recognizing a Riftwarden's child.
-- It opens a future plot beat where Aravashnial may know more about Caleth's missing parents than Caleth himself does.
-
-**How to apply:**
-- **Maintain the secret in non-Caleth POV chapters.** Korroc / Thane / Nageru POV must never narrate Aravashnial's Riftwarden identity. Show their interactions with him from outside — let the reader connect them to other Riftwarden material (see lore/factions.md Riftwardens entry) without the POV character understanding.
-- **Caleth POV may surface the awareness directly.** He knows now. He still will not share with the others without strong reason.
-- **The Spiral mark on Aravashnial:** he likely bears one too — birthmark, initiate-mark, or a sigil he can summon. The shape has not yet been narrated. Available beat for a future chapter.
-- **Blackwing Library survivors:** Some of the four bound librarians the party rescued in Chapter 4 may be Riftwardens. Aravashnial would know; Korroc would not. Available authorial flourish.
-- The whispered Gwerm Manor scene in Chapter 4 must be **shown from outside** if Korroc is POV. The reader sees the whisper; the words are not narrated; the connection is left for the reader to make from other lore.
-
-Related: [[stonevein-family-question]] is unrelated but provides a structural analog (long-running cross-character thread quietly carried).
+Related: [[caleth-parents-and-uncle]], [[riftwarden-council-in-drezen]], [[aravashnial-taken]].

@@ -5,6 +5,18 @@ metadata:
   type: project
 ---
 
+> # ✔✔ RESOLVED IN INTERLUDE 3 (Ch 30.5) — a reveal, not a conflict
+>
+> - **The three moons are the FAMILY CREST** of Aravashnial and Aelariel's house (Kyonin).
+> - **The Ch 28 book is AELARIEL'S SPELLBOOK.** It began as **a blank spellbook Aravashnial had prepared**; Aelariel *"borrowed"* it without asking (*"That was the term he preferred"*), began using it, and **redid the cover with his own, more elaborate version of the crest** (*"I told him it was unnecessarily elaborate"*). That is why **Aravashnial's arcane mark is inside it.** The first pages are in Aravashnial's precise hand, then Aelariel's hurried, crowded one. *"My brother was a brilliant abjurer. And an appallingly untidy scholar."*
+> - The interlude describes the difference as *"the arrangement slightly different, the lines more elaborate."* Ch 28 printed it as **the middle moon full.** Both stand; they are compatible.
+> - **The staff's carved moons are the same crest, carved by their FATHER.** Thane used this book's cover as the pattern to rebuild them, and the old fragments matched it exactly.
+> - **ARAVASHNIAL HAS THE BOOK NOW.** He asked to keep it (*"It was his"*) and Caleth said *"Keep it."*
+> - Still open: **what is in it** beyond Aelariel's notes, and whether it says anything about the Spiral or the last mission.
+>
+> Everything below is the pre-interlude record.
+
+
 **New canon from Session 28.**
 
 > **⚠⚠ Ch 30 CHANGES THE CONTEXT, NOT THE FACTS.** The mark itself is unaffected — it was on his real spellbook, recovered from Vang's desk. **But the "my book" remark that this thread hangs off came out of the IMPOSTER's mouth** at the Gray Road in Ch 26, not the real Aravashnial's. **Do not treat *"He still has my book. I want it back"* as the real man's wish.** What the copy wanted, and whether the three-moon book has anything to do with it, is **wide open.** See [[aravashnial-taken]].

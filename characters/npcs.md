@@ -34,6 +34,15 @@
 
 ### Aravashnial
 
+> # ⚠⚠ INTERLUDE 3 (Ch 30.5) — READ BEFORE ANYTHING BELOW
+>
+> - **RANK: FIELD AGENT** — *"Field Agent. Assigned to Kenabres, currently serving as Riftwarden advisor to the command of Drezen."* **Public.** ⚠ **The "Riftwarden elder" rank everywhere below is RETIRED** (Will, 2026-11-21).
+> - **Family from Kyonin.** The staff's shaft is from Kyonin, a gift from his parents; **his father carved the three moons, the family crest.** **Staff repaired** by Thane and Korroc (mithral core, cold iron inlays, the moons recarved with the old fragments set in). **Arcane bond NOT restored**; he has not tried.
+> - **Recovery:** about two weeks; light and sound were unbearable at first; **no touching without warning and permission**; a cane; no scars; back in his own study by the end. Voice is coming back: *"I shall endeavor not to inconvenience you."* / *"If you've come to tell me I should be resting, you may join the queue."*
+> - **Debriefing:** Vang recognized him by his spellbook; wanted Riftwarden operations, safehouses, personnel, wards, **methods of identifying demonic infiltration**; *"Not voluntarily"*; **he cannot say what was taken.** The crystals were implanted by **a neh-thalggu** (the floating brain-creature). **He saw the impostor take his shape**: featureless, gray, then him, injuries and voice included.
+> - **The Riftwarden Council tried to take him for interrogation; Irabeth refused** and set terms. He expected to go. See `memory/riftwarden-council-in-drezen.md`.
+> - **⚠ He knows Caleth knows, and Korroc, Thane and Nageru heard it.** Why he never told: Riftwardens forbid family ties; the Council did not know he and Aelariel were brothers and erased Caleth's identity; *"I no longer knew how."* **He has Aelariel's spellbook** (originally his own blank book, "borrowed"). See `memory/caleth-parents-and-uncle.md`.
+
 > # ⚠⚠⚠ READ THIS FIRST — Ch 30 OVERTURNS EVERYTHING BELOW FROM Ch 24 ONWARD
 >
 > **THE ARAVASHNIAL THE PARTY LIVED WITH FROM Ch 24 TO Ch 30 WAS NOT ARAVASHNIAL.**
@@ -123,20 +132,20 @@ Found by Korroc's lifesense in **the third cell on the left** of the Ivory Sanct
 - **⚠ HE HAS NOT HIDDEN THIS.** His Riftwarden identity has been party-public since Ch 11 and he said it at a war table: *"the order is not dead while one of us is standing, and I am standing."* Any POV may narrate the safe house.
 - **⚠ BUT THE DEEPER LAYERS STILL HOLD** — his elder rank, the order's link to Caleth's parents, and that Caleth has known since Ch 4. **Caleth keeps turning up at that door without ever asking to be involved, and Korroc has noticed and does not understand it.** That is the correct amount for a non-Caleth POV to carry: the pattern, not the reason.
 
-**Role:** Elder wizard. **Riftwarden elder** — same secret order as Caleth's biological parents. *(Party knows he is a Riftwarden as of Ch 11; the deeper layers stay secret — see "Riftwarden Identity" below.)*
+**Role:** Wizard. **Riftwarden Field Agent** (Interlude 3; *formerly recorded as an elder — retired*) — same order as Caleth's biological parents. *(Party knows he is a Riftwarden as of Ch 11; the deeper layers stay secret — see "Riftwarden Identity" below.)*
 
-**Appearance:** An **elf** — long-lived but **not elderly**; he reads as mature and weathered, not aged. He is a Riftwarden *elder* by **rank and seniority in the order, not by age** — do NOT write him as an "old man." It is easy to determine he is older than the Worldwound itself — he remembers a time before the crusades. Face was burned in the fall; eye fully regenerated in Ch 9.
+**Appearance:** An **elf** — long-lived but **not elderly**; he reads as mature and weathered, not aged. **Do NOT write him as an "old man."** It is easy to determine he is older than the Worldwound itself — he remembers a time before the crusades. Face was burned in the fall; eye fully regenerated in Ch 9.
 
 **Voice:** Dry. Scholarly. Speaks like pages rustling. Since regaining his sight, there is a brightness and zeal to him that was absent before.
 
 **GM personality notes (Book 2):** He is so grateful to regain his sight that he throws himself into supporting the PCs and the Knights with great zeal. His advice on handling enemy spellcasters and his knowledge of demons and the past is a great asset. He has the courage to step in if he sees an ally in danger. He knows something about Caleth's past and keeps that secret close — when Caleth has pressed, the door shuts.
 
 **Key moments:**
-- Caleth chose to give him the precious restoration potion based on his potential value (in retrospect, this was the first quiet acknowledgment of a Riftwarden elder by a Riftwarden's child)
+- Caleth chose to give him the precious restoration potion based on his potential value (in retrospect, an acknowledgment between a Riftwarden and the nephew he had watched since childhood)
 - Identified the carved crusader statues as portraits of the touched of the First Crusade
 - Guided the structural engineering of the boulder-lifting at the collapsed tower
 - Began regaining his vision in stages
-- **Chapter 4:** Took Caleth aside at Gwerm Manor and revealed himself as a Riftwarden elder, asking the party to visit the Blackwing Library. Was devastated to find it destroyed. Survived the library fight; one or more of the four rescued librarians may also have been Riftwardens.
+- **Chapter 4:** Took Caleth aside at Gwerm Manor and revealed himself as a Riftwarden, asking the party to visit the Blackwing Library. Was devastated to find it destroyed. Survived the library fight; one or more of the four rescued librarians may also have been Riftwardens.
 - **Chapter 9:** Eyesight fully restored by a cleric of Iomedae (Nageru asked the Queen). Wept when he could see again. Found Keeper's Canyon on the map first. Grew somber looking west at the Worldwound: "I remember when that land was lush and green." Volunteered to write the pigeon message to the Queen.
 - **Chapter 11:** Named the Vescavor queen as the key to dispersing the swarms. Headed straight for the purple light after the queen fell (*"There could be demons in there." / "Probably."*). Named the **Abyssal rift** calmly, then **closed it casting by casting while the party fought three vrocks** — and **flung demons mid-teleport** with a flick of his hand (*"Keep them away from me"*), snapping the rift shut on the last vrock (only its head came out). Answered Caleth in front of everyone: *"What do you think a Riftwarden does?"* — **his Riftwarden identity is now public to the party.** Cursed in elven for the first time anyone had heard. Sketched the saboteur's footprint in his book and tore the page out for Thane. Warned the group the traitor must never learn the blueprints exist, then left the tent.
 - **Chapter 13:** Studied the dead beasts at Ahari Bridge with his restored eyes and named them — **"Aurochs."** — and *spat*, an emphasis no one had ever seen the dry elf spend (*"an animal fused with an evil spirit, often the result of a botched summoning, or a botched exorcism... The beast is in there the whole time, you understand. Underneath."*). Then delivered the campaign's new dread over the chimera's carcass, voice lowered as if it might hear: *"It seems enhanced. Fortified past its nature. **In the same way the stone affected you.**"* — the first confirmation that the enemy commands mythic power of its own.
@@ -159,8 +168,8 @@ Found by Korroc's lifesense in **the third cell on the left** of the Ivory Sanct
 **Riftwarden Identity — PARTLY PUBLIC as of Ch 11:**
 - **PUBLIC (the whole party knows, Ch 11):** Aravashnial is **a Riftwarden**, with "powers over the movements of demons" — he closed the Abyssal rift beneath the Ahari Gorge and flung vrocks mid-teleport in front of everyone, then said so plainly: *"What do you think a Riftwarden does?"* Any POV may now narrate this fact.
 - **STILL SECRET (Caleth and Aravashnial only):**
-  - He is a Riftwarden **elder** — rank and seniority in the order.
-  - He **recognized Caleth's lineage from the moment they met** in the underdark; the restoration potion was a Riftwarden elder quietly acknowledging a Riftwarden's child.
+  - ~~He is a Riftwarden elder~~ **✘ Retired: he is a Field Agent, and it is public (Interlude 3).**
+  - **He had known Caleth since Caleth was a child** (found him with his foster family; Interlude 3). Ch 1's prose never addressed it.
   - **Blackwing Library was a Riftwarden stronghold** — the order's working library. Its destruction is for him a loss of *the order*, not only of the books.
   - **Caleth has known since Ch 4** (the whispered Gwerm Manor conversation). The rest of the party believes Caleth learned what a Riftwarden is at the rift, same as they did — his *"no one has ever really told me the full story"* protected this.
   - **He knows something about Caleth's past** — likely his parentage or their fate — and keeps it locked. Active thread: Caleth presses, Aravashnial closes the door.
@@ -221,6 +230,7 @@ Found by Korroc's lifesense in **the third cell on the left** of the Ivory Sanct
 ## Allies on the March to Drezen (Book 2)
 
 ### Queen Galfrey
+**⚠ SESSION 31 (Ch 31): SHE CAME TO DREZEN** with **General Robard Kessin**, an unnamed **Riftwarden advisor**, the wizard brothers **Merrec and Davor Tolland**, and a few dozen paladins. Brought **the copper plates** (a test ritual from the **Lexicon of Paradox**) and **sent the four to close the Midnight Fane rift**, end the crystal pipeline, and keep **Nocticula** out of the war — *"or make our own"* agreement. Gave them **Talismans of True Faith**. **She is going as far as the Fane** — *"I will guarantee my own safety"* — and is camped a mile from it in **plain unmarked soldier's armor**, her paladins wearing Templar marks. She looked at Arueshalae for one moment as if at something she'd been told did not exist. See `memory/midnight-fane-and-the-abyss-mission.md`.
 **Status:** Living. Remained at Kenabres to refortify and manage the southern border.
 
 **Role:** Queen of Mendev. Commander of the Fifth Crusade's main army. Knighted the party and assigned them the Drezen mission.
@@ -345,6 +355,7 @@ Found by Korroc's lifesense in **the third cell on the left** of the Ivory Sanct
 ## Inside Citadel Drezen (Sessions 14–16)
 
 ### Joran Vhane
+**⚠ INTERLUDE 3 (Ch 30.5): HE CAN REVERSE THE FORGE.** He told Thane the corruption was never stripped, it was *turned* — the power stays, the purpose changes — and Thane handed him the working: **an unholy longsword from the Sanctum came out holy** (*"Looks like you can learn a new trick"*; a quiet, uncertain laugh). He then guided **Vang's black robes to white**, slowly, ordering everyone back when the forge flared. **He suggested the cold iron inlays** in Aravashnial's staff (*"He's a Riftwarden. He works against demons"*). Thane: something *"worth salvaging there."* ⚠ His healing is still gone.
 **Status:** Living. **IN CUSTODY IN CITADEL DREZEN (Ch 18)**, working the Purity Forge. **⚠ As of Ch 27 he is restricted, not guarded** (Will): confined to the citadel and kept out of certain places, otherwise let be; nobody else works the forge. Still cannot cast healing magic.
 
 **⚠ Ch 27 (Korroc POV):** The night the party came back from the bell, Korroc carried his stripped armor down. *"What happened?"* / *"Demons suck."* / *"Damn. Stripped the straps right off."* **Joran helped without being asked**, a couple of hours, and had a tool in Korroc's hand before he reached for it (the Interlude 2 thing he said he had never seen done, now done by him). **Korroc offered his hand and Joran wiped his palm and took it: their first handclasp** (Will). *"Get some sleep. You look like a dropped crucible."* **The next day he watched the three-man legendary-item sitting** on the forge floor from an upturned bucket, with a face Korroc read as a man remembering something he once understood. ⚠ His healing: still gone, still undiagnosed.
@@ -931,6 +942,7 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
 ---
 
 ### Irabeth Tirabade
+**⚠ INTERLUDE 3 (Ch 30.5): YANIEL'S ARMOR IS HERS** (+3 mithral full plate, Iomedae's symbol), given by the party: *"I will. Thank you."* **She ran Aravashnial's debriefing** (*"You are not accused of wrongdoing"*) and then **refused the Riftwarden Council**: *"Aravashnial is not leaving Drezen… That is my ruling. You may report it to your Council."* Her terms: the Council oversees its Drezen safehouses; one representative may stay as advisor and must work with him; he keeps his place in her command and in Riftwarden operations. See `memory/riftwarden-council-in-drezen.md`.
 **⚠ Ch 27: SHE HOLDS FIENDSPLITTER.** Korroc **lent** it to her the morning they left, because it would want Arueshalae every hour on the road (*"I'm coming back for it"*). It talks in its holder's head and knows demons coming; *"don't hold it by the haft."* Her: *"I'll see it's treated decent."* **She decided to bring the Bell of Mercy to Drezen** and sent twenty to the fortress to study it and start the work: soldiers, **Aron, Anevia, Aravashnial**, a Drezen wizard to take over the teleporting, camp staff and engineers. **Caleth carried them.** Her first problem the night of the return: *"I have to figure out what to do with her."*
 
 **Ch 25:** On the tower top for the dawn attack; **a drake's tail took her ankles and she went down on her back** under a drake and an incubus, shield up — **minor hurt**; Korroc laid his life-bond on her and the party cleared both in time. On Aravashnial: ***"I'll have to debrief him, but not right now. My own questions can wait."*** Then: ***"If they keep sending attacks like those, we might have a problem. We have only so many soldiers up here and we are already running out of ballista bolts."*** Agrees the attack was Vang's ultimatum, late.
@@ -972,6 +984,7 @@ Found by **Nageru** in a side room off the map room, minutes after the body cool
 ---
 
 ### Yaniel
+**⚠⚠ SESSION 31 (Ch 31): A WOMAN WITH HER FACE, IN IOMEDAE'S ARMOR, IS INSIDE THE MIDNIGHT FANE.** Caleth: *"Yaniel."* Chapter ends there. ⚠ **Who she is is OPEN.** Yaniel's own armor is with Irabeth (Interlude 3), so this is another suit. Nageru knew the face from a cathedral window in Kenabres and a carved figure among Drezen's Fourth Crusade heroes.
 **⚠ Ch 29: HER ARMOR WAS FOUND** on Vang's invisible trophy shelves in the Ivory Sanctum: **+3 mithral full plate** (Will). **Radiance pulsed once in Caleth's hands when he lifted it**, as it did at the gates of Drezen, and that is how he knew it. It is in the bag of holding. What becomes of it is not established.
 **Status:** Dead, decades past.
 
@@ -1288,7 +1301,7 @@ Attacked Drezen the day after the party left; kept going for the courtyard; **ca
 ## New in Session 23
 
 ### Aelariel — Caleth's father *(dead; killed by Xanthir Vang)*
-**Spireborn elf. Riftwarden. Aravashnial's brother.** Named on Caleth's certificate of birth (no second name given) and in two letters Aravashnial kept sewn in his field journal's cover. **Voice (his letter):** precise, elegant, brilliant, stubborn; tries to be brief and fails; calculated the odds of his unborn child becoming a wizard and, told *"children are not equations,"* replied that *"this did not prevent them from having variables."* **He built the crib.** He wrote to his brother three days after the birth: *"His name is Caleth Aranor… The name suits him, and that is reason enough"* — and then about **the Seeker's Spiral** on the child: *"I know what the records say. I know the stories… Brother, I am afraid… Come home, Aravashnial… Then I need my brother here."* **The letter is complete and unsigned.**
+**Spireborn elf. Riftwarden. Aravashnial's brother.** ⚠ **Interlude 3: the family was from KYONIN** (Will); the three moons are its crest. **His spellbook** — Aravashnial's blank book, *"borrowed"* and its crest redrawn more elaborately — was the Ch 28 three-moon book; Aravashnial has it now. *"A brilliant abjurer. And an appallingly untidy scholar."* His marriage to Talia **was never official**, and the Council never knew the brothers were brothers. Named on Caleth's certificate of birth (no second name given) and in two letters Aravashnial kept sewn in his field journal's cover. **Voice (his letter):** precise, elegant, brilliant, stubborn; tries to be brief and fails; calculated the odds of his unborn child becoming a wizard and, told *"children are not equations,"* replied that *"this did not prevent them from having variables."* **He built the crib.** He wrote to his brother three days after the birth: *"His name is Caleth Aranor… The name suits him, and that is reason enough"* — and then about **the Seeker's Spiral** on the child: *"I know what the records say. I know the stories… Brother, I am afraid… Come home, Aravashnial… Then I need my brother here."* **The letter is complete and unsigned.**
 - ⚠ **What "the records" and "the stories" say about the Spiral is NOT established. Do not invent it.**
 - **Caleth believes (Ch 23) he is the Riftwarden Vang boasted of murdering in Ch 22** — *"I took it from another elf… stubborn… runs in the family."*
 - Vanished into the Worldwound with Talia **less than a month after Caleth's birth.** What the mission was, where, and how Vang killed them: **OPEN.**
@@ -1408,3 +1421,44 @@ A fly demon: a tall man's shape in **an elegant, beautifully cut red coat** with
 - **The barracks has nine beds** — Thane's count matched the nine dead templars.
 - **The forge:** **a woman in black robes** enhancing weapons with an unholy working (a sick purple light in the steel); *"Who are you and what do you think you are doing?"*; **summoned a hezrou**; magic missiles; **killed by Thane.** Unnamed.
 - ⚠ **The party suspects the black-robed casters are Blackfire adepts** (it fits Arueshalae's description) **and does not know for sure** (Will). Do not confirm.
+
+---
+
+## New in Interlude 3 (Ch 30.5)
+
+### The Riftwarden Council's representatives *(three, unnamed)*
+A **tall, gray-haired human man** in dark blue, narrow face, trimmed beard, used to being obeyed (the speaker); **an elven woman** whose face gives nothing away; **a younger human woman**, about thirty, with a leather folio. No insignia. They sat in on Aravashnial's debriefing and demanded he be removed to *"Council supervision"* for interrogation; **Irabeth refused.** They now oversee the Riftwarden safehouses in Drezen; **one may stay as advisor.** One of them (a man) tried to take Aravashnial's records and stormed out: *"That man is absolutely insufferable."* ⚠ **They do not know who Caleth is.** See `memory/riftwarden-council-in-drezen.md`.
+
+### The neh-thalggu *(named Interlude 3)*
+**The floating brain-creature from Caleth's Ch 30 vision** — swollen head, a dozen thin limbs moving together — **which implanted the Nahyndrian crystals** in Aravashnial. Named by him at the debriefing. **Never found** in the Sanctum. ⚠ In this campaign the name belongs to **this** creature (GM ruling over the bestiary); **the web room's crab-things stay unnamed.**
+
+### The impostor — as Aravashnial saw it *(Interlude 3)*
+In the laboratory, at the back of the room. Vang called it forward: **no features of its own, gray skin**, then it changed into him — height, face, hair, **even the injuries** — and **spoke in his voice.** ⚠ **Still unnamed. What it is, how it passed every check, and where it went stay OPEN.**
+
+---
+
+## New in Session 31
+
+### The doppelganger *(the impostor, CAUGHT Ch 31)*
+Gray, featureless, long-fingered with too many joints; **a mercenary, not a demon** — *"Highest bidder?"* — pleasant, flippant voice (whose, unknown). Wore Aravashnial for two months (Chs 24–30) and **Nageru** for a morning. After **the bounty on Arueshalae** (Jerribeth's 1,000 pp, still on). Job from Vang/Jerribeth, *"sort of"*: **stop the search for Aravashnial — "It worked."** **In the anti-magic cell**, where it cannot hold a shape; four guards; nobody talks to it. ⚠ **How it beat every check: OPEN** (*"I'm good"*). Unnamed.
+
+### General Robard Kessin *(name invented for the prose, Will's leave)*
+The Queen's general. Lean, weathered, close-cropped gray hair. Red-eyed after a night of planning.
+
+### The Queen's Riftwarden advisor *(unnamed)*
+Narrow, ink on his fingers, careful voice. Explained that **someone must hold a plate on the Abyss side and the rift closes behind them.** The Council's gray-haired man in Drezen looked at him once and then carefully didn't. Connection to the Council: not established.
+
+### Merrec and Davor Tolland *(names invented, Will's leave)*
+The Queen's two wizards, **brothers**, identical robes and beards; Korroc can't tell them apart (the table's "Darrell and my other brother Darrell"). **Merrec** went with Arueshalae and Caleth on the scouting fold and is with the party's company; **Davor** goes with the Queen. One fold each.
+
+### At the Midnight Fane *(Ch 31)*
+- **The incubus steward** — dark-haired, fine clothes, a courtier's bow, speaks Common: *"The mistress of the Midnight Fane has been expecting you."* Leading them to an audience.
+- **The mistress of the Midnight Fane** — ⚠ **unnamed; do not name her.**
+- **A hill giant** with a pickaxe — follows behind them.
+- **Eight incubi** packing crystals in the A3 workroom.
+- **A cambion** — red-skinned, horned — making elixirs at an alchemy table (A5).
+- **A gibrileth** — floating, tumorous, winged, legless, many-armed and many-eyed, huge toothed mouth — guarding A5. Named by Caleth.
+- **The woman with Yaniel's face** — see *Yaniel*.
+
+### Nocticula *(named Ch 31; never met)*
+**Demon lord, ruler of the Midnight Isles** in the Abyss, *"the Queen of Shadows"* in the journal. **Has not given permission** for the crystal mining on her realm and **has not agreed** to join Baphomet's cult in the war. The Templars (Minagho, Hepzamirah) are trying again. The Queen wants her kept out — or an agreement.

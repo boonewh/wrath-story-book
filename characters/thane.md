@@ -131,6 +131,23 @@ His faith is **divine but not warmly so.** He doesn't pray for forgiveness; he p
 
 ## Current State (End of Session 30)
 
+### ⚠ SESSION 31 — THE HOLE, AND THE DOOR (Ch 31, Nageru POV)
+- **His Abyssal cracked Vang's coded journal** with Caleth and Aravashnial. He understood the Deskari statue at the Fane.
+- **⚠ He bought a PORTABLE HOLE** from a trader who came up with the Queen's supply train — gems, the two Sanctum glaives, other unwanted Sanctum gear, and *"three days of my company, which he did not enjoy."* Caleth: **never put it in the bag of holding.** Fiendsplitter now lives in it at need.
+- *"There's one of him. The other one's luggage."*
+- **He remembered the journal's rift at the Midnight Fane** in front of the Queen.
+- **Asked the right question: "And how does that someone get back?"**
+- **Talisman → Alseta's two-headed mask** — a door-goddess's mark on a man being sent through a door that closes behind him. He said nothing.
+- **First through the Fane's doors**: *"I suppose we go in as if we belong."*
+
+### ⚠⚠ INTERLUDE 3 (Ch 30.5) — THE HANDS THAT MADE IT
+- **He took Aravashnial's broken staff without asking** — *"He doesn't need a new staff. He needs this one"* — and rebuilt it with Korroc: **a mithral core** through the original three pieces, **cold iron inlays** (Joran's idea), and **the triple moon recarved** from the pattern on Aelariel's book, **with every surviving fragment of the father's carving fitted into the new work.** Left it by the sleeping elf's bed, no note. *"Think he'll notice?" / "Aye. … He should."* Aravashnial: *"Remarkably good work."* *"My father would have approved."*
+- **⚠ He taught Joran to reverse the forge** — or rather let Joran teach him, then handed him the working: *"Your turn."* **An unholy longsword from the Sanctum is now holy.** *"Looks like you can learn a new trick."* Then **Vang's robes, black to white**, slowly, on Joran's advice. He still does not like Joran, and is *"beginning to think there might be something worth salvaging there."*
+- **He is hunting the impostor.** Every gate record, every soldier, servant and wagon driver since it vanished: *"So why would it run?"* **He thinks it may still be inside Drezen.** He still has questions about the real Aravashnial too, and none of them are about the staff.
+- **He admitted to opening the locked journal** — *"I opened it."*
+- He now knows Aravashnial is Caleth's uncle (the study scene). His Ch 24 suspicion was right.
+
+
 ### ⚠⚠ SESSION 30 — HE SAID NO, AND THEN HE WAS ASKED (Ch 30, Korroc POV)
 
 - **⚠⚠ HE REFUSED TO TAKE THE COLLAR OFF, AND HE WAS RIGHT TO ASK.** Standing three feet back from the table with the starved elf on it: ***"We don't know if that's the real Aravashnial."*** Then the whole case, flat and unanswerable: *"We've had one of him for two months. He walked out of the west on his own two feet with a story and we checked him. Caleth checked him for evil and found none. Caleth checked him for magic and found none. I sat in a room and cast a working that shows a lie and he didn't tell one. Four of us looked him over for two months and got nothing, and all four of us knew something was wrong, and we talked ourselves out of it every single time."* And: *"I'm not saying leave him. I'm saying I don't know what that is, and neither do you, and the last four times I didn't know what something was, it was wearing a face."*

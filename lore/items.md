@@ -693,6 +693,7 @@ Plain gray leather, drawstring, loaf-sized; **far bigger inside than out.** Foun
 Black, heavy, dark-metal clasp; from the sarcophagus compartment. Caleth, in open shock: *"This is Vang's spellbook… Another for later."* ⚠ How he recognized it is not on the page. **Unread.**
 
 ## The Book with the Different Mark *(Ch 28)*
+**✔ INTERLUDE 3: AELARIEL'S SPELLBOOK.** Originally a blank book Aravashnial prepared; Aelariel *"borrowed"* it and redrew the family crest more elaborately on the cover. Aravashnial's arcane mark is inside. **Caleth gave it to Aravashnial** (*"Keep it"*). Used as Thane's pattern for the staff's moons. See `memory/the-three-moon-mark.md`.
 Dark leather gone soft at the corners, from Vang's shelves. **Aravashnial's three-moon mark with the middle moon full** (Will: let the prose decide the variant; tweak later if needed). Caleth took it, said nothing, and put it **inside his coat, left side** (not the bag). ⚠ **Contents, owner and meaning NOT established.** See `memory/the-three-moon-mark.md`.
 
 ## The Coded Abyssal Journal *(Ch 28)*
@@ -731,7 +732,7 @@ From the map table, saved from the locust swarm by Caleth's ice; a **rune trap**
 
 ## Session 29 recoveries — Vang's trophy room *(Ch 29)*
 Taken off **invisible shelves** in the lead room behind the robing room (only Caleth could see them; each item became visible when taken down). All in **Caleth's bag of holding** unless noted.
-- **Yaniel's armor: +3 mithral full plate** (Will). The armor of the paladin who carried Radiance in the Fourth Crusade and fell at the gates of Drezen. **Radiance pulsed once when Caleth lifted it.** No powers in prose beyond what the table names. What becomes of it is not established.
+- **Yaniel's armor: +3 mithral full plate** (Will). **✔ INTERLUDE 3: GIVEN TO IRABETH**, who accepted it. The armor of the paladin who carried Radiance in the Fourth Crusade and fell at the gates of Drezen. **Radiance pulsed once when Caleth lifted it.** No powers in prose beyond what the table names. What becomes of it is not established.
 - **The books stolen from the Blackwing Library**: a whole shelf. Caleth **recognized the library's marks and symbols** (not described in prose). *"A great deal of this was taken from the Blackwing Library."* ⚠ Caleth wants to search them for his parents' names and has not. Contents not established.
 - **Armor, weapons, chests** (a shield, a sword with a broken guard and a red pommel stone, a crestless helm, small heavy chests): unidentified; *"we'll keep it at that"* (Will).
 - **A staff of healing: KORROC'S**, slung across his back. *"There's healing in this. A lot of it."*
@@ -753,7 +754,8 @@ Used for haste and glittering dust, then **recharged mid-fight by Caleth's knack
 ## Session 30 recoveries — the last of the Ivory Sanctum *(Ch 30)*
 All in **Caleth's bag of holding** unless noted.
 
-### ⚠⚠ The Black Robes of the Archmagi *(Ch 30)*
+### ⚠⚠ The Black Robes of the Archmagi *(Ch 30)* → ✔ WHITE ROBES OF THE ARCHMAGI, CALETH'S *(Interlude 3)*
+**✔ Interlude 3: turned on the Purity Forge** — first attempt nothing, second flared and Joran ordered everyone back; then slowly, stripping the old alignment before rebuilding it, Thane working, Caleth's magic, Korroc holding the working, Joran guiding. **Black through gray, silver, to white; the burn damage closed.** **Thane gave them to Caleth: "They're yours."** *(Everything below is the Ch 30 record.)*
 **Xanthir Vang's robes**, taken off the scorched place in the long hall where he burned. **Burned through in a dozen places and not one thread frayed at the edge of any hole**; the char comes off on a thumb, the weave under it does not. Korroc, who knows what good material feels like: *"I've put a hammer into steel that gave up sooner."*
 - **Caleth identified them on sight: black robes of the archmagi** — *"not a thing a man finds. There are perhaps a dozen written about and half the writing is argument over whether the other half were ever real."*
 - **They are damaged, and Caleth believes they are fixable.** The plan, agreed in the hall: **carry them to Joran at the Purity Forge in Drezen and stand over them for an hour before either of them says it cannot be done.** Caleth's argument was that the forge took a working into Radiance, which is not supposed to take workings. Korroc's objection was that it is cloth and he is a smith. ⚠ **Whether the forge can do anything with cloth is NOT established** — the table has only discussed it. Do not write the repair as done.
@@ -789,3 +791,50 @@ Cut out of the real Aravashnial: **one in each limb, one deeper in the chest.** 
 - **The great leather record book from the laboratory** was read and **is in the bag.** Caleth could not read it at the table in the laboratory (*"I don't know the shape of the language"*); he read it an hour later off **a scroll out of his pack** — *the working is unnamed in prose; comprehend languages is the obvious reading and is not stated.* It says what the work was for.
 - **The heap of cut-off clothing** at the foot of the western slab, **Aravashnial's ruined boot** among it. Nobody went through it. It was left where it was.
 - **The iron bitten out of the Circle of the Abyss** — three small pieces. **Thane pocketed them.** No stated purpose.
+
+---
+
+## Interlude 3 (Ch 30.5) — the forge work
+
+### Aravashnial's staff — REPAIRED
+His **arcane bond**. **The shaft is Kyonin wood, a gift from his parents when he left; his father carved the three moons** (the family crest), and complained about the grain for weeks. Broke into three pieces and lost much of the moons when the Woundworm brought the tower down (Ch 21).
+- **Thane took it without asking** and rebuilt it with Korroc: **a narrow mithral rod drilled through the center** of all three original pieces; **cold iron inlays** worked into the design (**Joran's idea**: harder for a demon to take from him); Korroc's mending drew the wood together. **The moons recarved from one block**, to the pattern on Aelariel's book, **with every surviving fragment of the father's carving fitted into the new work.** Left by his bed, no note.
+- *"Remarkably good work." / "My father would have approved."*
+- ⚠ **His arcane bond to it is NOT restored**; he has not tried. Why is unsaid.
+
+### The holy longsword *(formerly unholy, from the Sanctum)*
+Well made, good balance, excellent steel, strong enchantment, **made unholy.** **Joran turned it holy on the Purity Forge** under Thane's eye, Thane catching the pattern once when it surged. Same blade, same weight; the magic changed. ⚠ Who carries it now is not established.
+
+### What the Purity Forge can do now
+It was **built to corrupt**; Aravashnial cleansed it (Ch 18). **Interlude 3 proved it can REVERSE a corruption**: the trick is to *turn* the existing enchantment, not strip it — Joran's method, run backward. Big workings must go slowly.
+
+### Radiance — a keener edge, planned
+Caleth wants **a keener edge** laid in (Thane the physical work, Caleth the magic). ⚠ Not recorded as done.
+
+### Returned to Aravashnial
+**His spellbook** (recovered from Vang's desk, Ch 28), **his locked journal**, **both letters** from the field journal's cover, **Caleth's burned birth certificate** (Caleth showed it; whether he left it is not stated), and **Aelariel's spellbook.**
+
+---
+
+## Session 31 (Ch 31)
+
+### The portable hole — THANE'S
+A six-foot circle of lightless black cloth that opens a hole **ten feet deep**; folds to a handkerchief. **Bought from a trader** who came up with the Queen's supply train, for gems, the **two +1 oversized glaives**, other unwanted Sanctum gear and three days of Thane's company. **⚠ Caleth: never put it in the bag of holding, or the bag in it** — a rift opens and takes everything nearby. **Fiendsplitter went into it** at the Fane camp to shut it up, and is still in it.
+
+### Fiendsplitter — back with Korroc
+Retrieved from Irabeth (Ch 31). See `memory/legendary-items-and-the-axe.md`.
+
+### The copper plates *(the Queen's)*
+**Two thin plates of hand-cut copper**, covered both sides in tiny close writing in several hands and **several languages changing line to line — Caleth reads all of them.** A **test** drawn from the **Lexicon of Paradox**: a ritual to close a rift to the Abyss **at scale**, even one made to stay open. **Incomplete; the magic is infused in the metal**; it needs a great power source — **the four knights.** ⚠ **Requires one person on the Abyss side holding a plate; the rift closes behind them.**
+
+### The Lexicon of Paradox *(not in the party's hands)*
+The book of forbidden rites that **opened the Worldwound** and destroyed **Sarkoris**. **Areelu Vorlesh** tore it and destroyed the half on how she did it. **Varian Jeggare, Radovan and Oparal** recovered and restored it; **the Scholars of Ozem** study it under guard.
+
+### Talismans of True Faith *(four, from the Queen)*
+Plain silver discs on chains. Help in the Abyss and help the wearer avoid acts that would compromise their faith. **Each became its wearer's holy symbol:** Korroc → Torag's hammer and anvil; Nageru → Irori's mark; Thane → Alseta's two-headed mask; **Caleth's tucked out of sight** at once. Arueshalae has none.
+
+### Templar marks
+The Queen's paladins and the five who entered the Fane wear **Templar of the Ivory Labyrinth signs painted from Jerribeth's six pages** (Ch 30).
+
+### Bag of holding
+Still Caleth's. **The Blackwing books are in it.**

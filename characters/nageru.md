@@ -100,6 +100,24 @@ His blood manifests in:
 
 ## Current State (End of Session 30)
 
+### ⚠⚠ SESSION 31 — THE FACE I WEAR (Ch 31, POV)
+- **⚠⚠ THE DOPPELGANGER WORE HIS FACE** to walk **Arueshalae and Aravashnial** out of the gate — beads and all, every detail right. **He fought himself**: one miss against its unnatural speed, then two blows **pulled** (Caleth said *alive*), the second stunning it. **He carried it through the lower town and the gate on his shoulder** — *"There's two of them." / Thane: "The other one's luggage."* In the anti-magic cell he watched his face run off it. **His order to the guards: "Do not talk to him… Whatever face he shows you… Especially then."**
+- **The thing he carries from it, alone:** it wore *his* face because **his was the face Arueshalae walks beside** — the face she chose in the dream because she could not trust the dwarves (still his secret). *"It said come and I came."* He did not try to comfort her; he walked at her pace until her hands let go of the bow strap.
+- **He watched Korroc's three measured blows** and Korroc looking at nothing afterward, and remembered *"And it's the second time,"* and **did not ask.**
+- **He vouched for Arueshalae to the Queen in one sentence** — *"She has been touched by Desna"* — and stopped, so the Queen could decide.
+- **⚠ His read on Nocticula:** you cannot hope a demon lord into a good one (Arueshalae was *reached*, not bargained with), **but you can bind one** — *"It would have to be a promise that served her… something that is in her own interest to keep."*
+- **The word "Fane" went wrong in him** when Caleth said *Midnight* in front of it — his own fane, thirty miles west.
+- **Talisman of True Faith → Irori's mark.**
+- **Deadpan:** *"It is a hole."* / *"Magic cell, or not magic cell?"* / *"Copper plates."*
+- Does not speak Abyssal; understood none of the Deskari statue exchange. **He felt a door open and close** before the hill giant appeared.
+
+### INTERLUDE 3 (Ch 30.5) — THE ONE WHO SITS
+- **Took his turns at the bedside in silence**, which Aravashnial seemed to appreciate. Told him **all four soldiers survived** — *"None of that makes what happened your fault."* Opened the window covering a narrow band, and let him look at soldiers carrying grain.
+- Offered his arm on the way to the debriefing (*"No." … "...Yes."*); helped him back after.
+- **It was Nageru who said "There is another book"** in the study, which brought out Aelariel's spellbook.
+- Now knows Aravashnial is Caleth's uncle.
+
+
 ### ⚠⚠ SESSION 30 — "THERE WAS NOTHING TO FIND" (Ch 30, Korroc POV)
 
 - **⚠⚠ HE BREATHED ACID.** Stepped into the web-room doorway, put one foot forward, squared himself, opened his mouth and **breathed a spreading cone of green-white acid** that ate holes in the fiber mat behind the target. Korroc had fought beside him for the better part of a year **and had never once seen it.** Caleth, mildly: *"That's new."* **Nageru: *"It is old."*** And that was all anybody got.
