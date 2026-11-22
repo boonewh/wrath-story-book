@@ -6,7 +6,7 @@
 
 The elf had found a bench in the west court, and the demon had found the other end of it.
 
-Nageru saw them from the wall walk. He had gone up for the wind, which in Drezen came off the Worldwound with nothing to slow it and was honest in a way the courtyards were not. He stood at the parapet with his hands loose at his sides and looked down, and there they were: Aravashnial with the cane across his knees and his face turned toward her, and Arueshalae sitting very straight with her wings folded close, the way she sat whenever she was among people who might change their minds about her.
+Nageru saw them from the wall walk. He had gone up for the wind, which in Drezen came off the Worldwound with nothing to slow it and was honest in a way the courtyards were not. He stood at the parapet with his hands loose at his sides and looked down, and there they were: Aravashnial with his staff propped against his shoulder, the carved moons above his head, and his face turned toward her, and Arueshalae sitting very straight with her wings folded close, the way she sat whenever she was among people who might change their minds about her.
 
 He could not hear them. He did not need to. He could see the elf's hands.
 
@@ -256,7 +256,7 @@ And then Caleth's eyes went wide.
 
 Nageru leaned in and looked into the water, because he could not help it, and the water showed him a street.
 
-A street in the lower town, outside the gate, in the morning light. Broken houses on either side, the ones nobody had yet cleared. Three figures walking down the middle of it, side by side. An elf with a cane. A woman with folded wings and a bow over her shoulder.
+A street in the lower town, outside the gate, in the morning light. Broken houses on either side, the ones nobody had yet cleared. Three figures walking down the middle of it, side by side. An elf with a staff. A woman with folded wings and a bow over her shoulder.
 
 And between them, walking easily, a tall man in white wraps with bronze skin and short dark hair tied back, and prayer beads at his wrist.
 
@@ -324,7 +324,7 @@ Nageru had heard the words in the gorge outside the Sanctum. He had not asked. H
 
 Behind them, a sound.
 
-Aravashnial was looking from one Nageru to the other. His cane had come up off the ground, held crosswise in front of him like a staff, and his eyes went from the Nageru standing in the road to the Nageru lying in it, and back, and back again. His mouth was a little open.
+Aravashnial was looking from one Nageru to the other. His staff had come up off the ground and across his body in both hands, the way a man holds a quarterstaff, and his eyes went from the Nageru standing in the road to the Nageru lying in it, and back, and back again. His mouth was a little open.
 
 Arueshalae had an arrow on the string. Nageru did not know when she had drawn it; she had been fast, she was always fast. The bow was half bent, the point wavering between the man standing and the man lying down. And then, slowly, she lowered it. All the way. The arrow's point touched the dirt.
 
@@ -488,7 +488,7 @@ The thing looked at him. He looked at it.
 
 He thought: *it wore my face to go to her.*
 
-He thought of the bench in the west court. The elf with his cane and his questions. The woman at the other end of the bench, very straight, letting herself be asked. She had sat that way since the tower. She had sat that way in the command room on the night Caleth put her under his protection, and on every day since, and the only times Nageru had seen her sit any other way were the times he was sitting beside her.
+He thought of the bench in the west court. The elf with his staff and his questions. The woman at the other end of the bench, very straight, letting herself be asked. She had sat that way since the tower. She had sat that way in the command room on the night Caleth put her under his protection, and on every day since, and the only times Nageru had seen her sit any other way were the times he was sitting beside her.
 
 She had told him why, in the tower, when the others were out of earshot. Why it had been him she called, in the dream, and not one of the others. She had not been able to trust the dwarves. She had known Staunton, and what a dwarf of Drezen had been willing to sell. So she had asked for someone who might listen first, and something had answered, and the someone had been him.
 
@@ -510,7 +510,7 @@ He went up the passage and did not look back.
 
 Aravashnial was waiting at the head of the stair.
 
-He was leaning on the cane with both hands, and Arueshalae was beside him, a step back, her bow unstrung now and slung across her body. When the four of them came up into the light the elf's eyes went past them, down the dark of the stair, and stayed there a moment as though he expected something else to come up behind.
+He was leaning on his staff with both hands, and Arueshalae was beside him, a step back, her bow unstrung now and slung across her body. When the four of them came up into the light the elf's eyes went past them, down the dark of the stair, and stayed there a moment as though he expected something else to come up behind.
 
 "I really thought," he said, "that was Nageru."
 
@@ -518,7 +518,7 @@ Nobody laughed.
 
 "What did it want?" said Caleth. "With you. What did it say?"
 
-"It came to the study. It said—" Aravashnial frowned. "It said you needed to speak with me. About something you had found in one of the abandoned buildings in the lower town. It said you had asked for me particularly, and for Arueshalae, because it was a thing about demons. It said it would take us." He looked down at his own hands on the cane. "I believed it entirely. I walked out of the gate beside it and I talked to it about the Sanctum the whole way down the road."
+"It came to the study. It said—" Aravashnial frowned. "It said you needed to speak with me. About something you had found in one of the abandoned buildings in the lower town. It said you had asked for me particularly, and for Arueshalae, because it was a thing about demons. It said it would take us." He looked down at his own hands on the staff. "I believed it entirely. I walked out of the gate beside it and I talked to it about the Sanctum the whole way down the road."
 
 "It was going to collect the bounty," said Caleth. "On her."
 
