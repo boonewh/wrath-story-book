@@ -404,7 +404,15 @@ Nobody argued.
 
 ---
 
-The anti-magic cell was at the bottom of the citadel, cut down into the rock. Aron's engineers had found it in the first month and put a new door on it, and a new lock, and new bars, and it was the strongest room in Drezen.
+The anti-magic cell was at the bottom of the citadel, in the old interrogation block, cut down into the rock. The four of them had found it themselves, the day they went through Drezen room by room taking it back. Nobody had needed to put a new lock on it, or new bars. The demons had built that cell to hold things that did not want to be held, and they had built it to last. Its door still glowed a dull red at the seams.
+
+Nageru remembered Caleth walking toward that door, that first day, and stopping four paces short as though he had walked into a rope, and Radiance going dim in his hand.
+
+And across the passage, its door still standing open, was the other one.
+
+He did not look into it. He did not need to. He knew what was on the walls: butterflies, thousands of them, scratched into granite with fingernails over years, up as high as an arm could reach and higher, and in the middle of the western wall a prayer to the Lady of Dreams asking to be made new. The circle in its floor was dead now. Its sigils had been dead since the night the woman who carved the butterflies walked out through a door that magic could not open.
+
+That woman had been walked out of the gate this morning by a thing wearing his face. And Nageru was carrying that thing past her old cell, to the one across from it.
 
 He carried the thing in through the door.
 
@@ -794,11 +802,23 @@ Then Arueshalae said, quietly, "I could take one."
 
 They looked at her.
 
-"I could fold, once. Before." She looked at her hands. "I lost it. When I— I lost it. But if you had a scroll with the working on it, I think I might be able to read it. And take one person with me. If I can make it work."
+"I could fold, once. Before." She looked at her hands. "I lost it. When I— I lost it. It was only ever me and one other, and the other had better be small. But if you had a scroll with the working on it, I think I might be able to read it. And take one person with me. If I can make it work."
+
+"Not one," said Caleth.
+
+She turned her head.
+
+"What you had was yours," he said. "It came out of you, the way the flying does, and it carried what you could carry. Written on a page it isn't yours any more. It's a wizard's working, and a wizard's working doesn't care whose hand is reading it. It will take you and two others at the least. It's built that way."
+
+"Two." She said it as though she were testing the floor.
+
+"At the least."
+
+Arueshalae looked down at her hands again, and this time she looked at them as though they belonged to somebody else. "I never read it off anything," she said. "It was just there. Like knowing where your feet are. I never once wondered how many it would hold." Something moved at the corner of her mouth that was not quite a smile. "I suppose I never had two people I wanted to take."
 
 "I can have a scroll made by tomorrow," said Caleth.
 
-"I'm sure there are several wizards in this citadel who could make you that scroll," said the Queen. "That isn't the difficulty. The difficulty is using it well." She glanced at the back of the room. "If she can take one person, take a wizard who can fold the rest. Take mine. Then you won't have to carry every soul in the company across two hundred miles yourself, Caleth Aranor."
+"I'm sure there are several wizards in this citadel who could make you that scroll," said the Queen. "That isn't the difficulty. The difficulty is using it well." She glanced at the back of the room. "If she can take two, take a wizard who can fold the rest, and go yourself to see the ground. Take mine. Then you won't have to carry every soul in the company across two hundred miles alone, Caleth Aranor."
 
 She turned her head and lifted one finger, and one of the two identical wizards stepped forward with a rolled scroll already in his hand, which he had evidently been holding for some time.
 

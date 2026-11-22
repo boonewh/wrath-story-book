@@ -1441,7 +1441,7 @@ In the laboratory, at the back of the room. Vang called it forward: **no feature
 ## New in Session 31
 
 ### The doppelganger *(the impostor, CAUGHT Ch 31)*
-Gray, featureless, long-fingered with too many joints; **a mercenary, not a demon** — *"Highest bidder?"* — pleasant, flippant voice (whose, unknown). Wore Aravashnial for two months (Chs 24–30) and **Nageru** for a morning. After **the bounty on Arueshalae** (Jerribeth's 1,000 pp, still on). Job from Vang/Jerribeth, *"sort of"*: **stop the search for Aravashnial — "It worked."** **In the anti-magic cell**, where it cannot hold a shape; four guards; nobody talks to it. ⚠ **How it beat every check: OPEN** (*"I'm good"*). Unnamed.
+Gray, featureless, long-fingered with too many joints; **a mercenary, not a demon** — *"Highest bidder?"* — pleasant, flippant voice (whose, unknown). Wore Aravashnial for two months (Chs 24–30) and **Nageru** for a morning. After **the bounty on Arueshalae** (Jerribeth's 1,000 pp, still on). Job from Vang/Jerribeth, *"sort of"*: **stop the search for Aravashnial — "It worked."** **In the anti-magic cell** — the red-doored cell in the old interrogation block that Caleth would not approach in Ch 17, **directly across the passage from Arueshalae's butterfly cell** — where it cannot hold a shape; four guards; nobody talks to it. ⚠ **How it beat every check: OPEN** (*"I'm good"*). Unnamed.
 
 ### General Robard Kessin *(name invented for the prose, Will's leave)*
 The Queen's general. Lean, weathered, close-cropped gray hair. Red-eyed after a night of planning.
