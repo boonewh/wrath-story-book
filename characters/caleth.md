@@ -130,7 +130,7 @@ He has not told the others any of this.
 ### ⚠⚠⚠ SESSION 31 — HE FOUND IT, AND HE READ THE PLATES (Ch 31, Nageru POV — interior offstage)
 - **Decoded Vang's journal** with Thane and Aravashnial after four days alone; briefed the party (contents in `memory/nahyndrian-elixir-and-crystals.md`).
 - **⚠ Scried the doppelganger** — an hour, gray to the lips — with the shirt from the study chair; saw Nageru's face in the water, swore (not *saint's mercy*), and **folded the four without asking**: *"Take it alive."* His spell froze it. **He did not want the anti-magic cell** (Nageru read the collar in his frown) and gave way. **Led the interrogation**, and when it smiled about the lie-detection, **he spat**: *"You can rot in there."*
-- **⚠ He reads every language on the Queen's copper plates.** Why is NOT established. Aravashnial turned and looked at him.
+- **He reads every language on the Queen's copper plates — because he knows them all.** He has many languages; no mystery (Will, 2026-11-22). The scholars of Ozem had three.
 - **"What?"** — too sharp — at being sent to the Abyss. Sat with the futures running.
 - **Talisman tucked under his robes unseen** (Shelyn, privately). **Wears the white robes.**
 - **Eight teleports** to move the company; worn gray. **Summoned the horses.** **Answered the Deskari statue in Abyssal**: *"Hail Lord Deskari, Locust Lord, may he rule eternal."* *"Later."* **Named the gibrileth and the cambion.** **Last word of the chapter: "Yaniel."**

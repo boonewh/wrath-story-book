@@ -38,7 +38,7 @@
 - **Considered and left unchanged.** Last session's quote (her century as a plain woman in Kenabres; *"she was better than she looked, not worse"*) is about faces that are not what they seem, which is still exactly this session's motif, and it passes the card's hard rule (delete her name and it is not a recap). Refreshing it this week would only have made it more about the doppelganger.
 
 **Campaign Arc Status — four party cards (all replaced)**
-- **Caleth — "The One Who Read the Plates"**: the hour over the basin, the fold without asking, spitting in the cell, and reading every language on the copper plates (*"Nobody yet knows why."*).
+- **Caleth — "The One Who Read the Plates"**: the hour over the basin, the fold without asking, spitting in the cell, and reading every language on the copper plates (*"The scholars of the south had managed three."* — reworded 2026-11-22: he simply knows the languages; no mystery).
 - **Nageru — "The One Who Fought Himself"**: his own face in the water, one miss and two held blows, carrying himself through the gate, "never speak to it," vouching for the demon in one sentence, and a promise that holds if it serves her.
 - **Thane — "The One Who Asked How They Get Back"**: the cipher, the portable hole and the wrong bag, the only question in the room, and the Fane's front doors.
 - **Korroc — "The One Who Struck Exactly Hard Enough"**: the axe back off the wall, three measured blows on the thing that fooled his sight and a long moment looking at nothing, the anti-magic cell, and the axe dropped into Thane’s portable hole for some peace.

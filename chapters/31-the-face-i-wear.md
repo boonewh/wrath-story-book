@@ -630,17 +630,19 @@ Korroc frowned at the plates. "There's a fair few of those already, aren't there
 
 Caleth stepped forward.
 
-Nageru watched him bend over the plates. He watched the half-elf's eyes go along the first line, and the second, and stop, and go back to the beginning. He watched his face change. It was not one change but several, one after another, very fast — surprise, and then a frown, and then something that went past the frown and out the far side into a stillness Nageru had seen on him only a few times. At the cell-block door in the Sanctum. In the study, with the letters on the desk.
+Nageru watched him bend over the plates. He watched the half-elf's eyes go along the first line, and the second, and on down, unhurried, the way they went along the spine of any book he had not yet read. His lips moved once. The small line between his brows that meant he was working came, and went, and did not come back.
 
-"It is in several languages," Caleth said. His voice was odd. "Six. Seven. They change from line to line. Sometimes in the middle of a line."
+"It is in several languages," Caleth said. "Six. Seven. They change from line to line. Sometimes in the middle of a line."
 
 "Yes," said the Queen. "The scholars have three of them between them. They have been very unhappy about the rest."
 
 "I know all of them," Caleth said.
 
-He straightened up.
+He said it the way Korroc might have said he knew which end of a hammer to hold. Nageru was not surprised. In a year he had heard the half-elf talk to dwarves in Dwarven and to demons in their own tongue, and read books in a half-dozen more; he collected languages the way Thane collected knives, and with about as much fuss.
 
-Nobody said anything. Along the wall Nageru saw Aravashnial's head turn, slowly, toward his nephew, and stay turned.
+He straightened up. "Whoever wrote this," he said, "wanted it read by someone who had studied a great deal. Or by several people at once." He tapped the edge of the nearest plate. "I can read it."
+
+The Queen inclined her head, as if that was what she had been told she would hear.
 
 "The ritual is not complete," the Queen said into the silence. "What is on these plates is part of it. But the plates themselves are infused. The magic is in the metal. With a great enough source of power behind it, it will close a rift."
 

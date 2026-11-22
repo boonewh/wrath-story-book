@@ -825,7 +825,7 @@ A six-foot circle of lightless black cloth that opens a hole **ten feet deep**; 
 Retrieved from Irabeth (Ch 31). See `memory/legendary-items-and-the-axe.md`.
 
 ### The copper plates *(the Queen's)*
-**Two thin plates of hand-cut copper**, covered both sides in tiny close writing in several hands and **several languages changing line to line — Caleth reads all of them.** A **test** drawn from the **Lexicon of Paradox**: a ritual to close a rift to the Abyss **at scale**, even one made to stay open. **Incomplete; the magic is infused in the metal**; it needs a great power source — **the four knights.** ⚠ **Requires one person on the Abyss side holding a plate; the rift closes behind them.**
+**Two thin plates of hand-cut copper**, covered both sides in tiny close writing in several hands and **several languages changing line to line — Caleth reads all of them, because he knows them all.** A **test** drawn from the **Lexicon of Paradox**: a ritual to close a rift to the Abyss **at scale**, even one made to stay open. **Incomplete; the magic is infused in the metal**; it needs a great power source — **the four knights.** ⚠ **Requires one person on the Abyss side holding a plate; the rift closes behind them.**
 
 ### The Lexicon of Paradox *(not in the party's hands)*
 The book of forbidden rites that **opened the Worldwound** and destroyed **Sarkoris**. **Areelu Vorlesh** tore it and destroyed the half on how she did it. **Varian Jeggare, Radovan and Oparal** recovered and restored it; **the Scholars of Ozem** study it under guard.
