@@ -1081,6 +1081,7 @@ These NPCs exist in canon but are not yet on-screen. They are named, motivated, 
 ## New in Session 19
 
 ### Dagna Stonevein
+**⚠ SESSION 31 (Ch 31):** still working Drezen's walls. **The cousins visit her every evening.** When they left for the Midnight Fane she came down off the wall: *"You come back. Both of you. I have lost enough Stoneveins to this country"* (in Dwarven; Nageru understood).
 **Status:** **Living. IN DREZEN (Ch 23)**, working the citadel's stone. *(Was in Nerosyan through Ch 22. Previously flagged "do not mark her alive or dead" — Ch 19 settles it.)*
 
 **Role:** Korroc's mother, Thane's aunt, and **the last surviving member of the four young dwarves who met in Drezen and became a family** — herself, Helja, Thorek, and Borin. She and Helja knew Drezen's streets before either man did. She is a Fourth Crusade generation dwarf living out the war in Nerosyan, and she intends to come south: *"After seventy-five years, I think it is time I went home."*

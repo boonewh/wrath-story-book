@@ -77,6 +77,7 @@ Do not replace the forge — **layer the stone underneath.**
 ## Current State (End of Session 30)
 
 ### ⚠⚠ SESSION 31 — THREE BLOWS (Ch 31, Nageru POV — shown from outside)
+- **His mother:** since the Sanctum he and Thane go to **Dagna** every evening, wherever on the walls she is working; she complains at him about mortar. **The day they folded west** she came down off the wall and told them in Dwarven: *"You come back. Both of you. I have lost enough Stoneveins to this country."* Took his beard in her fist; he looked at the ground with his jaw working. *(Nageru understood every word; the cousins may not know that.)*
 - **He took Fiendsplitter back from Irabeth** — *"Should've had it. In the Sanctum… There's a lot of demons left. I'll not leave it on a wall again."* **At the Fane camp it would not stop about Arueshalae and he dropped it in Thane's portable hole** (*"Saints. Quiet."*); it is still there as they go in, and his hand went to where it should be.
 - **⚠ He dropped the doppelganger — the thing his sight cleared for two months — with three measured hammer blows**, exactly as hard as *alive* allowed, **and then stood looking at nothing.** Nageru saw it and did not ask. ⚠ **He said nothing about it. The life link is still NOT laid** (Will). He argued for the anti-magic cell: *"Can it teleport? … Turn into a rat and walk out?"*
 - Talisman → **Torag**; he touched it and said nothing.

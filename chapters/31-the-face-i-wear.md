@@ -46,7 +46,7 @@ It was Vang's journal. Not the man's thoughts; the man did not seem to have writ
 
 "And the chisel," Caleth said. "The one that cracked the wardstone at Kenabres. He had a hand in that too. There's a page on the tempering."
 
-Korroc said something short in Dwarven. Nageru did not know the word. He knew the tone.
+Korroc said something short in Dwarven. Not long ago Nageru would have known only the tone. He knew the word now, and it was not one Korroc would have used in front of Irabeth.
 
 "There are plans in the back," Caleth went on. "Early ones. Not finished. For a golem." He turned a page and did not look at it. "Made of the crystals. Or made around them, it isn't clear which. The figures he gives for what it could do are—" He stopped. "They are very large figures."
 
@@ -845,6 +845,20 @@ Caleth closed his eyes. "She told me that on the hill," he said. "In exactly tho
 The folding began an hour after that, and went on until dark.
 
 Caleth did most of it. Merrec Tolland took one trip and his brother took another, and they were good — Nageru watched the first one fold and could not fault it — but that still left the half-elf doing it eight times. Out, with a full load. Back, empty. Out again. Each time he came back through the air in the middle of the court he was a little grayer, and stood a little longer before he lifted his hands again.
+
+Before the first of the knights' own folds, Dagna Stonevein came down off the wall.
+
+She came across the court in her work leathers with stone dust to the elbows and a mason's hammer still in her belt, the way she came every evening when the cousins went looking for her, wherever on the walls she had been working that day. They had gone every evening since the Sanctum. Nageru had walked with them twice and stood a little apart, and watched Korroc sit on a block of dressed stone with his mother complaining at him about mortar, looking like a man in a warm room.
+
+She did not complain now. She stopped in front of the two of them and looked at Korroc, and then at Thane, and said something low and quick in Dwarven.
+
+Not long ago Nageru would have heard only the shape of it. He heard the words now. *You come back. Both of you. I have lost enough Stoneveins to this country.*
+
+Korroc bent, and she took hold of his beard in one dusty fist the way one takes hold of a bell rope, and held it a moment, and let go. Thane got a hand on the back of the neck, brief and hard. Neither of them said anything that Nageru could hear. Then she walked back across the court and up the ladder to her wall, and did not look round.
+
+Thane watched her go. Korroc did not. He was looking at the ground, and his jaw was working.
+
+Nageru looked away, and let them have it.
 
 On the third trip Caleth turned to Arueshalae and asked her to come.
 

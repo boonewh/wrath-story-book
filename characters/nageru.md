@@ -29,7 +29,7 @@
 - Slow to speak; means every word
 - Capable of dry humor in a deadpan register
 - Never raises his voice
-- **Does NOT speak Dwarven** (confirmed 2026-09-13). A year beside Korroc and Thane lets him recognize it, and recognize cursing and questions by tone, but he understands no words. Don't give him Dwarven comprehension in prose.
+- **⚠ HE HAS LEARNED DWARVEN — recently** (Will, 2026-11-22: in game terms about the last level, i.e. around Level 12 / Session 29). He now understands it, cursing included. It is **new**: his accent is still terrible (Ch 30), and the cousins may not yet realize how much he follows. First shown on the page in Ch 31 (he understood Korroc's curse over Vang's journal). *(Superseded: "Does NOT speak Dwarven" (confirmed 2026-09-13) — true until then; a year beside Korroc and Thane taught him to recognize it and read tone first.)*
 
 ## Interior Voice for POV Chapters
 When Nageru is POV (rare by design — should land hard when it does), the prose should think in **still-water, breath, and ancestral memory**. He sees the world through the discipline of his order — **Irori's discipline.** He notices stillness, breath, the small motions that betray a creature's intent before it strikes. He carries the memory of his celestial ancestors as a *weight* — not voices, but the sense that **Archon blood** is paying attention. Lawful, watchful, patient.
@@ -234,7 +234,7 @@ His blood manifests in:
 - **Against the temple's leader** (the tattooed woman) he gathered his ki, drew on his mythic reserve, and **put her down with a five-blow flurry.** Her contingency spell took her before anyone could confirm she was dead.
 - **Thane's offer of hands was never called in, and the hands came anyway.** He noticed.
 - **✔ HIS POV DROUGHT IS OVER.** Ch 21 is his fourth POV chapter and the first since Ch 13. **He is still the only PC without a character song, and this is the chapter it was waiting for.**
-- **Does NOT speak Dwarven** (see Voice).
+- **Speaks Dwarven — recently learned** (see Voice). Earlier chapters, where he knew only the tone, were true at the time.
 
 ### Session 20 record (kept for reference)
 #### ⚠ SESSION 20: HE WAS ABSENT — AND THE FANE WAS *NOT* WHY
