@@ -582,7 +582,7 @@ The two wizards stood together at the back, side by side, in identical dark robe
 
 The Queen did not sit.
 
-"Word has come back to me," she said, "that you have cleared the Ivory Sanctum." She looked at each of them in turn. Nageru remembered the look; it had not changed. A quartermaster weighing goods. "Word has also come back to me that you found a demon there, and brought her here. Into my citadel."
+"Word has come back to me," she said, "that you have cleared the Ivory Sanctum." She looked at each of them in turn. Nageru remembered the look; it had not changed. A quartermaster weighing goods. "Word has also come back to me that you found a demon, and brought her here. Into my citadel."
 
 "Yes," said Caleth. "On both counts, Your Majesty."
 
@@ -864,7 +864,15 @@ Caleth closed his eyes. "She told me that on the hill," he said. "In exactly tho
 
 The folding began an hour after that, and went on until dark.
 
-Caleth did most of it. Merrec Tolland took one trip and his brother took another, and they were good — Nageru watched the first one fold and could not fault it — but that still left the half-elf doing it eight times. Out, with a full load. Back, empty. Out again. Each time he came back through the air in the middle of the court he was a little grayer, and stood a little longer before he lifted his hands again.
+Caleth did most of it. Merrec Tolland took one trip and his brother took another, and they were good — Nageru watched the first one fold and could not fault it — but one was all either of them had. A fold that size was the top of what a wizard carried in a day, and when Davor came back from his he sat down on the steps of the keep and did not get up again for some time.
+
+That left the half-elf doing it eight times.
+
+Caleth did not have eight folds in him either. No wizard did. What he had was the other thing, the thing the wardstone had woken in all four of them, and Nageru watched him spend it. Each time he lifted his hands there was a moment first when he went still and inward, as Nageru did himself when he reached down for the deep reserve under his breath, and then the working came up out of him anyway, a fold he had no business having. Out, with a full load. Back, empty. Out again. Each time he came back through the air in the middle of the court he was a little grayer, and stood a little longer before he lifted his hands again.
+
+Merrec Tolland watched the fourth one from beside his brother on the steps. "That isn't possible," he said, to nobody.
+
+"No," Nageru agreed. "It isn't."
 
 Before the first of the knights' own folds, Dagna Stonevein came down off the wall.
 
