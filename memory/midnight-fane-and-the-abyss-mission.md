@@ -26,11 +26,11 @@ metadata:
 - **Next morning the Queen in plain, unmarked soldier's armor**; her paladins and the five going in wear **Templar marks painted from Jerribeth's six pages.** **Caleth's summoned horses.** Arueshalae led them **around illusions** — the visible hill is a mirage; the real one lies south and west. **The Queen made camp a mile out**; the five went on foot.
 
 ## Inside the Midnight Fane (so far)
-- **Camouflaged double doors at the base of the hill**, painted to look like the slope. Unlocked; they walked in *"as if we belong."* A long red-lit hall (A1).
-- **A statue of Deskari** (many-legged, winged, locusts) at the top of the stair **booms in Abyssal**: *"Behold, the glory of the Locust Lord."* **Caleth answered**: *"Hail Lord Deskari, Locust Lord, may he rule eternal."* It went quiet. Korroc and Nageru understood none of it; Thane did.
+- **Camouflaged double doors at the base of the hill**, painted to look like the slope. Unlocked; they walked in *"as if we belong."* Red-lit stairs down to an empty **octagonal chamber**, a second stair up south to **the Locust Shrine (A1)**.
+- **A fifteen-foot statue of Deskari** (insectile, scythe in hand) over **a black altar smeared with blood**, **booms in Abyssal**: *"Behold, the glory of the Locust Lord."* **Caleth answered**: *"Hail Lord Deskari, Locust Lord, may he rule eternal."* It went quiet. Korroc and Nageru understood none of it; Thane did.
 - **A hill giant with a pickaxe** in a doorway. **An incubus** bowed: ***"The mistress of the Midnight Fane has been expecting you"*** — an audience. ⚠ **The mistress is NOT named. Do not name her.**
-- **Balcony over a packing room (A3):** dozens of empty **lead-lined, padded chests**, complex machines of unknown purpose, **eight incubi** packing. Thane: *"They're packing the crystals."*
-- **A5:** **a cambion** (red-skinned, horned) at an alchemy table making elixirs; **a gibrileth** guarding; and **⚠ a woman in Iomedae's armor with YANIEL'S FACE.** **Caleth: "Yaniel."** **END OF SESSION / CHAPTER — CLIFFHANGER.**
+- **Balcony over a packing room (A3):** several stone tables of empty **iron chests, lead-lined and padded**, complex machines of unknown purpose, **eight incubi** packing. Thane: *"They're packing the crystals."*
+- **A5, the alchemy lab:** huge, forty-foot ceiling lost in **purple haze**; a five-foot glass bowl of **bubbling purple sludge** over a fire on a central slab, eight tubes to smaller devices; **a cambion** (red-skinned, horned) making elixirs; **a gibrileth** guarding; and **⚠ a woman in Iomedae's armor with YANIEL'S FACE.** **Caleth: "Yaniel."** **END OF SESSION / CHAPTER — CLIFFHANGER.**
 
 ## ⚠ OPEN — do not resolve without the table
 **Who the woman is**, and how she has Yaniel's face (Yaniel died decades ago at Drezen; **her own armor is with Irabeth**, so this is another suit) · **who the mistress is** and how she knew they were coming · **who goes through the rift**, and how they come back · **Nocticula** · **the golem** · whether Aravashnial stays with the Queen's camp.

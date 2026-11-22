@@ -972,17 +972,17 @@ Nobody had a better idea.
 
 Thane walked up to the doors and pushed.
 
-They swung open. Freely, on oiled hinges, without a sound. Beyond them was a long hall of dressed stone, lit low and red from somewhere Nageru could not see, empty from end to end.
+They swung open. Freely, on oiled hinges, without a sound. Beyond them a flight of dressed stone stairs went down into the hill, lit low and red from somewhere Nageru could not see.
 
 They went in as if they owned it. Thane first, then Caleth, then Korroc, then Nageru, and Arueshalae last. Nageru closed the doors behind them himself, and heard them settle, and felt the light from outside go off his back.
 
-The hall was empty. The air was warm, and smelled of hot metal and something sweeter under it that he did not want to put a name to. Their footsteps went ahead of them down the stone and did not come back.
+The stairs let them out into a wide chamber with eight walls, and it was empty. The air was warm, and smelled of hot metal and something sweeter under it that he did not want to put a name to. Their footsteps went out across the stone and did not come back.
 
-There was a stair at the far end, going up, and they climbed it, and the room at the top of it held a statue.
+On the south side a second stair climbed again, broad and shallow, and they crossed to it and went up, and the room at the top of it was a shrine.
 
-It was a demon. That was plain even before Nageru had seen the whole of it — something huge and many-legged, carved in black stone with its wings half spread, rearing up off a plinth with its forelimbs raised and its head bent down to look at whoever came up the stair. A cloud of carved things swarmed about its shoulders. Locusts. Thousands of them, every one cut separately, every one with its legs.
+The statue filled it. It was a demon, carved in black stone and fifteen feet high if it was an inch: a thing like an insect stood up on its hind legs, plated and jointed and many-limbed, its wings half spread behind it and its long head bent down to look at whoever came up the stair. In its forelimbs it held a scythe, the blade curved out over the room. Beneath the scythe was an altar of the same black stone, and its top was smeared dark and thick with blood, some of it old and some of it not.
 
-They were halfway across the room toward the second stair when it spoke.
+They were halfway across the shrine, keeping well wide of the altar, when the statue spoke.
 
 The voice came out of the stone. It was enormous. It shook in Nageru's chest and in the soles of his bare feet, and it said something in a language he did not know, a language that sounded the way the Worldwound's wind sounded when it came through broken stone. He knew only that it was Abyssal, because he had heard enough of it in the last year to know the sound of it, and that he could not understand one word.
 
@@ -1022,7 +1022,7 @@ A hill giant, by the size and the shape of him — twelve feet and more, broad a
 
 Nobody moved.
 
-Then there was movement behind them, in the statue room itself, where there had been nothing a moment ago. Nageru turned and a man was standing in the middle of the floor beneath the stone demon's raised legs.
+Then there was movement behind them, in the statue room itself, where there had been nothing a moment ago. Nageru turned and a man was standing in the middle of the floor beneath the stone demon's scythe.
 
 Not a man. Tall and beautiful and dark-haired, in fine clothes, with a pair of great dark wings folded neatly down his back. An incubus. He smiled at them.
 
@@ -1058,7 +1058,7 @@ The incubus led them through the door and onto a balcony.
 
 It ran around three walls of a great room, a story above its floor, with a stone rail at waist height. The incubus walked along it at a pleasant stroll, and they walked behind him, and Nageru looked over the rail as he went because there was no way not to.
 
-Below them was a workroom. A long one, high-ceilinged, lit by the same low red from no place he could find. Down one side ran a table, and on the table lay chests. Dozens of them. They were open, and empty, and he could see from up here that they were lined — thick gray lead along every inside face, and over the lead, padding, quilted and soft as a cradle. Along the far side of the room ran another table, crowded with machines. Brass and iron and glass, gears and clamps and things like the arms of scales, arranged with great care, and Nageru could not tell what a single one of them was for.
+Below them was a workroom, lit by the same low red from no place he could find, and set out in it were heavy stone tables. On most of them lay chests. Dozens of them, small and iron-bound and iron-cornered. They were open, and empty, and he could see from up here that they were lined — thick gray lead along every inside face, and over the lead, padding, quilted and soft as a cradle. On the last table, apart from the others, stood machines. Brass and iron and glass, gears and clamps and things like the arms of scales, arranged with great care, and Nageru could not tell what a single one of them was for.
 
 Eight incubi were working down there. They moved between the tables quickly, without speaking, carrying things in both hands that were too small to see from above, setting them down in the padded beds of the chests with a gentleness that was worse to watch than any violence Nageru had seen in a year.
 
@@ -1066,21 +1066,25 @@ Eight incubi were working down there. They moved between the tables quickly, wit
 
 Nobody answered him. Nobody had to.
 
-They went on around the balcony, and through another door at its far end, and the incubus stepped through ahead of them and turned neatly to one side, to let them pass, the way a steward steps aside at a banquet door.
+They went on around the balcony, past a small door in the near corner, to a pair of double doors at its far end, and through them, and the incubus stepped through ahead of them and turned neatly to one side, to let them pass, the way a steward steps aside at a banquet door.
 
 They came into the room.
 
-It was smaller. There was an alchemist's table along one wall, crowded with retorts and burners and long glass coils, and something on the burners was bubbling, and the smell of it was the sweet smell under the hot metal that Nageru had noticed in the entrance hall, very strong now. A man stood at the table with his back half to them. Red-skinned, broad through the shoulders, with a pair of curved black horns sweeping back from his brow. He was pouring something from one vessel to another with great care, and he did not look up.
+It was bigger than the workroom, and taller. Nageru looked up and could not find the ceiling. The walls rose into a purple haze, thick and slow-moving, and somewhere up in it the stone vaulted over at what might have been forty feet, or might have been more; the haze made it impossible to judge. Worktables ran around every wall, crowded with retorts and burners and long glass coils and tools he had no names for. The smell hit him a step inside the door: the sweet thing he had noticed at the foot of the stairs, very strong now, and under it something sharp enough to make his eyes run.
+
+In the middle of the room stood a great slab of stone, and on it a bowl of glass five feet across, held up in a cage of metal and crystal over an open fire. It was full of something thick and purple, and it bubbled, slowly, and the fumes that came off it went straight up to feed the haze. From under the bowl ran tubes, eight of them, snaking out across the slab to eight smaller contraptions set around its edge, each one ticking or dripping or hissing to itself.
+
+A man stood at the slab with his back half to them. Red-skinned, broad through the shoulders, with a pair of curved black horns sweeping back from his brow. He was drawing something off one of the smaller contraptions into a vial with great care, and he did not look up.
 
 "Making elixirs," said Caleth, under his breath.
 
-There was a guard. It floated near the ceiling in the corner, and Nageru's eyes went to it and did not want to stay. A great swollen mass of flesh, lumped and knotted with growths, held up by two leathery wings that did not look strong enough to hold it. No legs. Arms, a cluster of them, hanging down. Eyes, too many eyes, scattered across the tumorous hide without any order. And a mouth, a huge one, splitting the bulk of it nearly in two, crowded with teeth.
+There was a guard. It floated high in the corner, at the bottom edge of the haze, so that the purple curled around it, and Nageru's eyes went to it and did not want to stay. A great swollen mass of flesh, lumped and knotted with growths, held up by two leathery wings that did not look strong enough to hold it. No legs. Arms, a cluster of them, hanging down. Eyes, too many eyes, scattered across the tumorous hide without any order. And a mouth, a huge one, splitting the bulk of it nearly in two, crowded with teeth.
 
 "The floating thing is a gibrileth," Caleth said, still low. "The red one's a cambion."
 
 And there was a woman in the room.
 
-She stood in the middle of the floor with her back to them, as though she had been looking at the alchemist's work. She was in armor. Full plate, polished, close-fitted, worked all over in a fine raised pattern of vines. A sword at her hip. On the back of the plate, between the shoulder blades, a sunburst. And Nageru knew that sunburst, and knew that armor, or armor like it; he had seen it a hundred times on the paladins of Drezen and the paladins of Kenabres. It was Iomedae's.
+She stood in the middle of the floor with her back to them, as though she had been watching the alchemist's work. She was in armor. Full plate, polished, close-fitted, worked all over in a fine raised pattern of vines. A sword at her hip. On the back of the plate, between the shoulder blades, a sunburst. And Nageru knew that sunburst, and knew that armor, or armor like it; he had seen it a hundred times on the paladins of Drezen and the paladins of Kenabres. It was Iomedae's.
 
 She heard them come in.
 
