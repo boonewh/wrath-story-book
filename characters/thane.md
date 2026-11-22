@@ -132,7 +132,7 @@ His faith is **divine but not warmly so.** He doesn't pray for forgiveness; he p
 ## Current State (End of Session 30)
 
 ### ⚠ SESSION 31 — THE HOLE, AND THE DOOR (Ch 31, Nageru POV)
-- **His Abyssal cracked Vang's coded journal** with Caleth and Aravashnial. He understood the Deskari statue at the Fane.
+- **Helped crack Vang's coded journal** with Caleth and Aravashnial — all three read Abyssal; the cipher was the problem (table: Caleth's Linguistics roll failed alone; Thane's and Aravashnial's assists carried it). He understood the Deskari statue at the Fane.
 - **⚠ He bought a PORTABLE HOLE** from a trader who came up with the Queen's supply train — gems, the two Sanctum glaives, other unwanted Sanctum gear, and *"three days of my company, which he did not enjoy."* Caleth: **never put it in the bag of holding.** Fiendsplitter now lives in it at need.
 - *"There's one of him. The other one's luggage."*
 - **He remembered the journal's rift at the Midnight Fane** in front of the Queen.

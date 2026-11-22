@@ -7,7 +7,7 @@ metadata:
 
 > # ⚠⚠ SESSION 31 (Ch 31) — VANG'S CODED JOURNAL, DECODED
 >
-> Cracked by **Caleth, Thane (his Abyssal) and Aravashnial** (who recognized a **Templar field code**). It is Vang's working record, not his thoughts:
+> Cracked by **Caleth, Thane and Aravashnial** — **all three read Abyssal; the cipher was the obstacle** (table: Caleth's Linguistics check would have failed; Thane and Aravashnial each assisted). Aravashnial recognized a **Templar field code**. It is Vang's working record, not his thoughts:
 > - **Vang's part in refining Nahyndrian crystals** — into **the elixirs** that give demons mythic power, and into **the chisel that cracked the Kenabres wardstone.**
 > - **Preliminary plans for a Nahyndrian GOLEM** of enormous power. Not finished.
 > - **⚠ THE CRYSTALS ARE THE FOSSILIZED LIFEBLOOD OF ASSASSINATED DEMON LORDS.** (Squares with Arueshalae's *"some crystals still contain the souls of demon lords."*)

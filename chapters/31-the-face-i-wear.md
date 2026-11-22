@@ -34,7 +34,7 @@ Caleth wanted the four of them in Aravashnial's study, and Aravashnial out of it
 
 Thane's. Thane sat on the corner of the desk with his arms folded and looked as though he had not slept.
 
-"It took the three of us," Caleth said. "I tried alone for four days. I got nowhere. Thane had the Abyssal and I had the cipher, or most of it, and neither of us had the other half." He glanced at the empty chair behind the desk. "Aravashnial had the other half. He has seen codes like this before. Templar field codes. He saw the shape of it in about an hour, and was very rude about how long it had taken us."
+"It took the three of us," Caleth said. "I tried alone for four days. The Abyssal was nothing; I read Abyssal as well as I read Common. It was the cipher. Every line was a perfectly good sentence that meant nothing at all." He tipped his head at Thane. "Thane has been reading it for a year, and he reads it the way he reads a lock. He found where the same few words kept turning up in the same places." He glanced at the empty chair behind the desk. "And Aravashnial had seen codes like this before. Templar field codes. Between the three of us we had it in an afternoon, and he was very rude about the four days."
 
 "Sounds like him," said Korroc.
 
